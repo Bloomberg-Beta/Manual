@@ -6,7 +6,7 @@ We believe we are seeing the beginnings of profound changes in the way work work
 
 Bloomberg Beta is a new fund, and (we hope) a new kind of fund. As we started working, we agreed to write down some of our practices -- mostly as notes to ourselves. Then we realized we spend a lot of time in meetings with entrepreneurs repeating these things, and that isn't a good use of our time or theirs.
 
-So, why not just share our practices, our operating manual. Then others can suggest changes, ask questions, or just read it and save time. Few things are so precious as the time of an entrepreneur -- we want you entrepreneurs to spend less of your time raising money, more of it on your product, or (maybe even) with your friends and family.
+So, why not just share our practices, our operating manual. Then others can suggest changes, ask questions, or just read it and save time. Few things are so precious as the time of an entrepreneur -- we want entrepreneurs to spend less of time raising money, more of it on your product, or (maybe even) with friends and family.
 
 ## What we want
 
