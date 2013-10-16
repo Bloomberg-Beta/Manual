@@ -1,15 +1,17 @@
 Operating Manual
 ================
+  
 
 
 ## Contents
-### Our investor, Bloomberg L.P.
-### What we look for in a startup
-### The deal terms
-### Our “products,” or, models for how we work with entrepreneurs
-### How we support our companies
-### Finding us
+### [Our investor, Bloomberg L.P.](https://github.com/Bloomberg-Beta/Manual/blob/master/Manual.md#our-investor-bloomberg-lp-1)
+### [What we look for in a startup](https://github.com/Bloomberg-Beta/Manual/blob/master/Manual.md#what-we-look-for)
+### [The deal terms](https://github.com/Bloomberg-Beta/Manual/blob/master/Manual.md#the-deal-terms-1)
+### [Our “products,” or, models for how we work with entrepreneurs](https://github.com/Bloomberg-Beta/Manual/blob/master/Manual.md#our-products-or-how-we-work-with-entrepreneurs)
+### [How we support our companies](https://github.com/Bloomberg-Beta/Manual/blob/master/Manual.md#how-we-support-our-companies-1)
+### [Finding us](https://github.com/Bloomberg-Beta/Manual/blob/master/Manual.md#finding-us-1)
 
+  
 
 ## Our investor, Bloomberg L.P.
 
