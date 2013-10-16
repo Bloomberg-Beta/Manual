@@ -1,7 +1,17 @@
 Operating Manual
 ================
 
-# Our investor, Bloomberg L.P.
+
+## Contents
+### Our investor, Bloomberg L.P.
+### What we look for in a startup
+### The deal terms
+### Our “products,” or, models for how we work with entrepreneurs
+### How we support our companies
+### Finding us
+
+
+## Our investor, Bloomberg L.P.
 
 Bloomberg L.P. is our sole investor. 
 
@@ -17,11 +27,11 @@ So Bloomberg Beta is set up to choose its own investments, and back companies so
 
 Ultimately, Bloomberg L.P.’s founders have succeeded at doing what we hope to help other companies do -- create something extraordinary.
 
-# What we look for
+## What we look for
 
 We recognize that seeing early signs of greatness is hard, and nobody’s cracked how to do it reliably. That said, there are a few things we do look for: certain qualities of a founding team, an early product, and the right moment in a company’s life.  We also focus on investing in areas where we think we can be helpful.
 
-## Founders
+### Founders
 
 We look for a reason to believe a founding team is extraordinary. Not that they have the perfect skills or experiences to match the business they want to build (which is where the “team” slide in the deck tends to focus), but that they have the capacity for greatness.
 
@@ -31,7 +41,7 @@ So much of backing founders is about trust -- many of the companies we’ve back
 
 We have passed on companies because we didn’t think the founders were crazy enough -- they seemed too textbook.
 
-## Product
+### Product
 
 We prefer to see products that are intensely successful in some initial market, over products that grow to large numbers but don’t play an important role in the lives of their users. We like for a product to be the most important service to at least some of its users.
 
@@ -39,7 +49,7 @@ We like products we ourselves would use and understand. We’ve been technology 
 
 If a product is launched, we care about how well it is doing -- the famous “traction” -- but we tend not to focus on absolute numbers. We focus on month-over-month (or, in earlier-stage cases, week-over-week) growth, ask questions about how different cohorts of users behave, and try to understand the per-user behavior (how much does any one user really value the product).
 
-## Stage
+### Stage
 
 We strongly prefer to be the first money into a company. This isn’t so much a rational investment calculation (arguably there is less competition to write bigger, later checks) -- but it’s a matter of our style. This just happens to be what we like. We make exceptions when there is some other good reason (an entrepreneur or company we just couldn’t resist).
 
@@ -47,13 +57,13 @@ We strongly prefer to be the first money into a company. This isn’t so much a 
 
 We are more than happy to invest in companies that might take a very long time to prove they are on to something -- our investor, Bloomberg, has a decades-long view and is willing to build for the long-term. We do not have a fixed time horizon to expect our companies to return capital. In fact, we prefer companies who are building for permanence.
 
-## Geography
+### Geography
 
 Greatness can start anywhere, but we can really only help if we’re nearby. We are heavily biased toward investing in companies we can see in person. That means San Francisco and New York since our team is in both of those cities. Our team has deep roots in both places so our ability to bring in local folks that can help is greater there. This isn’t to say that we won’t consider an investment elsewhere (for example if an area has a deep specialty, as some regions do with security startups), but we’re very careful to choose companies where we can be disproportionately helpful, and being local is a real part of that. 
 
 We have invested outside of San Francisco and New York a couple of times (Seattle once… and we’d consider Boston and Washington, DC), though it is rare. 
 
-## Sources
+### Sources
 
 We find investments in many ways, but our favorite is for entrepreneurs we have already backed to refer companies. 
 
@@ -65,7 +75,7 @@ We also try a lot of products. Our phones have many, many apps installed. And we
 
 We keep track of companies we’ve been in touch with -- just like we’d hope that our companies do, we have an organized system for our outreach.
 
-## “Themes”
+### “Themes”
 
 Our overall focus is investing in companies that improve work -- these can be individual-facing (not all “enterprise”) so long as they help a person be more productive, knowledgeable, or content at work. Of course they can also be services for businesses.
 
@@ -86,7 +96,7 @@ That said, within our themes there are specific ideas we currently care about:
 
 We find it hard to imagine we’d make an investment in e-commerce or entertainment.
 
-## “The Deck”
+### “The Deck”
 
 A demo is 50 times more useful than slides. One is a description of a thing, the other is the thing itself. Product is our sustenance; feed us.
 
@@ -107,7 +117,7 @@ That said, we do care about the short-term financial plan. How many people do yo
 
 Put another way, a five-year financial plan is mostly useless for early stage companies -- a monthly plan for the next twelve months and a quarterly plan for the next two years could be very useful.
 
-## In-person meetings
+### In-person meetings
 
 Once we’re meeting in person, you can often leave the laptop closed. We’re trying to get a sense of you as a founder, ask you hard questions and see how you respond.
 
@@ -135,7 +145,7 @@ A lot of entrepreneurs wonder why investors don’t get back to them quickly. Th
 
 We aspire to be at the extreme end of the “we communicate openly with you” scale.
 
-## “Doing the work” and calling references
+### “Doing the work” and calling references
 
 If we decide we are going to invest, we often (but not always) go through a short cycle of working on our own view -- probing for holes in our own thinking, asking the advice of our one friend who has been thinking about this industry for 10 years, understanding other approaches that have been tried (or are current competitors), and spending as much time as we can using the product. Many of the same kinds of things we find that entrepreneurs do in the early days of contemplating creating a new company.
 
@@ -146,7 +156,7 @@ During this period, we try to be open with the entrepreneur about whether we wil
 
 We call as many references as we can find.
 
-## How we decide
+### How we decide
 
 We have an “anyone can say yes” policy. No, you don’t have to meet my other partners. We believe the best entrepreneurs and companies are polarizing. Our best investments might have been, originally, opposed by one or more of our partners. Teams are great at gathering information and surfacing wisdom, but terrible at making decisions. We believe in individual accountability -- if anyone can say yes, then everyone feels the weight of making a decision. (That said, we do require that before anyone says yes they mention the investment to the rest of us -- that way they get the benefit of the team’s input, and it’s a good way to slow down and think for a second.)
 
@@ -165,7 +175,7 @@ We’ve had investments where the entrepreneur only ever met one person on our t
 
 In practice, here are your odds: we have invested in 2% of the companies we have spent time reviewing.
 
-## Our deal memo
+### Our deal memo
 
 Before we invest, we write a “note to self” outlining our views. We do this so we can be as disciplined about our commitments as entrepreneurs are about their commitments. We also share this note with a small advisory group at Bloomberg L.P.
 
@@ -180,11 +190,11 @@ In order of importance, we write about:
 * The terms of the deal
 * Other stuff: competition, market size (to the extent we can tell), use of the funding, business model (in our experience it is usually either unknowable or obvious, and not worth much mental energy either way)
 
-## How long it takes
+### How long it takes
 
 We’ve made investment decisions in the first meeting (though usually when we already knew the entrepreneur and something about what they are working on), and we’ve had cases where we get to know the entrepreneur over a period of weeks or months and watch their business evolve (often paying a higher price as we watch the entrepreneur make progress). 
 
-## Our “Service-Level Agreement”
+### Our “Service-Level Agreement”
 
 Some firms commit to giving you an answer in a certain amount of time. We commit that at any point in time, if you ask us to narrate the likelihood of investment and timeframe, we’ll give you our best guess. 
 
@@ -196,17 +206,17 @@ If you’re in a conversation with us, our policy is “do ask, do tell” -- we
 
 We intend to always give a clear “no” with straightforward reasoning. That reasoning, while straightforward, might still be subjective (“we just didn’t get excited about this and we’re not sure why”).
 
-# The deal terms
+## The deal terms
 
 Our goal, particularly with first-time founders, is to explain what we want and why in plain language. We want to act in a way where, if our asks were widely publicized, we’d be proud of them.
 
-## How much risk do we take
+### How much risk do we take
 
 Since we bet early, and expect the vast majority of our portfolio companies to fail to return much money, our winners need to be big. We fully expect that, if we succeed, one investment we make will return our entire fund. So we need to believe that every company could be that investment. 
 
 We prefer enormous growth in modest markets to modest growth in enormous markets.
 
-## “Control”
+### “Control”
 
 We are not big fans of boards in day-zero companies. While we like entrepreneurs having a close circle of trusted colleagues to ask for advice and we aspire to be in that trusted circle, when we imagine early-stage entrepreneurs working on slide decks instead of products, it makes us feel a little ill. We also feel that the cadence of board review (every couple of months, let’s say) isn’t well matched to the cadence of a day-zero company (which evolves every week or two). Later on, boards can be great. If people don’t talk just to hear themselves talk, which each of us has been guilty of now and then.
 
@@ -214,7 +224,7 @@ More generally, we are ambivalent about whether investor control is useful at al
 
 So, we generally prefer not to have a seat on a company’s board. But, that said, if the company wants us on the board, we’re open to talking about it. We have yet to take a board seat in any of our investments.
 
-## Rights we want
+### Rights we want
 
 We care about getting pro rata rights. If you don’t know what these are, this means that if an entrepreneur offers another investor the opportunity to invest at a certain price, we want to invest at that price too -- at least up to the amount needed to preserve our ownership of the company.
 
@@ -222,7 +232,7 @@ We also want to approve of any investments you take that might get their capital
 
 We care about getting some information rights -- basically the ability for us to understand how well the company is doing, and its financials.
 
-## The numbers
+### The numbers
 
 Our standard maximum for a first check is $250,000. We have no minimum check size, and have written checks as small as $25,000. Although our fund can comfortably write much bigger checks, we believe that the early days of funds, just like the early days of companies, should burn capital more slowly while they find product-market fit. As we mature, we may become more rigid in our financial requirements for deals as we learn what works for us, and we will write bigger checks.
 
@@ -240,45 +250,45 @@ The average pre-money valuation of our investments for the year to date in 2013 
 
 While we’d like to claim that the amount of work we do on behalf of a company will vary dramatically based on our ownership interest, we’re not sure that is true yet -- the reality is that the amount of work we do for a company depends most of all on how much the company needs and wants our help. If they ask us to work for them, we do all we can to help.
 
-## Other investors
+### Other investors
 
 We don’t care whether we are the lead investor or not. While we prefer to co-invest with others, we have invested in situations where we are the only investor. We have also invested in situations where we own such a miniscule percentage of a company that it rounds to zero.
 
 When we do co-invest, we care who a company’s other investors are, because the investors form an extended team around a company -- and we want our companies to have the best teams possible. We get concerned when we see situations with many investors, none of whom have a significant stake, because we worry that none will actually work to help the company.
 
-## Following on
+### Following on
 
 Because we have a relatively big fund ($75M) for writing modest initial checks, we do plan to devote an unusually large proportion of our fund’s resources to following on. We won’t follow on in every investment, but if we are excited about putting in more money we might want to follow on for 5x our initial investment -- or more. That said, there will also be situations where a company evolves in a way where -- even though it is still a great company -- it would benefit more from another investor’s capital than from ours, so we might not always follow on in great companies.
 
 If asked, we’re happy to be explicit about the conditions under which we’d ask to put more capital into a company.
 
-## “Standard terms”
+### “Standard terms”
 
 We believe investors should get a “1x liquidation preference” -- in other words, if the company ends up being worth less than the value that we invested at, we should be able to at least get our money back.
 
 We want to protect your confidentiality and ours, and usually include a standard term to accomplish that -- though the best protection is trust.
 
-# Our “products,” or, how we work with entrepreneurs
+## Our “products,” or, how we work with entrepreneurs
 
 We think of our “products” as offerings of support and capital to a company, and the price we charge is ownership in a company.
 
-## “Kickoff”
+### “Kickoff”
 
 Our preference is to be the first money into a company, and to contribute a meaningful amount of capital. We want to be able to add capital, often increasing our ownership stake, as the company evolves. This is the core of what we do, and it reflects roughly four-fifths of the investments we’ve made.
 
-## “Flag”
+### “Flag”
 
 In some cases, we can only put a small amount of money to work (for example, in rounds where the entrepreneur is fortunate to have many investors who want to support the company), and it is unlikely we can invest more. In these cases, our support is as much symbolic as it is financial -- we want to be part of something, even though we know it is unlikely to be an investment that is meaningful to our fund financially.
 
-## “Red Zone”
+### “Red Zone”
 
 We may do selected later-stage investments where we think we have an unusual insight or ability to contribute. The bar is much higher for how confident we have to be in these companies, given their higher valuations and our generally lower ownership. This is almost always in the case of an entrepreneur whose company we have watched, and perhaps already been helping, for quite some time.
 
-## “Coach”
+### “Coach”
 
 We also seek out opportunities to create companies. We are fundamentally entrepreneurs, and sometimes want to see something in the world and do not see another team working to build what we believe should exist. So, in these cases, we try to form a team and go after it ourselves. How does this work? We partner with a CEO we know to form a new company, which the founders control -- but for which we commit to play an unusually large role. From the perspective of the founders, we feel like another founder (although one who also brings “you can quit your day job” capital). In these situations, we may earn regular founder common stock (which vests, in case the founders ever want to fire us) -- in addition to our financial investment. We will make very few investments like this -- perhaps one a year.
 
-# How we support our companies
+## How we support our companies
 
 We aspire to be the most useful investors per minute spent with us. 
 
@@ -286,7 +296,7 @@ We want to work with startups the way they work, not the way that big companies 
 
 Our team works closely together -- we speak often and love helping each other, and we each know the full portfolio -- so every portfolio company has access to every member of our team. We think this is different to some other venture firms we’ve met -- a “no dysfunction” partner.
 
-## Areas where we tend to be most useful
+### Areas where we tend to be most useful
 
 While we’re happy to help companies across the full range of early-stage company questions -- recruiting, fundraising (should I take more money or call it a day?), services (who do I use for HR?) -- we concentrate on the range of skills loosely called “going to market.” 
 
@@ -300,7 +310,7 @@ Because we may be creating our own products, we are current on tactical trends a
 
 One thing many entrepreneurs don’t realize is how little direct control their investors ultimately have -- we can’t demand certain information from you unless it’s specifically written into our agreements (where we often ask only for general financial information), we won’t make you hire or fire anyone -- we work with you based on mutual trust.
 
-## How we like to work with you
+### How we like to work with you
 
 It varies. There are some cases where most of our communication with a company is by IM, others where we do a regularly-scheduled call, others where we meet in person from time to time -- it just depends on what the entrepreneur wants.
 
@@ -320,7 +330,7 @@ We do try to get the right to receive your financials, it’s a good way to give
 
 What’s even better than an update intended for investors, is some passive way for you to keep us updated (i.e., something that requires no incremental work). If you send a weekly internal update, copying us is great; if you use a team collaboration tool (Yammer, Trello, Basecamp, a Skype chat, etc.) we’d love to be included and take it as a great sign of trust; we have even subscribed to the private Github repo of one of our portfolio companies.
 
-## How to make the most of us
+### How to make the most of us
 
 What gets us going is helping companies realize their potential. We are happiest when we are “in it” with you, whiteboarding a set of features, pushing back on your plan to announce your fancy new product release, or getting that late night call that you think things aren’t working out with the person you just spent six months to recruit. We feed off your enthusiasm, and hope to help you build even more of it.
 
@@ -328,13 +338,13 @@ We also know that startups are not all roses and sunshine, even for the best of 
 
 Investing, to us, is really nothing more than the mechanism we use to find a way to work with you. We are more comfortable talking about new product launches than about how to optimize our allocation of capital across our portfolio.
 
-## How our fund works with Bloomberg L.P.
+### How our fund works with Bloomberg L.P.
 
 We look for opportunities to connect startups (including our portfolio companies and others) with Bloomberg L.P. -- we invest significant time in understanding what Bloomberg may be interested in seeing. In practice, we refer more companies to Bloomberg that are not our portfolio companies, than are our portfolio companies. And at the moment only one-fourth of our portfolio companies have contact with Bloomberg. Bloomberg Beta would never be a party to a business relationship between a startup and Bloomberg L.P.; those relationships are all at arms’ length.
 
 We have an Advisory Committee at Bloomberg L.P. that hears from us about common themes we see, gives us input and feedback, and approves big checks.
 
-## Relationship between Bloomberg and startups
+### Relationship between Bloomberg and startups
 
 There are areas where access to Bloomberg may be enormously helpful to a startup. For example, some areas where Bloomberg has some of the best expertise in the world: the creation of a data-driven subscription business, selected technical specialties, high-touch customer service.
 
@@ -342,39 +352,39 @@ That said, we are set up as a separate legal entity to protect the confidentiali
 
 While Bloomberg will only work with your startup if it makes sense for Bloomberg (no, you can’t have a discount on a Bloomberg terminal), we have a great understanding of how to facilitate the right conversation quickly.
 
-## Learning
+### Learning
 
 We recognize that founders don’t have the time to plan for their own professional growth and learning, so we offer them some of that. We might do a training on how to create useful communication with technical teams, or invite entrepreneurs to a panel on a subject we think they might care about.
 
-## Events we host
+### Events we host
 
 Sometimes, one way we can help companies is just by getting them out of the building. We get our entrepreneurs together every so often with an extended group of our friends. These events are completely optional, and have no direct usefulness at all. The last one we did was building robots at TechShop.
 
 We do host some selective events (for example, with a senior government official or business leader) to which we invite our portfolio company founders.
 
-## Each other
+### Each other
 
 Now that we are beginning to have a critical mass of companies in our portfolio, the companies can be helpful to each other should they want to be -- vendor referrals, emotional support, product tips, etc. 
 
-## After the exit...
+### After the exit...
 
 We haven’t gotten to do this part yet, but we intend to be disciplined about learning from every company. We will write up a retrospective report where we evaluate our value added to the team -- vs. what we wish we could have added. We assess whether we were right on the risks the company faced, and what lessons we learned. Most important, we ask whether the entrepreneur would have asked for our money again.
 
-## Company feedback on us
+### Company feedback on us
 
 Once a year we ask all our entrepreneurs to do a short (under 3 minutes) anonymous survey to give us feedback on what we can do better. We do a Net Promoter Score as part of this. We would share it here, but we don’t want our entrepreneurs to feel we are using their feedback to market ourselves. (Though we’d be happy to tell you in person.)
 
 Always be learning from your customers -- ours are entrepreneurs.
 
-# Finding us
+## Finding us
 
 If you don’t know how to find us, you don’t know how to use the Internet and you should probably rethink whether being an entrepreneur is the right career for you.
 
-## How to reach out
+### How to reach out
 
 Should you send us a cold email? Probably not. If we were a customer of yours, would you email us cold? Wouldn’t you rather try to find someone in common? If you have to resort to a cold email, which great people sometimes do, at least show us that you took the time to exhaust the available sources of information first. Write an interesting headline. Tell us you read this…sentence…right…here.
 
-## Caveats entrepreneurs should know
+### Caveats entrepreneurs should know
 
 Things not to try on us, that others have tried:
 * A first email that says “My round is closing next week. Do you have interest?” We understand that entrepreneurs are eager to close their funding rounds. Sometimes timing doesn’t work -- we have no fear of the elevator doors closing on us.
@@ -382,11 +392,11 @@ Things not to try on us, that others have tried:
 
 We will not invest in a company that is a known competitor today to one of our portfolio companies. We recognize that competition issues can be complicated, and our intent is to respect the interests of our portfolio companies.
 
-## Why you should take our money
+### Why you should take our money
 
 We were going to write a more elaborate argument here, but we hope this entire manual gives you a sense of how we work -- that’s the reason to take our investment, or to avoid us if our approach isn't your style.
 
-## Thank you
+### Thank you
 
 We all move fast, and prefer to spend our time on things that matter. So if you read this, and if you spend time with us, we hope that -- whether or not we work together -- you find it worth it.
 
