@@ -1,6 +1,6 @@
 ## Why we exist
 
-We believe we are seeing the beginnings of profound changes in the way work works. Our investor, Bloomberg L.P., wants to support and understand these changes. Backing and building startups is a wonderful way to do that, so we created Bloomberg Beta.
+We believe we are seeing the beginnings of profound changes in the way work works. Our investor, Bloomberg L.P., wants to support and understand these changes. Backing and building startups is a wonderful way to do that, so we created [Bloomberg Beta](http://www.bloombergbeta.com).
 
 ## Why are we sharing our operating manual?
 
