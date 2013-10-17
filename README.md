@@ -28,6 +28,8 @@ If you’re an entrepreneur trying to understand if we’re a fit for you, we wa
 
 We also want everyone to help make us better, the kind of investor you’d want to have -- and we think that exposing our approach in public is a terrific way to get reactions and evolve.
 
+Thank you to our entrepreneurs and friends who read the private version and helped us strengthen it; thanks in advance to anyone who reads it now that it's public, comments on it, forks it, or otherwise helps us get better.
+
 **So here you are. When in doubt, as they say, read the (ahem) manual. :)**
 
 ## License
