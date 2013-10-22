@@ -20,7 +20,7 @@ We hope our companies treat their people, their users, their partners, and their
 
 ## Who are we
 
-We are an early-stage investment fund that backs and creates companies. We are Dan Strickland, James Cham, Karin Klein, Roy Bahat, and Shivon Zilis.
+We are an early-stage investment fund that backs and creates companies. We are [Dan Strickland](http://twitter.com/strickland_dan), [James Cham](http://twitter.com/jamescham), [Karin Klein](http://twitter.com/karinklein), [Roy Bahat](http://twitter.com/roybahat), and [Shivon Zilis](http://twitter.com/shivon).
 
 ## How should you use this document?
 
@@ -34,4 +34,4 @@ Thank you to our entrepreneurs and friends who read the private version and help
 
 ## License
 
-This manual is open sourced under a [Creative Commons license](http://creativecommons.org/licenses/by/3.0/deed.en_US])
+This manual is open sourced under a [Creative Commons license](http://creativecommons.org/licenses/by/3.0/deed.en_US]).

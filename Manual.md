@@ -260,7 +260,9 @@ When we do co-invest, we care who a company’s other investors are, because the
 
 ### Following on
 
-Because we have a relatively big fund ($75M) for writing modest initial checks, we do plan to devote an unusually large proportion of our fund’s resources to following on. We won’t follow on in every investment, but if we are excited about putting in more money we might want to follow on for 5x our initial investment -- or more. That said, there will also be situations where a company evolves in a way where -- even though it is still a great company -- it would benefit more from another investor’s capital than from ours, so we might not always follow on in great companies.
+Because we have a relatively big fund ($75M) for writing modest initial checks, we do plan to devote an unusually large proportion of our fund’s resources to following on. We will deploy our capital over the usual length of time for a fund: five years or so for all our initial investments, and then follow-on capital after that. We do not have a specific timetable for expected returns, one of the benefits of having a single LP with a long-term focus.
+
+We won’t follow on in every investment, but if we are excited about putting in more money we might want to follow on for 5x our initial investment -- or more. That said, there will also be situations where a company evolves in a way where -- even though it is still a great company -- it would benefit more from another investor’s capital than from ours, so we might not always follow on in great companies.
 
 If asked, we’re happy to be explicit about the conditions under which we’d ask to put more capital into a company.
 
