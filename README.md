@@ -24,7 +24,7 @@ We are an early-stage investment fund that backs and creates companies. We are [
 
 ## How should you use this document?
 
-If you’re an entrepreneur trying to understand if we’re a fit for you, we want this document to dispense with most of the questions of fact and many of the subjective questions of style, beliefs, and approach. Then, if you spend time with us, you can focus on getting past the basics. If you want a summary version, that’s our website.
+If you’re an entrepreneur trying to understand if we’re a fit for you, we want this document to dispense with most of the questions of fact and many of the subjective questions of style, beliefs, and approach. Then, if you spend time with us, you can focus on getting past the basics. If you want a summary version, that’s [our website](http://bloombergbeta.com).
 
 We also want everyone to help make us better, the kind of investor you’d want to have -- and we think that exposing our approach in public is a terrific way to get reactions and evolve.
 
