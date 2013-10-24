@@ -113,7 +113,11 @@ In roughly one-fifth of our portfolio companies, we never saw a deck before inve
 
 In some cases, where we know the team well, we’ve helped entrepreneurs (even before we decide whether to invest) write their deck for other investors.
 
-We don’t believe, in most cases, that a long-term financial model makes much sense for a day-zero startup to build -- except to show what the “unit economics” (revenue and cost from a single user or customer) need to be for the business to work. If you can’t come up with assumptions that make the overall business wildly profitable in a few years, then you probably should be doing something else for a living.
+In day-zero companies, we don't pay much attention to your milestones -- if you are in the discovery phase, trying to figure out what works, you'll generally be unable to predict where you will be beyond 2 months from now. 
+
+We do care about what metrics you intend to track -- what experiments are you running, what hypotheses is your first product testing.
+
+We also don’t believe, in most cases, that a long-term financial model makes much sense for a day-zero startup to build -- except to show what the “unit economics” (revenue and cost from a single user or customer) need to be for the business to work. If you can’t come up with assumptions that make the overall business wildly profitable in a few years, then you probably should be doing something else for a living.
 
 That said, we do care about the short-term financial plan. How many people do you intend to hire, where will you spend the money? This helps us figure out how much time you will have before you need more capital, and how far we believe you can get in that amount of time. We prefer not to see early-stage companies spending much if any of their capital on anything but building their product.
 
