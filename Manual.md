@@ -43,6 +43,8 @@ So much of backing founders is about trust -- many of the companies we’ve back
 
 We have passed on companies because we didn’t think the founders were crazy enough -- they seemed too textbook.
 
+We also are committed to diversity and especially encourage founders of underrepresented communities to speak with us about their companies.
+
 ### Product
 
 We prefer to see products that are intensely successful in some initial market, over products that grow to large numbers but don’t play an important role in the lives of their users. We like for a product to be the most important service to at least some of its users.
