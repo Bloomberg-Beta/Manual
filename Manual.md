@@ -41,7 +41,7 @@ What gives us a sense the founders could be extraordinary? Often times, they jus
 
 So much of backing founders is about trust -- many of the companies we’ve backed are led by people who we’ve known for years, and grown to trust. If we don’t know you ourselves, we prefer if someone we trust knows you. Otherwise we find it hard to trust our impressions of you after a meeting or two; first impressions are so unreliable. That said, we’ve backed entrepreneurs who we only just met -- sometimes you “just know.”
 
-We have passed on companies because we didn’t think the founders were crazy enough -- they seemed too textbook.
+We have passed on companies because we didn’t think the founders were crazy enough -- they seemed too textbook. (And we don't mean their appearance or background, we mean their level of extraordinary determination, willingness to try, or insight.)
 
 We also are committed to diversity and especially encourage founders of underrepresented communities to speak with us about their companies.
 
