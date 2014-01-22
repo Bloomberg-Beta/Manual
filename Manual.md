@@ -59,7 +59,7 @@ We strongly prefer to be the first money into a company. This isn’t so much a 
 
 “First money in” doesn’t necessarily mean lead investor -- sometimes we are the only ones at the table, sometimes one of many. Sometimes the entrepreneur sets the terms, sometimes another investor does, sometimes we do. We don’t think that matters.
 
-We are more than happy to invest in companies that might take a very long time to prove they are on to something -- our investor, Bloomberg, has a decades-long view and is willing to build for the long-term. We do not have a fixed time horizon to expect our companies to return capital. In fact, we prefer companies who are building for permanence.
+We are more than happy to invest in companies that might take a very long time to prove they are on to something -- our investor, Bloomberg, has a decades-long view and is willing to build for the long-term. We do not have a fixed time horizon to expect our companies to return capital. In fact, we prefer companies who are building for permanence. In a world of small add-on ideas, we prefer the truly meaningful ones.
 
 ### Geography
 
@@ -270,7 +270,7 @@ Because we have a relatively big fund ($75M) for writing modest initial checks, 
 
 We won’t follow on in every investment, but if we are excited about putting in more money we might want to follow on for 5x our initial investment -- or more. That said, there will also be situations where a company evolves in a way where -- even though it is still a great company -- it would benefit more from another investor’s capital than from ours, so we might not always follow on in great companies.
 
-If asked, we’re happy to be explicit about the conditions under which we’d ask to put more capital into a company.
+If asked, we’re happy to be explicit about the conditions under which we’d ask to put more capital into a company. Generally, when a team's initial bets prove to be right... 
 
 ### “Standard terms”
 
@@ -388,7 +388,7 @@ Always be learning from your customers -- ours are entrepreneurs.
 
 ## Finding us
 
-If you don’t know how to find us, you don’t know how to use the Internet and you should probably rethink whether being an entrepreneur is the right career for you.
+If you don’t know how to find us, figure it out. Great entrepreneurs overcome much more than that. If you can't, you don’t know how to use the Internet and you should probably rethink whether being an entrepreneur is the right career for you.
 
 ### How to reach out
 
