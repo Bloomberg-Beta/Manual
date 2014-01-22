@@ -43,7 +43,7 @@ So much of backing founders is about trust -- many of the companies we’ve back
 
 We have passed on companies because we didn’t think the founders were crazy enough -- they seemed too textbook. (And we don't mean their appearance or background, we mean their level of extraordinary determination, willingness to try, or insight.)
 
-We also are committed to diversity and especially encourage founders of underrepresented communities to speak with us about their companies.
+We also are committed to diversity and especially encourage founders of underrepresented communities to speak with us about their companies. We believe that a community of companies is stronger the more different viewpoints come to the table, and we're happy to speak more about our record in this area with entrepreneurs who are interested.
 
 ### Product
 
