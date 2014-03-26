@@ -69,11 +69,13 @@ We have invested outside of San Francisco and New York a couple of times (Seattl
 
 ### Sources
 
-We find investments in many ways, but our favorite is for entrepreneurs we have already backed to refer companies. 
+We find investments in many ways, but our favorite is for founders we have already backed to refer other founders.
+
+Founders are our customers, and we believe in doing more than waiting to be introduced to them -- we want to get to know them early. So we have developed a model in partnership with Mattermark, to predict who are the people in Silicon Valley and New York statistically most likely to become founders, who haven't yet -- our "Future Founders" group. We reach out to these individuals ourselves to form relationships with them, and for them to form relationships with each other. 
 
 After that, we are most likely to invest in companies that come to us through someone we trust. Several of those have come our way through referrals from the staff at Bloomberg -- this creates an instant “customer reference,” often from someone whose judgment we respect.
 
-We don’t really find companies, we mostly find entrepreneurs. We tend to ask people we trust who are the 1-2 most exceptional people you’ve met, whether in school or at work, or in some other way -- and then we get to know those people. We hope that some of those people evolve to be great entrepreneurs, and we’d like to know them whether or not they do.
+We don’t really find companies, we mostly find founders. We tend to ask people we trust who are the 1-2 most exceptional people you’ve met, whether in school or at work, or in some other way -- and then we get to know those people. We hope that some of those people evolve to be great founders, and we’d like to know them whether or not they do.
 
 We also try a lot of products. Our phones have many, many apps installed. And we read. We reach out to people and companies whose products we like, or who we read about.
 
