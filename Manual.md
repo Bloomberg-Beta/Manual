@@ -138,6 +138,7 @@ Some things we tend to say, ask, or think in meetings:
 * We don’t put great faith in the value of advice (including, often, our own) -- the world of users and customers has more to teach a company than any smart, well-intentioned person.
 * What makes you an outlier? 
 * What do you want out of your investors other than money? (We’re trying to figure out if we can be uniquely helpful.)
+* If a dozen other companies are creating a company right now with this exact idea, how could you still succeed? (We truly believe that ideas are almost valueless in and of themselves.)
 * Why are you raising money at all? (We find there are plenty of startups who actually don’t need to raise money and, in general, that’s better for them -- even if it means we don’t get to participate.)
 
 We try to avoid some of the, shall we say, less useful questions others ask:
