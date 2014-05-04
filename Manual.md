@@ -7,7 +7,7 @@ Operating Manual
 ### [Our investor, Bloomberg L.P.](https://github.com/Bloomberg-Beta/Manual/blob/master/Manual.md#our-investor-bloomberg-lp-1)
 ### [What we look for in a startup](https://github.com/Bloomberg-Beta/Manual/blob/master/Manual.md#what-we-look-for)
 ### [The deal terms](https://github.com/Bloomberg-Beta/Manual/blob/master/Manual.md#the-deal-terms-1)
-### [Our “products,” or, models for how we work with entrepreneurs](https://github.com/Bloomberg-Beta/Manual/blob/master/Manual.md#our-products-or-how-we-work-with-entrepreneurs)
+### [Our “products,” or, models for how we work with founders](https://github.com/Bloomberg-Beta/Manual/blob/master/Manual.md#our-products-or-how-we-work-with-entrepreneurs)
 ### [How we support our companies](https://github.com/Bloomberg-Beta/Manual/blob/master/Manual.md#how-we-support-our-companies-1)
 ### [Finding us](https://github.com/Bloomberg-Beta/Manual/blob/master/Manual.md#finding-us-1)
 
@@ -49,7 +49,7 @@ We also are committed to diversity and especially encourage founders of underrep
 
 We prefer to see products that are intensely successful in some initial market, over products that grow to large numbers but don’t play an important role in the lives of their users. We like for a product to be the most important service to at least some of its users.
 
-We like products we ourselves would use and understand. We’ve been technology buyers, software developers, entrepreneurs, entry-level employees, and of course consumers of many types of media -- so the range of products we might use and understand is broad.
+We like products we ourselves would use and understand. We’ve been technology buyers, software developers, founders, entry-level employees, and of course consumers of many types of media -- so the range of products we might use and understand is broad.
 
 If a product is launched, we care about how well it is doing -- the famous “traction” -- but we tend not to focus on absolute numbers. We focus on month-over-month (or, in earlier-stage cases, week-over-week) growth, ask questions about how different cohorts of users behave, and try to understand the per-user behavior (how much does any one user really value the product).
 
@@ -104,7 +104,7 @@ We find it hard to imagine we’d make an investment in e-commerce or entertainm
 
 ### “The Deck”
 
-A demo is 50 times more useful than slides. One is a description of a thing, the other is the thing itself. Product is our sustenance; feed us.
+A demo is 50 times more useful than slides. One is a description of a thing, the other is the thing itself. We look at your demo [the way a new user would](http://also.roybahat.com/post/82904179747/why-most-demos-confuse).
 
 We don’t like the idea of entrepreneurs spending lots of time making presentations. When we see “v36” in the filename of a presentation, it terrifies us. That said, we do value the work entrepreneurs do writing down their plans for their company, because it gives us a sense of:
 * How the team thinks
@@ -281,7 +281,7 @@ We believe investors should get a “1x liquidation preference” -- in other wo
 
 We want to protect your confidentiality and ours, and usually include a standard term to accomplish that -- though the best protection is trust.
 
-## Our “products,” or, how we work with entrepreneurs
+## Our “products,” or, how we work with founders
 
 We think of our “products” as offerings of support and capital to a company, and the price we charge is ownership in a company.
 
@@ -400,7 +400,7 @@ Should you send us a cold email? Probably not. If we were a customer of yours, w
 ### Caveats entrepreneurs should know
 
 Things not to try on us, that others have tried:
-* A first email that says “My round is closing next week. Do you have interest?” We understand that entrepreneurs are eager to close their funding rounds. Sometimes timing doesn’t work -- we have no fear of the elevator doors closing on us.
+* A first email that says “My round is closing next week. Do you have interest?” We understand that founders are eager to close their funding rounds. Sometimes timing doesn’t work -- we have no fear of the elevator doors closing on us.
 * “You can only try our product if you invest.” If the product isn’t ready, we understand that. But if it is ready and we can’t play with it, we can't figure out whether to work with you.
 
 We will not invest in a company that is a known competitor today to one of our portfolio companies. We recognize that competition issues can be complicated, and our intent is to respect the interests of our portfolio companies.
