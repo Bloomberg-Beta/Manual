@@ -8,7 +8,7 @@ Bloomberg Beta is a new fund, and (we hope) a new kind of fund. As we started wo
 
 So, why not just share our practices, our operating manual. Then others can suggest changes, ask questions, or just read it and save time. Few things are so precious as the time of an entrepreneur -- we want entrepreneurs to spend less of time raising money, more of it on your product, or (maybe even) with friends and family.
 
-We believe the rewards to being open are worth the cost. Trust is the foundation for our approach -- anything that enables founders to know us better speeds the building of trust.
+We believe the rewards to being open are worth the cost. [Trust is the foundation](http://also.roybahat.com/post/91847335194/the-trust-thing) for our approach -- anything that enables founders to know us better speeds the building of trust.
 
 ## What we want
 
