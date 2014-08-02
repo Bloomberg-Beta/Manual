@@ -242,7 +242,7 @@ So, we generally prefer not to have a seat on a company’s board. But, that sai
 
 ### Rights we want
 
-We care about getting pro rata rights. If you don’t know what these are, this means that if an founder offers another investor the opportunity to invest at a certain price, we want to invest at that price too -- at least up to the amount needed to preserve our ownership of the company.
+We care about getting pro rata rights. If you don’t know what these are, this means that if a founder offers another investor the opportunity to invest at a certain price, we want to invest at that price too -- at least up to the amount needed to preserve our ownership of the company.
 
 We also want to approve of any investments you take that might get their capital repaid before ours.
 
