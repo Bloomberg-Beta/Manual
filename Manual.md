@@ -214,9 +214,9 @@ We’ve made investment decisions in the first meeting (though usually when we a
 
 Some firms commit to giving you an answer in a certain amount of time. We commit that at any point in time, if you ask us to narrate the likelihood of investment and timeframe, we’ll give you our best guess. 
 
-The reason we don’t have a guideline like “3 meetings in two weeks” is because that smells like a transaction, and we’d rather be in a long-term relationship with you. We take seriously the process of getting to know an founder and a company, and having the founder truly know and like us.
+The reason we don’t have a guideline like “3 meetings in two weeks” is because that smells like a transaction, and we’d rather be in a long-term relationship with you. We take seriously the process of getting to know a founder and a company, and having the founder truly know and like us.
 
-Many of our investments have evolved out of months or years of conversation with an founder, much of which started before Bloomberg Beta even existed. Yes, some are love at first sight -- but it’s exceedingly rare. We’re not sure which will turn out better. But would you tell someone on the first date how many times you had to date them before you decided whether to get married? It’s fundamentally unpredictable at first, but it does become clear quickly.
+Many of our investments have evolved out of months or years of conversation with a founder, much of which started before Bloomberg Beta even existed. Yes, some are love at first sight -- but it’s exceedingly rare. We’re not sure which will turn out better. But would you tell someone on the first date how many times you had to date them before you decided whether to get married? It’s fundamentally unpredictable at first, but it does become clear quickly.
 
 If you’re in a conversation with us, our policy is “do ask, do tell” -- we are happy to share with you our current sense of excitement and timing. You might have to make a decision, and we want you to know where we stand. If the elevator doors close while we are thinking on it, so be it.
 
@@ -300,7 +300,7 @@ In some cases, we can only put a small amount of money to work (for example, in 
 
 ### “Red Zone”
 
-We may do selected later-stage investments where we think we have an unusual insight or ability to contribute. The bar is much higher for how confident we have to be in these companies, given their higher valuations and our generally lower ownership. This is almost always in the case of an founder whose company we have watched, and perhaps already been helping, for quite some time.
+We may do selected later-stage investments where we think we have an unusual insight or ability to contribute. The bar is much higher for how confident we have to be in these companies, given their higher valuations and our generally lower ownership. This is almost always in the case of a founder whose company we have watched, and perhaps already been helping, for quite some time.
 
 ### “Coach”
 
@@ -396,7 +396,7 @@ Always be learning from your customers -- ours are founders.
 
 ## Finding us
 
-If you don’t know how to find us, figure it out. Great founders overcome much more than that. If you can't, you don’t know how to use the Internet and you should probably rethink whether being an founder is the right career for you.
+If you don’t know how to find us, figure it out. Great founders overcome much more than that. If you can't, you don’t know how to use the Internet and you should probably rethink whether being a founder is the right career for you.
 
 ### How to reach out
 
