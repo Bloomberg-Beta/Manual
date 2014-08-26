@@ -110,7 +110,7 @@ We find it hard to imagine we’d make an investment in e-commerce or entertainm
 
 A demo is 50 times more useful than slides. One is a description of a thing, the other is the thing itself. We look at your demo [the way a new user would](http://also.roybahat.com/post/82904179747/why-most-demos-confuse).
 
-We don’t like the idea of founders spending lots of time making presentations. When we see “v36” in the filename of a presentation, it terrifies us. That said, we do value the work founders do writing down their plans for their company, because it gives us a sense of:
+We don’t like the idea of founders spending lots of time making fundraising presentations. When we see “v36” in the filename of a presentation, it terrifies us. That said, we do value the work founders do writing down their plans for their company, because it gives us a sense of:
 * How the team thinks
 * How well the team communicates 
 * Whether, if we don’t know the team, we should spend the time to meet in person
@@ -121,7 +121,7 @@ In roughly one-fifth of our portfolio companies, we never saw a deck before inve
 
 In some cases, where we know the team well, we’ve helped founders (even before we decide whether to invest) write their deck for other investors.
 
-In day-zero companies, we don't pay much attention to your milestones -- if you are in the discovery phase, trying to figure out what works, you'll generally be unable to predict where you will be beyond 2 months from now. 
+In day-zero companies, we don't pay much attention to your milestones -- if you are in the discovery phase, trying to figure out what works, you'll generally be unable to predict where you will be beyond two months from now. 
 
 We do care about what metrics you intend to track -- what experiments are you running, what hypotheses is your first product testing.
 
