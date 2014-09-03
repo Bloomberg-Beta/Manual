@@ -39,6 +39,8 @@ We look for a reason to believe a founding team is extraordinary. Not that they 
 
 What gives us a sense the founders could be extraordinary? Often times, they just have an unusual psychology -- they think they are exceptional, see grand patterns others don’t, they are indifferent to norms, and they may have an exceptionally high pain threshold. We are inspired by Michael Dearing’s description of the [cognitive distortions of founders](http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf).
 
+[ **insert cases A and B on the value of ideas** ]
+
 So much of backing founders is about trust -- many of the companies we’ve backed are led by people who we’ve known for years, and grown to trust. If we don’t know you ourselves, we prefer if someone we trust knows you. Otherwise we find it hard to trust our impressions of you after a meeting or two; first impressions are so unreliable. That said, we’ve backed founders who we only just met -- sometimes you “just know.”
 
 We also do background checks on founders where we search public records. Almost everyone has something turn up, and that's fine. People get sued, things happen. Some of history's best founders had complicated pasts. The issues arise when we're surprised by something important that we learn -- trust, again -- and we resolve those issues in conversation with founders.
@@ -142,7 +144,7 @@ Some things we tend to say, ask, or think in meetings:
 * We don’t put great faith in the value of advice (including, often, our own) -- the world of users and customers has more to teach a company than any smart, well-intentioned person.
 * What makes you an outlier? 
 * What do you want out of your investors other than money? (We’re trying to figure out if we can be uniquely helpful.)
-* If a dozen other companies are creating a company right now with this exact idea, how could you still succeed? (We truly believe that ideas are almost valueless in and of themselves.)
+* If a dozen other companies are creating a company right now with this exact idea, how could you still succeed?
 * Who will you pick as your [first customers](http://http://also.roybahat.com/post/84933343626/picking-your-first-customers-the-gradient-of-influence)? (This tends to be, in our view, one of the most important early choices founders make.)
 * Why are you raising money at all? (We find there are plenty of startups who actually don’t need to raise money and, in general, that’s better for them -- even if it means we don’t get to participate.)
 
