@@ -39,7 +39,11 @@ We look for a reason to believe a founding team is extraordinary. Not that they 
 
 What gives us a sense the founders could be extraordinary? Often times, they just have an unusual psychology -- they think they are exceptional, see grand patterns others don’t, they are indifferent to norms, and they may have an exceptionally high pain threshold. We are inspired by Michael Dearing’s description of the [cognitive distortions of founders](http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf).
 
+<<<<<<< HEAD
 Great teams have a sense of how to win when -- surprise, surprise -- there are a dozen others pursuing their previously-believed-to-be-unique idea. We believe ideas only have value once a team begins to bring them to life.
+=======
+[ **insert cases A and B on the value of ideas** ]
+>>>>>>> master
 
 So much of backing founders is about trust -- many of the companies we’ve backed are led by people who we’ve known for years, and grown to trust. If we don’t know you ourselves, we prefer if someone we trust knows you. Otherwise we find it hard to trust our impressions of you after a meeting or two; first impressions are so unreliable. That said, we’ve backed founders who we only just met -- sometimes you “just know.”
 
@@ -112,7 +116,7 @@ We find it hard to imagine we’d make an investment in e-commerce or entertainm
 
 A demo is 50 times more useful than slides. One is a description of a thing, the other is the thing itself. We look at your demo [the way a new user would](http://also.roybahat.com/post/82904179747/why-most-demos-confuse).
 
-We don’t like the idea of founders spending lots of time making presentations. When we see “v36” in the filename of a presentation, it terrifies us. That said, we do value the work founders do writing down their plans for their company, because it gives us a sense of:
+We don’t like the idea of founders spending lots of time making fundraising presentations. When we see “v36” in the filename of a presentation, it terrifies us. That said, we do value the work founders do writing down their plans for their company, because it gives us a sense of:
 * How the team thinks
 * How well the team communicates 
 * Whether, if we don’t know the team, we should spend the time to meet in person
@@ -123,7 +127,7 @@ In roughly one-fifth of our portfolio companies, we never saw a deck before inve
 
 In some cases, where we know the team well, we’ve helped founders (even before we decide whether to invest) write their deck for other investors.
 
-In day-zero companies, we don't pay much attention to your milestones -- if you are in the discovery phase, trying to figure out what works, you'll generally be unable to predict where you will be beyond 2 months from now. 
+In day-zero companies, we don't pay much attention to your milestones -- if you are in the discovery phase, trying to figure out what works, you'll generally be unable to predict where you will be beyond two months from now. 
 
 We do care about what metrics you intend to track -- what experiments are you running, what hypotheses is your first product testing.
 
@@ -216,9 +220,9 @@ We’ve made investment decisions in the first meeting (though usually when we a
 
 Some firms commit to giving you an answer in a certain amount of time. We commit that at any point in time, if you ask us to narrate the likelihood of investment and timeframe, we’ll give you our best guess. 
 
-The reason we don’t have a guideline like “3 meetings in two weeks” is because that smells like a transaction, and we’d rather be in a long-term relationship with you. We take seriously the process of getting to know an founder and a company, and having the founder truly know and like us.
+The reason we don’t have a guideline like “3 meetings in two weeks” is because that smells like a transaction, and we’d rather be in a long-term relationship with you. We take seriously the process of getting to know a founder and a company, and having the founder truly know and like us.
 
-Many of our investments have evolved out of months or years of conversation with an founder, much of which started before Bloomberg Beta even existed. Yes, some are love at first sight -- but it’s exceedingly rare. We’re not sure which will turn out better. But would you tell someone on the first date how many times you had to date them before you decided whether to get married? It’s fundamentally unpredictable at first, but it does become clear quickly.
+Many of our investments have evolved out of months or years of conversation with a founder, much of which started before Bloomberg Beta even existed. Yes, some are love at first sight -- but it’s exceedingly rare. We’re not sure which will turn out better. But would you tell someone on the first date how many times you had to date them before you decided whether to get married? It’s fundamentally unpredictable at first, but it does become clear quickly.
 
 If you’re in a conversation with us, our policy is “do ask, do tell” -- we are happy to share with you our current sense of excitement and timing. You might have to make a decision, and we want you to know where we stand. If the elevator doors close while we are thinking on it, so be it.
 
@@ -244,7 +248,7 @@ So, we generally prefer not to have a seat on a company’s board. But, that sai
 
 ### Rights we want
 
-We care about getting pro rata rights. If you don’t know what these are, this means that if an founder offers another investor the opportunity to invest at a certain price, we want to invest at that price too -- at least up to the amount needed to preserve our ownership of the company.
+We care about getting pro rata rights. If you don’t know what these are, this means that if a founder offers another investor the opportunity to invest at a certain price, we want to invest at that price too -- at least up to the amount needed to preserve our ownership of the company.
 
 We also want to approve of any investments you take that might get their capital repaid before ours.
 
@@ -302,7 +306,7 @@ In some cases, we can only put a small amount of money to work (for example, in 
 
 ### “Red Zone”
 
-We may do selected later-stage investments where we think we have an unusual insight or ability to contribute. The bar is much higher for how confident we have to be in these companies, given their higher valuations and our generally lower ownership. This is almost always in the case of an founder whose company we have watched, and perhaps already been helping, for quite some time.
+We may do selected later-stage investments where we think we have an unusual insight or ability to contribute. The bar is much higher for how confident we have to be in these companies, given their higher valuations and our generally lower ownership. This is almost always in the case of a founder whose company we have watched, and perhaps already been helping, for quite some time.
 
 ### “Coach”
 
@@ -398,7 +402,7 @@ Always be learning from your customers -- ours are founders.
 
 ## Finding us
 
-If you don’t know how to find us, figure it out. Great founders overcome much more than that. If you can't, you don’t know how to use the Internet and you should probably rethink whether being an founder is the right career for you.
+If you don’t know how to find us, figure it out. Great founders overcome much more than that. If you can't, you don’t know how to use the Internet and you should probably rethink whether being a founder is the right career for you.
 
 ### How to reach out
 
