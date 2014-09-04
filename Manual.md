@@ -252,13 +252,13 @@ We care about getting some information rights -- basically the ability for us to
 
 ### The numbers
 
-Our standard maximum for a first check is $250,000. We have no minimum check size, and have written checks as small as $25,000. Although our fund can comfortably write much bigger checks, we believe that the early days of funds, just like the early days of companies, should burn capital more slowly while they find product-market fit. As we mature, we may become more rigid in our financial requirements for deals as we learn what works for us, and we will write bigger checks.
+Our standard first check is $250,000 to $500,000. We have no minimum check size, and have written checks as small as $25,000, and we have written first checks for more than $500,000. Although our fund can comfortably write much bigger checks, we believe that the early days of funds, just like the early days of companies, should burn capital more slowly while they find product-market fit. As we mature, we may become more rigid in our financial requirements for deals as we learn what works for us, and we will write bigger checks.
 
 We care about price. We do not have a target ownership level, but would like to see a path where we can put more money into a company and own a meaningful amount of the company. Our view is that we are comfortable taking the highest possible levels of risk and that founders, and their investors, should be rewarded for that. We believe companies are successful when their teams also get generous equity grants that incentivize the early team members to create something valuable.
 
-We also believe “the price is the price” -- we won’t ask for unusual discounts for ourselves with strange terms like participating preferred equity. We don’t mind whether our investment is structured as convertible debt or as equity.
+We also believe “the price is the price” -- we won’t ask for unusual discounts for ourselves with strange terms like participating preferred equity. We are flexible as to whether our investment is structured as convertible debt or as equity.
 
-No, not every VC wants to own 30% of your company. In fact, we think at seed stages too much ownership by the early investors can ruin the cap table -- basically make it difficult for the founders to make money, or later investors to own enough of the company when the company needs bigger dollars to scale.
+No, not every VC wants to own 30% of your company. In fact, we think at seed stages too much ownership by the early investors can ruin the cap table -- making it difficult for the founders to make money, or later investors to own enough of the company when the company needs bigger dollars to scale.
 
 Like a startup, we’re burning our capital slowly at first while we find product-market fit. In our case, our product is our offering to founders. We welcome ideas and suggestions. We are optimizing at this stage for being involved with the best founders and the best companies, and more flexible on the precise structure for our involvement (check size, stage, level of involvement).
 
