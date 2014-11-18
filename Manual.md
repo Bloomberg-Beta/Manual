@@ -242,7 +242,7 @@ We prefer enormous growth in modest markets to modest growth in enormous markets
 
 ### “Control”
 
-We are not big fans of boards in day-zero companies. While we like founders having a close circle of trusted colleagues to ask for advice and we aspire to be in that trusted circle, when we imagine early-stage founders working on slide decks instead of products, it makes us feel a little ill. We'd rather be in your Slack or getting your Github notifications than having you prepare for meetings.
+We are [not big fans of boards](http://also.roybahat.com/post/102969262108/boreds) in day-zero companies. While we like founders having a close circle of trusted colleagues to ask for advice and we aspire to be in that trusted circle, when we imagine early-stage founders working on slide decks instead of products, it makes us feel a little ill. We'd rather be in your Slack or getting your Github notifications than having you prepare for meetings.
 
 We also feel that the cadence of board review (every couple of months, let’s say) is mismatched to the cadence of a day-zero company (which evolves every week or two). Later on, boards can be great. If people don’t talk just to hear themselves talk, which each of us has been guilty of now and then.
 
