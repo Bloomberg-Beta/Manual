@@ -147,7 +147,7 @@ Some things we tend to say, ask, or think in meetings:
 * What makes you an outlier? (Do you know what makes your company a potential outlier?)
 * What do you want out of your investors other than money? (We’re trying to figure out if we can be uniquely helpful.)
 * If a dozen other companies are creating a company right now with this exact idea, how could you still succeed?
-* Who will you pick as your [first customers](http://http://also.roybahat.com/post/84933343626/picking-your-first-customers-the-gradient-of-influence)? (This tends to be, in our view, one of the most important early choices founders make.)
+* Who will you pick as your [first customers](http://also.roybahat.com/post/84933343626/picking-your-first-customers-the-gradient-of-influence)? (This tends to be, in our view, one of the most important early choices founders make.)
 * Why are you raising money at all? (We find there are plenty of startups who actually don’t need to raise money and, in general, that’s better for them -- even if it means we don’t get to participate.)
 
 We try to avoid some of the, shall we say, less useful questions others ask:
