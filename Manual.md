@@ -69,9 +69,9 @@ We are more than happy to invest in companies that might take a very long time t
 
 ### Geography
 
-Greatness can start anywhere, but we can really only help if we’re nearby. We are heavily biased toward investing in companies we can see in person. That means San Francisco and New York since our team is in both of those cities. Our team has deep roots in both places so our ability to bring in local folks that can help is greater there. This isn’t to say that we won’t consider an investment elsewhere (for example if an area has a deep specialty, as some regions do with security startups), but we’re very careful to choose companies where we can be disproportionately helpful, and being local is a real part of that. 
+Greatness can start anywhere. We're a small team with a modest-sized fund, though, and believe we can really only help if we’re nearby. Startups depend on trust, and it's hard to build trust without spending time together in person. That means San Francisco and New York since our team is in both of those cities. We have deep roots in both places so our ability to bring in local folks who can help is greater there, and we only want to invest where we believe we can be disproportionately helpful. We would consider an investment elsewhere (for example if an area has a deep specialty, as some regions do with security startups), it's just harder for us.
 
-We have invested outside of San Francisco and New York a couple of times (Seattle once… and we’d consider Boston and Washington, DC), though we need an exceptional reason.
+We have invested outside of San Francisco and New York a couple of times (Seattle once… Boston a couple of times…), though we need an exceptional reason (and often it's when we already know and trust the team).
 
 ### Sources
 
@@ -119,7 +119,7 @@ We cringe at the idea of founders spending lots of time making fundraising prese
 
 If you use a presentation to sell your product to customers, we're as interested in that pitch as in your fundraising pitch.
 
-There is no standard format we like, but we probably spend 2-5 minutes reading a deck when we are deciding whether to meet a company. How many slides? Depends, but if you need 20 detailed pages to tell your story, your story needs work.
+There is no standard format we like, but we probably spend 2-5 minutes reading a deck when we are deciding whether to meet a company. How many slides? Depends, but if you need 20 detailed pages to tell your story, that's likely more than we can absorb.
 
 In roughly one-fifth of our portfolio companies, we never saw a deck before investing -- usually because the product spoke so loudly for itself, or we knew the team and business so well we didn’t need a deck.
 
@@ -238,7 +238,7 @@ Our goal, particularly with first-time founders, is to explain what we want and 
 
 Since we bet early, and expect the vast majority of our portfolio companies to fail to return much money, our winners need to be big. We fully expect that, if we succeed, one investment we make will return our entire fund. So we need to believe that every company could be that investment. 
 
-We prefer enormous growth in modest markets to modest growth in enormous markets. We believe that tends to be a more reliable signal of a company's greatness -- it is harder to serve 100 customers exceptionally well than to serve 10,000 customers poorly. And we learned, in part from the example of Bloomberg's growth from one category of the financial industry to another, that deeply understanding each type of customer gives you an exceptional ability to lead an industry.
+We prefer enormous growth in modest markets to modest growth in enormous markets. We believe that tends to be a more reliable signal of a company's greatness -- it is harder to serve 100 customers exceptionally than to serve 10,000 customers poorly. And we learned, in part from the example of Bloomberg's growth from one category of the financial industry to another, that deeply understanding each type of customer gives you an exceptional ability to lead an industry.
 
 ### “Control”
 
