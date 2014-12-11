@@ -91,13 +91,14 @@ We keep track of companies we’ve been in touch with -- just like we’d hope t
 
 Our overall focus is investing in companies that improve work -- these can be individual-facing (not all “enterprise”) so long as they help a person be more productive, knowledgeable, or content at work. Of course they can also be services for businesses.
 
-We are focused on the following areas (all of which are of great interest to Bloomberg L.P.): maching intelligence (see more [here](http://www.shivonzilis.com/machineintelligence)) data, technology platforms, media distribution, content discovery, networks & communities, human-computer interaction, and radically new organizational models. It’s a wide range.
+We are focused on the following areas (all of which are of great interest to Bloomberg L.P.): machine intelligence (see more [here](http://www.shivonzilis.com/machineintelligence)), data, technology platforms, media distribution, content discovery, networks & communities, human-computer interaction, and radically new organizational models. It’s a wide range.
 
 We avoid investments in financial services or other companies that intend to compete with Bloomberg clients.
 
 We have doubts about the importance of overly theme-based investing (i.e., some of us are more thesis focused, some more founder focused). We’ve found that the best founders can surprise an investor with a completely unexpected take -- and prompt the investor to see a category anew.
 
 That said, within our themes there are specific ideas we currently care about:
+* [Machine intelligence](http://www.shivonzilis.com/machineintelligence): Artificial intelligence and machine learning technologies, including both core technologies and industry applications
 * Networks & communities: Connecting professional networks other than office workers (especially those where most of the work is in mobile contexts)
 * New organizational models: Bringing software development methodologies to other applications (e.g., version control for the real world); design as a differentiator; unbundling of corporations
 * Human-computer interaction: Hardware companies with network effects
