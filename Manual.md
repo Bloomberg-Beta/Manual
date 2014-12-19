@@ -416,7 +416,7 @@ Should you send us a cold email? Probably not. If we were a customer of yours, w
 ### Caveats founders should know
 
 Things not to try on us, that others have tried:
-* A first email that says “My round is closing next week. Do you have interest?” We understand that founders are eager to close their funding rounds. Sometimes timing doesn’t work -- we have no fear of the elevator doors closing on us. That said, we always try to imagine how we'd behave with any company if there were enormous time pressure to decide -- and behave that way regardless.
+* A first email that says “My round is closing next week. Do you have interest?” We understand that founders are eager to close their funding rounds. Sometimes timing doesn’t work -- we have no fear of the elevator doors closing on us. That said, we always try to imagine how we'd behave with any company if there was not enormous time pressure to decide -- and behave that way regardless.
 * “You can only try our product if you invest.” If the product isn’t ready, we understand that. But if it is ready and we can’t play with it, we can't figure out whether to work with you.
 
 We will not invest in a company that is a known competitor today to one of our portfolio companies. We recognize that competition issues can be complicated, and our intent is to respect the interests of our portfolio companies.
