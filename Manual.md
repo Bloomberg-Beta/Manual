@@ -37,7 +37,7 @@ We recognize that seeing early signs of greatness is hard, and nobody’s cracke
 
 We look for a reason to believe a founding team is extraordinary. Not that they have the perfect skills or experiences to match the business they want to build (which is where the “team” slide in the deck tends to focus), but that they have the capacity for greatness.
 
-What gives us a sense the founders could be extraordinary? Often times, they just have an unusual psychology -- they think they are exceptional, see grand patterns others don’t, they are indifferent to norms, and they may have an exceptionally high pain threshold. We are inspired by Michael Dearing’s description of the [cognitive distortions of founders](http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf).
+What gives us a sense the founders could be extraordinary? Often times, they just have an unusual psychology -- they think they are exceptional, see grand patterns others don’t, are indifferent to norms, and may have an exceptionally high pain threshold. We are inspired by Michael Dearing’s description of the [cognitive distortions of founders](http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf).
 
 Great teams have a plan to win when -- surprise, surprise -- they learn that a dozen other teams are pursuing their previously-thought-to-be-unique idea. They persevere when others (including us) tell them that ideas are cheap until they are brought to life. They both see themselves as unique and list many companies as their competitors.
 
@@ -61,7 +61,7 @@ If a product is launched, we care about how well it is doing -- the famous “tr
 
 We strongly prefer to be the first money into a company, and to invest as early in the startup's life as possible. If a startup incorporates itself to take money from us, that's great.
 
-This isn’t so much a rational investment calculation (arguably there is less competition to write bigger, later checks) -- but it’s a matter of our style. The earlier we invest, the less it's merely a "transaction" and the more it's a genuine relationship. We make exceptions when there is some other good reason (a founder or company we just couldn’t resist).
+This isn’t so much a rational investment calculation (arguably there is less competition to write bigger, later checks) -- but it’s a matter of our style. The earlier we invest, it's less a "transaction" alone and more a genuine relationship. We make exceptions with some other good reason (a founder or company we just couldn’t resist).
 
 “First money in” doesn’t necessarily mean lead investor -- sometimes we are the only ones at the table, sometimes one of many. Sometimes the founder sets the terms, sometimes another investor does, sometimes we do. We are indifferent on this.
 
@@ -182,7 +182,9 @@ We call as many references as we can find.
 
 We have an “anyone can say yes” policy. Yes, any of our team members can say yes. And no, you don’t have to meet my other partners. We believe the best founders and companies are polarizing. Our best investments might have been, originally, opposed by one or more of our partners. Teams are great at gathering information and surfacing wisdom, but terrible at making decisions. We believe in individual accountability -- if anyone can say yes, then everyone feels the weight of making a decision. (That said, we do require that before anyone says yes they mention the investment to the rest of us -- that way they get the benefit of the team’s input, and it’s a good way to slow down and think for a second.)
 
-We value each others’ opinions and seek them out. Our team is unusual in that we don’t (yet!) have any of the “partner issues” we hear about at other funds. We believe in each others’ talents, trust each other enough not to mind when someone is wildly wrong, and enjoy each others’ views. We talk as a full group twice a week, to think out loud about companies we’ve invested in or might invest in, and we meet for a full few days once every couple of months.
+We value each others’ opinions and seek them out. Our team is unusual in that we don’t (yet!) have any of the “partner issues” we hear about at other funds. In other funds, it's the worst of both worlds -- founders lack clarity about how investments get approved, and in some firms the partners become resentful of one another's power to approve each others' investments and then  do little to support another partners' companies.
+
+We believe in each others’ talents, trust each other enough not to mind when someone is wildly wrong, and enjoy each others’ views. We talk as a full group twice a week, to think out loud about companies we’ve invested in or might invest in, and we meet for a full few days once every couple of months.
 
 Because any one of us is empowered to “yes” a deal, we all share and share alike on helping each others’ deals succeed. “Before the investment, it’s your deal; after the investment, it’s our deal.”
 
@@ -319,7 +321,7 @@ We also seek out opportunities to create companies. We are fundamentally founder
 
 ## How we support our companies
 
-We aspire to be the most useful investors per minute spent with us. 
+We aspire to be the most useful investors per minute spent with us. We want our founders to feel they would want to work with us even if we weren't investors offering them money. (Though, for us to be willing to advise, we'd need the same level of conviction that we have when we're willing to invest.)
 
 We want to work with startups the way they work, not the way that big companies or traditional investors work. We prefer to take the formality out of the investor-founder relationship. Instead of requesting board seats and scheduling formulaic calls, we share with founders and encourage them to reach out to us when we can help. Consider us “on speed dial.” We try to cut waste out of the process; starting a company is hard enough.
 
