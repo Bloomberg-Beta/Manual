@@ -6,7 +6,7 @@ We believe we are seeing the beginnings of profound changes in the way work work
 
 Bloomberg Beta is a new fund, and (we hope) a new kind of fund. As we started working, we agreed to write down some of our practices -- mostly as notes to ourselves. Then we realized we spend a lot of time in meetings with entrepreneurs repeating these things, and that isn't a good use of our time or theirs.
 
-So, why not just share our practices, our operating manual. Then others can suggest changes, ask questions, or just read it and save time. Few things are so precious as the time of an entrepreneur -- we want entrepreneurs to spend less time raising money and more of it building their product, or (maybe even) with friends and family.
+So, why not just share our practices, our operating manual. Then others can suggest changes, ask questions, or just read it and save time. Few things are so precious as the time of an entrepreneur -- we want entrepreneurs to spend less time raising money and more time building their product, or (maybe even) with friends and family.
 
 We believe the rewards to being open are worth the cost. [Trust is the foundation](http://also.roybahat.com/post/91847335194/the-trust-thing) for our approach -- anything that enables founders to know us better speeds the building of trust.
 
@@ -20,7 +20,7 @@ We hope our companies support each other, with the same respect that we as a tea
 
 We hope our companies treat their people, their users, their partners, and their founders well at all times, even when they don’t succeed. We hope they learn, and that we do too.
 
-## Who are we
+## Who we are
 
 We are an early-stage investment fund that backs and creates companies. We are [Dan Strickland](http://twitter.com/strickland_dan), [James Cham](http://twitter.com/jamescham), [Karin Klein](http://twitter.com/karinklein), [Roy Bahat](http://twitter.com/roybahat), and [Shivon Zilis](http://twitter.com/shivon).
 
