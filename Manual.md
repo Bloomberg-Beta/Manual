@@ -21,7 +21,7 @@ We appreciate many things about our investor: Bloomberg is a different kind of c
 
 Bloomberg knows and respects technology and technology companies, is set up to be independent-minded, and builds toward long-term value. Bloomberg was created 30 years ago on a then-controversial idea -- that information in financial markets should be more widely available. Bloomberg has reached global scale and influence, with more than 15,000 employees in almost 200 locations -- and yet it is still a private company, held by its founders. 
 
-Why did Bloomberg L.P. create Bloomberg Beta? Bloomberg wants a window onto the world of startups to understand meaningful trends early, and know founders and companies long before it becomes obvious that they will be significant. To do this, Bloomberg wants a way to support founders and collaborate with them that doesn’t involve an ordinary commercial relationship. (Many startups are not ready to partner with Bloomberg -- or any established, larger company -- until they’ve grown, settled on a direction, and decided to make a partnership a priority. That can take as long as a few years after the company is founded.) 
+Why did Bloomberg L.P. create Bloomberg Beta? Bloomberg wants a window into the world of startups to understand meaningful trends early, and know founders and companies long before it becomes obvious that they will be significant. To do this, Bloomberg wants a way to support founders and collaborate with them that doesn’t involve an ordinary commercial relationship. (Many startups are not ready to partner with Bloomberg -- or any established, larger company -- until they’ve grown, settled on a direction, and decided to make a partnership a priority. That can take as long as a few years after the company is founded.) 
 
 Bloomberg L.P. invested in Bloomberg Beta to open that window to startups, and set up a structure that is rare for a corporate-sponsored firm -- a true fund that invests for financial return, not an “operating division.” Bloomberg knows that great founders want investors whose interests are fully aligned with their own.
 
@@ -61,7 +61,7 @@ If a product is launched, we care about how well it is doing -- the famous “tr
 
 We strongly prefer to be the first money into a company, and to invest as early in the startup's life as possible. If a startup incorporates itself to take money from us, that's great.
 
-This isn’t so much a rational investment calculation (arguably there is less competition to write bigger, later checks) -- but it’s a matter of our style. The earlier we invest, it's less a "transaction" alone and more a genuine relationship. We make exceptions with some other good reason (a founder or company we just couldn’t resist).
+This isn’t so much a rational investment calculation (arguably there is less competition to write bigger, later checks) -- but it’s a matter of our style. An early investment is less of a transaction and more of a relationship. We do make exceptions for certain reasons (e.g. a founder or company we just couldn’t resist).
 
 “First money in” doesn’t necessarily mean lead investor -- sometimes we are the only ones at the table, sometimes one of many. Sometimes the founder sets the terms, sometimes another investor does, sometimes we do. We are indifferent on this.
 
@@ -77,7 +77,7 @@ We have invested outside of San Francisco and New York a couple of times (Seattl
 
 We find investments in many ways, but our favorite is for founders we have already backed to refer other founders.
 
-Founders are our customers, and we believe in doing more than waiting to be introduced to them -- we want to get to know them early. So we have developed a model in partnership with Mattermark, to predict who are the people in Silicon Valley and New York statistically most likely to become founders, who haven't yet -- our ["Future Founders"](http://fortune.com/2014/08/01/data-startup-founders-bloomberg-mattermark/) group. We reach out to these individuals ourselves to form relationships with them, and for them to form relationships with each other. 
+Founders are our customers, and we believe in doing more than waiting to be introduced to them -- we want to get to know them early. So we have developed a model in partnership with Mattermark, to predict who are the people in Silicon Valley and New York statistically most likely to become founders, who haven't yet -- our ["Future Founders"](http://fortune.com/2014/08/01/data-startup-founders-bloomberg-mattermark/) group. We reach out to these individuals to form relationships with them, and encourage them to form relationships with each other. 
 
 After that, we are most likely to invest in companies that come to us through someone we trust. Several of those have come our way through referrals from the staff at Bloomberg -- this creates an instant “customer reference,” often from someone whose judgment we respect.
 
@@ -99,7 +99,7 @@ We have doubts about the importance of overly theme-based investing (i.e., some 
 
 That said, within our themes there are specific ideas we currently care about:
 * [Machine intelligence](http://www.shivonzilis.com/machineintelligence): Artificial intelligence and machine learning technologies, including both core technologies and industry applications
-* Networks & communities: Connecting professional networks other than office workers (especially those where most of the work is in mobile contexts)
+* Networks and communities: Connecting professional networks other than office workers (especially those where most of the work is in mobile contexts)
 * New organizational models: Bringing software development methodologies to other applications (e.g., version control for the real world); design as a differentiator; unbundling of corporations
 * Human-computer interaction: Hardware companies with network effects
 * Media distribution: Over-the-top television
@@ -130,7 +130,7 @@ In day-zero companies, we don't pay much attention to your milestones -- if you 
 
 We do care about what metrics you intend to track -- what experiments are you running, what hypotheses is your first product testing -- and if there is one metric you care about more than any other.
 
-We also ignore, in most cases, long-term financial projections -- except as they show what the “unit economics” (revenue and cost from a single user or customer) need to be for the business to work. If you fail to invent assumptions that make the overall business wildly profitable in a few years, then you probably should be doing something else for a living.
+We also ignore, in most cases, long-term financial projections -- except to the extent that they show what the “unit economics” (revenue and cost from a single user or customer) need to be for the business to work. If you fail to invent assumptions that make the overall business wildly profitable in a few years, then you probably should be doing something else for a living.
 
 That said, we do care about the short-term financial plan, especially on the choices founders directly control. How many people do you intend to hire, where will you spend the money? This helps us figure out how much time you will have before you need more capital, and how far we believe you can get in that amount of time. We prefer to see early-stage companies spending their capital on building product.
 
@@ -149,7 +149,7 @@ Some things we tend to say, ask, or think in meetings:
 * What do you want out of your investors other than money? (We’re trying to figure out if we can be uniquely helpful.)
 * If a dozen other companies are creating a company right now with this exact idea, how could you still succeed?
 * Who will you pick as your [first customers](http://also.roybahat.com/post/84933343626/picking-your-first-customers-the-gradient-of-influence)? (This tends to be, in our view, one of the most important early choices founders make.)
-* Why are you raising money at all? (We find there are plenty of startups who actually don’t need to raise money and, in general, that’s better for them -- even if it means we don’t get to participate.)
+* Why are you raising money at all? (We find there are plenty of startups who don’t actually need to raise money and, in general, that’s better for them -- even if it means we don’t get to participate.)
 
 We try to avoid some of the, shall we say, less useful questions others ask:
 * What will you do if [big scary company X] competes with you?
@@ -182,7 +182,7 @@ We call as many references as we can find.
 
 We have an “anyone can say yes” policy. Yes, any of our team members can say yes. And no, you don’t have to meet my other partners. We believe the best founders and companies are polarizing. Our best investments might have been, originally, opposed by one or more of our partners. Teams are great at gathering information and surfacing wisdom, but terrible at making decisions. We believe in individual accountability -- if anyone can say yes, then everyone feels the weight of making a decision. (That said, we do require that before anyone says yes they mention the investment to the rest of us -- that way they get the benefit of the team’s input, and it’s a good way to slow down and think for a second.)
 
-We value each others’ opinions and seek them out. Our team is unusual in that we don’t (yet!) have any of the “partner issues” we hear about at other funds. In other funds, it's the worst of both worlds -- founders lack clarity about how investments get approved, and in some firms the partners become resentful of one another's power to approve each others' investments and then  do little to support another partners' companies.
+We value each others’ opinions and seek them out. Our team is unusual in that we don’t (yet!) have any of the “partner issues” we hear about at other funds. In other funds, it's the worst of both worlds -- founders lack clarity about how investments get approved, and in some firms the partners become resentful of one another's power to approve each others' investments and then do little to support another partners' companies.
 
 We believe in each others’ talents, trust each other enough not to mind when someone is wildly wrong, and enjoy each others’ views. We talk as a full group twice a week, to think out loud about companies we’ve invested in or might invest in, and we meet for a full few days once every couple of months.
 
