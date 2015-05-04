@@ -107,7 +107,7 @@ That said, within our themes there are specific ideas we currently care about:
 * Technology platforms: Exploiting the increasing power of the browser, and WebRTC in particular; exploring companion businesses to open source software
 * Data: Vertical applications and analytical tools that affect business decisions
 
-We find it hard to imagine we’d make an investment in e-commerce or entertainment.
+We find it hard to imagine we’d make an investment in e-commerce or entertainment, and there are a few other areas that intersect with the future of work where we've learned we know too little to be confident (local and medical services, for example).
 
 ### “The Deck”
 
