@@ -31,7 +31,7 @@ Ultimately, Bloomberg L.P.’s founders have succeeded at doing what we hope to 
 
 ## What we look for
 
-We recognize that seeing early signs of greatness is hard, and nobody’s cracked how to do it reliably. That said, there are a few things we do look for: certain qualities of a founding team, an early product, and the right moment in a company’s life.  We also focus on investing in areas where we think we can be helpful.
+We recognize that seeing early signs of an outlier is hard, and nobody’s cracked how to do it reliably. What we want is a reason to tell ourselves that a startup has a chance to be extraordinary. There are a few areas we search for signs: certain qualities of a founding team, an early product, and the right moment in a company’s life.  We also focus on investing in areas where we think we can be helpful.
 
 ### Founders
 
@@ -63,7 +63,7 @@ We strongly prefer to be the first money into a company, and to invest as early 
 
 This isn’t so much a rational investment calculation (arguably there is less competition to write bigger, later checks) -- but it’s a matter of our style. An early investment is less of a transaction and more of a relationship. We do make exceptions for certain reasons (e.g., a founder or company we just couldn’t resist).
 
-“First money in” doesn’t necessarily mean lead investor -- sometimes we are the only ones at the table, sometimes one of many. Sometimes the founder sets the terms, sometimes another investor does, sometimes we do. We are indifferent on this.
+“First money in” doesn’t necessarily mean lead investor -- sometimes we are the only investors, sometimes one of many. Sometimes the founder sets the terms, sometimes another investor does, sometimes we do. We are indifferent on this. When we're willing to invest, we're willing to set the terms; whether other investors follow depends.
 
 We are more than happy to invest in companies that might take a very long time to prove they are on to something -- our investor, Bloomberg, has a decades-long view and is willing to build for the long-term. We do not have a fixed time horizon to expect our companies to return capital. In fact, we prefer companies who are building for permanence.
 
