@@ -63,7 +63,7 @@ We strongly prefer to be the first money into a company, and to invest as early 
 
 This isn’t so much a rational investment calculation (arguably there is less competition to write bigger, later checks) -- but it’s a matter of our style. The earlier we invest, it's less a "transaction" alone and more a genuine relationship. We make exceptions with some other good reason (a founder or company we just couldn’t resist).
 
-“First money in” doesn’t necessarily mean lead investor -- sometimes we are the only ones at the table, sometimes one of many. Sometimes the founder sets the terms, sometimes another investor does, sometimes we do. We are indifferent on this.
+“First money in” doesn’t necessarily mean lead investor -- often we are the only investor in the company, sometimes one of many. Sometimes the founder sets the terms, sometimes another investor does, sometimes we do. We are indifferent on this. If we're willing to invest in a round, we're willing to set the terms for it. Whether other investors choose to invest on those terms as well is depends on how they think about us and our investment.
 
 We are more than happy to invest in companies that might take a very long time to prove they are on to something -- our investor, Bloomberg, has a decades-long view and is willing to build for the long-term. We do not have a fixed time horizon to expect our companies to return capital. In fact, we prefer companies who are building for permanence.
 
