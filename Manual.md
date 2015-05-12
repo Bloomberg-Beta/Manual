@@ -63,7 +63,7 @@ We strongly prefer to be the first money into a company, and to invest as early 
 
 This isn’t so much a rational investment calculation (arguably there is less competition to write bigger, later checks) -- but it’s a matter of our style. The earlier we invest, it's less a "transaction" alone and more a genuine relationship. We make exceptions with some other good reason (a founder or company we just couldn’t resist).
 
-“First money in” doesn’t necessarily mean lead investor -- sometimes we are the only ones at the table, sometimes one of many. Sometimes the founder sets the terms, sometimes another investor does, sometimes we do. We are indifferent on this.
+“First money in” doesn’t necessarily mean lead investor -- often we are the only investor in the company, sometimes one of many. Sometimes the founder sets the terms, sometimes another investor does, sometimes we do. We are indifferent on this. If we're willing to invest in a round, we're willing to set the terms for it. Whether other investors choose to invest on those terms as well is depends on how they think about us and our investment.
 
 We are more than happy to invest in companies that might take a very long time to prove they are on to something -- our investor, Bloomberg, has a decades-long view and is willing to build for the long-term. We do not have a fixed time horizon to expect our companies to return capital. In fact, we prefer companies who are building for permanence.
 
@@ -421,7 +421,9 @@ Things not to try on us, that others have tried:
 * A first email that says “My round is closing next week. Do you have interest?” We understand that founders are eager to close their funding rounds. Sometimes timing doesn’t work -- we have no fear of the elevator doors closing on us. That said, we always try to imagine how we'd behave with any company if there *were* enormous time pressure to decide (founder time is precious) -- and behave that way regardless.
 * “You can only try our product if you invest.” If the product isn’t ready, we understand that. But if it is ready and we can’t play with it, we can't figure out whether to work with you.
 
-We will not invest in a company that is a known competitor today to one of our portfolio companies. We recognize that competition issues can be complicated, and our intent is to respect the interests of our portfolio companies.
+We will turn down investing in a startup that is a known competitor today to one of our portfolio companies. If you pitch us, and we think one of our founders might find it competitive, or you might find one of our investments (especially an un-announced one) competitive, we'll tell you that we think there is a risk and (in as much as we can share) why. Then, if you want to continue talking, we'll agree with you on what we can share with the other founder (and then, vice versa) to assess the risk of a competitive issue as openly as possible.
+
+We recognize that competition issues can be complicated. Our intent is to respect the interests of our portfolio companies, and the confidentiality of every startup with which we communicate.
 
 ### Why you should take our money
 
