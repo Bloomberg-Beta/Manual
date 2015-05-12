@@ -421,7 +421,9 @@ Things not to try on us, that others have tried:
 * A first email that says “My round is closing next week. Do you have interest?” We understand that founders are eager to close their funding rounds. Sometimes timing doesn’t work -- we have no fear of the elevator doors closing on us. That said, we always try to imagine how we'd behave with any company if there *were* enormous time pressure to decide (founder time is precious) -- and behave that way regardless.
 * “You can only try our product if you invest.” If the product isn’t ready, we understand that. But if it is ready and we can’t play with it, we can't figure out whether to work with you.
 
-We will not invest in a company that is a known competitor today to one of our portfolio companies. We recognize that competition issues can be complicated, and our intent is to respect the interests of our portfolio companies.
+We will turn down investing in a startup that is a known competitor today to one of our portfolio companies. If you pitch us, and we think one of our founders might find it competitive, or you might find one of our investments (especially an un-announced one) competitive, we'll tell you that we think there is a risk and (in as much as we can share) why. Then, if you want to continue talking, we'll agree with you on what we can share with the other founder (and then, vice versa) to assess the risk of a competitive issue as openly as possible.
+
+We recognize that competition issues can be complicated. Our intent is to respect the interests of our portfolio companies, and the confidentiality of every startup with which we communicate.
 
 ### Why you should take our money
 
