@@ -427,7 +427,7 @@ We recognize that competition issues can be complicated. Our intent is to respec
 
 ### Why you should take our money
 
-We were going to write a more elaborate argument here, but we hope this entire manual gives you a sense of how we work -- that’s the reason to take our investment, or to avoid us if our approach isn't your style.
+We wrote this manual so you could understand how we work, and see if you want our money. We hope this manual achieved that, and that we can avoid repeating it all right here.
 
 ### Thank you
 
