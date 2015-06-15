@@ -355,7 +355,7 @@ What makes a good written update for investors?
 * Team additions or changes
 * Where you want help from us
 
-Here is a link to an anonymized update from one of our companies: http://bit.ly/1fvjAye
+Here is a [sample anonymized update](https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit) from one of our companies.
 
 We do try to get the right to receive your financials, it’s a good way to give us a snapshot of your likely future capital needs.
 
