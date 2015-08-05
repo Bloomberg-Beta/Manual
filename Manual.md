@@ -251,7 +251,7 @@ We also feel that the cadence of board review (every couple of months, let’s s
 
 More generally, we are ambivalent about whether investor control is useful at all. We’ve seen it cut both ways.
 
-So, we generally prefer not to have a seat on a company’s board. But, that said, if the company wants us on the board, we’re open to talking about it. We have yet to take a board seat in any of our investments.
+So, we generally prefer not to have a seat on a company’s board. But, that said, if the company wants us on the board, we’re open to talking about it -- and we have agreed to join boards from time to time when the founder truly wants this and has good reasons after hearing our views.
 
 ### Rights we want
 
