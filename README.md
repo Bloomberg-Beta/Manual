@@ -1,5 +1,7 @@
 ## Why we exist
 
+[![Join the chat at https://gitter.im/Bloomberg-Beta/Manual](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Bloomberg-Beta/Manual?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 We believe we are seeing the beginnings of profound changes in the way work works. Our investor, Bloomberg L.P., wants to support and understand these changes. Backing and building startups is a wonderful way to do that, so we created [Bloomberg Beta](http://www.bloombergbeta.com).
 
 ## Why are we sharing our operating manual?
