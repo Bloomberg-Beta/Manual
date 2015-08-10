@@ -48,6 +48,7 @@ Founders are our customers. In order of our announced participation:
 | [Elizabeth Zalman](https://www.linkedin.com/in/elizabethzalman) | **[StrongDM](http://www.strongdm.com/)** |
 | [Jesse Vincent](https://twitter.com/obra), [Kaia Dekker](https://www.linkedin.com/in/kaiadekker) | **[Keyboard.io](http://www.keyboard.io/)** |
 | [Edith Harbaugh](https://www.linkedin.com/in/edithharbaugh), [John Kodumal](https://www.linkedin.com/in/jkodumal) | **[LaunchDarkly](http://launchdarkly.com/)** |
+| [Nick Elprin](https://www.linkedin.com/pub/nick-elprin/38/a0/b3), [Chris Yang](https://www.linkedin.com/pub/christopher-yang/58/9a6/a62) | **[Domino Data Lab](https://www.dominodatalab.com/)** |
 
 :one: Acquired by LinkedIn, Jul. 2014 :thumbsup:
 
