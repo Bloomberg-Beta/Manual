@@ -26,9 +26,9 @@ Shivon Zilis -- [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.
 Dan Strickland -- [Twitter](https://twitter.com/strickland_dan) // [LinkedIn](https://www.linkedin.com/in/danstrickland)
 
 ### Where we work
-San Francisco -- 140 New Montgomery St -- [Map](http://goo.gl/49X6hu)
+San Francisco -- 140 New Montgomery St. -- [Map](http://goo.gl/49X6hu)
 
-New York -- 731 Lexington Ave -- [Map](http://goo.gl/tt3m7f)
+New York -- 731 Lexington Ave. -- [Map](http://goo.gl/tt3m7f)
 
 ## License
 This manual is open sourced under a [Creative Commons license](http://creativecommons.org/licenses/by/3.0/deed.en_US]).
