@@ -263,7 +263,11 @@ We care about getting some information rights -- basically the ability for us to
 
 ### The numbers
 
-Our standard first check is $250,000 to $500,000. We have no minimum check size, and have written checks as small as $25,000, and we have written first checks for seven figures. Although our fund can comfortably write bigger checks, we believe that the early days of funds, just like the early days of companies, should burn capital more slowly while they find product-market fit. (In our first year, our biggest check was $250,000.) As we mature, we may become more rigid in our financial requirements for deals as we learn what works for us, and we will write bigger checks.
+Our standard first check is $500,000, though more and more often we are investing up to $1M. We want to invest enough to give a startup the money it needs to make real progress in the early days, and to attract other investors alongside us if needed. We are happy to lead, and happy to participate in rounds led by others, depending on the situation -- in earliest-stage venture, sometimes the [idea of a lead means different things to different people](http://also.roybahat.com/post/119369807637/in-earliest-stage-venture-what-is-a-lead-anyway).
+
+In the early days of our fund, we wrote smaller checks because (like the early days of companies) we believe in burning capital slowly until you find product-market fit. (In our first year, our biggest check was $250,000.) 
+
+We have no minimum check size, and have written checks as small as $25,000, especially in what we call a ["flag" investment](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#flag).
 
 We care about price. We do not have a target ownership level, but would like to see a path where we can put more money into a company and own a meaningful amount of the company. Our view is that we are comfortable taking the highest possible levels of risk and that founders, and their investors, should be rewarded for that. We believe companies are successful when their teams also get generous equity grants that motivate the early team members to create something valuable.
 
@@ -271,13 +275,11 @@ We also believe “the price is the price” -- we won’t ask for unusual disco
 
 No, not every VC wants to own 30% of your company. In fact, we think at seed stages too much ownership by the early investors can ruin the cap table -- making it difficult for the founders to make money, or later investors to own enough of the company when the company needs bigger dollars to scale.
 
-Like a startup, we’re burning our capital slowly at first while we find product-market fit. In our case, our product is our offering to founders. We welcome ideas and suggestions. We are optimizing at this stage for being involved with the best founders and the best companies, and more flexible on the precise structure for our involvement (check size, stage, level of involvement).
-
 We believe in transparency. If a startup that takes our money wants to publicize the terms of our investment, we’d generally support that. (Of course we’d never disclose anything confidential without consent, and we expect the same of our founders.)
 
 The average pre-money valuation of our investments for the year to date in 2013 was $6M. (We intend to update this number from time to time, but not too frequently -- to avoid inadvertently disclosing the terms of any one deal. This average includes only our investments where we were part of the first money into a company -- we could not figure out a way to make our small number of later-stage investments comparable on an apples-to-apples basis.)
 
-While we’d like to claim that the amount of work we do on behalf of a company will vary dramatically based on our ownership interest, we’re not sure that is true yet -- the reality is that the amount of work we do for a company depends most of all on how much the company needs and wants our help. If they ask us to work for them, we do all we can to help.
+While we’d like to claim that the amount of work we do on behalf of a company will vary dramatically based on our ownership interest, we’re not sure that is true yet -- the reality is that the amount of work we do for a company depends most of all on how much the company needs and wants our help. If they ask us to work for them, we do what we can to help.
 
 ### Other investors
 
