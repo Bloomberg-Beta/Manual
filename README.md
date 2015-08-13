@@ -1,7 +1,7 @@
 #START HERE
 
 ### Why we exist
-We believe we are seeing the beginnings of profound changes in the way work works. Our investor, Bloomberg L.P., wants to support and understand these changes. Backing and building startups is a wonderful way to do that, so we created Bloomberg Beta.
+We believe we are seeing profound changes in the way business works. Our investor, Bloomberg L.P., wants to support and understand these changes. Backing and building startups is a wonderful way to do that, so we created Bloomberg Beta. Below you can find a snapshot of basic information on our fund, and links to our full previously-internal operating manual with many details on how we work.
 
 Bloomberg Beta is a $75 million fund backed by [Bloomberg L.P.](http://www.bloomberg.com/company/bloomberg-facts/?utm_source=bloomberg-menu) While we focus on areas broadly of interest to Bloomberg, we choose our investments independently, without preference for companies who have or want a relationship with Bloomberg. We invest for financial return. We do see Bloomberg as a template for startups—founded on a powerful idea, bringing transparency to markets, achieving global scale, with a strong and open culture that embraces technology, led by its founders for decades.
 
