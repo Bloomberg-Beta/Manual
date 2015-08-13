@@ -18,7 +18,7 @@ Founders are our customers. In order of our announced participation:
 | [Anil Dash](http://dashes.com/anil/), [Gina Trapani](https://twitter.com/ginatrapani) | **[ThinkUp](https://www.thinkup.com/)** | 
 | [Sandi MacPherson](http://quibb.com/sandimacpherson) | **[Quibb](http://quibb.com/)** | 
 | [Jason Hirschhorn](https://twitter.com/JasonHirschhorn) | **[REDEF](http://www.mediaredefined.com/)** | 
-| [Ryan Peterson](https://twitter.com/ryanp2) | **[Flexport](https://www.flexport.com/)** | 
+| [Ryan Petersen](https://twitter.com/ryanp2) | **[Flexport](https://www.flexport.com/)** | 
 | [Fouad ElNaggar](https://twitter.com/ThufirHawat), [Peter Yared](https://twitter.com/peteryared) | **[Sapho](http://www.sapho.com/)** | 
 | [Danielle Perdomo](https://twitter.com/danielaperdomo) | **[goTenna](http://gotenna.com/)** |
 | [Anne Wootton](https://twitter.com/annewootton), [Bailey Smith](https://www.linkedin.com/in/baileyrsmith) | **[Pop Up Archive](https://www.popuparchive.com/)** |
