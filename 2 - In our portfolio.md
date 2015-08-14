@@ -45,10 +45,11 @@ Founders are our customers. In order of our announced participation:
 | [Steve Newman](https://www.linkedin.com/pub/steve-newman/31/a35/1a2) | **[Scalyr](https://www.scalyr.com/)** |
 | [Kulveer Taggar](https://twitter.com/kul) | **[Status](http://trystatus.com/)** |
 | [Zaid Al Hamami](https://www.linkedin.com/pub/zaid-al-hamami/2/83/211) | **[Immunio](http://immun.io/)** |
-| [Elizabeth Zalman](https://www.linkedin.com/in/elizabethzalman) | **[StrongDM](http://www.strongdm.com/)** |
+| [Elizabeth Zalman](https://www.linkedin.com/in/elizabethzalman), [Schuyler Brown](https://www.linkedin.com/in/brownschuyler), [Justin McCarthy](https://www.linkedin.com/in/justinmccarthy) | **[StrongDM](http://www.strongdm.com/)** |
 | [Jesse Vincent](https://twitter.com/obra), [Kaia Dekker](https://www.linkedin.com/in/kaiadekker) | **[Keyboard.io](http://www.keyboard.io/)** |
 | [Edith Harbaugh](https://www.linkedin.com/in/edithharbaugh), [John Kodumal](https://www.linkedin.com/in/jkodumal) | **[LaunchDarkly](http://launchdarkly.com/)** |
 | [Nick Elprin](https://www.linkedin.com/pub/nick-elprin/38/a0/b3), [Chris Yang](https://www.linkedin.com/pub/christopher-yang/58/9a6/a62), [Matthew Granade] (https://www.linkedin.com/pub/matthew-granade/0/188/837) | **[Domino Data Lab](https://www.dominodatalab.com/)** |
+| [Chris Kelly](https://www.linkedin.com/in/christopherkelly) | **[Survata](https://www.survata.com/)** |
 
 :one: Acquired by LinkedIn, Jul. 2014 :thumbsup:
 
