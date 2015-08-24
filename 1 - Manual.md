@@ -71,6 +71,8 @@ We are more than happy to invest in companies that might take a very long time t
 
 Greatness can start anywhere. We're a small team with a modest-sized fund, though, and believe we can really only help if we’re nearby. Startups depend on trust, and it's hard to build trust without spending time together in person. That means San Francisco and New York since our team is in both of those cities. We have deep roots in both places so our ability to bring in local folks who can help is greater there, and we only want to invest where we believe we can be disproportionately helpful. We would consider an investment elsewhere (for example if an area has a deep specialty, as some regions do with security startups), it's just harder for us.
 
+The same is true for startups that are headquartered in one of our hometowns and have an initial market elsewhere (e.g., a company in San Francisco focused on doing something in India). We believe companies should be as close to their customers as possible, and we want to deeply understand a startup's potential customers -- that's difficult when it's targeting customers in markets that are far from where we have expertise and relationships.
+
 We have invested outside of San Francisco and New York a couple of times (Seattle once… Boston a couple of times…), though we need an exceptional reason (and often it's when we already know and trust the team).
 
 ### Sources
