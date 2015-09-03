@@ -27,7 +27,7 @@ Founders are our customers. In order of our announced participation:
 | [K.V. Rao](https://www.linkedin.com/pub/k-v-rao/0/48/517) | **[Aviso](http://www.aviso.com/)** |
 | [Nadim Hossain](https://www.linkedin.com/in/nadimhossain), [Nisheeth Ranjan](https://www.linkedin.com/in/nranjan), [Ranjan Bagchi](https://www.linkedin.com/in/rbagchi) | **[BrightFunnel](http://www.brightfunnel.com/)** |
 | [Alex Rampell](https://twitter.com/arampell), [Pasha Bitz](https://twitter.com/pashabitz), [Jonathan Wolf](https://www.linkedin.com/in/jwolf) | **[TXN](http://txn.com/)** |
-| [Eric Tilenius](https://www.linkedin.com/in/tilenius), [Pratik Verma](https://www.linkedin.com/in/pratikrverma) | **[Blue Talon Data Systems](http://bluetalon.com/)** |
+| [Eric Tilenius](https://www.linkedin.com/in/tilenius), [Pratik Verma](https://www.linkedin.com/in/pratikrverma) | **[BlueTalon Data Systems](http://bluetalon.com/)** |
 | [Fred Seibert](https://twitter.com/fredseibert), [Yoel Flohr](https://uk.linkedin.com/in/flohr) | **[Thirty Labs](http://thirtylabs.com/)** |
 | [Jamie Davidson](https://www.linkedin.com/pub/jamie-davidson/32/451/85a), [Eric Duffy](https://www.linkedin.com/pub/eric-duffy/29/326/101) | **[Pathgather](http://www.pathgather.com/)** |
 | [David Byrd](https://www.linkedin.com/in/davidmbyrd), [Steve Kaliski](https://www.linkedin.com/pub/steve-kaliski/10/a77/79) | **[Bowery](http://bowery.io/)** |
