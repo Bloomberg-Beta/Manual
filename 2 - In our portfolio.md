@@ -9,7 +9,7 @@ Founders are our customers. In order of our announced participation:
 | [Jonah Varon](https://www.linkedin.com/in/jonahvaron), [Axel Hansen](https://www.linkedin.com/pub/axel-hansen/25/aa/7ab)  | **[Newsle](https://newsle.com/)** :one: |
 | [Charlie Robbins](https://twitter.com/indexzero) | **[Nodejitsu](https://www.nodejitsu.com/)** :two: |
 | [Jon Lee](https://www.linkedin.com/in/jonlee168) | **[ProsperWorks](https://www.prosperworks.com/)** |
-| [Paul Dix](https://twitter.com/pauldix), [Todd Persen](https://www.linkedin.com/in/toddpersen) | **[Influx DB](http://influxdb.com/)** |
+| [Paul Dix](https://twitter.com/pauldix), [Todd Persen](https://www.linkedin.com/in/toddpersen) | **[InfluxDB](http://influxdb.com/)** |
 | [Zach Sims](https://twitter.com/zsims), [Ryan Bubinski](https://www.linkedin.com/in/ryanbubinski) | **[Codecademy](http://www.codecademy.com/)** | 
 | [Satya Patel](https://twitter.com/satyap), [Hunter Walk](https://twitter.com/hunterwalk) | **[Homebrew](http://homebrew.co/)** | 
 | [Stephen Purpura](https://www.linkedin.com/in/spurpura) | **[Context Relevant](http://www.contextrelevant.com/)** |
@@ -25,7 +25,7 @@ Founders are our customers. In order of our announced participation:
 | [Satyen Sangani](https://www.linkedin.com/in/ssangani) | **[Alation](http://alation.com/)** |
 | [Amit Gupta](https://www.linkedin.com/in/amitngupta) | **[SenderGen](http://www.sendergen.com/)** |
 | [K.V. Rao](https://www.linkedin.com/pub/k-v-rao/0/48/517) | **[Aviso](http://www.aviso.com/)** |
-| [Nadim Hossain](https://www.linkedin.com/in/nadimhossain), [Nisheeth Ranjan](https://www.linkedin.com/in/nranjan), [Ranjan Bagchi](https://www.linkedin.com/in/rbagchi) | **[Bright Funnel](http://www.brightfunnel.com/)** |
+| [Nadim Hossain](https://www.linkedin.com/in/nadimhossain), [Nisheeth Ranjan](https://www.linkedin.com/in/nranjan), [Ranjan Bagchi](https://www.linkedin.com/in/rbagchi) | **[BrightFunnel](http://www.brightfunnel.com/)** |
 | [Alex Rampell](https://twitter.com/arampell), [Pasha Bitz](https://twitter.com/pashabitz), [Jonathan Wolf](https://www.linkedin.com/in/jwolf) | **[TXN](http://txn.com/)** |
 | [Eric Tilenius](https://www.linkedin.com/in/tilenius), [Pratik Verma](https://www.linkedin.com/in/pratikrverma) | **[Blue Talon Data Systems](http://bluetalon.com/)** |
 | [Fred Seibert](https://twitter.com/fredseibert), [Yoel Flohr](https://uk.linkedin.com/in/flohr) | **[Thirty Labs](http://thirtylabs.com/)** |
