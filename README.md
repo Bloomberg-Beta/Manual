@@ -25,6 +25,8 @@ Shivon Zilis -- [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.
 
 Dan Strickland -- [Twitter](https://twitter.com/strickland_dan) // [LinkedIn](https://www.linkedin.com/in/danstrickland)
 
+Morgan Polotan -- [Twitter](https://twitter.com/morganpolotan) // [LinkedIn](https://www.linkedin.com/in/morganpolotan)
+
 ### Where we work
 San Francisco -- 140 New Montgomery St. -- [Map](http://goo.gl/49X6hu)
 
