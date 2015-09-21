@@ -15,22 +15,22 @@ Now we've moved our entire web presence to GitHub to become even more transparen
 **So here you are. When in doubt, as they say, read the (ahem) manual. :)**
 
 ### Who we are
-Roy Bahat -- [Twitter](https://twitter.com/roybahat) // [LinkedIn](https://www.linkedin.com/in/roybahat) // [Blog](http://also.roybahat.com/)
+Roy Bahat — [Twitter](https://twitter.com/roybahat) // [LinkedIn](https://www.linkedin.com/in/roybahat) // [Blog](http://also.roybahat.com/)
 
-Karin Klein -- [Twitter](https://twitter.com/karinklein) // [LinkedIn](https://www.linkedin.com/in/karinklein)
+Karin Klein — [Twitter](https://twitter.com/karinklein) // [LinkedIn](https://www.linkedin.com/in/karinklein)
 
-James Cham -- [Twitter](https://twitter.com/jamescham) // [LinkedIn](https://www.linkedin.com/in/jcham)
+James Cham — [Twitter](https://twitter.com/jamescham) // [LinkedIn](https://www.linkedin.com/in/jcham)
 
-Shivon Zilis -- [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/pub/shivon-zilis/7/b35/281)
+Shivon Zilis — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/pub/shivon-zilis/7/b35/281)
 
-Dan Strickland -- [Twitter](https://twitter.com/strickland_dan) // [LinkedIn](https://www.linkedin.com/in/danstrickland)
+Dan Strickland — [Twitter](https://twitter.com/strickland_dan) // [LinkedIn](https://www.linkedin.com/in/danstrickland)
 
-Morgan Polotan -- [Twitter](https://twitter.com/morganpolotan) // [LinkedIn](https://www.linkedin.com/in/morganpolotan)
+Morgan Polotan — [Twitter](https://twitter.com/morganpolotan) // [LinkedIn](https://www.linkedin.com/in/morganpolotan)
 
 ### Where we work
-San Francisco -- 140 New Montgomery St. -- [Map](http://goo.gl/49X6hu)
+San Francisco — 140 New Montgomery St. — [Map](http://goo.gl/49X6hu)
 
-New York -- 731 Lexington Ave. -- [Map](http://goo.gl/tt3m7f)
+New York — 731 Lexington Ave. — [Map](http://goo.gl/tt3m7f)
 
 ## License
 This manual is open sourced under a [Creative Commons license](http://creativecommons.org/licenses/by/3.0/deed.en_US]).
