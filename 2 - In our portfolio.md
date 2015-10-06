@@ -51,6 +51,7 @@ Founders are our customers. In order of our announced participation:
 | [Nick Elprin](https://www.linkedin.com/pub/nick-elprin/38/a0/b3), [Chris Yang](https://www.linkedin.com/pub/christopher-yang/58/9a6/a62), [Matthew Granade] (https://www.linkedin.com/pub/matthew-granade/0/188/837) | **[Domino Data Lab](https://www.dominodatalab.com/)** |
 | [Chris Kelly](https://www.linkedin.com/in/christopherkelly) | **[Survata](https://www.survata.com/)** |
 | [Raphael Crawford-Marks](https://twitter.com/raphaelcm), [John Quinn](https://www.linkedin.com/in/johndquinn) | **[Bonusly](https://bonus.ly/)** |
+| [Jason Garoutte](https://www.linkedin.com/in/garoutte), [Brian Zotter](https://www.linkedin.com/in/zotterb) | **[YesPath](http://yespath.com)** |
 :one: Acquired by LinkedIn, Jul. 2014 :thumbsup:
 
 :two: Acquired by GoDaddy, Feb. 2015 :thumbsup:
