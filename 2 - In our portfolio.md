@@ -54,6 +54,7 @@ Founders are our customers. In order of our announced participation:
 | [Jason Garoutte](https://www.linkedin.com/in/garoutte), [Brian Zotter](https://www.linkedin.com/in/zotterb) | **[YesPath](http://yespath.com)** |
 | [Eric Wuebben](https://twitter.com/wuebben), [Andrew Courter](https://twitter.com/covrter) | **[Highly](https://www.highly.co)** |
 | [Katie Spence](https://twitter.com/spenceke), [Ben Brown](https://twitter.com/benbrown) | **[Howdy](http://howdy.ai/)** |
+| [Justin Wohlstadter](https://twitter.com/justpw)| **[Wonder](https://askwonder.com/)** |
 
 :one: Acquired by LinkedIn, Jul. 2014 :thumbsup:
 
