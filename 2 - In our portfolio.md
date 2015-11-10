@@ -56,6 +56,8 @@ Founders are our customers. In order of our announced participation:
 | [Katie Spence](https://twitter.com/spenceke), [Ben Brown](https://twitter.com/benbrown) | **[Howdy](http://howdy.ai/)** |
 | [Justin Wohlstadter](https://twitter.com/justpw)| **[Wonder](https://askwonder.com/)** |
 
+We love when our portfolio companies hire great investors. Find a list of firms we've worked with [here](https://www.crunchbase.com/organization/bloomberg-beta/insights/co-investors).
+
 :one: Acquired by LinkedIn, Jul. 2014 :thumbsup:
 
 :two: Acquired by GoDaddy, Feb. 2015 :thumbsup:
