@@ -89,7 +89,7 @@ We also try a lot of products. Our phones have many, many apps installed. And we
 
 We keep track of companies we’ve been in touch with -- just like we’d hope that our companies do, we have an organized system for our outreach. In general, we try to run our fund with the same tools our companies use.
 
-In May 2015 we also created the Open Scouts program to deepen relationships with a handful of angels we trust. With the program, Beta backs every deal our Scouts syndicate at a fixed ratio with their personal investment. While a portion of the allocation is reserved for us, we are not direct investors in the portfolio companies and each Scout manages the syndicate's relationship with companies. Our intent is to support people we trust as investors, and extend the fund to support many more companies, not to create direct deal flow. Scouts include Max Simkoff, Shruti Gandhi, and Parker Thompson.
+We also created the Open Scouts program to deepen relationships with a handful of angels we trust. With the program, administered through AngelList syndicates, we back every deal our Open Scouts do at a fixed ratio with their personal investment. We are not direct investors in their portfolio companies and each Scout manages their relationship with companies. Our intent is to support people we trust, and extend our fund to support many more companies, not to create direct deal flow for us. Open Scouts include [Max Simkoff](https://angel.co/max-simkoff/syndicate), [Shruti Gandhi](https://angel.co/shruti_gandhi/syndicate), and [Parker Thompson](https://angel.co/pt/syndicate).
 
 ### “Themes”
 
