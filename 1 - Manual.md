@@ -93,7 +93,7 @@ We also created the Open Scouts program to deepen relationships with a handful o
 
 ### “Themes”
 
-Our overall focus is investing in companies that improve work -- these can be individual-facing (not all “enterprise”) so long as they help a person be more productive, knowledgeable, or content at work. Of course they can also be services for businesses.
+Our overall focus is investing in startups that improve work -- and knowledge work in particular. These startups can be individual-facing (not all “enterprise”) so long as they help a person be more productive, knowledgeable, or content at work. Of course they can also be services for businesses.
 
 We are focused on the following areas (all of which are of great interest to Bloomberg L.P.): machine intelligence (see more [here](http://www.shivonzilis.com/machineintelligence)), data, technology platforms, media distribution, content discovery, networks & communities, human-computer interaction, and radically new organizational models. It’s a wide range.
 
