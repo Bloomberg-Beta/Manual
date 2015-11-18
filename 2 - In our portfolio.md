@@ -55,6 +55,7 @@ Founders are our customers. In order of our announced participation:
 | [Eric Wuebben](https://twitter.com/wuebben), [Andrew Courter](https://twitter.com/covrter) | **[Highly](https://www.highly.co)** |
 | [Katie Spence](https://twitter.com/spenceke), [Ben Brown](https://twitter.com/benbrown) | **[Howdy](http://howdy.ai/)** |
 | [Justin Wohlstadter](https://twitter.com/justpw)| **[Wonder](https://askwonder.com/)** |
+| [Brendan Frey](https://en.wikipedia.org/wiki/Brendan_Frey)| **[Deep Genomics](http://www.deepgenomics.com/)** |
 
 We love when our portfolio companies hire great investors. Find a list of firms we've worked with [here](https://www.crunchbase.com/organization/bloomberg-beta/insights/co-investors).
 
