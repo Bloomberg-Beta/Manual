@@ -46,7 +46,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Unlikely to compete directly with our other portfolio companies
 
 # Business and economics
-##### Reasons to believe it's an outlier
+##### Reasons to believe it's a potential outlier
 + Surprisingly profitable unit economics
 
 ##### Important indicators
@@ -57,7 +57,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Plausible to have sustainable unit economics in the future
 
 # Deal terms
-##### Reasons to believe it's an outlier
+##### Reasons to believe it's a potential outlier
 + None. [Good deal terms are never a reason to invest in and of themselves]
 
 ##### Important indicators
