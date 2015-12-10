@@ -1,4 +1,4 @@
-Investor Checklist
+Diligence Questions
 ========
 
 What are our criteria for selecting an investment? Investments we want to make go beyond a checklist of “box ticking” on our non-negotiable requirements (e.g., that we trust the founders). We look for important indicators that can bias us for or against investing, but to pass, startups need the potential to be more than merely great, they need a shot at the extraordinary. The good news is that to do that, we only look for at least one reason to believe, at whatever stage the company is at, that it can be an outlier...
