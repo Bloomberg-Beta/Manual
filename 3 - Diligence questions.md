@@ -3,34 +3,34 @@ Diligence Questions
 
 What are our criteria for selecting an investment? Investments we want to make go beyond a checklist of “box ticking” on our non-negotiable requirements (e.g., that we trust the founders). We look for important indicators that can bias us for or against investing, but to pass, startups need the potential to be more than merely great, they need a shot at the extraordinary. The good news is that to do that, we only look for at least one reason to believe, at whatever stage the company is at, that it can be an outlier...
 
-# Founder(s) and Team
-##### Reason to believe it's a potential outlier
+# Reasons to believe it's a potential outlier (at least one of the below compared to other great startups at the same stage)
+##### Founder(s) and team
 + Ever do something singular? Record of unusual achievement
 + Best-in-the-world experience in the domain
 + Punch-way-above-your-weight first hires
 + Depth of commitment to the problem ("would do this for a decade, and keep going even if funding never appeared")
 
-##### Important indicators
+##### Product and market
++ Never-heard-before insight into the market or problem
++ A wow of a product experience (including our own personal experience with it)
++ Extreme early numbers, especially on engagement (though could be on growth)
++ Customers are evangelists, especially if paying full price
+
+##### Business and economics
++ Surprisingly profitable unit economics
+
+##### Deal terms
++ None. [Good deal terms are never a reason to invest in and of themselves]
+
+# Important indicators (which can bias us for or against investing)
+##### Founder(s) and team
 + Combination of human / inhuman
 + Presence of cognitive distortions of founders
 + Reaction to intense pressure or strong criticism?
 + Differentiated value proposition for talent
 + If business shows early signs of success, can founders go the distance?
 
-##### Non-negotiable requirements
-+ Trustworthy (i.e., will tell us when things are even a little broken)
-+ Can raise more money, or get business to profitability
-+ Completed background check
-+ In Bay Area or New York (and, if not, strong reason to believe we are the best possible investor)
-
-# Product and market
-##### Reason to believe it's a potential outlier
-+ Never-heard-before insight into the market or problem
-+ A wow of a product experience (including our own personal experience with it)
-+ Extreme early numbers, especially on engagement (though could be on growth)
-+ Customers are evangelists, especially if paying full price
-
-##### Important indicators
+##### Product and market
 + Someone else already tried -- good sign!
 + Clear initial target market, surprisingly narrow, and high on the gradient of influence
 + Clear single metric to focus on now (often engagement or satisfaction)
@@ -40,27 +40,11 @@ What are our criteria for selecting an investment? Investments we want to make g
 + We have a unique ability to help
 + Clear sense, if applicable, of any direct competitors and why the company has superior offering for its market
 
-##### Non-negotiable requirements
-+ "Makes business work better", without being in financial services
-+ We have judgment to identify a winner in the relevant market (usually means a fit with one of our stated investment areas)
-+ Unlikely to compete directly with our other portfolio companies
-
-# Business and economics
-##### Reasons to believe it's a potential outlier
-+ Surprisingly profitable unit economics
-
-##### Important indicators
+##### Business and economics
 + Clear sense of why to raise capital (i.e., where to deploy)
 + Clear sense of why to raise venture capital (we often discourage founders from taking venture at all)
 
-##### Non-negotiable requirements
-+ Plausible to have sustainable unit economics in the future
-
-# Deal terms
-##### Reasons to believe it's a potential outlier
-+ None. [Good deal terms are never a reason to invest in and of themselves]
-
-##### Important indicators
+##### Deal terms
 + Founders own enough of the company
 + Fair ratio between risk and reward?
 + Pro rata rights
@@ -68,7 +52,22 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Other investors can help the company succeed
 + In success, our eagerness to invest many multiples of our original investment
 
-##### Non-negotiable requirements
+# Non-negotiable requirements (need all of the below)
+##### Founder(s) and team
++ Trustworthy (i.e., will tell us when things are even a little broken)
++ Can raise more money, or get business to profitability
++ Completed background check
++ In Bay Area or New York (and, if not, strong reason to believe we are the best possible investor)
+
+##### Product and market
++ "Makes business work better", without being in financial services
++ We have judgment to identify a winner in the relevant market (usually means a fit with one of our stated investment areas)
++ Unlikely to compete directly with our other portfolio companies
+
+##### Business and economics
++ Plausible to have sustainable unit economics in the future
+
+##### Deal terms
 + Standard investor protections (i.e., liquidity preference at 1x, blocking right over investments that would get repaid before we do)
 
 ||<sub>(Not a checklist!)  Reason to believe it’s a potential outlier: need at least one of the below to be extraordinary, compared to other great startups at the same stage</sub>|<sub>Important indicators: any of these can bias us for or against investing</sub>|<sub>(Checklist!) Non-negotiable requirements,<br> need all of the below</sub>|
