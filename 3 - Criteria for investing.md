@@ -1,9 +1,9 @@
-Diligence Questions
+Criteria for investing
 ========
 
-What are our criteria for selecting an investment? Investments we want to make go beyond a checklist of “box ticking” on our non-negotiable requirements (e.g., that we trust the founders). We look for important indicators that can bias us for or against investing, but to pass, startups need the potential to be more than merely great, they need a shot at the extraordinary. The good news is that to do that, we only look for at least one reason to believe, at whatever stage the company is at, that it can be an outlier...
+What are our criteria for selecting an investment? Investments we want to make go beyond a checklist of “box ticking” on our non-negotiable requirements (e.g., that we trust the founders). We also look for important indicators that can bias us for or against investing, too. For us to want to invest, the most important single quality: a startup needs the potential to be more than merely great, it needs a shot at the extraordinary. The good news is that to do that, we only look for at least one reason to believe, at whatever stage the company is at, that it can be an outlier...
 
-# Reasons to believe it's a potential outlier (at least one of the below compared to other great startups at the same stage)
+# Reasons to believe a startup is a potential outlier (at least one of the below compared to other great startups at the same stage)
 ##### Founder(s) and team
 + Ever do something singular? Record of unusual achievement
 + Best-in-the-world experience in the domain
@@ -11,7 +11,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Depth of commitment to the problem ("would do this for a decade, and keep going even if funding never appeared")
 
 ##### Product and market
-+ Never-heard-before insight into the market or problem
++ Never-heard-before insight into the market or problem, which could make the difference
 + A wow of a product experience (including our own personal experience with it)
 + Extreme early numbers, especially on engagement (though could be on growth)
 + Customers are evangelists, especially if paying full price
@@ -20,7 +20,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Surprisingly profitable unit economics
 
 ##### Deal terms
-+ None. [Good deal terms are never a reason to invest in and of themselves]
++ None. (Good deal terms are never a reason to invest in and of themselves.)
 
 # Important indicators (which can bias us for or against investing)
 ##### Founder(s) and team
