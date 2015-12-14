@@ -31,7 +31,7 @@ Ultimately, Bloomberg L.P.’s founders have succeeded at doing what we hope to 
 
 ## What we look for
 
-We recognize that seeing early signs of an outlier is hard, and nobody’s cracked how to do it reliably. What we want is a reason to tell ourselves that a startup has a chance to be extraordinary. There are a few areas where we search for signs: certain qualities of a founding team, an early product, areas where we think we can be helpful, and the right moment in a company’s life.  Here is a [complete list](https://github.com/Bloomberg-Beta/Manual/blob/morganpolotan-investor-checklist/3%20-%20Investor%20checklist.md) of the questions we ask ourselves when evaluating startups. 
+We recognize that seeing early signs of an outlier is hard, and nobody’s cracked how to do it reliably. What we want is a reason to tell ourselves that a startup has a chance to be extraordinary. There are a few areas where we search for signs: certain qualities of a founding team, an early product, areas where we think we can be helpful, and the right moment in a company’s life.  Here is a [complete list](https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md) of the questions we ask ourselves when evaluating startups. 
 
 ### Founders
 
