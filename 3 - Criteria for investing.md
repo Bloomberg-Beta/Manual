@@ -9,12 +9,15 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Best-in-the-world experience in the domain
 + Punch-way-above-your-weight first hires
 + Depth of commitment to the problem ("would do this for a decade, and keep going even if funding never appeared")
++ Would you work for the team?
 
 ##### Product and market
 + Never-heard-before insight into the market or problem, which could make the difference
 + A wow of a product experience (including our own personal experience with it)
 + Extreme early numbers, especially on engagement (though could be on growth)
-+ Customers are evangelists, especially if paying full price
++ Customers don't need to be sold, want to buy immediately (pre-sale)
++ Customers are evangelists, especially if paying full price (post-sale)
++ Little to no competition, esp from other well-funded startups
 
 ##### Business and economics
 + Surprisingly profitable unit economics
