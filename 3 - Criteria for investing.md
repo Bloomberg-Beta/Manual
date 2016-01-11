@@ -12,11 +12,8 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Would you work for the team?
 
 ##### Product and market
-+ Never-heard-before insight into the market or problem, which could make the difference
-+ A wow of a product experience (including our own personal experience with it)
-+ Extreme early numbers, especially on engagement (though could be on growth)
-+ Customers don't need to be sold, want to buy immediately (pre-sale)
-+ Customers are evangelists, especially if paying full price (post-sale)
++ A wow of a product experience and/or extreme early growth and engagement numbers (B2C)
++ Customers don't need to be sold, want to pay full-price immediately -> evangelists (B2B)
 + Exclusive path to customers - distribution as a competitive advantage
 + Once in a blue moon market timing, and set up to ride the wave
 
