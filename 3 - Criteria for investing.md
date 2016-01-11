@@ -27,10 +27,10 @@ What are our criteria for selecting an investment? Investments we want to make g
 
 # Important indicators (which can bias us for or against investing)
 ##### Founder(s) and team
-+ Combination of human / inhuman
-+ Presence of cognitive distortions of founders
++ Combination of human / inhuman, presence of cognitive distortions of founders
++ Spends only when they need to, miserly with their capital
 + Reaction to intense pressure or strong criticism?
-+ Differentiated value proposition for talent
++ Differentiated value proposition for talent - only place to go to work on a problem
 + If business shows early signs of success, can founders go the distance?
 
 ##### Product and market
