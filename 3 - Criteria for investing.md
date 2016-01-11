@@ -17,7 +17,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Extreme early numbers, especially on engagement (though could be on growth)
 + Customers don't need to be sold, want to buy immediately (pre-sale)
 + Customers are evangelists, especially if paying full price (post-sale)
-+ Little to no competition, esp from other well-funded startups
++ Exclusive path to customers - distribution as a competitive advantage
 
 ##### Business and economics
 + Surprisingly profitable unit economics
