@@ -6,8 +6,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 # Reasons to believe a startup is a potential outlier (at least one of the below compared to other great startups at the same stage)
 ##### Founder(s) and team
 + Ever do something singular? Record of unusual achievement
-+ Best-in-the-world experience in the domain
-+ Punch-way-above-your-weight first hires
++ Best-in-the-world domain experience or punch-way-above-your-weight-class first hires
 + Depth of commitment to the problem ("would do this for a decade, and keep going even if funding never appeared")
 + Would you work for the team?
 
