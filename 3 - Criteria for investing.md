@@ -15,7 +15,6 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Customers don't need to be sold, want to pay full-price immediately -> evangelists (B2B)
 + Exclusive path to customers - distribution as a competitive advantage
 + Once in a blue moon market timing, and set up to ride the wave
-+ Clear leader in the space
 
 ##### Business and economics
 + Surprisingly profitable unit economics
