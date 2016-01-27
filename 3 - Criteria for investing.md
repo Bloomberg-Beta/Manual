@@ -6,15 +6,15 @@ What are our criteria for selecting an investment? Investments we want to make g
 # Reasons to believe a startup is a potential outlier (at least one of the below compared to other great startups at the same stage)
 ##### Founder(s) and team
 + Ever do something singular? Record of unusual achievement
-+ Best-in-the-world experience in the domain
-+ Punch-way-above-your-weight first hires
++ Best-in-the-world domain experience or punch-way-above-your-weight-class first hires
 + Depth of commitment to the problem ("would do this for a decade, and keep going even if funding never appeared")
++ Would you work for the team?
 
 ##### Product and market
-+ Never-heard-before insight into the market or problem, which could make the difference
-+ A wow of a product experience (including our own personal experience with it)
-+ Extreme early numbers, especially on engagement (though could be on growth)
-+ Customers are evangelists, especially if paying full price
++ A wow of a product experience and/or extreme early growth and engagement numbers (B2C)
++ Customers don't need to be sold, want to pay full-price immediately -> evangelists (B2B)
++ Exclusive path to customers - distribution as a competitive advantage
++ Once in a blue moon market timing, and set up to ride the wave
 
 ##### Business and economics
 + Surprisingly profitable unit economics
@@ -24,10 +24,10 @@ What are our criteria for selecting an investment? Investments we want to make g
 
 # Important indicators (which can bias us for or against investing)
 ##### Founder(s) and team
-+ Combination of human / inhuman
-+ Presence of cognitive distortions of founders
++ Combination of human / inhuman, presence of cognitive distortions of founders
++ Spends only when they need to, miserly with their capital
 + Reaction to intense pressure or strong criticism?
-+ Differentiated value proposition for talent
++ Differentiated value proposition for talent - only place to go to work on a problem
 + If business shows early signs of success, can founders go the distance?
 
 ##### Product and market
