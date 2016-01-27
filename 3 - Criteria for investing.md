@@ -14,7 +14,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 + A wow of a product experience and/or extreme early growth and engagement numbers (B2C)
 + Customers don't need to be sold, want to pay full-price immediately -> evangelists (B2B)
 + Exclusive path to customers - distribution as a competitive advantage
-+ Once in a blue moon market timing, and set up to ride the wave
++ Timing -- that One Moment is clearly now
 
 ##### Business and economics
 + Surprisingly profitable unit economics
@@ -25,9 +25,9 @@ What are our criteria for selecting an investment? Investments we want to make g
 # Important indicators (which can bias us for or against investing)
 ##### Founder(s) and team
 + Combination of human / inhuman, presence of cognitive distortions of founders
-+ Spends only when they need to, miserly with their capital
++ Spends only when necessary, miserly with capital until the returns are clear
 + Reaction to intense pressure or strong criticism?
-+ Differentiated value proposition for talent - only place to go to work on a problem
++ Differentiated value proposition for talent (e.g., only place to work on a problem, unique founder who is a reason to join the team)
 + If business shows early signs of success, can founders go the distance?
 
 ##### Product and market
