@@ -38,7 +38,7 @@ Founders are our customers. In order of our announced participation:
 | [Javed Singha](https://www.linkedin.com/pub/javed-singha/5/826/1a7), [Yves Frinault](https://www.linkedin.com/in/yvesfrinault) | **[Fieldwire](http://www.fieldwire.com/)** |
 | [James Crawford](https://www.linkedin.com/in/jmcrawfordjr) | **[Orbital Insight](http://orbitalinsight.com/)** |
 | [Josh Schanker](https://www.linkedin.com/in/joshschanker) | **[Bookbub](https://www.bookbub.com/home/)** |
-| [Christopher Nguyen](https://twitter.com/pentagoniac) | **[Adatao](http://adatao.com/)** |
+| [Christopher Nguyen](https://twitter.com/pentagoniac) | **[Arimo](http://arimo.com/)** |
 | [Ty Walrod](https://twitter.com/tywalrod), [Rutul Davè](https://twitter.com/letsfixtheworld) | **[Bright Funds](https://www.brightfunds.org/)** |
 | [Josh Lefkowitz](http://www.flashpoint-intel.com/about-us/leadership/), [Evan Kohlmann](https://twitter.com/IntelTweet), [Josh Devon](http://www.flashpoint-intel.com/about-us/leadership/) | **[Flashpoint](http://www.flashpoint-intel.com/)** |
 | [Kieran Snyder](https://twitter.com/kieransnyder), [Jensen Harris](https://www.linkedin.com/in/jensenharris) |  **[Textio](https://textio.com/)** |
