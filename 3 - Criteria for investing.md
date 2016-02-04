@@ -11,6 +11,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Would you work for the team?
 
 ##### Product and market
++ Do any users love the product so much they spontaneously tell other people to use it?
 + A wow of a product experience and/or extreme early growth and engagement numbers (B2C)
 + Customers don't need to be sold, want to pay full-price immediately -> evangelists (B2B)
 + Exclusive path to customers - distribution as a competitive advantage
