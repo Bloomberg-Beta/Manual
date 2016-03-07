@@ -117,7 +117,7 @@ We find it hard to imagine we’d make an investment in e-commerce or entertainm
 
 A demo is 50 times more useful than slides. One is a description of a thing, the other is the thing itself. We look at your demo [the way a new user would](http://also.roybahat.com/post/82904179747/why-most-demos-confuse).
 
-We cringe at the idea of founders spending lots of time making fundraising presentations. When we see “v36” in the filename of a presentation, it terrifies us. That said, we do value the work founders do writing down their plans for their company, because it gives us a sense of:
+We cringe at the idea of founders spending lots of time making fundraising presentations. When we see “v36” in the filename of a presentation, it bothers us. That said, we do value the work founders do writing down their plans for their company, because it gives us a sense of:
 * How the team thinks
 * How well the team communicates
 * Whether, if we don’t know the team, we should spend the time to meet in person
