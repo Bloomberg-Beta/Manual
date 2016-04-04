@@ -99,8 +99,8 @@ We have doubts about the effectiveness of theme-based investing. The best founde
 
 * Professional networks: connecting employees, especially remote or distributed workforces.
 * New organizational models: applying software development methodologies to other contexts. The unbundling of corporations. 
-* Human-computer interaction: Hardware companies with network effects
-* Media distribution: over-the-top television
+* Human-computer interaction: Hardware companies with network effects.
+* Media distribution: over-the-top television.
 * Content discovery: self-development through professional skill development.
 * Technology platforms: exploiting the increasing power of the browser (GPU's and WebRTC in particular). Exploring companion businesses to open source software.
 * Data: vertical applications and analytical tools that affect business decisions.
