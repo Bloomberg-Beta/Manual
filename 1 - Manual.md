@@ -93,25 +93,23 @@ We also created the Open Scouts program to deepen relationships with a handful o
 
 ### “Themes”
 
-Our overall focus is investing in startups that improve work -- and knowledge work in particular. These startups can be individual-facing (not all “enterprise”) so long as they help a person be more productive, knowledgeable, or content at work. Of course they can also be services for businesses.
+Our focus is investing in startups that improve work -- and knowledge work in particular. These can be consumer companies (not all "enterprise") so long as they help a person at work. Of course they can also be services for businesses. 
 
-We are focused on the following areas (all of which are of great interest to Bloomberg L.P.): machine intelligence (see more [here](http://www.shivonzilis.com/machineintelligence)), data, technology platforms, media distribution, content discovery, networks & communities, human-computer interaction, and radically new organizational models. It’s a wide range.
+We have doubts about the effectiveness of theme-based investing. The best founders can surprise an investor with an unexpected take on a category. That said, there are areas our team has grown to care about.
 
-We avoid investments in financial services or other companies that intend to compete with Bloomberg clients.
-
-We have doubts about the importance of overly theme-based investing (i.e., some of us are more thesis focused, some more founder focused). We’ve found that the best founders can surprise an investor with a completely unexpected take -- and prompt the investor to see a category anew.
-
-That said, within our themes there are specific ideas we currently care about:
-* [Machine intelligence](http://www.shivonzilis.com/machineintelligence): Artificial intelligence and machine learning technologies, including both core technologies and industry applications
-* Networks and communities: Connecting professional networks other than office workers (especially those where most of the work is in mobile contexts)
-* New organizational models: Bringing software development methodologies to other applications (e.g., version control for the real world); design as a differentiator; unbundling of corporations
+* Professional networks: connecting employees, especially remote or distributed workforces.
+* New organizational models: applying software development methodologies to other contexts. The unbundling of corporations. 
 * Human-computer interaction: Hardware companies with network effects
-* Media distribution: Over-the-top television
-* Content discovery: Self-development through professional skill development
-* Technology platforms: Exploiting the increasing power of the browser, and WebRTC in particular; exploring companion businesses to open source software
-* Data: Vertical applications and analytical tools that affect business decisions
+* Media distribution: over-the-top television
+* Content discovery: self-development through professional skill development.
+* Technology platforms: exploiting the increasing power of the browser (GPU's and WebRTC in particular). Exploring companion businesses to open source software.
+* Data: vertical applications and analytical tools that affect business decisions.
 
-We find it hard to imagine we’d make an investment in e-commerce or entertainment, and there are a few other areas that intersect with the future of work where we've learned we know too little to be confident (retail, travel, local, and medical services for example).
+[Machine intelligence (MI)](http://www.shivonzilis.com/machineintelligence) cuts across all the areas we care about. Intelligence in this context means, "computers acting without instructions from humans". We think of MI as the second wave of software eating the world, and that it will transform our relationship with work. [Machine intelligence will be like electricity](http://www.wired.com/2014/10/future-of-artificial-intelligence/). Cheap, convenient and on-demand. It's our job to help usher this reality into existence.
+
+We avoid investments in financial services companies that intend to compete with Bloomberg clients.
+
+We tend to avoid e-commerce or entertainment. There are also other areas that intersect with the future of work where we know too little to be confident. For example: retail, travel, local, and medical services.
 
 ### “The Deck”
 
