@@ -58,6 +58,7 @@ Founders are our customers. In order of our announced participation:
 | [Justin Wohlstadter](https://twitter.com/justpw)| **[Wonder](https://askwonder.com/)** |
 | [Brendan Frey](https://en.wikipedia.org/wiki/Brendan_Frey)| **[Deep Genomics](http://www.deepgenomics.com/)** |
 | [Evan Macmillan](https://twitter.com/djmrevan) | **[Gridspace](https://www.gridspace.com)** |
+| [Dennis Pilarinos](https://twitter.com/dennispilarinos) | **[buddybuild](https://www.buddybuild.com/)* |
 | [Michael W. Wellman](https://www.linkedin.com/in/mwellman), [Dmitry Dain](https://www.linkedin.com/in/dmitrydain)| **[Virgil Security](http://www.virgilsecurity.com/)** |
 | [Dmitry Aksenov](https://uk.linkedin.com/in/dmitryaksenov), [Mikhail Naumov](https://www.linkedin.com/in/mikhailnaumov)| **[DigitalGenius](http://www.digitalgenius.com/)** |
 
