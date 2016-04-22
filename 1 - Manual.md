@@ -93,23 +93,19 @@ We also created the Open Scouts program to deepen relationships with a handful o
 
 ### “Themes”
 
-Our focus is investing in startups that improve work -- and knowledge work in particular. These can be consumer companies (not all "enterprise") so long as they help a person at work. Of course they can also be services for businesses. 
+Our focus is investing in startups that improve work -- and knowledge work in particular.
 
-We have doubts about the effectiveness of theme-based investing. The best founders can surprise an investor with an unexpected take on a category. That said, there are areas our team has grown to care about.
+We have doubts about the effectiveness of theme-based investing. The best founders can surprise an investor with an unexpected take on a category. That said, there are areas our team has grown to care about and learn about. We only want to invest in companies where we believe we have enough understanding to be enormously valuable to our founders, and to have good enough judgment to support founders through thick and thin.
 
-* Professional networks: connecting employees, especially remote or distributed workforces.
-* New organizational models: applying software development methodologies to other contexts. The unbundling of corporations. 
-* Human-computer interaction: Hardware companies with network effects.
-* Media distribution: over-the-top television.
-* Content discovery: self-development through professional skill development.
-* Technology platforms: exploiting the increasing power of the browser (GPU's and WebRTC in particular). Exploring companion businesses to open source software.
-* Data: vertical applications and analytical tools that affect business decisions.
+[Machine intelligence](http://www.shivonzilis.com/machineintelligence) crosses all the areas we care about, and we have treated it as our main interest area for several years now. We believe machine intelligence will transform every industry and every function -- and we focus on its effects on business. We believe [machine intelligence will be like electricity](http://www.wired.com/2014/10/future-of-artificial-intelligence/): cheap, convenient and on-demand. We want to back the founders ushering this future into the now.
 
-[Machine intelligence (MI)](http://www.shivonzilis.com/machineintelligence) cuts across all the areas we care about. Intelligence in this context means, "computers acting without instructions from humans". We think of MI as the second wave of software eating the world, and that it will transform our relationship with work. [Machine intelligence will be like electricity](http://www.wired.com/2014/10/future-of-artificial-intelligence/). Cheap, convenient and on-demand. It's our job to help usher this reality into existence.
+Areas where we’ve invested include: content discovery, cybersecurity, data sets and services, developer tools, full-stack startups who use technology to compete in a new way, hardware, human-computer interaction, learning, media distribution, new organizational models, open source software, productivity tools, professional networks, technology platforms, workflow tools, workplace communication. 
 
 We avoid investments in financial services companies that intend to compete with Bloomberg clients.
 
-We tend to avoid e-commerce or entertainment. There are also other areas that intersect with the future of work where we know too little to be confident. For example: retail, travel, local, and medical services.
+Sometimes founders mistakenly assume that we avoid “consumer” companies entirely. There are many individual-facing businesses that we’d fund -- they just need to help a person at work. (Typically “enterprise” businesses sell to a company, and these individual-facing services sell to the end user directly.) Ask us if you are unsure if you fit in our scope!
+
+We do avoid, for example, e-commerce and entertainment because they tend to serve people outside their work capacity. There are also other areas that intersect with the future of work where we know too little to be confident, e.g., retail, travel, local, heavy industry, and medical services.
 
 ### “The Deck”
 
