@@ -63,6 +63,7 @@ Founders are our customers. In order of our announced participation:
 | [Dmitry Aksenov](https://uk.linkedin.com/in/dmitryaksenov), [Mikhail Naumov](https://www.linkedin.com/in/mikhailnaumov)| **[DigitalGenius](http://www.digitalgenius.com/)** |
 | [Arjun Singh](https://www.linkedin.com/in/arjun-singh-629216105), [Sergey Karayev](https://www.linkedin.com/in/sergeykarayev), [Ibrahim Awwal](https://www.linkedin.com/in/ibrahim-awwal-28b43a3a), [Pieter Abbeel](https://www.linkedin.com/in/pieter-abbeel-34a10a3)| **[Gradescope](https://gradescope.com/)** |
 | [Mike Tung](https://www.linkedin.com/in/miketung) | **[Diffbot](http://www.diffbot.com/)** |
+| [Roger Dickey](https://www.linkedin.com/in/rogerdickey), [Debo Olaosebikan](https://www.linkedin.com/in/dolaoseb) | **[Gigster](https://gigster.com/)** |
 
 We love when our portfolio companies hire great investors. Find a list of firms we've worked with [here](https://www.crunchbase.com/organization/bloomberg-beta/insights/co-investors).
 
