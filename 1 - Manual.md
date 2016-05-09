@@ -276,6 +276,8 @@ No, not every VC wants to own 30% of your company. In fact, we think at seed sta
 
 We believe in transparency. If a startup that takes our money wants to publicize the terms of our investment, we’d generally support that. (Of course we’d never disclose anything confidential without consent, and we expect the same of our founders.)
 
+We're happy to invest on a (handshake)[https://www.ycombinator.com/handshake/] or write a term sheet when the founders wants evidence of our commitment, or compare and contrast with other offers. We avoid "exploding offers" because we want founders to pick us after careful consideration.
+
 The average pre-money valuation of our recent investments was $5M. (We intend to update this number from time to time, but not too frequently -- to avoid inadvertently disclosing the terms of any one deal. This average includes only our investments where we were part of the first money into a company -- we could not figure out a way to make our small number of later-stage investments comparable on an apples-to-apples basis.)
 
 While we’d like to claim that the amount of work we do on behalf of a company will vary dramatically based on our ownership interest, we’re not sure that is true yet -- the reality is that the amount of work we do for a company depends most of all on how much the company needs and wants our help. If they ask us to work for them, we do what we can to help.
