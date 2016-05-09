@@ -107,6 +107,8 @@ Sometimes founders mistakenly assume that we avoid “consumer” companies enti
 
 We do avoid, for example, e-commerce and entertainment because they tend to serve people outside their work capacity. There are also other areas that intersect with the future of work where we know too little to be confident, e.g., retail, travel, local, heavy industry, and medical services.
 
+We don't really invest in other funds. The only times we have is when we have a special relationship with a first-time investor raising their first fund where there is a unique insight.
+
 ### “The Deck”
 
 A demo is 50 times more useful than slides. One is a description of a thing, the other is the thing itself. We look at your demo [the way a new user would](http://also.roybahat.com/post/82904179747/why-most-demos-confuse).
