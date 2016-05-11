@@ -292,7 +292,7 @@ Because we have a relatively big fund ($75M) for writing modest initial checks, 
 
 We won’t follow on in every investment, but if we are excited about putting in more money we might want to follow on for 5x our initial investment -- or more. That said, there will also be situations where a company evolves in a way where -- even though it is still a great company -- it would benefit more from another investor’s capital than from ours, so we might not always follow on in great companies.
 
-We're happy to invest outside of what is typically considered "rounds" -- in the past we've invested multiple times in between rounds.
+We're happy to invest outside of what is typically considered "a round" -- there are some companies where we've invested multiple times in between more formal rounds.
 
 If asked, we’re happy to be explicit about the conditions under which we’d ask to put more capital into a company. Generally, when a team's initial bets prove to be right...
 
