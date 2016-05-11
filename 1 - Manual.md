@@ -260,7 +260,7 @@ We also want to approve of any investments you take that might get their capital
 
 We care about getting some information rights -- basically the ability for us to understand how well the company is doing, and its financials.
 
-### The numbers
+### The numbers and the offer
 
 Our standard first check is $500,000, though more and more often we are investing up to $1M. We want to invest enough to give a startup the money it needs to make real progress in the early days, and to attract other investors alongside us if needed. We are happy to lead, and happy to participate in rounds led by others, depending on the situation -- in earliest-stage venture, sometimes the [idea of a lead means different things to different people](http://also.roybahat.com/post/119369807637/in-earliest-stage-venture-what-is-a-lead-anyway).
 
@@ -270,11 +270,13 @@ We have no minimum check size, and have written checks as small as $25,000, espe
 
 We care about price. We do not have a target ownership level, but would like to see a path where we can put more money into a company and own a meaningful amount of the company. Our view is that we are comfortable taking the highest possible levels of risk and that founders, and their investors, should be rewarded for that. We believe companies are successful when their teams also get generous equity grants that motivate the early team members to create something valuable.
 
-We also believe “the price is the price” -- we won’t ask for unusual discounts for ourselves with strange terms like participating preferred equity. We are flexible as to whether our investment is structured as convertible debt or as equity.
+We also believe “the price is the price” -- we won’t ask for unusual discounts for ourselves with strange terms like participating preferred equity. We are flexible as to whether our investment is structured as convertible debt or as equity. We can commit to terms on just a (handshake)[https://www.ycombinator.com/handshake/] as opposed to a formal term sheet (which we're happy to write when founders want them).
 
 No, not every VC wants to own 30% of your company. In fact, we think at seed stages too much ownership by the early investors can ruin the cap table -- making it difficult for the founders to make money, or later investors to own enough of the company when the company needs bigger dollars to scale.
 
 We believe in transparency. If a startup that takes our money wants to publicize the terms of our investment, we’d generally support that. (Of course we’d never disclose anything confidential without consent, and we expect the same of our founders.)
+
+We only want founders to hire us as their investor after careful consideration of the alternatives, with as full information as possible -- so we avoid making "exploding offers" (where our offer expires on a set date). Investors and founders enter a marriage from which there is no divorce, so while it's important to choose quickly, it's also a one-way door and it's essential to choose well. 
 
 The average pre-money valuation of our recent investments was $5M. (We intend to update this number from time to time, but not too frequently -- to avoid inadvertently disclosing the terms of any one deal. This average includes only our investments where we were part of the first money into a company -- we could not figure out a way to make our small number of later-stage investments comparable on an apples-to-apples basis.)
 
