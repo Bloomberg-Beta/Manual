@@ -278,7 +278,7 @@ No, not every VC wants to own 30% of your company. In fact, we think at seed sta
 
 We believe in transparency. If a startup that takes our money wants to publicize the terms of our investment, we’d generally support that. (Of course we’d never disclose anything confidential without consent, and we expect the same of our founders.)
 
-We only want founders to hire us as their investor after careful consideration of the alternatives, with as full information as possible -- so we avoid making "exploding offers" (where our offer expires on a set date). Investors and founders enter a marriage from which there is no divorce, so while it's important to choose quickly, it's also a one-way door and it's essential to choose well. 
+We only want founders to hire us as their investor after careful consideration of the alternatives, with as full information as possible. We're allergic to "exploding offers" (where a set of investment terms expire on a set date) -- in fact we have never made one. Investors and founders enter a marriage from which there is no divorce, so while it's important to choose quickly, it's also a one-way door and it's essential to choose well. 
 
 The average pre-money valuation of our recent investments was $5M. (We intend to update this number from time to time, but not too frequently -- to avoid inadvertently disclosing the terms of any one deal. This average includes only our investments where we were part of the first money into a company -- we could not figure out a way to make our small number of later-stage investments comparable on an apples-to-apples basis.)
 
