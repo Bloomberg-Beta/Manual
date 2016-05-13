@@ -65,7 +65,7 @@ Founders are our customers. In order of our announced participation:
 | [Mike Tung](https://www.linkedin.com/in/miketung) | **[Diffbot](http://www.diffbot.com/)** |
 | [Roger Dickey](https://www.linkedin.com/in/rogerdickey), [Debo Olaosebikan](https://www.linkedin.com/in/dolaoseb) | **[Gigster](https://gigster.com/)** |
 | [Stewart Butterfield](https://twitter.com/stewart) | **[Slack](https://slack.com/)** |
-| [Alexander Garcia-Tobar](https://www.linkedin.com/in/alexgarciatobar), [Peter Goldstein](https://www.linkedin.com/in/petergoldstein) | **[ValiMail](http://www.valimail.com/)** |
+| [Alexander García-Tobar](https://www.linkedin.com/in/alexgarciatobar), [Peter Goldstein](https://www.linkedin.com/in/petergoldstein) | **[ValiMail](http://www.valimail.com/)** |
 
 We love when our portfolio companies hire great investors. Find a list of firms we've worked with [here](https://www.crunchbase.com/organization/bloomberg-beta/insights/co-investors).
 
