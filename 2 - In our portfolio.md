@@ -20,7 +20,7 @@ Founders are our customers. In order of our announced participation:
 | [Jason Hirschhorn](https://twitter.com/JasonHirschhorn) | **[REDEF](http://www.mediaredefined.com/)** | 
 | [Ryan Petersen](https://twitter.com/ryanp2) | **[Flexport](https://www.flexport.com/)** | 
 | [Fouad ElNaggar](https://twitter.com/ThufirHawat), [Peter Yared](https://twitter.com/peteryared) | **[Sapho](http://www.sapho.com/)** | 
-| [Danielle Perdomo](https://twitter.com/danielaperdomo) | **[goTenna](http://gotenna.com/)** |
+| [Daniela Perdomo](https://twitter.com/danielaperdomo) | **[goTenna](http://gotenna.com/)** |
 | [Anne Wootton](https://twitter.com/annewootton), [Bailey Smith](https://www.linkedin.com/in/baileyrsmith) | **[Pop Up Archive](https://www.popuparchive.com/)** |
 | [Satyen Sangani](https://www.linkedin.com/in/ssangani) | **[Alation](http://alation.com/)** |
 | [Amit Gupta](https://www.linkedin.com/in/amitngupta) | **[SenderGen](http://www.sendergen.com/)** |
