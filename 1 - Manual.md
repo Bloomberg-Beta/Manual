@@ -400,13 +400,19 @@ We recognize that founders don’t have the time to plan for their own professio
 
 ### Events we host
 
-Sometimes, one way we can help companies is just by getting them out of the building. We get our founders together every so often with an extended group of our friends. These events are completely optional, and have no direct usefulness at all. The last one we did was building robots at TechShop.
+Sometimes, one way we can help companies is just by getting them out of the building. We get our founders together every so often with an extended group of our friends. These events are completely optional, and have no direct usefulness at all.
 
 We do host some selective events (for example, with a senior government official or business leader) to which we invite our portfolio company founders.
 
 ### Each other
 
 Now that we are beginning to have a critical mass of companies in our portfolio, the companies can be helpful to each other should they want to be -- vendor referrals, emotional support, product tips, etc.
+
+We were one of the first (if not the first) fund to set up a portfolio community channel on Slack, even before Slack supported this functionality natively. Our founders congratulate each other, promote one another's successes, support each other through tough spots, offer tactical recommendations ("who should I use as an accountant?") in ways much more immediate, varied, and specific than what our fund could do for any of them directly.
+
+We noticed the conversations in that channel were surprisingly specific -- less about the big picture and more about what kind of paintbrush to use. We were inspired by the Picasso quote that only art critics talk about the Big Ideas, real artists help each other find (cheap turpentine)[https://www.highly.co/hl/56e6f2323533356aeb5a0000]. So we created an event series, "Turpentine Talks," where one of our founders who has expertise in a certain area (e.g., growth, building open source communities, hacking personal use of time) leads a roundtable discussion with other founders learning and offering their own experiences. 
+
+We admire and want to continue to support these kinds of communities, that openly share a craft to hone the trade of companybuilding, with a particular set of companies that share a similar way of working and similar values.
 
 ### After the exit...
 
