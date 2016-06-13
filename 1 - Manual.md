@@ -5,6 +5,7 @@ Operating Manual
 
 ## Contents
 * [Our investor, Bloomberg L.P.](#our-investor-bloomberg-lp)
+* [What we believe about the future of work](#what-we-believe-about-the-future-of-work)
 * [What we look for in a startup](#what-we-look-for)
 * [The deal terms](#the-deal-terms)
 * [Our “products,” or, models for how we work with founders](#our-products-or-how-we-work-with-founders)
@@ -25,9 +26,35 @@ Why did Bloomberg L.P. create Bloomberg Beta? Bloomberg wants a window into the 
 
 Bloomberg L.P. invested in Bloomberg Beta to open that window to startups, and set up a structure that is rare for a corporate-sponsored firm -- a true fund that invests for financial return, not an “operating division.” Bloomberg knows that great founders want investors whose interests are fully aligned with their own.
 
-So Bloomberg Beta is set up to choose its own investments, and back companies solely on their merits and financial potential, regardless of whether they have (or intend to have) a business relationship with Bloomberg. We do focus exclusively on areas that are of relevance to Bloomberg -- we wouldn’t invest in a videogame, or a consumer e-commerce site for example. One way to think of our focus: we look at the world of work. If you’re focused on making leisure or family life better, we’re probably not your people.
+So Bloomberg Beta is set up to choose its own investments, and back companies solely on their merits and financial potential, regardless of whether they have (or intend to have) a business relationship with Bloomberg. We do focus exclusively on areas that are of relevance to Bloomberg -- we wouldn’t invest in a videogame, or a consumer e-commerce site for example. One way to think of our focus: we look at the future of work. If you’re focused on making leisure or family life better, we’re probably not your people.
 
 Ultimately, Bloomberg L.P.’s founders have succeeded at doing what we hope to help other companies do -- create something extraordinary.
+
+## What We Believe About the Future of Work
+To know how our fund works, it helps to know the views we bring into every meeting, every email we send, every thought about a startup. We've worked to articulate some of these beliefs -- both those writ large about the economy as a whole and the nature of how business will operate in the future.
+
+### Work as the Soil of New Technology
+Unlike much of modern economic history, where technology often arrived in industry before it reached peoples' personal lives, in the last 20 years we've often experienced the reverse. Our personal lives are now guided by technology -- voice-recognizing kitchen assistants, cloud-based email, self-parking cars, instant delivery of goods and services -- more advanced than what we use at work.
+
+We believe work will do more than catch up. Work -- especially knowledge work -- will be the soil in which many of the most exciting new technologies, especially [many](https://textio.com/) [kinds](https://digitalgenius.com/) [of](https://gradescope.com/) [machine](http://www.diffbot.com/) [intelligence](https://www.gridspace.com/), will find their most interesting applications.
+
+### Accelerating Pace of Technological Change
+We believe technology's pace, while accelerating, will affect us in a more profound way: changes, when they happen, will be far more sudden and jarring. The transition from a human society of hunters and gatherers to an agrarian one took about 3,000 years; the transition from agriculture to industry took roughly 300; industry to services took about 30. Whatever comes next will happen during the span of the careers of people working today. Now, an entire industry or category-leading company can fall off a cliff. In 1958, if a company cracked the S&P 500, it could expect to stay for 61 years -- today, the expectation is [only 18 years](https://www.highly.co/hl/573f63e821341a003c00002c).
+
+### Incumbent’s Response
+We believe some startups (and some established companies, mostly the ones with respect for technology as a first-class citizen) will harness the chaos. They will replace entire ways of doing business -- mission-critical [communication systems](https://slack.com/), [cultures](https://bonus.ly/), business models, leadership, and many long-treasured assumptions. [Some](https://layer.com/) [will](https://www.dominodatalab.com/) [supply](https://www.pathgather.com/) [technology](https://www.prosperworks.com/) to other companies, while some will enter the fray as [direct](https://www.flexport.com/) [competitors](https://angel.co/) themselves, built differently from the ground up.
+
+### The Barbell Effect
+As the dust settles, industry winners will eat more of their industry's total pie, and the middle will wink out of existence. Big companies will get even bigger, and small companies will be able to make a good living for themselves, their owners, and their employees at even smaller sizes.
+
+### Working Like Developers
+For people working, we believe more of their work will look like that of software developers (automating away tasks and harnessing the [flexible](https://arimo.com) [power](http://graphistry.com/) of computers to get [work](https://alation.com/) done), and of securities traders (acting on [quantitative](https://orbitalinsight.com/) [data](http://txn.com/) all day long). We believe much individual work will be done in collaboration with software that makes its own choices. As a result, many people will suffer the [maker vs. manager](http://www.paulgraham.com/makersschedule.html) dilemma that today afflicts mostly software engineers. These talents will [bring](https://howdy.ai/) [their](https://www.buddybuild.com/) [own](https://influxdata.com/) [tools](https://www.scalyr.com/) (more than just their devices) to work, insisting on the [software](https://virgilsecurity.com/) and [practices](https://launchdarkly.com/) that make them most productive.
+
+### The New Company Man/Woman
+Their careers will look less like a straight line, and more like a [portfolio](https://www.kaggle.com/competitions) of [activities](https://gigster.com/), judged on their work and their [capacities](https://www.codecademy.com/) as opposed to their past institutional affiliations (whether educational or professional). In some cases, they will decouple income from work, and integrate their lives and their work in ways considered career limiting today (example?). Their personal, economic, social, geographic, and demographic backgrounds will also be much more diverse than the most recognized talents of today.
+
+### The Importance of the Individual
+Those changes in how people work mean the era of the [superhero](https://www.masterclass.com/) individual talent is only beginning. An individual person at work will become even more [productive](https://askwonder.com), and soon we will see a [one-person billion-dollar](http://www.businessinsider.com/is-a-one-man-billion-dollar-startup-on-the-horizon-2015-5) company. Those individuals will be the ones to create new industries and topple old ones. They will need relatively little capital (financial or otherwise) to reach new heights. They are the ones we want to [find early](http://www.nytimes.com/2015/07/02/upshot/the-next-mark-zuckerberg-is-not-who-you-might-think.html?_r=0), support with trust as well as dollars, and cheer as they hit escape velocities.
 
 ## What we look for
 
