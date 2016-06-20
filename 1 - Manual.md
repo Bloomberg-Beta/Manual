@@ -318,7 +318,7 @@ When we do co-invest, we care who a company’s other investors are, because the
 
 ### Negotiating
 
-We can commit to terms on just a (handshake)[https://www.ycombinator.com/handshake/] as opposed to a formal term sheet (which we're happy to write when founders want them).
+We can commit to terms on just a [handshake](https://www.ycombinator.com/handshake/) as opposed to a formal term sheet (which we're happy to write when founders want them).
 
 We only want founders to hire us as their investor after careful consideration of the alternatives, with as full information as possible. So we're allergic to "exploding offers" (where proposed investment terms expire on a set date) -- in fact we have never made one. Investors and founders enter a marriage from which there is no divorce, so while it's important to choose quickly, it's also a one-way door and it's essential to choose well. 
 
@@ -438,7 +438,7 @@ Now that we are beginning to have a critical mass of companies in our portfolio,
 
 We were one of the first (if not the first) fund to set up a portfolio community channel on Slack, even before Slack supported this functionality natively. Our founders congratulate each other, promote one another's successes, support each other through tough spots, offer tactical recommendations ("who should I use as an accountant?") in ways much more immediate, varied, and specific than what our fund could do for any of them directly.
 
-We noticed the conversations in that channel were surprisingly specific -- less about the big picture and more about what kind of paintbrush to use. We were inspired by the Picasso quote that only art critics talk about the Big Ideas, real artists help each other find (cheap turpentine)[https://www.highly.co/hl/56e6f2323533356aeb5a0000]. So we created an event series, "Turpentine Talks," where one of our founders who has expertise in a certain area (e.g., growth, building open source communities, hacking personal use of time) leads a roundtable discussion with other founders learning and offering their own experiences. 
+We noticed the conversations in that channel were surprisingly specific -- less about the big picture and more about what kind of paintbrush to use. We were inspired by the Picasso quote that only art critics talk about the Big Ideas, real artists help each other find [cheap turpentine](https://www.highly.co/hl/56e6f2323533356aeb5a0000). So we created an event series, "Turpentine Talks," where one of our founders who has expertise in a certain area (e.g., growth, building open source communities, hacking personal use of time) leads a roundtable discussion with other founders learning and offering their own experiences. 
 
 We admire and want to continue to support these kinds of communities, that openly share a craft to hone the trade of companybuilding, with a particular set of companies that share a similar way of working and similar values.
 
