@@ -41,10 +41,9 @@ We believe that work will catch up, and we'll return to the historical norm, whe
 #### Accelerating Pace of Technological Change
 We believe technology's pace, while accelerating, will affect us in a more profound way: changes, when they happen, will be far more sudden and jarring. The transition from a human society of hunters and gatherers to an agrarian one took about 3,000 years; the transition from agriculture to industry took roughly 300; industry to services took about 30. Whatever comes next will happen during the span of the careers of people working today. Now, an entire industry or category-leading company can fall off a cliff. In 1958, if a company cracked the S&P 500, it could expect to stay for 61 years -- today, the expectation is [only 18 years](https://www.highly.co/hl/573f63e821341a003c00002c).
 
-#### Incumbent’s Response
+#### The Barbell Effect
 We believe some startups (and some established companies, mostly the ones with respect for technology as a first-class citizen) will harness the chaos. They will replace entire ways of doing business -- mission-critical [communication systems](https://slack.com/), [cultures](https://bonus.ly/), business models, leadership, and many long-treasured assumptions. [Some](https://layer.com/) [will](https://www.dominodatalab.com/) [supply](https://www.pathgather.com/) [technology](https://www.prosperworks.com/) to other companies, while some will enter the fray as [direct](https://www.flexport.com/) [competitors](https://angel.co/) themselves, built differently from the ground up.
 
-#### The Barbell Effect
 As the dust settles, industry winners will eat more of their industry's total pie, and the middle will wink out of existence. Big companies will get even bigger, and small companies will be able to make a good living for themselves, their owners, and their employees at ever-smaller sizes.
 
 #### Working Like Developers
