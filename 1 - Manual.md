@@ -447,7 +447,9 @@ We are disciplined about learning from every company. We will write up a retrosp
 
 ### Company feedback on us
 
-Once a year we ask all our founders to do a short (under 3 minutes) anonymous survey to give us feedback on what we can do better. We do a Net Promoter Score as part of this. We would share it here, but we don’t want our founders to feel we are using their feedback to market ourselves. (Though we’d be happy to tell you in person.)
+Once a year we ask all our founders to do a short (under 3 minutes) anonymous survey to give us feedback on what we can do better. We do a Net Promoter Score as part of this. We use that NPS as the most important metric to drive our fund's choices.
+
+We would share our Net Promoter Score here, but we don’t want our founders to feel we are using their feedback to market ourselves. (Though we’d be happy to tell you in person.)
 
 Always be learning from your customers -- ours are founders.
 
