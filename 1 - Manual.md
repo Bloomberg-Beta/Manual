@@ -65,7 +65,7 @@ We look for a reason to believe a founding team is extraordinary. Not that they 
 
 What gives us a sense the founders could be extraordinary? Often times, they just have an unusual psychology -- they think they are exceptional, see grand patterns others don’t, are indifferent to norms, and may have an exceptionally high pain threshold. We are inspired by Michael Dearing’s description of the [cognitive distortions of founders](http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf). We have passed on companies because we didn’t think the founders were crazy enough -- they seemed too textbook. (And we don't mean their appearance or background, we mean their level of extraordinary determination, willingness to try, or insight.)
 
-We believe the founders destined for greatness will be magnetic to the best available talent and capital for their companies, and we find ourselves thinking we'd want to work for them (because, if we invest, we will be working for them). They see raising venture capital as a sometimes-necessary aspect of creating a certain kind of business, as opposed to a box to be checked or a badge to be won. They'd continue attacking the problem they've chosen, in some form, whether or not they raise venture capital. They hold as articles of faith that a great company will have a strong culture, and unusual practices that make it an outlier -- and begin to integrate that way of thinking sooner than strictly necessary to continue growing their business.
+We believe the founders destined for greatness will be magnetic to the best available talent and capital for their companies, and we find ourselves thinking we'd want to work for them (because, if we invest, we will be working for them). They see raising venture capital as a sometimes-necessary aspect of creating a certain kind of business, as opposed to a box to be checked or a badge to be won. They'd continue attacking the problem they've chosen, in some form, whether or not they raise venture capital. They hold as articles of faith that a great company will have a strong culture, and unusual practices that make it an outlier -- and begin to integrate that way of thinking sooner than strictly necessary to continue growing their business. Doing so often means concentrating their teams in one (or at most two) locations, recognizing that the known ceiling for distributed teams is still quite low and that face-to-face conversation is a surprisingly resilient mode.
 
 Great teams have a plan to win when -- surprise, surprise -- they learn that a dozen other teams are pursuing their previously-thought-to-be-unique idea. They persevere when others (including us) tell them that ideas are cheap until they are brought to life. They both see themselves as unique and list many companies as their competitors.
 
@@ -82,6 +82,11 @@ We prefer to see products that are intensely successful in some initial market, 
 We like products we ourselves would use and understand. We’ve been technology buyers, software developers, founders, entry-level employees, and of course consumers of many media -- so the range of products we might use and understand is broad.
 
 If a product is launched, we care about how well it is doing -- the famous “traction” -- but we tend not to focus on absolute numbers. We focus on month-over-month (or, in earlier-stage cases, week-over-week) growth, ask questions about how different cohorts of users behave, and try to understand the per-user behavior (how much does any one user really value the product).
+
+Today, we believe the startups destined for greatness, in their earliest days...
++ Will choose only one model for how to sell, generally either directly to an individual or directly to a company, whereas many believe they can do both at first
++ Will choose one type of person to target as a customer, and specifically avoid trying to serve business and technical users with the same tool
++ Will choose to target customers whose businesses are thriving, and specifically avoid customers in low- or no-growth, or low-margin businesses (e.g., most online publishing)
 
 ### Stage
 
