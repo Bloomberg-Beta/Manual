@@ -79,7 +79,7 @@ We also are committed to diversity and especially encourage founders of underrep
 
 We prefer to see products that are intensely successful in some initial market, over products that grow to large numbers but don’t play an important role in the lives of their users. Bloomberg itself started out as a bond price list for U.S. government bonds only. We like for a product to be the most important service to at least some of its users.
 
-We like products we ourselves would use and understand. We’ve been technology buyers, software developers, founders, entry-level employees, and of course consumers of many media -- so the range of products we might use and understand is broad.
+We like products we ourselves would use and understand. We’ve been technology buyers, software developers, founders, entry-level employees, and of course consumers of many media -- so the range of products we might use and understand is broad. These products often start with a specific application of a well-understood technology, not a multi-industry "black box" looking for a use case.
 
 If a product is launched, we care about how well it is doing -- the famous “traction” -- but we tend not to focus on absolute numbers. We focus on month-over-month (or, in earlier-stage cases, week-over-week) growth, ask questions about how different cohorts of users behave, and try to understand the per-user behavior (how much does any one user really value the product).
 
