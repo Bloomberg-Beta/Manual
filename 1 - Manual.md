@@ -75,18 +75,18 @@ We also do background checks on founders where we search public records. Almost 
 
 We also are committed to diversity and especially encourage founders of underrepresented communities to speak with us about their companies. We believe that a community of companies is stronger the more different viewpoints come to the table, and we're happy to speak more about our record in this area with founders who are interested.
 
-### Product
+### Product and market
 
 We prefer to see products that are intensely successful in some initial market, over products that grow to large numbers but don’t play an important role in the lives of their users. Bloomberg itself started out as a bond price list for U.S. government bonds only. We like for a product to be the most important service to at least some of its users.
 
 We like products we ourselves would use and understand. We’ve been technology buyers, software developers, founders, entry-level employees, and of course consumers of many media -- so the range of products we might use and understand is broad. These products often start with a specific application of a well-understood technology, not a multi-industry "black box" looking for a use case.
 
-If a product is launched, we care about how well it is doing -- the famous “traction” -- but we tend not to focus on absolute numbers. We focus on month-over-month (or, in earlier-stage cases, week-over-week) growth, ask questions about how different cohorts of users behave, and try to understand the per-user behavior (how much does any one user really value the product).
-
-Today, we believe the startups destined for greatness, in their earliest days...
-+ Will choose only one model for how to sell, generally either directly to an individual or directly to a company, whereas many believe they can do both at first
-+ Will choose one type of person to target as a customer, and specifically avoid trying to serve business and technical users with the same tool
+We believe startups destined for greatness, in their earliest days, choose...
++ Only one model for how to sell, generally either directly to an individual or directly to a company (whereas many believe they can do both at first)
++ One type of person (e.g., role within a client company) to target as a customer, and specifically avoid trying to serve business and technical users with the same tool
 + Will choose to target customers whose businesses are thriving, and specifically avoid customers in low- or no-growth, or low-margin businesses (e.g., most online publishing)
+
+If a product is launched, we care about how well it is doing -- the famous “traction” -- but we tend not to focus on absolute numbers. We focus on month-over-month (or, in earlier-stage cases, week-over-week) growth, ask questions about how different cohorts of users behave, and try to understand the per-user behavior (how much does any one user really value the product). At the earliest stages, we are most interested in evidence of customer love -- retention or intensity metrics, Net Promoter Score, or even anecdotal praise by customers for the product.
 
 ### Stage
 
@@ -414,17 +414,15 @@ Investing, to us, is really nothing more than the mechanism we use to find a way
 
 ### How our fund works with Bloomberg L.P.
 
-We look for opportunities to connect startups (including our portfolio companies and others) with Bloomberg L.P. -- we invest significant time in understanding what Bloomberg may be interested in seeing. In practice, we refer more companies to Bloomberg that are not our portfolio companies, than are our portfolio companies. And at the moment only one-fourth of our portfolio companies have contact with Bloomberg. Bloomberg Beta would never be a party to a business relationship between a startup and Bloomberg L.P.; those relationships are all at arms’ length.
-
-We have an Advisory Committee at Bloomberg L.P. that hears from us about common themes we see, gives us input and feedback, and approves big checks.
-
-### Relationship between Bloomberg and startups
+We look for opportunities to connect startups (including our portfolio companies and others) with Bloomberg L.P. -- we invest significant time in understanding what Bloomberg may be interested in seeing. In practice, we refer more companies to Bloomberg that are not our portfolio companies, than are our portfolio companies. And at the moment only one-fourth of our portfolio companies have business contact with Bloomberg. Bloomberg Beta would never be a party to a business relationship between a startup and Bloomberg L.P.; those relationships are all at arms’ length.
 
 There are areas where access to Bloomberg may be enormously helpful to a startup. For example, some areas where Bloomberg has some of the best expertise in the world: the creation of a data-driven subscription business, selected technical specialties, high-touch customer service.
 
 That said, we are set up as a separate legal entity to protect the confidentiality of startups with whom we work.
 
 While Bloomberg will only work with your startup if it makes sense for Bloomberg (no, you can’t have a discount on a Bloomberg terminal), we have a great understanding of how to facilitate the right conversation quickly.
+
+We have an Advisory Committee at Bloomberg L.P. that hears from us about common themes we see, gives us input and feedback, and approves unusually big checks -- just like the LP Advisory Committee in any venture fund.
 
 ### Learning
 
