@@ -55,7 +55,7 @@ Careers will look less like a straight line, and more like a [portfolio](https:/
 #### The Importance of the Individual
 Those changes in how people work mean the era of the [superhero](https://www.masterclass.com/) individual talent is only beginning. An individual person at work will become even more [productive](https://askwonder.com), and soon we will see a [one-person billion-dollar](http://www.businessinsider.com/is-a-one-man-billion-dollar-startup-on-the-horizon-2015-5) company. Those individuals will be the ones to create new industries and topple old ones. They will need relatively little capital (financial or otherwise) to reach new heights. They are the ones we want to [find early](http://www.nytimes.com/2015/07/02/upshot/the-next-mark-zuckerberg-is-not-who-you-might-think.html?_r=0), support with trust as well as dollars, and cheer as they hit escape velocities.
 
-<a name="#what-we-look-for"></a>
+
 ## What we look for in a startup
 
 We recognize that seeing early signs of an outlier is hard, and nobody’s cracked how to do it reliably. What we want is a reason to tell ourselves that a startup has a chance to be extraordinary. There are a few areas where we search for signs: certain qualities of a founding team, an early product, areas where we think we can be helpful, and the right moment in a company’s life.  Here is a [complete list](https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md) of the questions we ask ourselves when evaluating startups. 
