@@ -6,7 +6,7 @@ Operating Manual
 ## Contents
 * [Our investor, Bloomberg L.P.](#our-investor-bloomberg-lp)
 * [What we believe about the future of work](#what-we-believe-about-the-future-of-work)
-* [What we look for in a startup](#what-we-look-for)
+* [What we look for in a startup](#what-we-look-for-in-a-startup)
 * [The deal terms](#the-deal-terms)
 * [Our “products,” or, models for how we work with founders](#our-products-or-how-we-work-with-founders)
 * [How we support our companies](#how-we-support-our-companies)
