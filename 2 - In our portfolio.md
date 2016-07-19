@@ -6,15 +6,15 @@ Founders are our customers. In order of our announced participation:
 
 |Founders | Company |
 |:--------|:----------|
-| [Jonah Varon](https://www.linkedin.com/in/jonahvaron), [Axel Hansen](https://www.linkedin.com/pub/axel-hansen/25/aa/7ab)  | **[Newsle](https://newsle.com/)** :one: |
-| [Charlie Robbins](https://twitter.com/indexzero) | **[Nodejitsu](https://www.nodejitsu.com/)** :two: |
+| [Jonah Varon](https://www.linkedin.com/in/jonahvaron), [Axel Hansen](https://www.linkedin.com/pub/axel-hansen/25/aa/7ab)  | **[Newsle](https://newsle.com/)** <sup>1</sup> |
+| [Charlie Robbins](https://twitter.com/indexzero) | **[Nodejitsu](https://www.nodejitsu.com/)** <sup>2</sup> |
 | [Jon Lee](https://www.linkedin.com/in/jonlee168) | **[ProsperWorks](https://www.prosperworks.com/)** |
 | [Paul Dix](https://twitter.com/pauldix), [Todd Persen](https://www.linkedin.com/in/toddpersen) | **[InfluxData](http://influxdata.com/)** |
 | [Zach Sims](https://twitter.com/zsims), [Ryan Bubinski](https://www.linkedin.com/in/ryanbubinski) | **[Codecademy](http://www.codecademy.com/)** | 
 | [Satya Patel](https://twitter.com/satyap), [Hunter Walk](https://twitter.com/hunterwalk) | **[Homebrew](http://homebrew.co/)** | 
 | [Stephen Purpura](https://www.linkedin.com/in/spurpura) | **[Context Relevant](http://www.contextrelevant.com/)** |
 | [Ron Palmeri](https://twitter.com/RonP), [Tomaž Štolfa](https://twitter.com/tomazstolfa) | **[Layer](https://layer.com/)** | 
-| [Naval Ravikant](https://twitter.com/naval), [Babak Nivi](https://www.linkedin.com/in/bnivi) | **[AngelList](https://angel.co/)** :three:| 
+| [Naval Ravikant](https://twitter.com/naval), [Babak Nivi](https://www.linkedin.com/in/bnivi) | **[AngelList](https://angel.co/)** <sup>3</sup>| 
 | [Anil Dash](http://dashes.com/anil/), [Gina Trapani](https://twitter.com/ginatrapani) | **[ThinkUp](https://www.thinkup.com/)** | 
 | [Sandi MacPherson](http://quibb.com/sandimacpherson) | **[Quibb](http://quibb.com/)** | 
 | [Jason Hirschhorn](https://twitter.com/JasonHirschhorn) | **[REDEF](http://www.mediaredefined.com/)** | 
@@ -72,8 +72,8 @@ Founders are our customers. In order of our announced participation:
 
 We love when our portfolio companies hire great investors. Find a list of firms we've worked with [here](https://www.crunchbase.com/organization/bloomberg-beta/insights/co-investors).
 
-:one: Acquired by LinkedIn, Jul. 2014 :thumbsup:
+1 Acquired by LinkedIn, Jul. 2014 :thumbsup:
 
-:two: Acquired by GoDaddy, Feb. 2015 :thumbsup:
+2 Acquired by GoDaddy, Feb. 2015 :thumbsup:
 
-:three: Our AngelList profile: https://angel.co/bloomberg-beta-investor
+3 Our AngelList profile: https://angel.co/bloomberg-beta-investor
