@@ -68,6 +68,7 @@ Founders are our customers. In order of our announced participation:
 | [Alexander García-Tobar](https://www.linkedin.com/in/alexgarciatobar), [Peter Goldstein](https://www.linkedin.com/in/petergoldstein) | **[ValiMail](http://www.valimail.com/)** |
 | [Anant Kale](https://www.linkedin.com/in/anantkale), [Kunal Verma](https://www.linkedin.com/in/kunalv) | **[AppZen](http://www.appzen.com/)** |
 | [Alberto Pepe](https://www.linkedin.com/in/albertopepe), [Nathan Jenkins](https://twitter.com/nathanjenkins12) | **[Authorea](https://www.authorea.com)** |
+| [Kartik Mandaville](https://www.linkedin.com/in/kar2905)  | **[SpringRole](https://springrole.com)** |
 
 We love when our portfolio companies hire great investors. Find a list of firms we've worked with [here](https://www.crunchbase.com/organization/bloomberg-beta/insights/co-investors).
 
