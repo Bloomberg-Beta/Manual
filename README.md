@@ -17,7 +17,7 @@ Now we've moved our entire web presence to GitHub to become even more transparen
 ### Who we are
 Roy Bahat — [Twitter](https://twitter.com/roybahat) // [LinkedIn](https://www.linkedin.com/in/roybahat) // [Blog](http://also.roybahat.com/)
 
-Karin Klein — [Twitter](https://twitter.com/karinklein) // [LinkedIn](https://www.linkedin.com/in/karinklein)
+Karin Klein — [Twitter](https://twitter.com/karinklein) // [LinkedIn](https://www.linkedin.com/in/karinklein) // [Blog] (https://medium.com/@Karin)
 
 James Cham — [Twitter](https://twitter.com/jamescham) // [LinkedIn](https://www.linkedin.com/in/jcham)
 
