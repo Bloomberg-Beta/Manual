@@ -70,7 +70,7 @@ Founders are our customers. In order of our announced participation:
 | [Alberto Pepe](https://www.linkedin.com/in/albertopepe), [Nathan Jenkins](https://twitter.com/nathanjenkins12) | **[Authorea](https://www.authorea.com)** |
 | [Kartik Mandaville](https://www.linkedin.com/in/kar2905)  | **[SpringRole](https://springrole.com)** |
 | [Chris Bach](https://twitter.com/chr_bach), [Mathias Biilmann](http://mathias-biilmann.net/about) | **[Netlify](https://www.netlify.com/)** |
-| [Shinji Kim](https://www.linkedin.com/in/shinjikim), [Alexander Gallego](https://www.linkedin.com/in/alexandergallego)  | **[Concord Systems](https://concord.io/)** <sup>4</sup> |
+| [Shinji Kim](https://www.linkedin.com/in/shinjikim), [Alexander Gallego](https://www.linkedin.com/in/alexandergallego)  | **[Concord Systems](http://concord.io/)** <sup>4</sup> |
 
 We love when our portfolio companies hire great investors. Find a list of firms we've worked with [here](https://www.crunchbase.com/organization/bloomberg-beta/insights/co-investors).
 
