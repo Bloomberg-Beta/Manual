@@ -71,6 +71,9 @@ Founders are our customers. In order of our announced participation:
 | [Kartik Mandaville](https://www.linkedin.com/in/kar2905)  | **[SpringRole](https://springrole.com)** |
 | [Chris Bach](https://twitter.com/chr_bach), [Mathias Biilmann](http://mathias-biilmann.net/about) | **[Netlify](https://www.netlify.com/)** |
 | [Shinji Kim](https://www.linkedin.com/in/shinjikim), [Alexander Gallego](https://www.linkedin.com/in/alexandergallego)  | **[Concord Systems](http://concord.io/)** <sup>4</sup> |
+| [Alan Fletcher](https://www.linkedin.com/in/alan-fletcher-6161241), [Aman Naimat](https://www.linkedin.com/in/amannaimat)  | **[Spiderbook](http://spiderbook.com/)** <sup>5</sup> |
+
+
 
 We love when our portfolio companies hire great investors. Find a list of firms we've worked with [here](https://www.crunchbase.com/organization/bloomberg-beta/insights/co-investors).
 
@@ -81,3 +84,6 @@ We love when our portfolio companies hire great investors. Find a list of firms 
 3 Our AngelList profile: https://angel.co/bloomberg-beta-investor
 
 4 Acquired by Akamai, Sept. 2016 :thumbsup:
+
+5 Acquired by Demandbase, June 2016 :thumbsup:
+
