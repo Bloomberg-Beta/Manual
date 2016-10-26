@@ -72,6 +72,7 @@ Founders are our customers. In order of our announced participation:
 | [Chris Bach](https://twitter.com/chr_bach), [Mathias Biilmann](http://mathias-biilmann.net/about) | **[Netlify](https://www.netlify.com/)** |
 | [Shinji Kim](https://www.linkedin.com/in/shinjikim), [Alexander Gallego](https://www.linkedin.com/in/alexandergallego)  | **[Concord Systems](http://concord.io/)** <sup>4</sup> |
 | [Alan Fletcher](https://www.linkedin.com/in/alan-fletcher-6161241), [Aman Naimat](https://www.linkedin.com/in/amannaimat)  | **[Spiderbook](http://spiderbook.com/)** <sup>5</sup> |
+| [Max Bruner](https://www.linkedin.com/in/maxbruner), [Yuan Gao](https://www.linkedin.com/in/yuan-gao-30027060), [Alexey Rostapshov](https://www.linkedin.com/in/arostaps)  | **[Mavrx](https://www.mavrx.co/)**
 
 
 
