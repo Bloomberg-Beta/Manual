@@ -36,7 +36,7 @@ New York — 731 Lexington Ave. — [Map](http://goo.gl/tt3m7f)
 
 Our founders requested an anonymous way to ask us questions, so we're providing it for you, too. [Right here.](http://tiny.cc/AUA).  
 
-(If you're not one of our founders, then it'll be impossible for you to see the reply in our founder Slack channel -- not to fear, we plan to collect the answers under the ["BetaAUA" topic on Quora](https://www.quora.com/topic/BetaAUA) for everyone elses benefit).
+(If you're not one of our founders, then it'll be impossible for you to see the reply in our founder Slack channel -- not to fear, we are collecting the answers under the ["BetaAUA" topic on Quora](https://www.quora.com/topic/BetaAUA) for everyone else.)
 
 ## License
 This manual is open sourced under a [Creative Commons license](http://creativecommons.org/licenses/by/3.0/deed.en_US]).
