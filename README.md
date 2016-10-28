@@ -39,4 +39,4 @@ Our founders requested an anonymous way to ask us questions, so we're providing 
 (If you're not one of our founders, then it'll be impossible for you to see the reply in our founder Slack channel -- not to fear, we are collecting the answers under the ["BetaAUA" topic on Quora](https://www.quora.com/topic/BetaAUA) for everyone else.)
 
 ## License
-This manual is open sourced under a [Creative Commons license](http://creativecommons.org/licenses/by/3.0/deed.en_US]).
+This manual is open sourced under a [Creative Commons license](http://creativecommons.org/licenses/by/3.0/deed.en_US])
