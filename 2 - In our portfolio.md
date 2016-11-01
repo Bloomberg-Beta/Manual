@@ -73,7 +73,7 @@ Founders are our customers. In order of our announced participation:
 | [Shinji Kim](https://www.linkedin.com/in/shinjikim), [Alexander Gallego](https://www.linkedin.com/in/alexandergallego)  | **[Concord Systems](http://concord.io/)** <sup>4</sup> |
 | [Alan Fletcher](https://www.linkedin.com/in/alan-fletcher-6161241), [Aman Naimat](https://www.linkedin.com/in/amannaimat)  | **[Spiderbook](http://spiderbook.com/)** <sup>5</sup> |
 | [Max Bruner](https://www.linkedin.com/in/maxbruner), [Yuan Gao](https://www.linkedin.com/in/yuan-gao-30027060), [Alexey Rostapshov](https://www.linkedin.com/in/arostaps)  | **[Mavrx](https://www.mavrx.co/)**
-
+| [John Ciancutti](https://twitter.com/johnciancutti), [Steve McLendon](https://twitter.com/stevemclendon), [Steve Henn](https://twitter.com/HennsEggs) | **[60dB](https://60db.co/)** |
 
 
 We love when our portfolio companies hire great investors. Find a list of firms we've worked with [here](https://www.crunchbase.com/organization/bloomberg-beta/insights/co-investors).
