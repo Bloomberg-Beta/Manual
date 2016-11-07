@@ -123,7 +123,7 @@ We keep track of companies we’ve been in touch with -- just like we’d hope t
 
 We also created the Open Scouts program to deepen relationships with a handful of angels we trust. With the program, administered through AngelList syndicates, we back every deal our Open Scouts do at a fixed ratio with their personal investment. We are not direct investors in their portfolio companies and each Scout manages their relationship with companies. Our intent is to support people we trust, and extend our fund to support many more companies, not to create direct deal flow for us. (In fact, sometimes our Open Scouts might invest in companies competitive to ones in our portfolio -- since we have no visibility into details about those companies, and we're obligated to back them if our Open Scouts do, we can continue to serve our portfolio companies effectively. We treat this situation the same way as if we'd invested in a venture fund that backed a startup competitive to one of ours.)
 
-Our Open Scouts include [Max Simkoff](https://angel.co/max-simkoff/syndicate), [Shruti Gandhi](https://angel.co/shruti_gandhi/syndicate), [Parker Thompson](https://angel.co/pt/syndicate), and [Jim Greer](https://angel.co/jim-greer/syndicate).
+Our Open Scouts include [Max Simkoff](https://angel.co/max-simkoff/syndicate), [Shruti Gandhi](https://angel.co/shruti_gandhi/syndicate), [Parker Thompson](https://angel.co/pt/syndicate), [Jim Greer](https://angel.co/jim-greer/syndicate), and [Lee Edwards](https://angel.co/lee-edwards/syndicate).
 
 ### “Themes”
 
