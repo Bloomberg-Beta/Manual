@@ -347,15 +347,12 @@ We want to protect your confidentiality and ours, and usually include a standard
 
 We think of our “products” as offerings of support and capital to a company, and the price we charge is ownership in a company.
 
-### “Kickoff”
+### “Seed”
 Our preference is to be the first money into a company, and to contribute a meaningful amount of capital. This is the core of what we do, and it reflects roughly 90% of the dollars we invest. We want to be able to add capital, sometimes even increasing our ownership stake, as the company evolves. While we lack a specific ownership percentage target, we try to get meaningful ownership given the stage of the company -- in practice, this can be 5-15% depending on how far the company’s progressed. (It’s difficult to generalize because, in startups, exceptions are the rule. We also find that hard ownership targets can make it more difficult to form a syndicate with other investors who can be helpful.)
 
 ### “Flag”
 In some cases, we only seek to put a small amount of money to work (for example, in rounds where the founder is fortunate to have many investors who want to support the company, or it is a later-stage company), and it is unlikely we will invest more. In these cases, our support is as much symbolic as it is financial -- we want to be part of something, even though we know it is unlikely to be an investment that is meaningful to our fund financially. A typical check for these investments might be $50K. While these investments have access to all the services we offer our portfolio, given our lower ownership stake we’re less able to pay proactive attention to these companies and we want to set clear expectations up front about what kinds of startups the founder will likely consider competitive.
 
-### “Coach”
-
-We also seek out opportunities to create companies. We are fundamentally founders, and sometimes want to see something in the world and do not see another team working to build what we believe should exist. So, in these cases, we try to form a team and go after it ourselves. How does this work? We partner with a CEO we know to form a new company, which the founders control -- but for which we commit to play an unusually large role. From the perspective of the founders, we feel like another founder (although one who also brings “you can quit your day job” capital). In these situations, we may earn regular founder common stock (which vests, in case the founders ever want to fire us) -- in addition to our financial investment. We will make very few investments like this -- perhaps one a year.
 
 ## How we support our companies
 
