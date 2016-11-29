@@ -28,7 +28,7 @@ Dan Strickland — [Twitter](https://twitter.com/strickland_dan) // [LinkedIn](h
 Morgan Polotan — [Twitter](https://twitter.com/morganpolotan) // [LinkedIn](https://www.linkedin.com/in/morganpolotan)
 
 ### Where we work
-San Francisco — 140 New Montgomery St. — [Map](http://goo.gl/49X6hu)
+San Francisco — 140 New Montgomery St., 22nd Floor — [Map](http://goo.gl/49X6hu)
 
 New York — 731 Lexington Ave. — [Map](http://goo.gl/tt3m7f)
 
