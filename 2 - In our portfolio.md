@@ -49,7 +49,7 @@ Founders are our customers. In order of our announced participation:
 | [David Rogier](https://www.linkedin.com/in/drogier), [Aaron Rasmussen](http://aaronrasmussen.com/) | **[MasterClass](http://masterclass.com/)** | 
 | [Jesse Vincent](https://twitter.com/obra), [Kaia Dekker](https://twitter.com/quince) | **[Keyboardio](http://keyboard.io/)** |
 | [Edith Harbaugh](https://www.linkedin.com/in/edithharbaugh), [John Kodumal](https://www.linkedin.com/in/jkodumal) | **[LaunchDarkly](http://launchdarkly.com/)** |
-| [Nick Elprin](https://www.linkedin.com/pub/nick-elprin/38/a0/b3), [Chris Yang](https://www.linkedin.com/pub/christopher-yang/58/9a6/a62), [Matthew Granade] (https://www.linkedin.com/pub/matthew-granade/0/188/837) | **[Domino Data Lab](https://www.dominodatalab.com/)** |
+| [Nick Elprin](https://www.linkedin.com/pub/nick-elprin/38/a0/b3), [Chris Yang](https://www.linkedin.com/pub/christopher-yang/58/9a6/a62), [Matthew Granade](https://www.linkedin.com/pub/matthew-granade/0/188/837) | **[Domino Data Lab](https://www.dominodatalab.com/)** |
 | [Chris Kelly](https://www.linkedin.com/in/christopherkelly) | **[Survata](https://www.survata.com/)** |
 | [Raphael Crawford-Marks](https://twitter.com/raphaelcm), [John Quinn](https://www.linkedin.com/in/johndquinn) | **[Bonusly](https://bonus.ly/)** |
 | [Jason Garoutte](https://www.linkedin.com/in/garoutte), [Brian Zotter](https://www.linkedin.com/in/zotterb) | **[YesPath](http://yespath.com)** |
