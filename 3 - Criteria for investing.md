@@ -61,7 +61,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 + In Bay Area or New York (and, if not, strong reason to believe we are the best possible investor)
 
 ##### Product and market
-+ "Makes business work better", without being in financial services
++ "Makes business work better", without being in financial services (It's perfectly fine however for our own employees of Bloomberg LP to refer potential investments to us )
 + We have judgment to identify a winner in the relevant market (usually means a fit with one of our stated investment areas)
 + Unlikely to compete directly with our other portfolio companies
 
