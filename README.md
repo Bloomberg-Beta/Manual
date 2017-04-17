@@ -1,4 +1,4 @@
-#START HERE
+# START HERE
 
 ### Why we exist
 We believe we are seeing profound changes in the way business works. Our investor, Bloomberg L.P., wants to support and understand these changes. Backing and building startups is a wonderful way to do that, so we created Bloomberg Beta. **Below is a snapshot of basic information on us, and a link to our previously-internal [operating manual](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md)—with many details on how we work.**
