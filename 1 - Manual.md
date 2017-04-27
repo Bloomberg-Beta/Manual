@@ -105,7 +105,7 @@ Greatness can start anywhere. We're a small team with a modest-sized fund, thoug
 
 The same is true for startups that are headquartered in one of our hometowns and have an initial market elsewhere (e.g., a company in San Francisco focused on doing something in India). We believe companies should be as close to their customers as possible, and we want to deeply understand a startup's potential customers -- that's difficult when it's targeting customers in markets that are far from where we have expertise and relationships.
 
-We have invested outside of San Francisco and New York a couple of times (Seattle once… Boston a couple of times…), though we need an exceptional reason (and often it's when we already know and trust the team).
+We have invested outside of San Francisco and New York a couple of times (Seattle once… Boston a couple of times… DC a bunch of times...), though we need an exceptional reason (and often it's when we already know and trust the team).
 
 ### Sources
 
