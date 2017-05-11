@@ -27,6 +27,8 @@ Dan Strickland — [Twitter](https://twitter.com/strickland_dan) // [LinkedIn](h
 
 Morgan Polotan — [Twitter](https://twitter.com/morganpolotan) // [LinkedIn](https://www.linkedin.com/in/morganpolotan)
 
+Shaina Conners - [Twitter](https://twitter.com/shainaconners) // [LinkedIn](https://www.linkedin.com/in/shainaconners)
+
 ### Where we work
 San Francisco — 140 New Montgomery St., 22nd Floor — [Map](http://goo.gl/49X6hu)
 
