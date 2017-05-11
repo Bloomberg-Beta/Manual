@@ -23,8 +23,6 @@ James Cham — [Twitter](https://twitter.com/jamescham) // [LinkedIn](https://ww
 
 Shivon Zilis — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/pub/shivon-zilis/7/b35/281)
 
-Dan Strickland — [Twitter](https://twitter.com/strickland_dan) // [LinkedIn](https://www.linkedin.com/in/danstrickland)
-
 Morgan Polotan — [Twitter](https://twitter.com/morganpolotan) // [LinkedIn](https://www.linkedin.com/in/morganpolotan)
 
 Shaina Conners - [Twitter](https://twitter.com/shainaconners) // [LinkedIn](https://www.linkedin.com/in/shainaconners)
