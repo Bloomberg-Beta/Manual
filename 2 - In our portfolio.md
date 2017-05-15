@@ -84,6 +84,8 @@ Founders are our customers. In order of our announced participation:
 
 We love when our portfolio companies hire great investors. Find a list of firms we've worked with [here](https://www.crunchbase.com/organization/bloomberg-beta/insights/co-investors).
 
+Speaking of investors, find the right one for you at [VC Finder](https://tiny.cc/vcfinder).
+
 1 Acquired by LinkedIn, Jul. 2014 :thumbsup:
 
 2 Acquired by GoDaddy, Feb. 2015 :thumbsup:
