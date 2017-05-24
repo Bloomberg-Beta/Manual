@@ -81,6 +81,7 @@ Founders are our customers. In order of our announced participation:
 | [Drew Conway](https://www.linkedin.com/in/drew-conway-13b5b013) | **[Alluvium](http://www.alluvium.io)**
 | [Travis Deyle](http://www.travisdeyle.com/), [Erik Schluntz](http://www.erikschluntz.com/portfolio/)| **[Cobalt Robotics](http://www.cobaltrobotics.com/)**
 | [Eyal Feldman](https://www.linkedin.com/in/feldmaneyal) | **[Stampli](https://www.stampli.com)**
+| [Adam Rogas](https://www.linkedin.com/in/adamrogas/), [Paul Korol](https://www.linkedin.com/in/paulkorol/), [Phil Vizzaccaro](https://www.linkedin.com/in/phil-vizzaccaro-5694b28/), [Eric Kay](https://www.linkedin.com/in/erickaylaw/)| **[NS8](https://www.ns8.com/)**
 
 We love when our portfolio companies hire great investors. Find a list of firms we've worked with [here](https://www.crunchbase.com/organization/bloomberg-beta/insights/co-investors).
 
