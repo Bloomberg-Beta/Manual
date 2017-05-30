@@ -27,6 +27,8 @@ Morgan Polotan — [Twitter](https://twitter.com/morganpolotan) // [LinkedIn](ht
 
 Shaina Conners - [Twitter](https://twitter.com/shainaconners) // [LinkedIn](https://www.linkedin.com/in/shainaconners)
 
+Catherine Dong - [Twitter](https://twitter.com/catzdong) // [LinkedIn](https://www.linkedin.com/in/catherinedong)
+
 ### Where we work
 San Francisco — 140 New Montgomery St., 22nd Floor — [Map](http://goo.gl/49X6hu)
 
