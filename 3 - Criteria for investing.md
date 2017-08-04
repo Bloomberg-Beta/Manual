@@ -29,6 +29,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Spends only when necessary, miserly with capital until the returns are clear
 + Reaction to intense pressure or strong criticism?
 + Differentiated value proposition for talent (e.g., only place to work on a problem, unique founder who is a reason to join the team)
++ Diverse founding team
 + If business shows early signs of success, can founders go the distance?
 
 ##### Product and market
@@ -57,6 +58,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 ##### Founder(s) and team
 + Trustworthy (i.e., will tell us when things are even a little broken)
 + Can raise more money, or get business to profitability
++ Capable of building a diverse team and an inclusive culture
 + Completed background check
 + In Bay Area or New York (and, if not, strong reason to believe we are the best possible investor)
 
