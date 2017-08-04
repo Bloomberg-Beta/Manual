@@ -3,7 +3,8 @@ Criteria for investing
 
 What are our criteria for selecting an investment? Investments we want to make go beyond a checklist of “box ticking” on our non-negotiable requirements (e.g., that we trust the founders). We also look for important indicators that can bias us for or against investing, too. For us to want to invest, the most important single quality: a startup needs the potential to be more than merely great, it needs a shot at the extraordinary. The good news is that to do that, we only look for at least one reason to believe, at whatever stage the company is at, that it can be an outlier...
 
-# Reasons to believe a startup is a potential outlier (at least one of the below compared to other great startups at the same stage)
+# Reasons to believe a startup is a potential outlier 
+*Need at least one of the below compared to other great startups at the same stage*
 ##### Founder(s) and team
 + Ever do something singular? Record of unusual achievement
 + Best-in-the-world domain experience or punch-way-above-your-weight-class first hires
@@ -23,7 +24,8 @@ What are our criteria for selecting an investment? Investments we want to make g
 ##### Deal terms
 + None. (Good deal terms are never a reason to invest in and of themselves.)
 
-# Important indicators (which can bias us for or against investing)
+# Important indicators 
+*Can bias us for or against investing*
 ##### Founder(s) and team
 + Combination of human / inhuman, presence of cognitive distortions of founders
 + Spends only when necessary, miserly with capital until the returns are clear
@@ -54,7 +56,8 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Other investors can help the company succeed
 + In success, our eagerness to invest many multiples of our original investment
 
-# Non-negotiable requirements (need all of the below)
+# Non-negotiable requirements
+*Need all of the below*
 ##### Founder(s) and team
 + Trustworthy (i.e., will tell us when things are even a little broken)
 + Can raise more money, or get business to profitability
