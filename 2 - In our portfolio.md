@@ -89,15 +89,15 @@ We love when our portfolio companies hire great investors. Find a list of firms 
 
 Speaking of investors, find the right one for you at [VC Finder](https://tiny.cc/vcfinder).
 
-1 Acquired by LinkedIn, Jul. 2014 :thumbsup:
+:one: Acquired by LinkedIn, Jul. 2014 :thumbsup:
 
-2 Acquired by GoDaddy, Feb. 2015 :thumbsup:
+:two: Acquired by GoDaddy, Feb. 2015 :thumbsup:
 
-3 Our AngelList profile: https://angel.co/bloomberg-beta-investor
+:three: Our AngelList profile: https://angel.co/bloomberg-beta-investor
 
-4 Acquired by Google, Mar. 2017 :thumbsup:
+:four: Acquired by Google, Mar. 2017 :thumbsup:
 
-5 Acquired by Akamai, Sept. 2016 :thumbsup:
+:five: Acquired by Akamai, Sept. 2016 :thumbsup:
 
-6 Acquired by Demandbase, June 2016 :thumbsup:
+:six: Acquired by Demandbase, June 2016 :thumbsup:
 
