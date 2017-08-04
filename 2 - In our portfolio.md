@@ -53,7 +53,7 @@ Founders are our customers. In order of our announced participation:
 | [Chris Kelly](https://www.linkedin.com/in/christopherkelly) | **[Survata](https://www.survata.com/)** |
 | [Raphael Crawford-Marks](https://twitter.com/raphaelcm), [John Quinn](https://www.linkedin.com/in/johndquinn) | **[Bonusly](https://bonus.ly/)** |
 | [Jason Garoutte](https://www.linkedin.com/in/garoutte), [Brian Zotter](https://www.linkedin.com/in/zotterb) | **[YesPath](http://yespath.com)** |
-| [Anthony Goldbloom](https://www.linkedin.com/in/anthonygoldbloom), [Ben Hamner](https://www.kaggle.com/benhamner) | **[Kaggle](https://www.kaggle.com/)** |
+| [Anthony Goldbloom](https://www.linkedin.com/in/anthonygoldbloom), [Ben Hamner](https://www.kaggle.com/benhamner) | **[Kaggle](https://www.kaggle.com/)** <sup>4</sup> |
 | [Eric Wuebben](https://twitter.com/wuebben), [Andrew Courter](https://twitter.com/covrter) | **[Highly](https://www.highly.co)** |
 | [Katie Spence](https://twitter.com/spenceke), [Ben Brown](https://twitter.com/benbrown) | **[Howdy](http://howdy.ai/)** |
 | [Justin Wohlstadter](https://twitter.com/justpw)| **[Wonder](https://askwonder.com/)** |
@@ -71,8 +71,8 @@ Founders are our customers. In order of our announced participation:
 | [Alberto Pepe](https://www.linkedin.com/in/albertopepe), [Nathan Jenkins](https://twitter.com/nathanjenkins12) | **[Authorea](https://www.authorea.com)** |
 | [Kartik Mandaville](https://www.linkedin.com/in/kar2905)  | **[SpringRole](https://springrole.com)** |
 | [Chris Bach](https://twitter.com/chr_bach), [Mathias Biilmann](http://mathias-biilmann.net/about) | **[Netlify](https://www.netlify.com/)** |
-| [Shinji Kim](https://www.linkedin.com/in/shinjikim), [Alexander Gallego](https://www.linkedin.com/in/alexandergallego)  | **[Concord Systems](http://concord.io/)** <sup>4</sup> |
-| [Alan Fletcher](https://www.linkedin.com/in/alan-fletcher-6161241), [Aman Naimat](https://www.linkedin.com/in/amannaimat)  | **[Spiderbook](http://spiderbook.com/)** <sup>5</sup> |
+| [Shinji Kim](https://www.linkedin.com/in/shinjikim), [Alexander Gallego](https://www.linkedin.com/in/alexandergallego)  | **[Concord Systems](http://concord.io/)** <sup>5</sup> |
+| [Alan Fletcher](https://www.linkedin.com/in/alan-fletcher-6161241), [Aman Naimat](https://www.linkedin.com/in/amannaimat)  | **[Spiderbook](http://spiderbook.com/)** <sup>6</sup> |
 | [Max Bruner](https://www.linkedin.com/in/maxbruner), [Yuan Gao](https://www.linkedin.com/in/yuan-gao-30027060), [Alexey Rostapshov](https://www.linkedin.com/in/arostaps)  | **[Mavrx](https://www.mavrx.co/)**
 | [John Ciancutti](https://twitter.com/johnciancutti), [Steve McLendon](https://twitter.com/stevemclendon), [Steve Henn](https://twitter.com/HennsEggs) | **[60dB](https://60db.co/)** |
 | [Jason Bade](https://www.linkedin.com/in/jasonbade), [Nick Chen](https://www.linkedin.com/in/nicholasychen)  | **[PennyPass](http://www.pennypass.com/)** |
@@ -94,7 +94,9 @@ Speaking of investors, find the right one for you at [VC Finder](https://tiny.cc
 
 3 Our AngelList profile: https://angel.co/bloomberg-beta-investor
 
-4 Acquired by Akamai, Sept. 2016 :thumbsup:
+4 Acquired by Google, Mar. 2017 :thumbsup:
 
-5 Acquired by Demandbase, June 2016 :thumbsup:
+5 Acquired by Akamai, Sept. 2016 :thumbsup:
+
+6 Acquired by Demandbase, June 2016 :thumbsup:
 
