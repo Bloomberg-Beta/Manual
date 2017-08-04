@@ -74,7 +74,30 @@ So much of backing founders is about trust -- many of the companies we’ve back
 
 We also do background checks on founders where we search public records. Almost everyone has something turn up, and that's fine. People get sued, things happen. Some of history's best founders had complicated pasts. The issues arise when we're surprised by something important that we learn -- trust, again -- and we resolve those issues in conversation with founders.
 
-We also are committed to diversity and especially encourage founders of underrepresented communities to speak with us about their companies. We believe that a community of companies is stronger the more different viewpoints come to the table, and we're happy to speak more about our record in this area with founders who are interested.
+### Inclusion and diversity
+
+We are committed to making the startup world welcoming to people of all backgrounds -- from our own team, to the founding teams we serve and the companies they build. Startups start with seeing the world anew, and people with different backgrounds see the world differently – so if we want to remake things, we need to enlist people with as wide a range of backgrounds as possible.
+
+We focus our proactive sourcing outreach on seeking out founders from underrepresented communities to speak with us about their companies. We define diversity broadly, including inherent and acquired forms of diversity like gender, race, ethnicity, sexual orientation, socioeconomic class, geography, nationality, education, and others.
+
+We are proud of the diversity of backgrounds on our team (e.g., our partnership is 50-50 female-male, we only have one white male team member, and our team is more than half women). We believe groupthink is dangerous in venture capital, and that different perspectives demand different backgrounds – so we focused on creating that environment. A diverse and inclusive team also just makes for a better experience for us.
+
+That said, we are disappointed in our performance backing enough founders from underrepresented backgrounds. For example, only 9% of the CEOs we have backed are women and only 17% of founding teams we have backed include a female founder. We would like to accurately track other forms of diversity, though we avoid asking our founders to submit any mandatory data to us, so this is difficult. (We struggled with whether to set a goal for future portfolio composition: on the one hand, we want the goal to be something we can control and achieve, and on the other hand, any goal less than 50% feels inadequate and the only goal that matters is the end of our pipeline, backed companies.)
+
+We believe progress requires an accumulation of many small decisions over years – [trust takes time](http://also.roybahat.com/post/91847335194/the-trust-thing). That said, we commit to act now. Specifically:
++ Our most significant project to reach new founders is our Future Founders community, where we use data to predict who will start a company in the future. [Our group of Future Founders is much more diverse](https://www.nytimes.com/2015/07/02/upshot/the-next-mark-zuckerberg-is-not-who-you-might-think.html?_r=0) than the current population of venture-backed founders (the group is, for example, 28% female, though of course we want to get it to 50%).
++ As part of our formal criteria for picking investments we want to make, [we only invest in founders that we believe are capable of creating a diverse company and an inclusive culture.](https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md#founders-and-team-2) If a startup we back fails to create a diverse and inclusive culture, we would feel regret regardless of how well the company performed financially.
++ We host open office hours -- only for founders who come from an underrepresented background. Any Friday from 1-2pm PT, you can DM [the head of our fund](http://twitter.com/roybahat) on Twitter and we’ll happily talk with you.
++ We commit to double, by July 2018, the number of woman-led companies we actively consider for investment each month to 10. (By “active consideration” we mean the stage in our pipeline just before we make an offer -- where we meet, usually more than once, and begin to do some diligence work.)
++ When invited to speak at an industry event, we ask whether there is someone from an underrepresented community speaking alongside us (e.g., on a panel).
++ When we host our own events, we examine our invitation lists for diversity on gender and other dimensions. (See, for example, our [yearlong commission on the effect of technology on the future of work](https://shiftcommission.work/findings-of-shift-the-commission-on-work-workers-and-technology-a071bc169df0).)
++ We are hosting an annual "Turpentine Talk" (our roughly-monthly founder-to-founder tactical learning events for our portfolio) on the subject of building a diverse and inclusive team.
++ We were inaugural members of [theBoardlist](https://theboardlist.com/our-community), which helps companies find female board members.
++ We will update the performance metrics we’ve published here (e.g., on the gender composition of our portfolio CEOs) at least annually.
+
+We believe we need to hold ourselves accountable. As one measure, if a founder ever has an issue with our fund or our team, the founder can make a report to a Bloomberg representative, [Kate Wheatley] (mailto://kate.wheatley@bloombergbeta.com), who happens to be the lead HR partner for all Bloomberg business leaders. We are accountable to our source of capital.
+
+We believe a community of companies is stronger the more different viewpoints come to the table, and intend to actively participate in creating a more inclusive and diverse technology industry.
 
 ### Product and market
 
