@@ -86,6 +86,7 @@ Founders are our customers. In order of our announced participation:
 | [Aseem Sood](https://www.linkedin.com/in/aseems/), [Pia Mancini](https://twitter.com/piamancini), [Xavier Damman](https://twitter.com/xdamman) | **[Open Collective](https://opencollective.com/)** |
 | [Tim Delisle](https://www.linkedin.com/in/tim-delisle-61357263/), [Bryan Russett](https://www.linkedin.com/in/bryanrussett/) | **[Datalogue](https://www.datalogue.io/)** |
 | [Tyler Koblasa](https://www.linkedin.com/in/tylerkoblasa/)| **[CloudApp](https://my.cl.ly/register)** |
+| [John Terrill](https://www.linkedin.com/in/johnterrill)  | **[Drawbridge Networks](https://drawbridgenetworks.com/)** <sup>7</sup> |
 
 We love when our portfolio companies hire great investors. Find a list of firms we've worked with [here](https://www.crunchbase.com/organization/bloomberg-beta/insights/co-investors).
 
@@ -103,3 +104,4 @@ Speaking of investors, find the right one for you at [VC Finder](https://tiny.cc
 
 :six: Acquired by Demandbase, June 2016 :thumbsup:
 
+:seven: Acquired by OPAQ Networks, May 2017 :thumbsup:
