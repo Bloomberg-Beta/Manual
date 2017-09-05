@@ -87,6 +87,7 @@ Founders are our customers. In order of our announced participation:
 | [Tim Delisle](https://www.linkedin.com/in/tim-delisle-61357263/), [Bryan Russett](https://www.linkedin.com/in/bryanrussett/) | **[Datalogue](https://www.datalogue.io/)** |
 | [Tyler Koblasa](https://www.linkedin.com/in/tylerkoblasa/)| **[CloudApp](https://my.cl.ly/register)** |
 | [John Terrill](https://www.linkedin.com/in/johnterrill)  | **[Drawbridge Networks](https://drawbridgenetworks.com/)** <sup>7</sup> |
+| [Melanie Shapiro](https://www.linkedin.com/in/melshapiro), [Steve Shapiro](https://www.linkedin.com/in/shapirosteve/)| **[Token](https://tokenize.com/)** |
 
 We love when our portfolio companies hire great investors. Find a list of firms we've worked with [here](https://www.crunchbase.com/organization/bloomberg-beta/insights/co-investors).
 
