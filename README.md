@@ -15,19 +15,18 @@ Now we've moved our entire web presence to GitHub to become even more transparen
 **So here you are. When in doubt, as they say, read the (ahem) manual. :)**
 
 ### Who we are
-Roy Bahat — [Twitter](https://twitter.com/roybahat) // [LinkedIn](https://www.linkedin.com/in/roybahat) // [Blog](http://also.roybahat.com/)
-
-Karin Klein — [Twitter](https://twitter.com/karinklein) // [LinkedIn](https://www.linkedin.com/in/karinklein) // [Blog](https://medium.com/@Karin)
 
 James Cham — [Twitter](https://twitter.com/jamescham) // [LinkedIn](https://www.linkedin.com/in/jcham)
 
+Karin Klein — [Twitter](https://twitter.com/karinklein) // [LinkedIn](https://www.linkedin.com/in/karinklein) // [Blog](https://medium.com/@Karin)
+
+Roy Bahat — [Twitter](https://twitter.com/roybahat) // [LinkedIn](https://www.linkedin.com/in/roybahat) // [Blog](http://also.roybahat.com/)
+
 Shivon Zilis — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/pub/shivon-zilis/7/b35/281)
 
-Morgan Polotan — [Twitter](https://twitter.com/morganpolotan) // [LinkedIn](https://www.linkedin.com/in/morganpolotan)
+Shaina Conners — [Twitter](https://twitter.com/shainaconners) // [LinkedIn](https://www.linkedin.com/in/shainaconners)
 
-Shaina Conners - [Twitter](https://twitter.com/shainaconners) // [LinkedIn](https://www.linkedin.com/in/shainaconners)
-
-Catherine Dong - [Twitter](https://twitter.com/catzdong) // [LinkedIn](https://www.linkedin.com/in/catherinedong)
+Fritzi Reuter — [LinkedIn](https://www.linkedin.com/in/friederike-reuter-431b8b61/?ppe=1)
 
 ### Where we work
 San Francisco — 140 New Montgomery St., 22nd Floor — [Map](http://goo.gl/49X6hu)
