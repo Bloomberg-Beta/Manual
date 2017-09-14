@@ -88,6 +88,9 @@ Founders are our customers. In order of our announced participation:
 | [Tyler Koblasa](https://www.linkedin.com/in/tylerkoblasa/)| **[CloudApp](https://my.cl.ly/register)** |
 | [John Terrill](https://www.linkedin.com/in/johnterrill)  | **[Drawbridge Networks](https://drawbridgenetworks.com/)** <sup>7</sup> |
 | [Melanie Shapiro](https://www.linkedin.com/in/melshapiro), [Steve Shapiro](https://www.linkedin.com/in/shapirosteve/)| **[Token](https://tokenize.com/)** |
+| [George Cigale](https://www.linkedin.com/in/gcigale)| **[MycroFriends](https://www.mycrofriends.com/)** |
+| [Dor Skuler](https://www.linkedin.com/in/dorskuler/), [Roy Amir](https://www.linkedin.com/in/roy-amir-297b18/), [Itai Mendelsohn](https://www.linkedin.com/in/itai-mendelsohn-69347a1/?ppe=1)|| **[Intuition Robotics](http://www.intuitionrobotics.com)** |  
+
 
 We love when our portfolio companies hire great investors. Find a list of firms we've worked with [here](https://www.crunchbase.com/organization/bloomberg-beta/insights/co-investors).
 
