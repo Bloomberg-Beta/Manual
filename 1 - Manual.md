@@ -95,7 +95,7 @@ We believe progress requires an accumulation of many small decisions over years 
 + We were inaugural members of [theBoardlist](https://theboardlist.com/our-community), which helps companies find female board members.
 + We will update the performance metrics we’ve published here (e.g., on the gender composition of our portfolio CEOs) at least annually.
 
-We believe we need to hold ourselves accountable. As one measure, if a founder ever has an issue with our fund or our team, the founder can make a report to a Bloomberg representative, [Kate Wheatley] (mailto://kate.wheatley@bloombergbeta.com), who happens to be the lead HR partner for all Bloomberg business leaders. We are accountable to our source of capital.
+We believe we need to hold ourselves accountable. As one measure, if a founder ever has an issue with our fund or our team, the founder can make a report to a Bloomberg representative, Kate Wheatley -- kate.wheatley@bloombergbeta.com -- who happens to be the lead HR partner for all Bloomberg business leaders. We are accountable to our source of capital.
 
 We believe a community of companies is stronger the more different viewpoints come to the table, and intend to actively participate in creating a more inclusive and diverse technology industry.
 
