@@ -74,7 +74,7 @@ Founders are our customers. In order of our announced participation:
 | [Shinji Kim](https://www.linkedin.com/in/shinjikim), [Alexander Gallego](https://www.linkedin.com/in/alexandergallego)  | **[Concord Systems](http://concord.io/)** <sup>5</sup> |
 | [Alan Fletcher](https://www.linkedin.com/in/alan-fletcher-6161241), [Aman Naimat](https://www.linkedin.com/in/amannaimat)  | **[Spiderbook](http://spiderbook.com/)** <sup>6</sup> |
 | [Max Bruner](https://www.linkedin.com/in/maxbruner), [Yuan Gao](https://www.linkedin.com/in/yuan-gao-30027060), [Alexey Rostapshov](https://www.linkedin.com/in/arostaps)  | **[Mavrx](https://www.mavrx.co/)**
-| [John Ciancutti](https://twitter.com/johnciancutti), [Steve McLendon](https://twitter.com/stevemclendon), [Steve Henn](https://twitter.com/HennsEggs) | **[60dB](https://60db.co/)** |
+| [John Ciancutti](https://twitter.com/johnciancutti), [Steve McLendon](https://twitter.com/stevemclendon), [Steve Henn](https://twitter.com/HennsEggs) | **[60dB](https://60db.co/)** <sup>9</sup> |
 | [Jason Bade](https://www.linkedin.com/in/jasonbade), [Nick Chen](https://www.linkedin.com/in/nicholasychen)  | **[PennyPass](http://www.pennypass.com/)** |
 | [Jeff LaBarge](https://www.linkedin.com/in/jefflabarge), [Tom Shapland](https://www.linkedin.com/in/tom-shapland-b4494212)  | **[Tule Technologies](https://www.tuletechnologies.com/)** |
 | [Itzik Ben-Bassat](https://twitter.com/ibenbassat), [Aviv Eyal](https://twitter.com/avive)  | **[GONG!](https://gongsters.com/)** |
@@ -111,3 +111,5 @@ Speaking of investors, find the right one for you at [VC Finder](https://tiny.cc
 :seven: Acquired by OPAQ Networks, May 2017 :thumbsup:
 
 :eight: Acquired by Lyft, August 2017 :thumbsup:
+
+:nine: Acquired by Google, October 2017 :thumbsup:
