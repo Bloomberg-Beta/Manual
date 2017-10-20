@@ -75,7 +75,7 @@ Founders are our customers. In order of our announced participation:
 | [Alan Fletcher](https://www.linkedin.com/in/alan-fletcher-6161241), [Aman Naimat](https://www.linkedin.com/in/amannaimat)  | **[Spiderbook](http://spiderbook.com/)** <sup>6</sup> |
 | [Max Bruner](https://www.linkedin.com/in/maxbruner), [Yuan Gao](https://www.linkedin.com/in/yuan-gao-30027060), [Alexey Rostapshov](https://www.linkedin.com/in/arostaps)  | **[Mavrx](https://www.mavrx.co/)**
 | [John Ciancutti](https://twitter.com/johnciancutti), [Steve McLendon](https://twitter.com/stevemclendon), [Steve Henn](https://twitter.com/HennsEggs) | **[60dB](https://60db.co/)** <sup>9</sup> |
-| [Jason Bade](https://www.linkedin.com/in/jasonbade), [Nick Chen](https://www.linkedin.com/in/nicholasychen)  | **[PennyPass](http://www.pennypass.com/)** |
+| [Jason Bade](https://www.linkedin.com/in/jasonbade), [Nick Chen](https://www.linkedin.com/in/nicholasychen)  | **[Pico](https://hellopico.io/)** |
 | [Jeff LaBarge](https://www.linkedin.com/in/jefflabarge), [Tom Shapland](https://www.linkedin.com/in/tom-shapland-b4494212)  | **[Tule Technologies](https://www.tuletechnologies.com/)** |
 | [Itzik Ben-Bassat](https://twitter.com/ibenbassat), [Aviv Eyal](https://twitter.com/avive)  | **[GONG!](https://gongsters.com/)** |
 | [Ryan Tseng](https://www.linkedin.com/in/ryantseng), [Andrew Reiter](https://www.linkedin.com/in/andrewreiter), [Brandon Tseng](https://www.linkedin.com/in/brandontseng)  | **[Shield AI](http://shield.ai/)**
