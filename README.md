@@ -26,7 +26,7 @@ Shivon Zilis — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www
 
 Shaina Conners — [Twitter](https://twitter.com/shainaconners) // [LinkedIn](https://www.linkedin.com/in/shainaconners)
 
-Fritzi Reuter — [LinkedIn](https://www.linkedin.com/in/friederike-reuter-431b8b61/?ppe=1)
+Minn Kim — [Twitter](https://twitter.com/minney_cat) // [LinkedIn](https://www.linkedin.com/in/minnkim/) 
 
 ### Where we work
 San Francisco — 140 New Montgomery St., 22nd Floor — [Map](http://goo.gl/49X6hu)
