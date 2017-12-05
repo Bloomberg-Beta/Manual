@@ -16,21 +16,21 @@ Founders are our customers. In order of our announced participation:
 | [Ron Palmeri](https://twitter.com/RonP), [Tomaž Štolfa](https://twitter.com/tomazstolfa) | **[Layer](https://layer.com/)** | 
 | [Naval Ravikant](https://twitter.com/naval), [Babak Nivi](https://www.linkedin.com/in/bnivi) | **[AngelList](https://angel.co/)** <sup>3</sup>| 
 | [Anil Dash](http://dashes.com/anil/), [Gina Trapani](https://twitter.com/ginatrapani) | **[ThinkUp](https://www.thinkup.com/)** | 
-| [Sandi MacPherson](http://quibb.com/sandimacpherson) | **[Quibb](http://quibb.com/)** | 
+| [Sandi MacPherson](http://quibb.com/sandimacpherson) | Quibb | 
 | [Jason Hirschhorn](https://twitter.com/JasonHirschhorn) | **[REDEF](http://www.mediaredefined.com/)** | 
 | [Ryan Petersen](https://twitter.com/typesfast) | **[Flexport](https://www.flexport.com/)** | 
 | [Fouad ElNaggar](https://twitter.com/ThufirHawat), [Peter Yared](https://twitter.com/peteryared) | **[Sapho](http://www.sapho.com/)** | 
 | [Daniela Perdomo](https://twitter.com/danielaperdomo) | **[goTenna](http://gotenna.com/)** |
-| [Anne Wootton](https://twitter.com/annewootton), [Bailey Smith](https://www.linkedin.com/in/baileyrsmith) | **[Pop Up Archive](https://www.popuparchive.com/)** |
+| [Anne Wootton](https://twitter.com/annewootton), [Bailey Smith](https://www.linkedin.com/in/baileyrsmith) | Pop Up Archive|
 | [Satyen Sangani](https://www.linkedin.com/in/ssangani) | **[Alation](http://alation.com/)** |
 | [Amit Gupta](https://www.linkedin.com/in/amitngupta) | **[SenderGen](http://www.sendergen.com/)** |
 | [K.V. Rao](https://www.linkedin.com/pub/k-v-rao/0/48/517) | **[Aviso](http://www.aviso.com/)** |
 | [Nadim Hossain](https://www.linkedin.com/in/nadimhossain), [Nisheeth Ranjan](https://www.linkedin.com/in/nranjan), [Ranjan Bagchi](https://www.linkedin.com/in/rbagchi) | **[BrightFunnel](http://www.brightfunnel.com/)** |
 | [Alex Rampell](https://twitter.com/arampell), [Pasha Bitz](https://twitter.com/pashabitz), [Jonathan Wolf](https://www.linkedin.com/in/jwolf) | **[TXN](http://txn.com/)** |
 | [Eric Tilenius](https://www.linkedin.com/in/tilenius), [Pratik Verma](https://www.linkedin.com/in/pratikrverma) | **[BlueTalon Data Systems](http://bluetalon.com/)** |
-| [Fred Seibert](https://twitter.com/fredseibert), [Yoel Flohr](https://uk.linkedin.com/in/flohr) | **[Thirty Labs](http://thirtylabs.com/)** |
+| [Fred Seibert](https://twitter.com/fredseibert), [Yoel Flohr](https://uk.linkedin.com/in/flohr) | Thirty Labs |
 | [Jamie Davidson](https://www.linkedin.com/pub/jamie-davidson/32/451/85a), [Eric Duffy](https://www.linkedin.com/pub/eric-duffy/29/326/101) | **[Pathgather](http://www.pathgather.com/)** |
-| [David Byrd](https://www.linkedin.com/in/davidmbyrd), [Steve Kaliski](https://www.linkedin.com/pub/steve-kaliski/10/a77/79) | **[Bowery](http://bowery.io/)** |
+| [David Byrd](https://www.linkedin.com/in/davidmbyrd), [Steve Kaliski](https://www.linkedin.com/pub/steve-kaliski/10/a77/79) | Bowery |
 | [Scott Forman](https://www.linkedin.com/in/scottforman), [Jeff Kolesky](https://www.linkedin.com/in/jeffkolesky) | **[OneRoom](http://www.joinoneroom.com/)** |
 | [Ivan Kirigin](https://www.linkedin.com/in/kirigin) | **[YesGraph](https://www.yesgraph.com/)** <sup>8</sup> |
 | [Eddie Lim](https://www.linkedin.com/in/eddiedotlim), [Eoin Matthews](https://www.linkedin.com/pub/eoin-matthews/0/517/287) | **[Point](https://point.com/)** |
@@ -52,7 +52,7 @@ Founders are our customers. In order of our announced participation:
 | [Nick Elprin](https://www.linkedin.com/pub/nick-elprin/38/a0/b3), [Chris Yang](https://www.linkedin.com/pub/christopher-yang/58/9a6/a62), [Matthew Granade](https://www.linkedin.com/pub/matthew-granade/0/188/837) | **[Domino Data Lab](https://www.dominodatalab.com/)** |
 | [Chris Kelly](https://www.linkedin.com/in/christopherkelly) | **[Survata](https://www.survata.com/)** |
 | [Raphael Crawford-Marks](https://twitter.com/raphaelcm), [John Quinn](https://www.linkedin.com/in/johndquinn) | **[Bonusly](https://bonus.ly/)** |
-| [Jason Garoutte](https://www.linkedin.com/in/garoutte), [Brian Zotter](https://www.linkedin.com/in/zotterb) | **[YesPath](http://yespath.com)** |
+| [Jason Garoutte](https://www.linkedin.com/in/garoutte), [Brian Zotter](https://www.linkedin.com/in/zotterb) | YesPath |
 | [Anthony Goldbloom](https://www.linkedin.com/in/anthonygoldbloom), [Ben Hamner](https://www.kaggle.com/benhamner) | **[Kaggle](https://www.kaggle.com/)** <sup>4</sup> |
 | [Eric Wuebben](https://twitter.com/wuebben), [Andrew Courter](https://twitter.com/covrter) | **[Highly](https://www.highly.co)** |
 | [Katie Spence](https://twitter.com/spenceke), [Ben Brown](https://twitter.com/benbrown) | **[Howdy](http://howdy.ai/)** |
@@ -77,7 +77,7 @@ Founders are our customers. In order of our announced participation:
 | [John Ciancutti](https://twitter.com/johnciancutti), [Steve McLendon](https://twitter.com/stevemclendon), [Steve Henn](https://twitter.com/HennsEggs) | **[60dB](https://60db.co/)** <sup>9</sup> |
 | [Jason Bade](https://www.linkedin.com/in/jasonbade), [Nick Chen](https://www.linkedin.com/in/nicholasychen)  | **[Pico](https://hellopico.io/)** |
 | [Jeff LaBarge](https://www.linkedin.com/in/jefflabarge), [Tom Shapland](https://www.linkedin.com/in/tom-shapland-b4494212)  | **[Tule Technologies](https://www.tuletechnologies.com/)** |
-| [Itzik Ben-Bassat](https://twitter.com/ibenbassat), [Aviv Eyal](https://twitter.com/avive)  | **[GONG!](https://gongsters.com/)** |
+| [Itzik Ben-Bassat](https://twitter.com/ibenbassat), [Aviv Eyal](https://twitter.com/avive)  | GONG!|
 | [Ryan Tseng](https://www.linkedin.com/in/ryantseng), [Andrew Reiter](https://www.linkedin.com/in/andrewreiter), [Brandon Tseng](https://www.linkedin.com/in/brandontseng)  | **[Shield AI](http://shield.ai/)**
 | [Drew Conway](https://www.linkedin.com/in/drew-conway-13b5b013) | **[Alluvium](http://www.alluvium.io)**
 | [Travis Deyle](http://www.travisdeyle.com/), [Erik Schluntz](http://www.erikschluntz.com/portfolio/)| **[Cobalt Robotics](http://www.cobaltrobotics.com/)**
