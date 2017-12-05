@@ -116,5 +116,5 @@ Speaking of investors, find the right one for you at [VC Finder](https://tiny.cc
 
 :nine: Acquired by Google, October 2017 :thumbsup:
 
-:ten: Acquired by Apple, November 2017 :thumbsup:
+:one::zero: Acquired by Apple, November 2017 :thumbsup:
 
