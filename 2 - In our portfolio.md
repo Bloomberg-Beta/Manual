@@ -32,7 +32,7 @@ Founders are our customers. In order of our announced participation:
 | [Jamie Davidson](https://www.linkedin.com/pub/jamie-davidson/32/451/85a), [Eric Duffy](https://www.linkedin.com/pub/eric-duffy/29/326/101) | **[Pathgather](http://www.pathgather.com/)** |
 | [David Byrd](https://www.linkedin.com/in/davidmbyrd), [Steve Kaliski](https://www.linkedin.com/pub/steve-kaliski/10/a77/79) | Bowery |
 | [Scott Forman](https://www.linkedin.com/in/scottforman), [Jeff Kolesky](https://www.linkedin.com/in/jeffkolesky) | **[OneRoom](http://www.joinoneroom.com/)** |
-| [Ivan Kirigin](https://www.linkedin.com/in/kirigin) | | YesGraph <sup>8</sup>|
+| [Ivan Kirigin](https://www.linkedin.com/in/kirigin) | YesGraph <sup>8</sup> |
 | [Eddie Lim](https://www.linkedin.com/in/eddiedotlim), [Eoin Matthews](https://www.linkedin.com/pub/eoin-matthews/0/517/287) | **[Point](https://point.com/)** |
 | [John Battelle](https://twitter.com/johnbattelle) | **[NewCo](http://newco.co/)** |
 | [Javed Singha](https://www.linkedin.com/pub/javed-singha/5/826/1a7), [Yves Frinault](https://www.linkedin.com/in/yvesfrinault) | **[Fieldwire](http://www.fieldwire.com/)** |
