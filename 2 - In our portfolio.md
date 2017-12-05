@@ -21,7 +21,7 @@ Founders are our customers. In order of our announced participation:
 | [Ryan Petersen](https://twitter.com/typesfast) | **[Flexport](https://www.flexport.com/)** | 
 | [Fouad ElNaggar](https://twitter.com/ThufirHawat), [Peter Yared](https://twitter.com/peteryared) | **[Sapho](http://www.sapho.com/)** | 
 | [Daniela Perdomo](https://twitter.com/danielaperdomo) | **[goTenna](http://gotenna.com/)** |
-| [Anne Wootton](https://twitter.com/annewootton), [Bailey Smith](https://www.linkedin.com/in/baileyrsmith) | Pop Up Archive|
+| [Anne Wootton](https://twitter.com/annewootton), [Bailey Smith](https://www.linkedin.com/in/baileyrsmith) | Pop Up Archive <sup>10</sup>|
 | [Satyen Sangani](https://www.linkedin.com/in/ssangani) | **[Alation](http://alation.com/)** |
 | [Amit Gupta](https://www.linkedin.com/in/amitngupta) | **[SenderGen](http://www.sendergen.com/)** |
 | [K.V. Rao](https://www.linkedin.com/pub/k-v-rao/0/48/517) | **[Aviso](http://www.aviso.com/)** |
@@ -115,3 +115,6 @@ Speaking of investors, find the right one for you at [VC Finder](https://tiny.cc
 :eight: Acquired by Lyft, August 2017 :thumbsup:
 
 :nine: Acquired by Google, October 2017 :thumbsup:
+
+:ten: Acquired by Apple, November 2017 :thumbsup:
+
