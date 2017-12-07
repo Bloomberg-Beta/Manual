@@ -91,6 +91,7 @@ Founders are our customers. In order of our announced participation:
 | [George Cigale](https://www.linkedin.com/in/gcigale)| **[MycroFriends](https://www.mycrofriends.com/)** |
 | [Dor Skuler](https://www.linkedin.com/in/dorskuler/), [Roy Amir](https://www.linkedin.com/in/roy-amir-297b18/), [Itai Mendelsohn](https://www.linkedin.com/in/itai-mendelsohn-69347a1/?ppe=1)| **[Intuition Robotics](http://www.intuitionrobotics.com)** |  
 | [Suzanne Gildret](https://www.linkedin.com/in/suzannegildert/)| **[Kindred.AI](https://www.kindred.ai/)** |
+| [Adam Rogas](https://www.linkedin.com/in/adamrogas/)| | [Paul Korol](https://www.linkedin.com/in/paulkorol/)|**[NS8](https://www.ns8.com/)** |
 
 
 
