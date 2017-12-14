@@ -78,7 +78,7 @@ We also do background checks on founders where we search public records. Almost 
 
 We are committed to making the startup world welcoming to people of all backgrounds -- from our own team, to the founding teams we serve and the companies they build. Startups start with seeing the world anew, and people with different backgrounds see the world differently – so if we want to remake things, we need to enlist people with as wide a range of backgrounds as possible.
 
-We focus our proactive sourcing outreach on seeking out founders from underrepresented communities. We define diversity broadly, including inherent and acquired forms of diversity like gender, race, ethnicity, sexual orientation, socioeconomic class, geography, nationality, education, and others.
+We focus our proactive sourcing outreach on seeking out founders from underrepresented communities. We define diversity broadly, including inherent and acquired forms of diversity like gender, race, ethnicity, sexual orientation, age, socioeconomic class, geography, nationality, education, and others.
 
 We are proud of the diversity of our team (e.g., our partnership is 50-50 female-male, we only have one white male team member, and our team is more than half women). We believe groupthink is dangerous in venture capital, and that different perspectives demand different backgrounds. A diverse and inclusive team also just makes for a better experience for us.
 
