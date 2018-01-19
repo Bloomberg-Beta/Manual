@@ -92,7 +92,7 @@ Founders are our customers. In order of our announced participation:
 | [Dor Skuler](https://www.linkedin.com/in/dorskuler/), [Roy Amir](https://www.linkedin.com/in/roy-amir-297b18/), [Itai Mendelsohn](https://www.linkedin.com/in/itai-mendelsohn-69347a1/?ppe=1)| **[Intuition Robotics](http://www.intuitionrobotics.com)** |  
 | [Suzanne Gildret](https://www.linkedin.com/in/suzannegildert/)| **[Kindred.AI](https://www.kindred.ai/)** |
 | [Scott Heiferman](https://www.linkedin.com/in/sheif), [Brendan McGovern](https://www.linkedin.com/in/brendan-mcgovern-a49a142)| **[Meetup](http://www.meetup.com)** <sup>11</sup>| 
-
+| [Mircea Pasoi](https://www.linkedin.com/in/mirceapasoi), [Liana Dumitru](https://www.linkedin.com/in/lianadumitru/)| **[Alien Labs](https://memo.ai/)** <sup>12</sup>| 
 
 We love when our portfolio companies hire great investors. Find a list of firms we've worked with [here](https://www.crunchbase.com/organization/bloomberg-beta/insights/co-investors).
 
@@ -119,3 +119,5 @@ Speaking of investors, find the right one for you at [VC Finder](https://tiny.cc
 :one::zero: Acquired by Apple, November 2017 :thumbsup:
 
 :one::one: Acquired by WeWork, December 2017 :thumbsup:
+
+:one::two: Acquired by Coinbase, January 2018 :thumbsup:
