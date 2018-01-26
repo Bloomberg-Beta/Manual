@@ -296,7 +296,7 @@ Our goal, particularly with first-time founders, is to explain what we want and 
 
 ### How much risk do we take
 
-Since we bet early, and expect the vast majority of our portfolio companies to fail to return much money, our winners need to be big. We fully expect that, if we succeed, one investment we make will return our entire fund. So we need to believe that every company could be that investment.
+Since we bet early, and expect the vast majority of our portfolio companies to fail to return much money, our winners need to be big. We fully expect that, if we succeed, one investment will return our entire fund. So we need to believe that every company could be that investment.
 
 We prefer enormous growth in modest markets to modest growth in enormous markets. We believe that tends to be a more reliable signal of a company's greatness -- it is harder to serve 100 customers exceptionally than to serve 10,000 customers poorly. And we learned, in part from the example of Bloomberg's growth from one category of the financial industry to another, that deeply understanding each type of customer gives you an exceptional ability to lead an industry.
 
@@ -422,6 +422,8 @@ What’s even better than an update intended for investors, is some passive way 
 ### How to make the most of us
 
 What gets us going is helping companies realize their potential. We are happiest when we are “in it” with you, whiteboarding a set of features, pushing back on your plan to announce your fancy new product release, or getting that late night call that you think things aren’t working out with the person you just spent six months to recruit. We feed off your enthusiasm, and hope to help you build even more of it.
+
+We intend to earn the trust of Bloomberg Beta founders. We commit to being available to you whenever you want to talk. We try to notice when it’s an important moment, and especially important to lead with empathy. We recognize that issues around the personal finances of founders are particularly important and often go undiscussed -- [something we would like to change, so we can better serve founders](https://medium.com/@roybahat/for-founders-and-investors-its-time-for-real-talk-about-money-b669ae467f92). We commit to treating founders' personal financial information, when they share it with us, with confidentiality and respect. We intend to use our knowledge to help you and your companies to the best of our ability.
 
 We also know that startups are not all roses and sunshine, even for the best of companies. We aspire to be most helpful to you when times are tough, not when you are on top of the world.
 
