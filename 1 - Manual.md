@@ -198,12 +198,12 @@ Once we’re meeting in person, you can often leave the laptop closed. We’re t
 If your product is public, you should assume when you walk into the room that we’ve spent the time to play with it.
 
 Some things we tend to say, ask, or think in meetings:
-* We act more like an individual investor in many ways than a fund. More like a “CEO who invests” -- because we both create and invest in companies, because we’ve all been “on the other side,” and because we always enjoyed the CEO-investors who backed companies and found them to be incredibly valuable per minute spent.
 * We don’t put great faith in the value of advice (including, often, our own) -- the world of users and customers has more to teach a company than any smart, well-intentioned person.
 * What makes you an outlier? (Do you know what makes your company a potential outlier?)
+* What was the last important skill you learned? (We believe great founders are, paradoxically, both self-confident and exceptionally good learners -- so constantly in need of improvement.) What was the last thing you were wrong about?
 * What do you want out of your investors other than money? (We’re trying to figure out if we can be uniquely helpful.)
 * If a dozen other companies are creating a company right now with this exact idea, how could you still succeed?
-* Who will you pick as your [first customers](http://also.roybahat.com/post/84933343626/picking-your-first-customers-the-gradient-of-influence)? (This tends to be, in our view, one of the most important early choices founders make.)
+* Who will you pick as your [first customers](http://also.roybahat.com/post/84933343626/picking-your-first-customers-the-gradient-of-influence)? (This tends to be, in our view, one of the most important early choices founders make.) Who was the last potential customer you spoke with? (Founders who are scared of talking to customers scare us.)
 * How close do you feel you are to product-market fit? (Here, it's less that we want you to *have* product-market fit, and more that we want to understand how you think about your own progress wherever you are.)
 * Are there any plans you really would like to pursue, but have stopped talking about with investors because you've been told by VCs they are bad ideas? (We often like those plans.)
 * Why are you raising money at all? (We find there are plenty of startups who don’t actually need to raise money and, in general, that’s better for them -- even if it means we don’t get to participate.)
