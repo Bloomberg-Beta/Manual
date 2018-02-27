@@ -38,7 +38,7 @@ Founders are our customers. In order of our announced participation:
 | [Javed Singha](https://www.linkedin.com/pub/javed-singha/5/826/1a7), [Yves Frinault](https://www.linkedin.com/in/yvesfrinault) | **[Fieldwire](http://www.fieldwire.com/)** |
 | [James Crawford](https://www.linkedin.com/in/jmcrawfordjr) | **[Orbital Insight](http://orbitalinsight.com/)** |
 | [Josh Schanker](https://www.linkedin.com/in/joshschanker) | **[Bookbub](https://www.bookbub.com/home/)** |
-| [Christopher Nguyen](https://twitter.com/pentagoniac) | **[Arimo](http://arimo.com/)** |
+| [Christopher Nguyen](https://twitter.com/pentagoniac) | **[Arimo](https://arimo.com/)** |
 | [Ty Walrod](https://twitter.com/tywalrod), [Rutul Davè](https://twitter.com/letsfixtheworld) | **[Bright Funds](https://www.brightfunds.org/)** |
 | [Josh Lefkowitz](http://www.flashpoint-intel.com/about-us/leadership/), [Evan Kohlmann](https://twitter.com/IntelTweet), [Josh Devon](http://www.flashpoint-intel.com/about-us/leadership/) | **[Flashpoint](http://www.flashpoint-intel.com/)** |
 | [Kieran Snyder](https://twitter.com/kieransnyder), [Jensen Harris](https://www.linkedin.com/in/jensenharris) |  **[Textio](https://textio.com/)** |
@@ -94,7 +94,7 @@ Founders are our customers. In order of our announced participation:
 | [Scott Heiferman](https://www.linkedin.com/in/sheif), [Brendan McGovern](https://www.linkedin.com/in/brendan-mcgovern-a49a142)| **[Meetup](http://www.meetup.com)** <sup>11</sup>| 
 | [Mircea Pasoi](https://www.linkedin.com/in/mirceapasoi), [Liana Dumitru](https://www.linkedin.com/in/lianadumitru/)| **[Alien Labs](https://memo.ai/)** <sup>12</sup>| 
 
-We love when our portfolio companies hire great investors. Find a list of firms we've worked with [here](https://www.crunchbase.com/organization/bloomberg-beta/insights/co-investors).
+We love when our portfolio companies hire great investors.
 
 Speaking of investors, find the right one for you at [VC Finder](https://tiny.cc/vcfinder).
 
