@@ -326,7 +326,7 @@ In the early days of our fund, we wrote smaller checks because (like the early d
 
 We have no minimum check size, and have written checks as small as $25,000, especially in what we call a ["flag" investment](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#flag).
 
-We care about price. We do not have a target ownership level, but we want to get return on our time in addition to our capital, so we generally want to be able to own a meaningful amount of a company over time. Our view is that we are comfortable taking the highest possible levels of risk and that founders, and their investors, should be rewarded for that. We believe companies are successful when their teams also get generous equity grants that motivate the early team members to create something valuable.
+We care about price. We avoid having a hard requirement about our ownership percentage. That said, we want to get return on our time in addition to our capital, so we generally want to be able to own a meaningful amount of a company over time. A good rule of thumb for us is that meaningful ownership means roughly 10%. We are comfortable taking the highest possible levels of risk and we believe that founders, and their investors, should be rewarded for that. (We also believe companies are successful when their teams also get generous equity grants that motivate the early team members to create something valuable.)
 
 We also believe “the price is the price” -- we won’t ask for unusual discounts for ourselves with strange terms like participating preferred equity. We are flexible as to whether our investment is structured as convertible debt or as equity. 
 
