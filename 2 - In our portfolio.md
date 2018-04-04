@@ -38,7 +38,7 @@ Founders are our customers. In order of our announced participation:
 | [Javed Singha](https://www.linkedin.com/pub/javed-singha/5/826/1a7), [Yves Frinault](https://www.linkedin.com/in/yvesfrinault) | **[Fieldwire](http://www.fieldwire.com/)** |
 | [James Crawford](https://www.linkedin.com/in/jmcrawfordjr) | **[Orbital Insight](http://orbitalinsight.com/)** |
 | [Josh Schanker](https://www.linkedin.com/in/joshschanker) | **[Bookbub](https://www.bookbub.com/home/)** |
-| [Christopher Nguyen](https://twitter.com/pentagoniac) | **[Arimo](http://arimo.com/)** |
+| [Christopher Nguyen](https://twitter.com/pentagoniac) | **[Arimo](http://arimo.com/)** <sup>11</sup>|
 | [Ty Walrod](https://twitter.com/tywalrod), [Rutul Davè](https://twitter.com/letsfixtheworld) | **[Bright Funds](https://www.brightfunds.org/)** |
 | [Josh Lefkowitz](http://www.flashpoint-intel.com/about-us/leadership/), [Evan Kohlmann](https://twitter.com/IntelTweet), [Josh Devon](http://www.flashpoint-intel.com/about-us/leadership/) | **[Flashpoint](http://www.flashpoint-intel.com/)** |
 | [Kieran Snyder](https://twitter.com/kieransnyder), [Jensen Harris](https://www.linkedin.com/in/jensenharris) |  **[Textio](https://textio.com/)** |
@@ -92,8 +92,8 @@ Founders are our customers. In order of our announced participation:
 | [George Cigale](https://www.linkedin.com/in/gcigale)| **[MycroFriends](https://www.mycrofriends.com/)** |
 | [Dor Skuler](https://www.linkedin.com/in/dorskuler/), [Roy Amir](https://www.linkedin.com/in/roy-amir-297b18/), [Itai Mendelsohn](https://www.linkedin.com/in/itai-mendelsohn-69347a1/?ppe=1)| **[Intuition Robotics](http://www.intuitionrobotics.com)** |  
 | [Suzanne Gildret](https://www.linkedin.com/in/suzannegildert/)| **[Kindred.AI](https://www.kindred.ai/)** |
-| [Scott Heiferman](https://www.linkedin.com/in/sheif), [Brendan McGovern](https://www.linkedin.com/in/brendan-mcgovern-a49a142)| **[Meetup](http://www.meetup.com)** <sup>11</sup>| 
-| [Mircea Pasoi](https://www.linkedin.com/in/mirceapasoi), [Liana Dumitru](https://www.linkedin.com/in/lianadumitru/)| **[Alien Labs](https://memo.ai/)** <sup>12</sup>| 
+| [Scott Heiferman](https://www.linkedin.com/in/sheif), [Brendan McGovern](https://www.linkedin.com/in/brendan-mcgovern-a49a142)| **[Meetup](http://www.meetup.com)** <sup>12</sup>| 
+| [Mircea Pasoi](https://www.linkedin.com/in/mirceapasoi), [Liana Dumitru](https://www.linkedin.com/in/lianadumitru/)| **[Alien Labs](https://memo.ai/)** <sup>13</sup>| 
 | [Amjad Masad](https://www.linkedin.com/in/amjadmasad), [Haya Odeh](https://www.linkedin.com/in/haya-odeh-b0725928/)| **[Repl.it](https://repl.it/)** | 
 
 
@@ -121,6 +121,8 @@ Speaking of investors, find the right one for you at [VC Finder](https://tiny.cc
 
 :one::zero: Acquired by Apple, November 2017 :thumbsup:
 
-:one::one: Acquired by WeWork, December 2017 :thumbsup:
+:one::one: Acquired by Panasonic, October 2017 :thumbsup:
 
-:one::two: Acquired by Coinbase, January 2018 :thumbsup:
+:one::two: Acquired by WeWork, December 2017 :thumbsup:
+
+:one::three: Acquired by Coinbase, January 2018 :thumbsup:
