@@ -29,9 +29,9 @@ Shaina Conners — [Twitter](https://twitter.com/shainaconners) // [LinkedIn](ht
 Minn Kim — [Twitter](https://twitter.com/minney_cat) // [LinkedIn](https://www.linkedin.com/in/minnkim/) 
 
 ### Where we work
-San Francisco — 140 New Montgomery St., 22nd Floor — [Map](http://goo.gl/49X6hu)
+San Francisco — [140 New Montgomery St., 22nd Floor](http://goo.gl/49X6hu)
 
-New York — 731 Lexington Ave. — [Map](http://goo.gl/tt3m7f)
+New York — [731 Lexington Ave.](http://goo.gl/tt3m7f)
 
 ### Questions?
 
