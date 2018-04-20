@@ -59,7 +59,7 @@ Founders are our customers. In order of our announced participation:
 | [Justin Wohlstadter](https://twitter.com/justpw)| **[Wonder](https://askwonder.com/)** |
 | [Brendan Frey](https://en.wikipedia.org/wiki/Brendan_Frey)| **[Deep Genomics](http://www.deepgenomics.com/)** |
 | [Evan Macmillan](https://twitter.com/djmrevan) | **[Gridspace](https://www.gridspace.com)** |
-| [Dennis Pilarinos](https://twitter.com/dennispilarinos) | **[buddybuild](https://www.buddybuild.com/)** |
+| [Dennis Pilarinos](https://twitter.com/dennispilarinos) | **[buddybuild](https://www.buddybuild.com/)** <sup>14</sup>|
 | [Michael W. Wellman](https://www.linkedin.com/in/mwellman), [Dmitry Dain](https://www.linkedin.com/in/dmitrydain)| **[Virgil Security](http://www.virgilsecurity.com/)** |
 | [David Gutelius](https://twitter.com/gutelius), [Chris Diehl](https://twitter.com/chrisdiehl) | **[Motiva](https://www.motiva.ai/)** |
 | [Dmitry Aksenov](https://uk.linkedin.com/in/dmitryaksenov), [Mikhail Naumov](https://www.linkedin.com/in/mikhailnaumov)| **[DigitalGenius](http://www.digitalgenius.com/)** |
@@ -126,3 +126,5 @@ Speaking of investors, find the right one for you at [VC Finder](https://tiny.cc
 :one::two: Acquired by WeWork, December 2017 :thumbsup:
 
 :one::three: Acquired by Coinbase, January 2018 :thumbsup:
+
+:one::four: Acquired by Apple, January 2018 :thumbsup:
