@@ -40,4 +40,4 @@ Our founders requested an anonymous way to ask us questions, so we're providing 
 (If we've already answered the question in our manual, e.g., "how should I get in touch with you?" then we will respectfully ignore the question.)
 
 ## License
-This manual is open sourced under a [Creative Commons license](http://creativecommons.org/licenses/by/3.0/deed.en_US]).
+This manual is open sourced under a [Creative Commons license](http://creativecommons.org/licenses/by/3.0/deed.en_US).
