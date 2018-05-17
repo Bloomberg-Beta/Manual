@@ -23,7 +23,7 @@ Founders are our customers. In order of our announced participation:
 | [Daniela Perdomo](https://twitter.com/danielaperdomo) | **[goTenna](http://gotenna.com/)** |
 | [Anne Wootton](https://twitter.com/annewootton), [Bailey Smith](https://www.linkedin.com/in/baileyrsmith) | Pop Up Archive <sup>10</sup>|
 | [Satyen Sangani](https://www.linkedin.com/in/ssangani) | **[Alation](http://alation.com/)** |
-| [Amit Gupta](https://www.linkedin.com/in/amitngupta) | **[SenderGen](http://www.sendergen.com/)** |
+| [Amit Gupta](https://www.linkedin.com/in/amitngupta) | **[Opensense (formerly SenderGen)](https://www.opensense.com/)** |
 | [K.V. Rao](https://www.linkedin.com/pub/k-v-rao/0/48/517) | **[Aviso](http://www.aviso.com/)** |
 | [Nadim Hossain](https://www.linkedin.com/in/nadimhossain), [Nisheeth Ranjan](https://www.linkedin.com/in/nranjan), [Ranjan Bagchi](https://www.linkedin.com/in/rbagchi) | **[BrightFunnel](http://www.brightfunnel.com/)** |
 | [Alex Rampell](https://twitter.com/arampell), [Pasha Bitz](https://twitter.com/pashabitz), [Jonathan Wolf](https://www.linkedin.com/in/jwolf) | **[TXN](http://txn.com/)** |
