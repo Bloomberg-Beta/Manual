@@ -26,7 +26,9 @@ Shivon Zilis — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www
 
 Shaina Conners — [Twitter](https://twitter.com/shainaconners) // [LinkedIn](https://www.linkedin.com/in/shainaconners)
 
-Minn Kim — [Twitter](https://twitter.com/minney_cat) // [LinkedIn](https://www.linkedin.com/in/minnkim/) 
+Minn Kim — [Twitter](https://twitter.com/minney_cat) // [LinkedIn](https://www.linkedin.com/in/minnkim/)
+
+Harley Sugarman - [Twitter](https://twitter.com/harleysugarman) // [LinkedIn](https://www.linkedin.com/in/harleysugarman/)
 
 ### Where we work
 San Francisco — [140 New Montgomery St., 22nd Floor](http://goo.gl/49X6hu)
