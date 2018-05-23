@@ -28,7 +28,7 @@ Shaina Conners — [Twitter](https://twitter.com/shainaconners) // [LinkedIn](ht
 
 Minn Kim — [Twitter](https://twitter.com/minney_cat) // [LinkedIn](https://www.linkedin.com/in/minnkim/)
 
-Harley Sugarman - [Twitter](https://twitter.com/harleysugarman) // [LinkedIn](https://www.linkedin.com/in/harleysugarman/)
+Harley Sugarman — [Twitter](https://twitter.com/harleysugarman) // [LinkedIn](https://www.linkedin.com/in/harleysugarman/)
 
 ### Where we work
 San Francisco — [140 New Montgomery St., 22nd Floor](http://goo.gl/49X6hu)
