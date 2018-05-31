@@ -59,15 +59,15 @@ What are our criteria for selecting an investment? Investments we want to make g
 # Non-negotiable requirements
 *Need all of the below*
 ##### Founder(s) and team
-+ Trustworthy (i.e., will tell us when things are even a little broken)
++ Trustworthy (e.g., will tell us when things are even a little broken)
 + Can raise more money, or get business to profitability
 + Capable of building a diverse team and an inclusive culture
 + Background check conducted, [any issues discussed](https://www.highly.co/hl/1KNLOr4UCpBuGR)
 + In Bay Area or New York (and, if not, strong reason to believe we are the best possible investor)
 
 ##### Product and market
-+ "Makes business work better", without being in financial services (it's perfectly fine, however, for employees of Bloomberg L.P. to refer potential investments to us)
-+ We have judgment to identify a winner in the relevant market (usually means a fit with one of our stated investment areas)
++ "Makes business work better," without being in financial services
++ We have judgment to identify a winner in the relevant market (i.e., a fit with one of our stated investment areas)
 + Unlikely to compete directly with our other portfolio companies
 
 ##### Business and economics
