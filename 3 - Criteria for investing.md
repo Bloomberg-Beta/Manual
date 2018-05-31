@@ -62,7 +62,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Trustworthy (i.e., will tell us when things are even a little broken)
 + Can raise more money, or get business to profitability
 + Capable of building a diverse team and an inclusive culture
-+ Background check conducted, any issues discussed (See ["What we look for in a startup", subsection "Founders", paragraph 6](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#what-we-look-for-in-a-startup) for our philosophy on working through flagged issues)
++ Background check conducted, [any issues discussed](https://www.highly.co/hl/1KNLOr4UCpBuGR)
 + In Bay Area or New York (and, if not, strong reason to believe we are the best possible investor)
 
 ##### Product and market
