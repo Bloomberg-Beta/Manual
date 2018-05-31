@@ -13,9 +13,9 @@ What are our criteria for selecting an investment? Investments we want to make g
 
 ##### Product and market
 + Do any users love the product so much they spontaneously tell other people to use it?
-+ A wow of a product experience and/or extreme early growth and engagement numbers (B2C)
-+ Customers don't need to be sold, want to pay full-price immediately -> evangelists (B2B)
-+ Exclusive path to customers - distribution as a competitive advantage
++ A wow of a product experience and/or extreme early growth and engagement numbers (for products adopted by individuals)
++ Customers don't need to be sold, want to pay full-price immediately -> evangelists (for products adopted by companies)
++ Exclusive path to customers -- distribution as a competitive advantage
 + Timing -- that One Moment is clearly now
 
 ##### Business and economics
@@ -36,7 +36,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 
 ##### Product and market
 + Someone else already tried -- good sign!
-+ Clear initial target market, surprisingly narrow, and high on the gradient of influence
++ Clear initial target market, surprisingly narrow, and high on the [gradient of influence](https://also.roybahat.com/picking-your-first-customers-the-gradient-of-influence-47858b90adfd?gi=69834aa51ef2)
 + Clear single metric to focus on now (often engagement or satisfaction)
 + Ignoring the business fashions of the moment
 + Ability to create a #1 service in its market (e.g., network effects, customer lock-in)
@@ -46,7 +46,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 
 ##### Business and economics
 + Clear sense of why to raise capital (i.e., where to deploy)
-+ Clear sense of why to raise venture capital (we often discourage founders from taking venture at all)
++ Clear sense of why to raise *venture* capital (we often discourage founders from taking venture at all)
 
 ##### Deal terms
 + Founders own enough of the company
@@ -60,15 +60,15 @@ What are our criteria for selecting an investment? Investments we want to make g
 *Need all of the below*
 ##### Founder(s) and team
 + Trustworthy (e.g., will tell us when things are even a little broken)
-+ Can raise more money, or get business to profitability
++ Can raise more money or get business to profitability
 + Capable of building a diverse team and an inclusive culture
 + Background check conducted, [any issues discussed](https://www.highly.co/hl/1KNLOr4UCpBuGR)
 + In Bay Area or New York (and, if not, strong reason to believe we are the best possible investor)
 
 ##### Product and market
 + "Makes business work better," without being in financial services
-+ We have judgment to identify a winner in the relevant market (i.e., a fit with one of our stated investment areas)
-+ Unlikely to compete directly with our other portfolio companies
++ We have judgment to identify a winner in the relevant market (i.e., a fit with one of our [stated investment areas](http://tiny.cc/betathemes))
++ Unlikely to compete directly with our other portfolio companies (and verified, if in doubt, by the founder(s) in question)
 
 ##### Business and economics
 + Plausible to have sustainable unit economics in the future
