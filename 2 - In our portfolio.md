@@ -98,10 +98,9 @@ Founders are our customers. In order of our announced participation:
 | [Christine Tao](https://www.linkedin.com/in/christineptao/), [Lori Mazen](https://www.linkedin.com/in/lorimazan/)| **[Sounding Board](https://www.soundingboardinc.com/)** | 
 | [Beau Cronin](https://www.linkedin.com/in/beaucronin/), [Chris Diehl](https://www.linkedin.com/in/cpdiehl), [David Gutelius](https://www.linkedin.com/in/gutelius/)| **[The Data Guild](https://www.thedataguild.com/)** | 
 | [Cara Meverden](https://www.linkedin.com/in/carameverden/), [Saul Carlin](https://www.linkedin.com/in/saulcarlin/), [Daniel McCartney](https://www.linkedin.com/in/daniel-john-mccartney/)| **[Scout.fm](https://www.scout.fm/)** |
+| [Lukas Biewald](https://www.linkedin.com/in/lbiewald), [Chris Van Pelt](https://www.linkedin.com/in/chrisvanpelt/), [Shawn Lewis](https://www.linkedin.com/in/shawn-lewis-524a563/)| **[Weights & Biases](https://www.wandb.com/)** |
 
-We love when our portfolio companies hire great investors. Find a list of firms we've worked with [here](https://www.crunchbase.com/organization/bloomberg-beta/insights/co-investors).
-
-Speaking of investors, find the right one for you at [VC Finder](https://tiny.cc/vcfinder).
+We love when our portfolio companies hire great investors, so we built a tool to help founders find the right ones starting with firms in New York at [VC Finder](https://tiny.cc/vcfinder).
 
 :one: Acquired by LinkedIn, Jul. 2014 :thumbsup:
 
