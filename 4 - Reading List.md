@@ -1,6 +1,6 @@
 # Bloomberg Beta Reading List
 
-This resources on this page cover a range of subjects we find it useful to think about in our day-to-day lives as VCs. Like the rest of our manual, this is a living document, so please feel free to submit any suggestions via pull request!
+The resources on this page cover a range of subjects we find useful to think about in our day-to-day lives as VCs. Like the rest of our manual, this is a living document, so please feel free to submit any suggestions via pull request!
 
 ## Must-Reads
 
@@ -8,7 +8,7 @@ This resources on this page cover a range of subjects we find it useful to think
 
 * [Prediction Machines](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670) by Ajay Agrawal, Joshua Gans, and Avi Goldfarb (book). From our friends at the University of Toronto, a simple framework from economics that (we think) is one of the smartest takes on business strategy in the age of AI.
 * [Cognitive Distortions of Founders](https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b) by Michael Dearing (article). When evaluating early-stage startups, we seek reasons to believe a founding team is extraordinary. We’re inspired by this brief look into how some cognitive biases make for founders with superpowers.
-* [Brotopia: Breaking Up the Boys' Club of Silicon Valley](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534) by Emily Chang (book). We’re committed to making the startup world more diverse and inclusive. Emily’s powerful exposé of the hidden (and not-so-hidden) sexism n Silicon Valley examines how we got here and the ways we can move forward to build companies that reflect an open and inclusive world.
+* [Brotopia: Breaking Up the Boys' Club of Silicon Valley](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534) by Emily Chang (book). We’re committed to making the startup world more diverse and inclusive. Emily’s powerful exposé of the hidden (and not-so-hidden) sexism in Silicon Valley examines how we got here and the ways we can move forward to build companies that reflect an open and inclusive world.
 * [Netflix Culture Deck](https://hbr.org/2014/01/how-netflix-reinvented-hr) (article). Netflix famously released their original culture deck in 2009 and built a high-performance culture by emphasizing honesty and open communication. We believe transparency is the first step to building trust with founders — who we see as our customers.
 * [Venture Deals](https://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1119259754/ref=dp_ob_title_bk) by Brad Feld (book). *The* book on venture capital -- learn about how VCs structure investments.
 * [Money Stuff](https://www.bloomberg.com/view/topics/money-stuff) by Matt Levine (newsletter). One of our favorite columnists at Bloomberg Opinion, Matt’s daily newsletter provides an honest, insightful, and very entertaining take on what’s happening in the worlds of finance and tech.
