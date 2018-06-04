@@ -27,30 +27,36 @@ This resources on this page cover a range of subjects we find it useful to think
 * [Stripe Atlas Guides](https://stripe.com/atlas/guides) (website)
 * [The Most Important Metrics to Assess the State of a SaaS Startup](https://www.saastr.com/saastr-podcast-113-dan-adika-founder-ceo-walkme-shares-the-most-important-metrics-to-assess-the-state-of-a-saas-startup/) (SaaStr — podcast)
 * [8 SaaS Metrics That VCs Want To Know](http://www.insightsquared.com/2015/12/vc-influencers-top-saas-metrics/) (Insightsquared — article)
+* [SaaS Financial Plan 2.0](https://christophjanz.blogspot.com/2016/03/saas-financial-plan-20.html) (The Angel VC — article with template)
 * [Andrew Chen](http://andrewchen.co/) (newsletter)
 
 ### On hiring and company culture
 
-* [Who Should a Startup Hire First?](https://shift.newco.co/who-should-a-startup-hire-first-c12b279814aa) (Roy Bahat — article)
 * [What’s the Most Difficult CEO Skill? Managing Your own Psychology](https://a16z.com/2011/03/31/whats-the-most-difficult-ceo-skill-managing-your-own-psychology/) (Ben Horowitz — article)
+* [Who Should a Startup Hire First?](https://shift.newco.co/who-should-a-startup-hire-first-c12b279814aa) (Roy Bahat — article)
 * [We Hire the Best, Just Like Everyone Else](https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/) (Jeff Atwood — article)
 * [Explore vs Exploit](https://barryoreilly.com/2015/12/14/lean-pmo-explore-vs-exploit/) (Barry O’Reilly — article)
 * [The Guerilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) (Joel Spolsky — article)
 * [Difficult Conversations](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447) (Sheila Heen, Bruce Patton, Douglas Stone — book)
 * [Fortune Broadsheet](http://fortune.com/newsletter/broadsheet/) (newsletter)
 
+### On artificial intelligence
+* [We’re Waiting for the Peter Drucker of Machine Intelligence](https://machinelearnings.co/were-waiting-for-the-peter-drucker-of-machine-intelligence-9b674191b420) (James Cham — article)
+* [The Current State of Machine Intelligence](http://www.shivonzilis.com/machineintelligence) (Shivon Zilis — article)
+* [InsideAI](https://inside.com/ai?ref=newsletter) (Rob May — newsletter)
+* [ImportAI](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) (Jack Clark — newsletter)
+
 ### On startups and technology
 
-* [Shift Commission Report of Findings](https://docsend.com/view/4wizcjb) (article)
-* [We’re Waiting for the Peter Drucker of Machine Intelligence](https://machinelearnings.co/were-waiting-for-the-peter-drucker-of-machine-intelligence-9b674191b420) (James Cham — article)
-* [The Current State of Machine Intelligence](http://www.shivonzilis.com/machineintelligence) (Shivon Zillis — article)
 * [Fully Charged](https://www.bloomberg.com/technology) (Bloomberg — newsletter)
 * [Stratechery](https://stratechery.com/) (Ben Thompson — blog)
 * [The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780) (Clayton Christensen — book)
-* [Founders at Work: Stories of Startups' Early Days](https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788) (Jessica Livingston — book)
 * [The Information](https://www.theinformation.com/newsletter) (newsletter)
 * [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) (Ben Horowitz — book)
+
+### On the history of technology; technology and the public interest
 * [Troublemakers: Silicon Valley’s Coming of Age](https://www.amazon.com/Troublemakers-Silicon-Valleys-Coming-Age/dp/1451651511/) (Leslie Berlin — book)
-* [InsideAI](https://inside.com/ai?ref=newsletter) (Rob May — newsletter)
-* [ImportAI](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) (Jack Clark — newsletter)
 * [Hackers](https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396) (Steven Levy — book)
+* [Founders at Work: Stories of Startups' Early Days](https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788) (Jessica Livingston — book)
+* [Shift Commission on Work, Workers, and Technology — Report of Findings](https://docsend.com/view/4wizcjb) (article)
+
