@@ -48,6 +48,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 ### On artificial intelligence
 * [We’re Waiting for the Peter Drucker of Machine Intelligence](https://machinelearnings.co/were-waiting-for-the-peter-drucker-of-machine-intelligence-9b674191b420) (James Cham — article)
 * [The Current State of Machine Intelligence](http://www.shivonzilis.com/machineintelligence) (Shivon Zilis — article)
+* [The Evolution of Machine Learning](https://techcrunch.com/2017/08/08/the-evolution-of-machine-learning/) (Catherine Dong — article)
 * [InsideAI](https://inside.com/ai?ref=newsletter) (Rob May — newsletter)
 * [ImportAI](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) (Jack Clark — newsletter)
 
