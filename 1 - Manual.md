@@ -202,12 +202,16 @@ If your product is public, you should assume when you walk into the room that we
 Some things we tend to say, ask, or think in meetings:
 * We don’t put great faith in the value of advice (including, often, our own) -- the world of users and customers has more to teach a company than any smart, well-intentioned person.
 * What makes you an outlier? (Do you know what makes your company a potential outlier?)
+* Why is this problem important to you, and how will things be better if you succeed?
 * What was the last important skill you learned? (We believe great founders are, paradoxically, both self-confident and exceptionally good learners -- so constantly in need of improvement.) What was the last thing you were wrong about?
 * What do you want out of your investors other than money? (We’re trying to figure out if we can be uniquely helpful.)
 * If a dozen other companies are creating a company right now with this exact idea, how could you still succeed?
 * Who will you pick as your [first customers](http://also.roybahat.com/post/84933343626/picking-your-first-customers-the-gradient-of-influence)? (This tends to be, in our view, one of the most important early choices founders make.) Who was the last potential customer you spoke with? (Founders who are scared of talking to customers scare us.)
 * How close do you feel you are to product-market fit? (Here, it's less that we want you to *have* product-market fit, and more that we want to understand how you think about your own progress wherever you are.)
 * Are there any plans you really would like to pursue, but have stopped talking about with investors because you've been told by VCs they are bad ideas? (We often like those plans.)
+* If you're successful, what potential harms might your service cause, and what will you do about that? What's been the most difficult ethical dilemma you've had at work? (Credit to our friends at [Designer Fund](http://designerfund.com) for putting in our heads some of these specific questions about the ethical side of startups.)
+* For what values would you sacrifice making more money? In practice, have you sacrificed financially to live by a principle?
+* How will you build a diverse and inclusive team over the next year? Given your personalities, what culture issues do you think are most likely to arise at your company?
 * Why are you raising money at all? (We find there are plenty of startups who don’t actually need to raise money and, in general, that’s better for them -- even if it means we don’t get to participate.)
 
 We try to avoid some of the, shall we say, less useful questions others ask:
@@ -378,34 +382,35 @@ Our preference is to be the first money into a company, and to contribute a mean
 ### “Flag”
 In some cases, we only seek to put a small amount of money to work (for example, in rounds where the founder is fortunate to have many investors who want to support the company, or it is a later-stage company), and it is unlikely we will invest more. In these cases, our support is as much symbolic as it is financial -- we want to be part of something, even though we know it is unlikely to be an investment that is meaningful to our fund financially. A typical check for these investments might be $50K. While these investments have access to all the services we offer our portfolio, given our lower ownership stake we’re less able to pay proactive attention to these companies and we want to set clear expectations up front about what kinds of startups the founder will likely consider competitive.
 
+## How we support founders
 
-## How we support our companies
+The founders we back are our customers. We aspire to be the most useful investors per minute spent with us, and per dollar on the cap table. We want founders to want to work with us even if we weren't investors offering them money. (Though, for us to be willing to advise, we'd need the same level of conviction that we have when we're willing to invest.)
 
-We aspire to be the most useful investors per minute spent with us. We want our founders to feel they would want to work with us even if we weren't investors offering them money. (Though, for us to be willing to advise, we'd need the same level of conviction that we have when we're willing to invest.)
+We want to work with startups the way they work, not the way that big companies or traditional investors work. We prefer to take the formality out of the investor-founder relationship. Instead of requesting board seats and scheduling formulaic calls, we share with founders and encourage them to reach out to us when we can help. Consider us “on speed dial.” We try to cut waste out of the process; starting a company is hard enough. If you want regular check-ins, sure.
 
-We want to work with startups the way they work, not the way that big companies or traditional investors work. We prefer to take the formality out of the investor-founder relationship. Instead of requesting board seats and scheduling formulaic calls, we share with founders and encourage them to reach out to us when we can help. Consider us “on speed dial.” We try to cut waste out of the process; starting a company is hard enough.
-
-Our team works closely together -- we speak often and love helping each other, and we each know the full portfolio -- so every portfolio company has access to every member of our team. We think this is different to some other venture firms we’ve met -- a “no dysfunction” partner.
+Our team works closely together -- we speak often and love helping each other, and we each know the full portfolio -- so every portfolio company has access to every member of our team. We think this is different to some other venture firms we’ve met -- we try to be a “no dysfunction” partner to you.
 
 ### Areas where we tend to be most useful
 
-While we’re happy to help companies across the full range of early-stage company questions -- recruiting, fundraising (should I take more money or call it a day?), services (who do I use for HR?) -- we concentrate on the range of skills loosely called “going to market.”
+While we’re happy to help companies across the full range of early-stage company questions -- recruiting, fundraising (should I take more money or call it a day?), services (who do I use for HR?) -- we concentrate on the range of skills loosely called “going to market.” Our focus on the future of work means that we may know your market well, or your business model.
 
-To us, that includes finding product-market fit, pricing, segmenting your market, sequencing your approaches to potential users or customers, understanding when to review and when to ignore the competition, using the various organic marketing tools, paid marketing, press, partnerships, planning to raise more capital, and just the overall understanding of the importance of communicating who you are and why you are. We find we have many views here that are surprising to startups.
+To us, going to market includes finding product-market fit, pricing, segmenting your market, sequencing your approaches to potential users or customers, understanding when to review and when to ignore the competition, using the various organic marketing tools, paid marketing, press, partnerships, planning to raise more capital, and just the overall understanding of the importance of communicating who you are and why you are. We have many views here that startups find surprising.
+
+We bridge multiple professional worlds -- technical, financial, corporate, philanthropic, political, social, and otherwise. We try to bring founders across those bridges early and often.
 
 We have presence in both San Francisco and New York. We've found that SF-based founders appreciate introductions to customers in New York -- we can open that door. We make a concerted effort to help the transition from “west to east” and “east to west.”
 
-We don’t care about face time -- you won’t get a “hey let’s have coffee just to catch up” every two weeks. We do spring into action when we see the Bat Signal. We adjust the intensity of how often we’re in touch with a company based on what we believe would be useful to them -- and we take feedback from companies on what they want. Some of our companies have asked us to do monthly, or even weekly, meetings with them, others “go into hiding” while working on their product -- we’re good either way.
+We don’t care about face time -- you won’t get a “hey let’s have coffee just to catch up” every two weeks. We do spring into action when we see the Bat Signal. We take feedback from companies on what they want. Some of our companies have asked us to do monthly, or even weekly, meetings with them, others “go into hiding” while working on their product -- we’re good either way.
 
-Because we may be creating our own products, we are current on tactical trends and know them firsthand. We don’t believe that investors and founders are fundamentally different -- we may face different risks and questions, but we’re all just trying to spark something great in this big wide world.
+Because we sometimes create our own products, we stay current on tactical trends and may know them firsthand. We believe founders have as much wisdom as investors (or more) -- we’re all just trying to spark something great in this big wide world.
 
-One thing many founders don’t realize is how little direct control their investors ultimately have -- we can’t demand certain information from you unless it’s specifically written into our agreements (where we often ask only for general financial information), we won’t make you hire or fire anyone -- we work with you based on mutual trust.
+One thing many founders don’t realize is how little direct control their investors ultimately have -- we can’t demand certain information from you unless it’s specifically written into our agreements (where we often ask only for general financial information), we won’t be able to make you hire or fire anyone -- we work with you based on mutual trust.
 
-### How we like to work with you
+### How we like to communicate with you
 
-It varies. There are some cases where most of our communication with a company is by email and chat, others where we do a regularly-scheduled call, others where we meet in person from time to time -- it just depends on what the founder wants.  At minimum, we generally like to know the number one thing we can help a company with at a given time and focus on that.
+It varies. In some cases most of our communication is by email and chat, others where we do a regularly-scheduled call, others where we meet in person from time to time -- it just depends on what the founder wants. At minimum, we generally like to know the number one thing we can help a company with at a given time so we can focus on that.
 
-We appreciate getting regular investment updates (e.g., a monthly email) from our companies, since it creates a background of good understanding that helps us help you. In practice, about two-thirds of our portfolio companies are in this habit.
+We appreciate getting regular investment updates (e.g., a monthly email) from companies we back, since it creates a background of good understanding that helps us help you. In practice, about two-thirds of companies we back are in this habit.
 
 What makes a good written update for investors?
 * The one key operational metric you believe tells the story of where you are, and how that metric changed since last time you communicated it (and relative to your expectations)
@@ -415,61 +420,61 @@ What makes a good written update for investors?
 * Team additions or changes
 * Where you want help from us
 
-Here is a [sample anonymized update](https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit) from one of our companies.
+Here is a [sample anonymized update](https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit).
 
-We do try to get the right to receive your financials, it’s a good way to give us a snapshot of your likely future capital needs.
-
-What’s even better than an update intended for investors, is some passive way for you to keep us updated (i.e., something that requires no incremental work). If you send a weekly internal update, copying us is great; if you use a team collaboration tool (Slack, GroupMe, Yammer, Trello, Basecamp, a Skype chat, etc.) we’d love to be included and take it as a great sign of trust; we have even subscribed to the private Github repo of one of our portfolio companies.
+Even better than an update intended for investors is a passive way to keep us updated (i.e., something that requires no incremental work). If you send a weekly internal update, copying us is great; if you use a team collaboration tool (Slack, Trello, Telegram, a Skype chat, etc.) we’d love to be included and take it as a great sign of trust; we even subscribe to private Github repos.
 
 ### How to make the most of us
 
-What gets us going is helping companies realize their potential. We are happiest when we are “in it” with you, whiteboarding a set of features, pushing back on your plan to announce your fancy new product release, or getting that late night call that you think things aren’t working out with the person you just spent six months to recruit. We feed off your enthusiasm, and hope to help you build even more of it.
+What gets us going is helping companies realize their potential. We are happiest when we are “in it” with you, introducing you to customers, helping close candidates, whiteboarding a set of features, pushing back on your plan to announce your fancy new product release, or getting that late night call that you think things aren’t working out with the person you just spent six months to recruit. We feed off your enthusiasm, and hope to help you build even more of it.
 
-We intend to earn the trust of Bloomberg Beta founders. We commit to being available to you whenever you want to talk. We try to notice when it’s an important moment, and especially important to lead with empathy. We recognize that issues around the personal finances of founders are particularly important and often go undiscussed -- [something we would like to change, so we can better serve founders](https://medium.com/@roybahat/for-founders-and-investors-its-time-for-real-talk-about-money-b669ae467f92). We commit to treating founders' personal financial information, when they share it with us, with confidentiality and respect. We intend to use our knowledge to help you and your companies to the best of our ability.
+We intend to earn the trust of Bloomberg Beta founders. We commit to being available to you whenever you want to talk. We try to notice when it’s "a moment," and especially important to lead with empathy. We recognize that issues around the personal finances of founders are particularly important and often go undiscussed -- [something we would like to change, so we can better serve founders](https://medium.com/@roybahat/for-founders-and-investors-its-time-for-real-talk-about-money-b669ae467f92). We commit to treating founders' personal financial information, when they share it with us, with confidentiality and respect. We intend to use our knowledge to help you and your companies.
 
-We also know that startups are not all roses and sunshine, even for the best of companies. We aspire to be most helpful to you when times are tough, not when you are on top of the world.
+We also know startups are not all roses and sunshine, even for the best of companies. We aspire to be most helpful to you when times are tough.
 
 Investing, to us, is really nothing more than the mechanism we use to find a way to work with you. We are more comfortable talking about new product launches than about how to optimize our allocation of capital across our portfolio.
 
+### Events we host
+
+We invite founders to many events. We believe one way we can help companies is just by getting them out of the building. We get our founders together every so often with an extended group of our friends, and with each other. Once founders start to see familiar faces, they understand that we're building a community of mutual support. These events are completely optional, and sometimes have no direct usefulness at all.
+
+To bring worlds together, often we'll bring in an author, or a senior government official or business leader, or even an artist, to expose founders to ideas and people from outside the technology startup world. We invite portfolio company founders to every event, and some are only for them. When possible, we try to include the broader community in events we convene.
+
+### Each other
+
+Now that we have a critical mass of companies in our portfolio, the companies can be helpful to each other should they want to be -- vendor referrals, emotional support, product tips, etc.
+
+We were one of the first (if not the first) fund to set up a portfolio community channel on Slack, even before Slack supported this functionality natively. Our founders congratulate each other, promote one another's successes, support each other through tough spots, offer tactical recommendations ("who should I use as an accountant?") in ways much more immediate, varied, and specific than our fund could do for any of them directly.
+
+We noticed the conversations in that channel were surprisingly specific -- less about the big picture and more about what kind of paintbrush to use. We were inspired by the Picasso quote that only art critics talk about the Big Ideas, real artists help each other find [cheap turpentine](https://www.highly.co/hl/56e6f2323533356aeb5a0000). So we created an event series, "Turpentine Talks," where one of our founders who has expertise in a certain area (e.g., growth, building open source communities, hacking personal use of time) leads a roundtable discussion with other founders learning and offering their own experiences. 
+
+We admire and want to continue to support these kinds of communities, that openly share a craft to hone the trade of companybuilding, with a particular set of companies that share a similar way of working and similar values. This kind of community is itself part of the future (and the past) of work done well.
+
+### Learning
+
+We recognize that founders don’t have the time to plan for their own professional growth and learning, so we offer them some of that. We might do a training on how to create useful communication with technical teams, or invite founders to a panel on a subject we think they might care about. Founders can request Turpentine Talks on topics of particular interest to them, of course.
+
 ### How our fund works with Bloomberg L.P.
 
-We look for opportunities to connect startups (including our portfolio companies and others) with Bloomberg L.P. -- we invest significant time in understanding what Bloomberg may be interested in seeing. In practice, we refer more companies to Bloomberg that are not our portfolio companies, than are our portfolio companies. And at the moment only one-fourth of our portfolio companies have business contact with Bloomberg. Bloomberg Beta would never be a party to a business relationship between a startup and Bloomberg L.P.; those relationships are all at arms’ length.
+We look for opportunities to connect startups (including our portfolio companies and others) with Bloomberg L.P. -- we invest significant time in understanding what Bloomberg may be interested in seeing. In practice, we refer more companies to Bloomberg that are not our portfolio companies, than are portfolio companies. And at the moment only one-fourth of our portfolio companies have business contact with Bloomberg. Bloomberg Beta would never be a party to a business relationship between a startup and Bloomberg L.P.; those relationships are all at arms’ length.
 
 There are areas where access to Bloomberg may be enormously helpful to a startup. For example, some areas where Bloomberg has some of the best expertise in the world: the creation of a data-driven subscription business, selected technical specialties, high-touch customer service.
 
 That said, we are set up as a separate legal entity to protect the confidentiality of startups with whom we work.
 
-While Bloomberg will only work with your startup if it makes sense for Bloomberg (no, you can’t have a discount on a Bloomberg terminal), we have a great understanding of how to facilitate the right conversation quickly.
+While Bloomberg will only work with your startup if it makes sense for Bloomberg (no, you can’t have a discount on a Bloomberg terminal), we understand how to facilitate the right conversation quickly.
 
-We have an Advisory Committee at Bloomberg L.P. that hears from us about common themes we see, gives us input and feedback, and approves unusually big checks -- just like the LP Advisory Committee in any venture fund.
-
-### Learning
-
-We recognize that founders don’t have the time to plan for their own professional growth and learning, so we offer them some of that. We might do a training on how to create useful communication with technical teams, or invite founders to a panel on a subject we think they might care about.
-
-### Events we host
-
-Sometimes, one way we can help companies is just by getting them out of the building. We get our founders together every so often with an extended group of our friends. These events are completely optional, and have no direct usefulness at all.
-
-We do host some selective events (for example, with a senior government official or business leader) to which we invite our portfolio company founders.
-
-### Each other
-
-Now that we are beginning to have a critical mass of companies in our portfolio, the companies can be helpful to each other should they want to be -- vendor referrals, emotional support, product tips, etc.
-
-We were one of the first (if not the first) fund to set up a portfolio community channel on Slack, even before Slack supported this functionality natively. Our founders congratulate each other, promote one another's successes, support each other through tough spots, offer tactical recommendations ("who should I use as an accountant?") in ways much more immediate, varied, and specific than what our fund could do for any of them directly.
-
-We noticed the conversations in that channel were surprisingly specific -- less about the big picture and more about what kind of paintbrush to use. We were inspired by the Picasso quote that only art critics talk about the Big Ideas, real artists help each other find [cheap turpentine](https://www.highly.co/hl/56e6f2323533356aeb5a0000). So we created an event series, "Turpentine Talks," where one of our founders who has expertise in a certain area (e.g., growth, building open source communities, hacking personal use of time) leads a roundtable discussion with other founders learning and offering their own experiences. 
-
-We admire and want to continue to support these kinds of communities, that openly share a craft to hone the trade of companybuilding, with a particular set of companies that share a similar way of working and similar values.
+We have an Advisory Committee at Bloomberg L.P. that hears from us about common themes we see, gives us input and feedback, and approves unusually big checks -- just like the LP Advisory Committee for any venture fund.
 
 ### After the exit...
 
 We are disciplined about learning from every company. We will write up a retrospective report where we evaluate our value added to the team -- vs. what we wish we could have added. We assess whether we were right on the risks the company faced, and what lessons we learned. Most important, we ask whether the founder would have asked for our money again.
 
+Capital that we earn will go back to Bloomberg L.P., and therefore to [Bloomberg Philanthropies](https://www.bloomberg.org/) where they focus on five key areas for creating lasting change: the arts, education, the environment, government innovation, and public health.
+
 ### Company feedback on us
 
-Once a year we ask all our founders to do a short (under 3 minutes) anonymous survey to give us feedback on what we can do better. We do a Net Promoter Score as part of this. We use that NPS as the most important metric to drive our fund's choices.
+Once a year we ask all our founders to do a short anonymous survey to give us feedback on what we can do better. We calculate a Net Promoter Score as part of this. We use that NPS as the most important metric to drive our fund's choices.
 
 We would share our Net Promoter Score here, but we don’t want our founders to feel we are using their feedback to market ourselves. (Though we’d be happy to tell you in person.)
 
@@ -477,7 +482,7 @@ Always be learning from your customers -- ours are founders.
 
 ## Finding us
 
-If you don’t know how to find us, figure it out. Great founders overcome much more than that. If you can't, you don’t know how to use the Internet and you should probably rethink whether being a founder is the right career for you.
+If you don’t know how to find us, figure it out. Great founders overcome much more than that. If you can't, you don’t know how to use the internet and you should probably rethink whether being a founder is the right career for you.
 
 ### How to reach out
 
@@ -485,7 +490,7 @@ Should you send us a cold email? Probably not. If we were a customer of yours, w
 
 ### Caveats founders should know
 
-Things not to try on us, that others have tried:
+Things that won't work:
 * A first email that says “My round is closing next week. Do you have interest?” We understand that founders are eager to close their funding rounds. Sometimes timing doesn’t work -- we have no fear of the elevator doors closing on us. That said, we always try to imagine how we'd behave with any company if there *were* enormous time pressure to decide (founder time is precious) -- and behave that way regardless.
 * “You can only try our product if you invest.” If the product isn’t ready, we understand that. But if it is ready and we can’t play with it, we can't figure out whether to work with you.
 
