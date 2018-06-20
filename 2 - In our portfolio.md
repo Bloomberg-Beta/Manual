@@ -29,7 +29,7 @@ Founders are our customers. In order of our announced participation:
 | [Alex Rampell](https://twitter.com/arampell), [Pasha Bitz](https://twitter.com/pashabitz), [Jonathan Wolf](https://www.linkedin.com/in/jwolf) | **[TXN](http://txn.com/)** |
 | [Eric Tilenius](https://www.linkedin.com/in/tilenius), [Pratik Verma](https://www.linkedin.com/in/pratikrverma) | **[BlueTalon Data Systems](http://bluetalon.com/)** |
 | [Fred Seibert](https://twitter.com/fredseibert), [Yoel Flohr](https://uk.linkedin.com/in/flohr) | Thirty Labs |
-| [Jamie Davidson](https://www.linkedin.com/pub/jamie-davidson/32/451/85a), [Eric Duffy](https://www.linkedin.com/pub/eric-duffy/29/326/101) | **[Pathgather](http://www.pathgather.com/)**<sup>*</sup> |
+| [Eric Duffy](https://www.linkedin.com/pub/eric-duffy/29/326/101), [Jamie Davidson](https://www.linkedin.com/pub/jamie-davidson/32/451/85a) | **[Pathgather](http://www.pathgather.com/)**<sup>*</sup> |
 | [David Byrd](https://www.linkedin.com/in/davidmbyrd), [Steve Kaliski](https://www.linkedin.com/pub/steve-kaliski/10/a77/79) | Bowery |
 | [Scott Forman](https://www.linkedin.com/in/scottforman), [Jeff Kolesky](https://www.linkedin.com/in/jeffkolesky) | **[OneRoom](http://www.joinoneroom.com/)** |
 | [Ivan Kirigin](https://www.linkedin.com/in/kirigin) | YesGraph<sup>*</sup> |
