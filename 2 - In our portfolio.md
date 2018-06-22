@@ -99,5 +99,6 @@ Founders are our customers. In order of our announced participation:
 | [Beau Cronin](https://www.linkedin.com/in/beaucronin/), [Chris Diehl](https://www.linkedin.com/in/cpdiehl), [David Gutelius](https://www.linkedin.com/in/gutelius/)| **[The Data Guild](https://www.thedataguild.com/)** | 
 | [Cara Meverden](https://www.linkedin.com/in/carameverden/), [Saul Carlin](https://www.linkedin.com/in/saulcarlin/), [Daniel McCartney](https://www.linkedin.com/in/daniel-john-mccartney/)| **[Scout.fm](https://www.scout.fm/)** |
 | [Lukas Biewald](https://www.linkedin.com/in/lbiewald), [Chris Van Pelt](https://www.linkedin.com/in/chrisvanpelt/), [Shawn Lewis](https://www.linkedin.com/in/shawn-lewis-524a563/)| **[Weights & Biases](https://www.wandb.com/)** |
+| [Amol Sarva](https://www.linkedin.com/in/amolsarva), [Edward Shenderovich](https://www.linkedin.com/in/shenderovich)| **[Knotel](https://knotel.com)** |
 
 <sup>*</sup> Acquired :thumbsup:
