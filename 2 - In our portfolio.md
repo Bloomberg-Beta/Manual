@@ -69,7 +69,7 @@ Founders are our customers. In order of our announced participation:
 | [Stewart Butterfield](https://twitter.com/stewart) | **[Slack](https://slack.com/)** |
 | [Alexander García-Tobar](https://www.linkedin.com/in/alexgarciatobar), [Peter Goldstein](https://www.linkedin.com/in/petergoldstein) | **[ValiMail](http://www.valimail.com/)** |
 | [Anant Kale](https://www.linkedin.com/in/anantkale), [Kunal Verma](https://www.linkedin.com/in/kunalv) | **[AppZen](http://www.appzen.com/)** |
-| [Alberto Pepe](https://www.linkedin.com/in/albertopepe), [Nathan Jenkins](https://twitter.com/nathanjenkins12) | **[Authorea](https://www.authorea.com)** |
+| [Alberto Pepe](https://www.linkedin.com/in/albertopepe), [Nathan Jenkins](https://twitter.com/nathanjenkins12) | **[Authorea](https://www.authorea.com)**<sup>*</sup>|
 | [Kartik Mandaville](https://www.linkedin.com/in/kar2905)  | **[SpringRole](https://springrole.com)** |
 | [Chris Bach](https://twitter.com/chr_bach), [Mathias Biilmann](http://mathias-biilmann.net/about) | **[Netlify](https://www.netlify.com/)** |
 | [Shinji Kim](https://www.linkedin.com/in/shinjikim), [Alexander Gallego](https://www.linkedin.com/in/alexandergallego)  | **[Concord Systems](http://concord.io/)**<sup>*</sup> |
@@ -99,6 +99,6 @@ Founders are our customers. In order of our announced participation:
 | [Beau Cronin](https://www.linkedin.com/in/beaucronin/), [Chris Diehl](https://www.linkedin.com/in/cpdiehl), [David Gutelius](https://www.linkedin.com/in/gutelius/)| **[The Data Guild](https://www.thedataguild.com/)** | 
 | [Cara Meverden](https://www.linkedin.com/in/carameverden/), [Saul Carlin](https://www.linkedin.com/in/saulcarlin/), [Daniel McCartney](https://www.linkedin.com/in/daniel-john-mccartney/)| **[Scout.fm](https://www.scout.fm/)** |
 | [Lukas Biewald](https://www.linkedin.com/in/lbiewald), [Chris Van Pelt](https://www.linkedin.com/in/chrisvanpelt/), [Shawn Lewis](https://www.linkedin.com/in/shawn-lewis-524a563/)| **[Weights & Biases](https://www.wandb.com/)** |
-| [Amol Sarva](https://www.linkedin.com/in/amolsarva), [Edward Shenderovich](https://www.linkedin.com/in/shenderovich)| **[Knotel](https://knotel.com)** |
+| [Amol Sarva](https://www.linkedin.com/in/amolsarva), [Edward Shenderovich](https://www.linkedin.com/in/shenderovich)| **[Knotel](https://knotel.com)** and **[Knotable](https://knote.com)** |
 
 <sup>*</sup> Acquired :thumbsup:
