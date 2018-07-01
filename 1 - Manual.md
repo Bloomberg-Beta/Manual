@@ -436,7 +436,7 @@ Investing, to us, is really nothing more than the mechanism we use to find a way
 
 ### Events we host
 
-We invite founders to many events. We believe one way we can help companies is just by getting them out of the building. We get our founders together every so often with an extended group of our friends, and with each other. Once founders start to see familiar faces, they understand that we're building a community of mutual support. These events are completely optional, and sometimes have no direct usefulness at all.
+We invite founders to many events. We believe one way we can help companies is just by getting them out of the building. We get our founders together every so often with an extended group of our friends, and with each other. Once founders start to see familiar faces, they understand that we're building a community of mutual support. These events are completely optional, and sometimes have no direct usefulness at all (like our monthly game of [Werewolf](https://en.wikipedia.org/wiki/Mafia_(party_game)) in San Francisco).
 
 To bring worlds together, often we'll bring in an author, or a senior government official or business leader, or even an artist, to expose founders to ideas and people from outside the technology startup world. We invite portfolio company founders to every event, and some are only for them. When possible, we try to include the broader community in events we convene.
 
