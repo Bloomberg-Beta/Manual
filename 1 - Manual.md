@@ -9,7 +9,7 @@ Operating Manual
 * [What we look for in a startup](#what-we-look-for-in-a-startup)
 * [The deal terms](#the-deal-terms)
 * [Our “products,” or, models for how we work with founders](#our-products-or-how-we-work-with-founders)
-* [How we support our companies](#how-we-support-our-companies)
+* [How we support founders](#how-we-support-founders)
 * [Finding us](#finding-us)
 
 
