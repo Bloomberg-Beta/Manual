@@ -1,4 +1,4 @@
-Operating Manual
+Bloomberg Beta Operating Manual
 ================
 
 
