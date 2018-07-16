@@ -24,6 +24,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 ### On going to market
 * [Don't Launch](http://www.startuplessonslearned.com/2009/03/dont-launch.html) (Eric Ries — article)
 * [Picking your first customers: the gradient of influence](https://also.roybahat.com/picking-your-first-customers-the-gradient-of-influence-47858b90adfd) (Roy Bahat — article)
+* [The Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7) (Ameet Ranadive  — article). The classic principle on how to communicate in any business setting.
 * [Andrew Chen](http://andrewchen.co/) (newsletter)
 
 ### On practical aspects of building a company
