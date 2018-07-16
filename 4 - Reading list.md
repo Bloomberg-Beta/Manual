@@ -1,4 +1,4 @@
-# Bloomberg Beta Reading List
+# Bloomberg Beta reading List
 
 The resources on this page cover a range of subjects we find useful to think about in our day-to-day lives as VCs. Like the rest of our manual, this is a living document, so please feel free to submit any suggestions via pull request!
 
