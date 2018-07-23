@@ -14,7 +14,7 @@ Founders are our customers. In order of our announced participation:
 | [Satya Patel](https://twitter.com/satyap), [Hunter Walk](https://twitter.com/hunterwalk) | **[Homebrew](http://homebrew.co/)** | 
 | [Stephen Purpura](https://www.linkedin.com/in/spurpura) | **[Context Relevant](http://www.contextrelevant.com/)** |
 | [Ron Palmeri](https://twitter.com/RonP), [Tomaž Štolfa](https://twitter.com/tomazstolfa) | **[Layer](https://layer.com/)** | 
-| [Naval Ravikant](https://twitter.com/naval), [Babak Nivi](https://www.linkedin.com/in/bnivi) | **[AngelList](https://angel.co/)**<sup>*</sup>| 
+| [Naval Ravikant](https://twitter.com/naval), [Babak Nivi](https://www.linkedin.com/in/bnivi) | **[AngelList](https://angel.co/)**| 
 | [Anil Dash](http://dashes.com/anil/), [Gina Trapani](https://twitter.com/ginatrapani) | **[ThinkUp](https://www.thinkup.com/)** | 
 | [Sandi MacPherson](http://quibb.com/sandimacpherson) | Quibb | 
 | [Jason Hirschhorn](https://twitter.com/JasonHirschhorn) | **[REDEF](http://www.mediaredefined.com/)** | 
