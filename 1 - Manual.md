@@ -110,7 +110,7 @@ We like products we ourselves would use and understand. We’ve been technology 
 We believe startups destined for greatness, in their earliest days, choose...
 + Only one model for how to sell, generally either directly to an individual or directly to a company (whereas many believe they can do both at first)
 + One type of person (e.g., role within a client company) to target as a customer, and specifically avoid trying to serve business and technical users with the same tool
-+ Will choose to target customers whose businesses are thriving, and specifically avoid customers in low- or no-growth, or low-margin businesses (e.g., most online publishing)
++ Target customers whose businesses are thriving, and specifically avoid customers in low- or no-growth, or low-margin businesses (e.g., most online publishing)
 
 If a product is launched, we care about how well it is doing -- the famous “traction” -- but we tend not to focus on absolute numbers. We focus on month-over-month (or, in earlier-stage cases, week-over-week) growth, ask questions about how different cohorts of users behave, and try to understand the per-user behavior (how much does any one user really value the product). At the earliest stages, we are most interested in evidence of customer love -- retention or intensity metrics, Net Promoter Score, or even anecdotal praise by customers for the product.
 
