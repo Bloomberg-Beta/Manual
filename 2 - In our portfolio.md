@@ -8,7 +8,7 @@ Founders are our customers. In order of our announced participation:
 |:--------|:----------|
 | [Jonah Varon](https://www.linkedin.com/in/jonahvaron), [Axel Hansen](https://www.linkedin.com/pub/axel-hansen/25/aa/7ab)  | **[Newsle](https://newsle.com/)**<sup>*</sup> |
 | [Charlie Robbins](https://twitter.com/indexzero) | **[Nodejitsu](https://www.nodejitsu.com/)**<sup>*</sup> |
-| [Jon Lee](https://www.linkedin.com/in/jonlee168) | **[ProsperWorks](https://www.prosperworks.com/)** |
+| [Jon Lee](https://www.linkedin.com/in/jonlee168) | **[Copper](https://www.copper.com/)** |
 | [Paul Dix](https://twitter.com/pauldix), [Todd Persen](https://www.linkedin.com/in/toddpersen) | **[InfluxData](http://influxdata.com/)** |
 | [Zach Sims](https://twitter.com/zsims), [Ryan Bubinski](https://www.linkedin.com/in/ryanbubinski) | **[Codecademy](http://www.codecademy.com/)** | 
 | [Satya Patel](https://twitter.com/satyap), [Hunter Walk](https://twitter.com/hunterwalk) | **[Homebrew](http://homebrew.co/)** | 
