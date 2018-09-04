@@ -100,6 +100,8 @@ Founders are our customers. In order of our announced participation:
 | [Lukas Biewald](https://www.linkedin.com/in/lbiewald), [Chris Van Pelt](https://www.linkedin.com/in/chrisvanpelt/), [Shawn Lewis](https://www.linkedin.com/in/shawn-lewis-524a563/)| **[Weights & Biases](https://www.wandb.com/)** |
 | [Amol Sarva](https://www.linkedin.com/in/amolsarva), [Edward Shenderovich](https://www.linkedin.com/in/shenderovich)| **[Knotel](https://knotel.com)** and **[Knotable](https://knote.com)** |
 | [Eyal Feldman](https://www.linkedin.com/in/feldmaneyal/), [Ofer Feldman](https://www.linkedin.com/in/oferfeldman/)| **[Stampli](https://www.stampli.com/)**|
+| [Ian Eyberg](https://www.linkedin.com/in/ianeyberg/)| **[NanoVMs](https://nanovms.com/)**|
 | [Mike Dudas](https://twitter.com/mdudas)| **[The Block](https://www.theblockcrypto.com)**|
+| [Jordana Stein](https://www.linkedin.com/in/jordanastein)| **[Enrich](https://www.joinenrich.com/)**|
 
 <sup>*</sup> Acquired :thumbsup:
