@@ -74,7 +74,7 @@ Founders are our customers. In order of our announced participation:
 | [Chris Bach](https://twitter.com/chr_bach), [Mathias Biilmann](http://mathias-biilmann.net/about) | **[Netlify](https://www.netlify.com/)** |
 | [Shinji Kim](https://www.linkedin.com/in/shinjikim), [Alexander Gallego](https://www.linkedin.com/in/alexandergallego)  | **[Concord Systems](http://concord.io/)**<sup>*</sup> |
 | [Alan Fletcher](https://www.linkedin.com/in/alan-fletcher-6161241), [Aman Naimat](https://www.linkedin.com/in/amannaimat)  | **[Spiderbook](http://spiderbook.com/)**<sup>*</sup> |
-| [Max Bruner](https://www.linkedin.com/in/maxbruner), [Yuan Gao](https://www.linkedin.com/in/yuan-gao-30027060), [Alexey Rostapshov](https://www.linkedin.com/in/arostaps)  | **[Mavrx](https://www.mavrx.co/)**
+| [Max Bruner](https://www.linkedin.com/in/maxbruner), [Yuan Gao](https://www.linkedin.com/in/yuan-gao-30027060), [Alexey Rostapshov](https://www.linkedin.com/in/arostaps)  | **[Mavrx](https://www.mavrx.co/)**<sup>*<sup>|
 | [John Ciancutti](https://twitter.com/johnciancutti), [Steve McLendon](https://twitter.com/stevemclendon), [Steve Henn](https://twitter.com/HennsEggs) | **[60dB](https://60db.co/)**<sup>*</sup> |
 | [Jason Bade](https://www.linkedin.com/in/jasonbade), [Nick Chen](https://www.linkedin.com/in/nicholasychen)  | **[Pico](https://hellopico.io/)** |
 | [Jeff LaBarge](https://www.linkedin.com/in/jefflabarge), [Tom Shapland](https://www.linkedin.com/in/tom-shapland-b4494212)  | **[Tule Technologies](https://www.tuletechnologies.com/)** |
