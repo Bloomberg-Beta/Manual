@@ -33,7 +33,7 @@ Shivon Zilis — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www
 Shaina Conners — [Twitter](https://twitter.com/shainaconners) // [LinkedIn](https://www.linkedin.com/in/shainaconners)
 
 ### Where we work
-San Francisco — [140 New Montgomery St., 22nd Floor](http://goo.gl/49X6hu)
+San Francisco — [140 New Montgomery St., 22nd fl](http://goo.gl/49X6hu)
 
 New York — [731 Lexington Ave.](http://goo.gl/tt3m7f)
 
