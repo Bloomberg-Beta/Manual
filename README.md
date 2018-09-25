@@ -26,6 +26,8 @@ Harley Sugarman — [Twitter](https://twitter.com/harleysugarman) // [LinkedIn](
 
 Minn Kim — [Twitter](https://twitter.com/minney_cat) // [LinkedIn](https://www.linkedin.com/in/minnkim/)
 
+Taylor Wentz Brown - [LinkedIn](https://www.linkedin.com/in/taylorawentz/)
+
 Shivon Zilis — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/pub/shivon-zilis/7/b35/281)
 
 Shaina Conners — [Twitter](https://twitter.com/shainaconners) // [LinkedIn](https://www.linkedin.com/in/shainaconners)
