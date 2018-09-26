@@ -28,6 +28,8 @@ Minn Kim — [Twitter](https://twitter.com/minney_cat) // [LinkedIn](https://www
 
 Taylor Wentz Brown - [LinkedIn](https://www.linkedin.com/in/taylorawentz/)
 
+Maria Sharp - [LinkedIn](https://www.linkedin.com/in/maria-sharp-991966160)
+
 Shivon Zilis — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/pub/shivon-zilis/7/b35/281)
 
 Shaina Conners — [Twitter](https://twitter.com/shainaconners) // [LinkedIn](https://www.linkedin.com/in/shainaconners)
