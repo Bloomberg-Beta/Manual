@@ -103,5 +103,6 @@ Founders are our customers. In order of our announced participation:
 | [Ian Eyberg](https://www.linkedin.com/in/ianeyberg/)| **[NanoVMs](https://nanovms.com/)**|
 | [Mike Dudas](https://twitter.com/mdudas)| **[The Block](https://www.theblockcrypto.com)**|
 | [Jordana Stein](https://www.linkedin.com/in/jordanastein)| **[Enrich](https://www.joinenrich.com/)**|
+| [Joe Freed](https://www.linkedin.com/in/joefreed), [Andy Horng](https://www.linkedin.com/in/andyhorng/), [Samir Meghani](https://www.linkedin.com/in/samirmeghani/)| **[Cultivate](https://www.cultivateai.com/)**|
 
 <sup>*</sup> Acquired :thumbsup:
