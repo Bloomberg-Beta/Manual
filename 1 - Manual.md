@@ -392,17 +392,17 @@ Our team works closely together -- we speak often and love helping each other, a
 
 ### Areas where we tend to be most useful
 
-While we’re happy to help companies across the full range of early-stage company questions -- recruiting, fundraising (should I take more money or call it a day?), services (who do I use for HR?) -- we concentrate on the range of skills loosely called “going to market.” Our focus on the future of work means that we may know your market well, or your business model.
+While we’re happy to help companies across the full range of early-stage company questions -- recruiting (how to seal the deal for a critical early hire?), fundraising (should I take more money or call it a day?), services (who do I use for HR?) -- we concentrate on the range of skills loosely called “going to market.” Our focus on the future of work means that we may know your market well, or your business model.
 
-To us, going to market includes finding product-market fit, pricing, segmenting your market, sequencing your approaches to potential users or customers, understanding when to review and when to ignore the competition, using the various organic marketing tools, paid marketing, press, partnerships, planning to raise more capital, and just the overall understanding of the importance of communicating who you are and why you are. We have many views here that startups find surprising.
+To us, going to market includes finding product-market fit, segmenting your market, sequencing your approaches to potential users or customers, pricing, understanding when to review and when to ignore the competition, using the various organic marketing tools, paid marketing, press, partnerships, planning to raise more capital, and just the overall understanding of the importance of communicating who you are and why you are. We have many views here that startups find surprising.
 
-We bridge multiple professional worlds -- technical, financial, corporate, philanthropic, political, social, and otherwise. We try to bring founders across those bridges early and often.
+We bridge multiple professional worlds -- technical, financial, corporate, philanthropic, political, social, and otherwise. We try to bring founders across those bridges early and often, with introductions to leaders in any of those fields and group discussions to share ideas and lessons learned that are applicable to startups.
 
 We have presence in both San Francisco and New York. We've found that SF-based founders appreciate introductions to customers in New York -- we can open that door. We make a concerted effort to help the transition from “west to east” and “east to west.”
 
 We don’t care about face time -- you won’t get a “hey let’s have coffee just to catch up” every two weeks. We do spring into action when we see the Bat Signal. We take feedback from companies on what they want. Some of our companies have asked us to do monthly, or even weekly, meetings with them, others “go into hiding” while working on their product -- we’re good either way.
 
-Because we sometimes create our own products, we stay current on tactical trends and may know them firsthand. We believe founders have as much wisdom as investors (or more) -- we’re all just trying to spark something great in this big wide world.
+Because we sometimes create our own products, we stay current on tactical trends and may know them firsthand. If you're building something that we can use on our team, we'll share product feedback and be your biggest advocate. We believe founders have as much wisdom as investors (or more) -- we’re all just trying to spark something great in this big wide world.
 
 One thing many founders don’t realize is how little direct control their investors ultimately have -- we can’t demand certain information from you unless it’s specifically written into our agreements (where we often ask only for general financial information), we won’t be able to make you hire or fire anyone -- we work with you based on mutual trust.
 
@@ -452,7 +452,7 @@ We admire and want to continue to support these kinds of communities, that openl
 
 ### Learning
 
-We recognize that founders don’t have the time to plan for their own professional growth and learning, so we offer them some of that. We might do a training on how to create useful communication with technical teams, or invite founders to a panel on a subject we think they might care about. Founders can request Turpentine Talks on topics of particular interest to them, of course.
+We recognize that founders don’t have the time to plan for their own professional growth and learning, so we offer them some of that. We might do a training on how to create useful communication with technical teams, or invite founders to a panel on a subject we think they might care about. Founders can [request](https://goo.gl/forms/qS1dehJQW5vFxYYs1) Turpentine Talks on topics of particular interest to them, of course.
 
 ### How our fund works with Bloomberg L.P.
 
