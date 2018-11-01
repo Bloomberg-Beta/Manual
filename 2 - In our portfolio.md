@@ -63,7 +63,7 @@ Founders are our customers. In order of our announced participation:
 | [Michael W. Wellman](https://www.linkedin.com/in/mwellman), [Dmitry Dain](https://www.linkedin.com/in/dmitrydain)| **[Virgil Security](http://www.virgilsecurity.com/)** |
 | [David Gutelius](https://twitter.com/gutelius), [Chris Diehl](https://twitter.com/chrisdiehl) | **[Motiva](https://www.motiva.ai/)** |
 | [Dmitry Aksenov](https://uk.linkedin.com/in/dmitryaksenov), [Mikhail Naumov](https://www.linkedin.com/in/mikhailnaumov)| **[DigitalGenius](http://www.digitalgenius.com/)** |
-| [Arjun Singh](https://www.linkedin.com/in/arjun-singh-629216105), [Sergey Karayev](https://www.linkedin.com/in/sergeykarayev), [Ibrahim Awwal](https://www.linkedin.com/in/ibrahim-awwal-28b43a3a), [Pieter Abbeel](https://www.linkedin.com/in/pieter-abbeel-34a10a3)| **[Gradescope](https://gradescope.com/)** |
+| [Arjun Singh](https://www.linkedin.com/in/arjun-singh-629216105), [Sergey Karayev](https://www.linkedin.com/in/sergeykarayev), [Ibrahim Awwal](https://www.linkedin.com/in/ibrahim-awwal-28b43a3a), [Pieter Abbeel](https://www.linkedin.com/in/pieter-abbeel-34a10a3)| **[Gradescope](https://gradescope.com/)**<sup>*<sup> |
 | [Mike Tung](https://www.linkedin.com/in/miketung) | **[Diffbot](http://www.diffbot.com/)** |
 | [Roger Dickey](https://www.linkedin.com/in/rogerdickey), [Debo Olaosebikan](https://www.linkedin.com/in/dolaoseb) | **[Gigster](https://gigster.com/)** |
 | [Stewart Butterfield](https://twitter.com/stewart) | **[Slack](https://slack.com/)** |
