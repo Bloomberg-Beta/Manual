@@ -154,17 +154,17 @@ Our Open Angels include [Max Simkoff](https://angel.co/max-simkoff/syndicate), [
 
 Our focus is investing in startups that improve work -- and knowledge work in particular.
 
-We have doubts about the effectiveness of theme-based investing. The best founders can surprise an investor with an unexpected take on a category. That said, there are areas our team has grown to care about and learn about. We only want to invest in companies where we believe we have enough understanding to be enormously valuable to our founders, and to have good enough judgment to support founders through thick and thin.
+We have doubts about the effectiveness of theme-based investing. The best founders can surprise an investor with an unexpected take on a category. That said, there are areas our team has grown to care about and learn about. We only want to invest in companies where we believe we have enough understanding to be enormously valuable to our founders, and to have good enough judgment to support founders through thick and thin. 
 
 [Machine intelligence](http://www.shivonzilis.com/machineintelligence) crosses all the areas we care about, and we have treated it as our main interest area for several years now. We believe machine intelligence will transform every industry and every function -- and we focus on its effects on business. We believe [machine intelligence will be like electricity](http://www.wired.com/2014/10/future-of-artificial-intelligence/): cheap, convenient, and on-demand. We want to back the founders ushering this future into the now.
 
-Areas where we’ve invested include: content discovery, cybersecurity, data sets and services, developer tools, full-stack startups who use technology to compete in a new way, hardware, human-computer interaction, learning, media distribution, new organizational models, open source software, productivity tools, professional networks, technology platforms, workflow tools, workplace communication. 
+Areas where we’ve invested include: content discovery, cybersecurity, data sets and services, developer tools, full-stack startups who use technology to compete in a new way, hardware, human-computer interaction, learning, media distribution, new organizational models, open source software, productivity tools, professional networks, technology platforms, workflow tools, workplace communication.
 
 We avoid investments in financial services companies that intend to compete with Bloomberg clients.
 
 Sometimes founders mistakenly assume that we avoid “consumer” companies entirely. There are many individual-facing businesses that we’d fund -- they just need to help a person at work. (Typically “enterprise” businesses sell to a company, and these individual-facing services sell to the end user directly.) Ask us if you are unsure if you fit in our scope!
 
-We do avoid, for example, e-commerce and entertainment because they tend to serve people outside their work capacity. There are also other areas that intersect with the future of work where we know too little to be confident, e.g., retail, travel, local, heavy industry, and medical services.
+We do avoid, for example, e-commerce and entertainment because they tend to serve people outside their work capacity. There are also other areas that intersect with the future of work where we know too little to be confident, e.g., retail, travel, local, heavy industry, and medical services. We also believe we play a role in how the future of work evolves, so we'll (politely) pass on investing in what may be highly successful companies but don't fit into a vision of a world we want to live in.
 
 ### “The Deck”
 
