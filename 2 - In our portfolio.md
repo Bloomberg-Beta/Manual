@@ -55,7 +55,7 @@ Founders are our customers. In order of our announced participation:
 | [Jason Garoutte](https://www.linkedin.com/in/garoutte), [Brian Zotter](https://www.linkedin.com/in/zotterb) | YesPath |
 | [Anthony Goldbloom](https://www.linkedin.com/in/anthonygoldbloom), [Ben Hamner](https://www.kaggle.com/benhamner) | **[Kaggle](https://www.kaggle.com/)**<sup>*</sup> |
 | [Eric Wuebben](https://twitter.com/wuebben), [Andrew Courter](https://twitter.com/covrter) | **[Highly](https://www.highly.co)** |
-| [Katie Spence](https://twitter.com/spenceke), [Ben Brown](https://twitter.com/benbrown) | **[Howdy](http://howdy.ai/)** |
+| [Katie Spence](https://twitter.com/spenceke), [Ben Brown](https://twitter.com/benbrown) | **[Howdy](http://howdy.ai/)**<sup>*<sup> |
 | [Justin Wohlstadter](https://twitter.com/justpw)| **[Wonder](https://askwonder.com/)** |
 | [Brendan Frey](https://en.wikipedia.org/wiki/Brendan_Frey)| **[Deep Genomics](http://www.deepgenomics.com/)** |
 | [Evan Macmillan](https://twitter.com/djmrevan) | **[Gridspace](https://www.gridspace.com)** |
