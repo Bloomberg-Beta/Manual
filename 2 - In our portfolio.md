@@ -19,7 +19,7 @@ Founders are our customers. In order of our announced participation:
 | [Sandi MacPherson](http://quibb.com/sandimacpherson) | Quibb | 
 | [Jason Hirschhorn](https://twitter.com/JasonHirschhorn) | **[REDEF](http://www.mediaredefined.com/)** | 
 | [Ryan Petersen](https://twitter.com/typesfast) | **[Flexport](https://www.flexport.com/)** | 
-| [Fouad ElNaggar](https://twitter.com/ThufirHawat), [Peter Yared](https://twitter.com/peteryared) | **[Sapho](http://www.sapho.com/)** | 
+| [Fouad ElNaggar](https://twitter.com/ThufirHawat), [Peter Yared](https://twitter.com/peteryared) | Sapho<sup>*<sup>(http://www.sapho.com/)** | 
 | [Daniela Perdomo](https://twitter.com/danielaperdomo) | **[goTenna](http://gotenna.com/)** |
 | [Anne Wootton](https://twitter.com/annewootton), [Bailey Smith](https://www.linkedin.com/in/baileyrsmith) | Pop Up Archive<sup>*</sup>|
 | [Satyen Sangani](https://www.linkedin.com/in/ssangani) | **[Alation](http://alation.com/)** |
