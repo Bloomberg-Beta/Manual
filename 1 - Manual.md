@@ -316,6 +316,8 @@ We also want to approve of any investments you take that might get their capital
 
 We care about getting some information rights -- basically the ability for us to understand how well the company is doing, and its financials.
 
+We go into much more detail in our public [explanation of our investment documents](https://medium.com/@hjs/were-open-sourcing-our-investment-documents-f96b6e8c40e5).
+
 ### The numbers
 
 Our standard first check is $500,000, though more and more often we are investing up to $1M. We want to invest enough to give a startup the money it needs to make real progress in the early days, and to attract other investors alongside us if needed. We are happy to lead, and happy to participate in rounds led by others, depending on the situation -- in earliest-stage venture, sometimes the [idea of a lead means different things to different people](http://also.roybahat.com/post/119369807637/in-earliest-stage-venture-what-is-a-lead-anyway).
