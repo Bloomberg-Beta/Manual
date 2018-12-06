@@ -298,7 +298,7 @@ We intend to always give a clear “no” with straightforward reasoning. That r
 
 ## The deal terms
 
-Our goal, particularly with first-time founders, is to explain what we want and why in plain language. We want to act in a way where, if our asks were widely publicized, we’d be proud of them.
+We want founders to know what to expect when they work with us before they get to the first meeting, and understanding how we think about deal contracts is an important part of that process. So we have published the templates we use for our [investment documents](https://github.com/Bloomberg-Beta/Investment-Documents) to GitHub. We also recommend reading the accompanying [blog post](https://medium.com/@hjs/were-open-sourcing-our-investment-documents-f96b6e8c40e5), that explains which terms we care about and why.
 
 ### How much risk do we take
 
