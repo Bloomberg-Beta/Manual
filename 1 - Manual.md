@@ -298,7 +298,7 @@ We intend to always give a clear “no” with straightforward reasoning. That r
 
 ## The deal terms
 
-We want founders to know what to expect when they work with us before they get to the first meeting, and understanding how we think about deal contracts is an important part of that process. So we have also published the templates we use for our [investment documents](https://github.com/Bloomberg-Beta/Investment-Documents) to GitHub. We have also published an accompanying [explainer](https://medium.com/@hjs/were-open-sourcing-our-investment-documents-f96b6e8c40e5), detailing what terms we care about and why.
+We want founders to know what to expect when they work with us before they get to the first meeting, and understanding how we think about deal contracts is an important part of that process. So we have published the templates we use for our [investment documents](https://github.com/Bloomberg-Beta/Investment-Documents) to GitHub. We also recommend reading the accompanying [blog post](https://medium.com/@hjs/were-open-sourcing-our-investment-documents-f96b6e8c40e5), that explains which terms we care about and why.
 
 ### How much risk do we take
 
