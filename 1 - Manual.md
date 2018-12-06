@@ -245,40 +245,32 @@ We call as many references as we can find.
 
 We have an “anyone can say yes” policy. Yes, any of our team members can say yes. And no, you don’t have to meet my other partners. We believe the best founders and companies are polarizing. Our best investments might have been, originally, opposed by one or more of our partners. Teams are great at gathering information and surfacing wisdom, but terrible at making decisions. We believe in individual accountability -- if anyone can say yes, then everyone feels the weight of making a decision. (That said, we do require that before anyone says yes they mention the investment to the rest of us -- that way they get the benefit of the team’s input, and it’s a good way to slow down and think for a second.)
 
-We value each others’ opinions and seek them out. Our team is unusual in that we don’t (yet!) have any of the “partner issues” we hear about at other funds. In other funds, it's the worst of both worlds -- founders lack clarity about how investments get approved, and in some firms the partners become resentful of one another's power to approve each others' investments and then do little to support another partners' companies.
+We value each others’ opinions and seek them out. Our team is unusual in that we don’t (yet!) have any of the “partner issues” we hear about at other funds. In other funds, it can be the worst of both worlds -- founders lack clarity about how investments get approved, and in some firms the partners become resentful of one another's power to approve each others' investments and then do little to support another partners' companies.
 
 We believe in each others’ talents, trust each other enough not to mind when someone is wildly wrong, and enjoy each others’ views. We talk as a full group twice a week, to think out loud about companies we’ve invested in or might invest in, and we meet for a full few days once every couple of months.
 
 Because any one of us is empowered to “yes” a deal, we all share and share alike on helping each others’ deals succeed. “Before the investment, it’s your deal; after the investment, it’s our deal.”
 
-When we talk about companies, we find ourselves asking questions like:
-* Why do we believe this company has a shot at doing something unique and potentially revolutionary?
-* How do we like the product or, if the product isn’t yet built, the planned approach? Do we think users will *love* the product? Will they like it enough to convince their closest friends / colleagues to use it?
-* Do we really believe we understand this product or team better than others?
-* How useful can we really be to this company -- are we “just a check” -- and if the company succeeds, how likely is it that we’ll be able to continue to support them?
-* If the company goes sideways, do we have enough confidence in our conviction to feel supportive and know how to help?
-* When will the company need more capital, and what will it need to accomplish before it can earn that capital?
+We have posted in public [our criteria for deciding whether to invest](https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md). When we talk about companies, we use those criteria. 
 
 We’ve had investments where the founder only ever met one person on our team before we invested (though, afterward we all want to meet our companies so we can help them). In practice, each of us often asks the founders if they’d like to meet one of our other colleagues because the founders will get a better feel for us, and because we like and respect our colleagues.
 
-We've noticed something about our "anyone says yes" approach: over time, we've each gravitated toward different styles of companies. Some of us prefer companies before they've even incorporated, others once they've committed some code (sometimes the code happens before incorporation, that's OK, too). If you get to any one of us, we'll each have a feel for who on our team is most likely to say yes to you -- and that's the person we'll try to steer you toward.
+We've noticed something about our "anyone says yes" approach: over time, each of us has gravitated toward different styles of companies. Some of us prefer companies before they've even incorporated, others once they've committed some code (sometimes the code happens before incorporation, that's OK, too). If you get to any one of us, we'll each have a feel for who on our team is most likely to say yes to you -- and that's the person we'll try to steer you toward.
 
-In practice, here are your odds: we have invested in 2% of the companies we have spent time reviewing.
+In practice, here are your odds: we have invested in 1.5% of the companies we have spent time reviewing.
 
 ### Our deal memo
 
-Before we invest, we write a “note to self” outlining our views. We do this so we can be as disciplined about our commitments as founders are about their commitments. We also share this note with a small advisory group at Bloomberg L.P.
+Before we invest, we write a brief “note to self” outlining our views. We do this so we can be as disciplined about our commitments as founders are about their commitments. We also share this note with a small advisory group at Bloomberg L.P.
 
 In order of importance, we write about:
 * The founders’ vision
-* Our thoughts on the founding team, and what our diligence calls revealed (including how we met the team)
+* Our thoughts on the founding team
 * Why we are excited about the company
 * If the product is built, what we think of it and how well it is doing
-* Ways we plan to help
-* Whether Bloomberg L.P. can help the company and whether the company, in success, could create benefits for Bloomberg L.P. (this is not a criterion for investing, but something we want to know -- to best realize that potential opportunity later)
 * What we believe the company needs to do to succeed (or make the next major milestone, like a further round of funding)
 * The terms of the deal
-* Other stuff: competition, market size (to the extent we can tell), use of the funding, business model (in our experience it is usually either unknowable or obvious, and not worth much mental energy either way)
+* Other stuff: competition, market size (to the extent we can tell), use of the funding, business model (in our experience it is usually either unknowable or obvious, and not worth much mental energy either way), what we learned in diligence
 
 ### How long it takes
 
@@ -298,7 +290,7 @@ We intend to always give a clear “no” with straightforward reasoning. That r
 
 ## The deal terms
 
-We want founders to know what to expect when they work with us before they get to the first meeting, and understanding how we think about deal contracts is an important part of that process. So we have published the templates we use for our [investment documents](https://github.com/Bloomberg-Beta/Investment-Documents) to GitHub. We also recommend reading the accompanying [blog post](https://medium.com/@hjs/were-open-sourcing-our-investment-documents-f96b6e8c40e5), that explains which terms we care about and why.
+We want founders to know what to expect when they work with us before they get to the first meeting, and understanding how we think about deal contracts is an important part of that process. So we have published the templates we use for our [investment documents](https://github.com/Bloomberg-Beta/Investment-Documents). We recommend reading the accompanying [blog post](https://medium.com/@hjs/were-open-sourcing-our-investment-documents-f96b6e8c40e5), that explains these documents.
 
 ### How much risk do we take
 
