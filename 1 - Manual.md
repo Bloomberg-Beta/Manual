@@ -130,7 +130,7 @@ Greatness can start anywhere. We're a small team with a modest-sized fund, thoug
 
 The same is true for startups that are headquartered in one of our hometowns and have an initial market elsewhere (e.g., a company in San Francisco focused on doing something in India). We believe companies should be as close to their customers as possible, and we want to deeply understand a startup's potential customers -- that's difficult when it's targeting customers in markets that are far from where we have expertise and relationships.
 
-We have invested outside of San Francisco and New York a handful of times (DC, Toronto, Seattle, Boston, Austin, etc.), though we need an exceptional reason (and often it's when we already know and trust the team).
+We have invested outside of San Francisco and New York a handful of times (DC, Toronto, Seattle, Boston, Austin, etc.), though we need an exceptional reason (and often it's when we already know and trust the team). We've led a [couple](https://www.recode.net/2018/3/30/17177834/midwest-heartland-bus-tour-comeback-cities-rust-belt-safari-vc-venture-capital-founders-washington) of [tours](https://techcrunch.com/2018/11/11/placing-bets-beyond-the-venture-hubs-of-new-york-and-silicon-valley/) of newer startup markets (aka "Comeback Cities" tours), where we visit with VCs and members of Congress to learn what it takes to invest there -- and we're still exploring whether we can deliver on our standard for founder service in other markets.
 
 ### Sources
 
