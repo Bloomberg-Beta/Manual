@@ -4,6 +4,8 @@ Bloomberg Beta Operating Manual
 
 
 ## Contents
+
+* [Our creed](#our-creed)
 * [Our investor, Bloomberg L.P.](#our-investor-bloomberg-lp)
 * [What we believe about the future of work](#what-we-believe-about-the-future-of-work)
 * [What we look for in a startup](#what-we-look-for-in-a-startup)
@@ -12,7 +14,13 @@ Bloomberg Beta Operating Manual
 * [How we support founders](#how-we-support-founders)
 * [Finding us](#finding-us)
 
+## Our creed
 
+We believe work must be more productive, fulfilling, and inclusive. 
+
+Our waking hours must engage the best in us and provide for our needs and wants -- and the world we live in too often fails to offer that.
+
+We believe technology startups play an essential role in delivering a better future. We can speed the arrival of that future by investing in the best startups that share these intentions.
 
 ## Our investor, Bloomberg L.P.
 
