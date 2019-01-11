@@ -106,5 +106,6 @@ Founders are our customers. In order of our announced participation:
 | [Joe Freed](https://www.linkedin.com/in/joefreed), [Andy Horng](https://www.linkedin.com/in/andyhorng/), [Samir Meghani](https://www.linkedin.com/in/samirmeghani/)| **[Cultivate](https://www.cultivateai.com/)**|
 | [Danny Rogers](https://www.linkedin.com/in/dannyrogers/)| **[Terbium Labs](https://terbiumlabs.com)**|
 | [Sankarshan Murthy](https://www.linkedin.com/in/sankarshan-murthy-6862b0a/), [Prahlad Athreya](https://www.linkedin.com/in/pathreya/)| **[Bumblebee Spaces](https://www.bumblebeespaces.com/)**|
+| [Madhu Chamarty](https://www.linkedin.com/in/mchamarty/), [Ross Fubini](https://www.linkedin.com/in/fubini/)| **[BeyondHQ](https://www.beyondhq.co/)**|  
   
 <sup>*</sup> Acquired :thumbsup:
