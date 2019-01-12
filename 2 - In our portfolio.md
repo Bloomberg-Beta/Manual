@@ -107,5 +107,5 @@ Founders are our customers. In order of our announced participation:
 | [Danny Rogers](https://www.linkedin.com/in/dannyrogers/)| **[Terbium Labs](https://terbiumlabs.com)**|
 | [Sankarshan Murthy](https://www.linkedin.com/in/sankarshan-murthy-6862b0a/), [Prahlad Athreya](https://www.linkedin.com/in/pathreya/)| **[Bumblebee Spaces](https://www.bumblebeespaces.com/)**|
 | [Madhu Chamarty](https://www.linkedin.com/in/mchamarty/), [Ross Fubini](https://www.linkedin.com/in/fubini/)| **[BeyondHQ](https://www.beyondhq.co/)**|  
-  
+| [Krishna Gade](https://www.linkedin.com/in/krishnagade/), [Amit Paka](https://www.linkedin.com/in/amitpaka/)| **[Fiddler Labs](https://www.fiddler.ai/)**|
 <sup>*</sup> Acquired :thumbsup:
