@@ -80,7 +80,7 @@ Founders are our customers. In order of our announced participation:
 | [Jeff LaBarge](https://www.linkedin.com/in/jefflabarge), [Tom Shapland](https://www.linkedin.com/in/tom-shapland-b4494212)  | **[Tule Technologies](https://www.tuletechnologies.com/)** |
 | [Itzik Ben-Bassat](https://twitter.com/ibenbassat), [Aviv Eyal](https://twitter.com/avive)  | GONG!|
 | [Ryan Tseng](https://www.linkedin.com/in/ryantseng), [Andrew Reiter](https://www.linkedin.com/in/andrewreiter), [Brandon Tseng](https://www.linkedin.com/in/brandontseng)  | **[Shield AI](http://shield.ai/)**
-| [Drew Conway](https://www.linkedin.com/in/drew-conway-13b5b013) | **[Alluvium](http://www.alluvium.io)**
+| [Drew Conway](https://www.linkedin.com/in/drew-conway-13b5b013) | **[Alluvium](http://www.alluvium.io)**<sup>*</sup>|
 | [Travis Deyle](http://www.travisdeyle.com/), [Erik Schluntz](http://www.erikschluntz.com/portfolio/)| **[Cobalt Robotics](http://www.cobaltrobotics.com/)**|
 | [Adam Rogas](https://www.linkedin.com/in/adamrogas/), [Paul Korol](https://www.linkedin.com/in/paulkorol/), [Phil Vizzaccaro](https://www.linkedin.com/in/phil-vizzaccaro-5694b28/), [Eric Kay](https://www.linkedin.com/in/erickaylaw/)| **[NS8](https://www.ns8.com/)** |
 | [Pia Mancini](https://twitter.com/piamancini), [Xavier Damman](https://twitter.com/xdamman) | **[Open Collective](https://opencollective.com/)** |
