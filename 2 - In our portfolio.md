@@ -12,7 +12,7 @@ Founders are our customers. In order of our announced participation:
 | [Paul Dix](https://twitter.com/pauldix), [Todd Persen](https://www.linkedin.com/in/toddpersen) | **[InfluxData](http://influxdata.com/)** |
 | [Zach Sims](https://twitter.com/zsims), [Ryan Bubinski](https://www.linkedin.com/in/ryanbubinski) | **[Codecademy](http://www.codecademy.com/)** | 
 | [Satya Patel](https://twitter.com/satyap), [Hunter Walk](https://twitter.com/hunterwalk) | **[Homebrew](http://homebrew.co/)** | 
-| [Stephen Purpura](https://www.linkedin.com/in/spurpura) | **[Context Relevant](http://www.contextrelevant.com/)** |
+| [Stephen Purpura](https://www.linkedin.com/in/spurpura) | **[Context Relevant](http://www.contextrelevant.com/)**<sup>*</sup> |
 | [Ron Palmeri](https://twitter.com/RonP), [Tomaž Štolfa](https://twitter.com/tomazstolfa) | **[Layer](https://layer.com/)** | 
 | [Naval Ravikant](https://twitter.com/naval), [Babak Nivi](https://www.linkedin.com/in/bnivi) | **[AngelList](https://angel.co/)**| 
 | [Anil Dash](http://dashes.com/anil/), [Gina Trapani](https://twitter.com/ginatrapani) | **[ThinkUp](https://www.thinkup.com/)** | 
