@@ -110,5 +110,6 @@ Founders are our customers. In order of our announced participation:
 | [Krishna Gade](https://www.linkedin.com/in/krishnagade/), [Amit Paka](https://www.linkedin.com/in/amitpaka/)| **[Fiddler Labs](https://www.fiddler.ai/)**|
 | [Dan Pupius](https://www.linkedin.com/in/danpupius/), [Jennifer Dennard](https://www.linkedin.com/in/jennifer-dennard-822b0616/), [Braden Kowitz](https://www.linkedin.com/in/kowitz/)| **[Range](https://www.range.co/)**|
 | [Rahim Fazal](https://www.linkedin.com/in/rahimfazal), [Joel Scott](https://www.linkedin.com/in/joeldscott/)| **[SV Academy](https://www.sv.academy/)**|
+| [Matteo Melani](https://www.linkedin.com/in/matteomelani/), [Andrew Catton](https://www.linkedin.com/in/andrewcatton/), [Luke Andrews](https://www.linkedin.com/in/attaboy/)| **[Ellipsis](https://www.ellipsis.ai/)**|  
 
 <sup>*</sup> Acquired :thumbsup:
