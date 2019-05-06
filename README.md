@@ -26,9 +26,9 @@ Harley Sugarman — [Twitter](https://twitter.com/harleysugarman) // [LinkedIn](
 
 Minn Kim — [Twitter](https://twitter.com/minney_cat) // [LinkedIn](https://www.linkedin.com/in/minnkim/)
 
-Taylor Wentz Brown - [LinkedIn](https://www.linkedin.com/in/taylorawentz/)
+Angela Martin — [LinkedIn](https://www.linkedin.com/in/martinangela/)
 
-Maria Sharp - [LinkedIn](https://www.linkedin.com/in/maria-sharp-991966160)
+Maria Sharp — [LinkedIn](https://www.linkedin.com/in/maria-sharp-991966160)
 
 Shivon Zilis — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/pub/shivon-zilis/7/b35/281)
 
