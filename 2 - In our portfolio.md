@@ -112,6 +112,19 @@ Founders are our customers. In order of our announced participation:
 | [Rahim Fazal](https://www.linkedin.com/in/rahimfazal), [Joel Scott](https://www.linkedin.com/in/joeldscott/)| **[SV Academy](https://www.sv.academy/)**|
 | [Matteo Melani](https://www.linkedin.com/in/matteomelani/), [Andrew Catton](https://www.linkedin.com/in/andrewcatton/), [Luke Andrews](https://www.linkedin.com/in/attaboy/)| **[Ellipsis](https://www.ellipsis.ai/)**| 
 | [Zack Kanter](https://www.linkedin.com/in/zkanter/)| **[Stedi](https://www.stedi.com/)**| 
+| [Brian Stone](http://linkedin.com/in/brianstone), [Karthik Vaidyanathan](https://www.linkedin.com/in/karthik-vaidyanathan/), [Ashwin Goyal](https://www.linkedin.com/in/goyalashwin/)| **[Banksight](https://banksight.com/)**|
+| [Leo Meyerovich](https://www.linkedin.com/in/leo-meyerovich-09649219/)| **[Graphistry](https://www.graphistry.com/)**|
+| [Rufus Griscom](https://www.linkedin.com/in/rufus-griscom-16b1/), [Michael J. Kovnat](https://www.linkedin.com/in/michael-j-kovnat-4052a25/), [Panio Gianopoulos](https://www.linkedin.com/in/panio-gianopoulos-639bba4/), [Christopher Chaput](https://www.linkedin.com/in/christopher-chaput-a8529211/)| **[Heleo](https://heleo.com/)**|
+| [Nadja Oertelt](https://www.linkedin.com/in/nadjaoertelt/), [Allan Lasser](https://www.linkedin.com/in/allan-lasser-bbaa9493/)| **[Massive Science](https://massivesci.com/)**|  
+| [Arthur Lozinski](https://www.linkedin.com/in/arthurlozinski/), [Trent Seed](https://www.linkedin.com/in/trentmseed/), [Ramin Ettehad](https://www.linkedin.com/in/ramin1/)| **[Oomnitza](https://www.oomnitza.com/)**|  
+| [Jeff Haynie](https://www.linkedin.com/in/jhaynie/), [Nolan Wright](https://www.linkedin.com/in/nolan-wright-32b84213a/)| **[Pinpoint](https://pinpoint.com/)**| 
+| [Sean Gourley](https://www.linkedin.com/in/sgourley/)| **[Primer](https://primer.ai/)**| 
+| [Fima Leshinsky](https://www.linkedin.com/in/fimaleshinsky/), [Michael Pollack](https://www.linkedin.com/in/mpollack/), [Giv Parvaneh](https://www.linkedin.com/in/givparvaneh/)| **[Intricately](https://www.intricately.com/)**|
+| [Teddy Cha](https://www.linkedin.com/in/teddycha/), [Hai Po Sun](https://www.linkedin.com/in/haipo/)| **[pulseData](https://pulsedata.io/)**| 
+| [Tade Oyerinde](https://www.linkedin.com/in/tadeoyerinde/)| **[Campuswire](https://campuswire.com/)**| 
+| [Alex Marlantes](https://www.linkedin.com/in/alexandermarlantes/), [Gabriel Garza Rodríguez](https://www.linkedin.com/in/garzagabriel/)| **[Everlance](https://www.everlance.com/)**| 
+| [Adrien Treuille](https://www.linkedin.com/in/adrien-treuille-52215718/), [Nodira Khoussainova](https://www.linkedin.com/in/nodira-khoussainova-74540267/), [Thiago Teixeira](https://www.linkedin.com/in/thiago-teixeira-1244a116/)| **[Streamlit](https://streamlit.io/)**|
+| [Krishna Yarlagadda](https://www.linkedin.com/in/krishna-yarlagadda-800114/), [Nava Davuluri](https://www.linkedin.com/in/navadavuluri/)| **[Everlance](https://www.huddl.ai/)**| 
 | [Mike Kadin](https://www.linkedin.com/in/michael-kadin-a341571b/), [Jeremy Lermitte](https://www.linkedin.com/in/jeremy-lermitte-9153b72a/)| **[RedCircle](https://www.getredcircle.com/)**| 
 
 <sup>*</sup> Acquired :thumbsup:
