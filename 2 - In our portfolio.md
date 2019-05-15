@@ -124,7 +124,7 @@ Founders are our customers. In order of our announced participation:
 | [Tade Oyerinde](https://www.linkedin.com/in/tadeoyerinde/)| **[Campuswire](https://campuswire.com/)**| 
 | [Alex Marlantes](https://www.linkedin.com/in/alexandermarlantes/), [Gabriel Garza Rodríguez](https://www.linkedin.com/in/garzagabriel/)| **[Everlance](https://www.everlance.com/)**| 
 | [Adrien Treuille](https://www.linkedin.com/in/adrien-treuille-52215718/), [Nodira Khoussainova](https://www.linkedin.com/in/nodira-khoussainova-74540267/), [Thiago Teixeira](https://www.linkedin.com/in/thiago-teixeira-1244a116/)| **[Streamlit](https://streamlit.io/)**|
-| [Krishna Yarlagadda](https://www.linkedin.com/in/krishna-yarlagadda-800114/), [Nava Davuluri](https://www.linkedin.com/in/navadavuluri/)| **[Everlance](https://www.huddl.ai/)**| 
-| [Mike Kadin](https://www.linkedin.com/in/michael-kadin-a341571b/), [Jeremy Lermitte](https://www.linkedin.com/in/jeremy-lermitte-9153b72a/)| **[RedCircle](https://www.getredcircle.com/)**| 
+| [Krishna Yarlagadda](https://www.linkedin.com/in/krishna-yarlagadda-800114/), [Nava Davuluri](https://www.linkedin.com/in/navadavuluri/)| **[Huddl](https://www.huddl.ai/)**| 
+| [Mike Kadin](https://www.linkedin.com/in/michael-kadin-a341571b/), [Jeremy Lermitte](https://www.linkedin.com/in/jeremy-lermitte-9153b72a/)| **[RedCircle](https://www.getredcircle.com/)**|   
 
 <sup>*</sup> Acquired :thumbsup:
