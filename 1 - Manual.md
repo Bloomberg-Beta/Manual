@@ -166,7 +166,7 @@ We have doubts about the effectiveness of theme-based investing. The best founde
 
 [Machine intelligence](http://www.shivonzilis.com/machineintelligence) crosses all the areas we care about, and we have treated it as our main interest area for several years now. We believe machine intelligence will transform every industry and every function -- and we focus on its effects on business. We believe [machine intelligence will be like electricity](http://www.wired.com/2014/10/future-of-artificial-intelligence/): cheap, convenient, and on-demand. We want to back the founders ushering this future into the now.
 
-Areas where we’ve invested include: content discovery, cybersecurity, data sets and services, developer tools, full-stack startups who use technology to compete in a new way, hardware, human-computer interaction, learning, media distribution, new organizational models, open source software, productivity tools, professional networks, technology platforms, workflow tools, workplace communication.
+Areas where we’ve invested include: content discovery, cybersecurity, data sets and services, developer tools, full-stack startups who use technology to compete in a new way, hardware, human-computer interaction, learning, media distribution, new organizational models, open source software, productivity tools, professional networks, real estate, technology platforms, workflow tools, workplace communication.
 
 We avoid investments in financial services companies that intend to compete with Bloomberg clients.
 
