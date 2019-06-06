@@ -415,12 +415,12 @@ It varies. In some cases most of our communication is by email and chat, others 
 We appreciate getting regular investment updates (e.g., a monthly email) from companies we back, since it creates a background of good understanding that helps us help you. In practice, about two-thirds of companies we back are in this habit.
 
 What makes a good written update for investors?
-* The one key operational metric you believe tells the story of where you are, and how that metric changed since last time you communicated it (and relative to your expectations)
-* What you’re most excited about that you just achieved
-* What we can expect you to achieve in the near future
+* A summary (sentence!) that helps us understand how you're doing at trying to accomplish the most important thing for your startup right now -- usually we think in terms of [the risks you're trying to address](https://also.roybahat.com/instead-of-a-business-plan-write-a-thesis-plan-6de9de59daaf)
+* Usually, that means the one operational metric you believe tells the story of where you are, and how that metric changed since last time you communicated it (and relative to your expectations)
+* What you’re most excited about now
 * How you’re doing financially (cash left, burn)
 * Team additions or changes
-* Where you want help from us
+* Where you want help from us!
 
 Here is a [sample anonymized update](https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit).
 
