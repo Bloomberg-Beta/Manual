@@ -108,6 +108,7 @@ Founders are our customers. In order of our announced participation:
 | [Sankarshan Murthy](https://www.linkedin.com/in/sankarshan-murthy-6862b0a/), [Prahlad Athreya](https://www.linkedin.com/in/pathreya/)| **[Bumblebee Spaces](https://www.bumblebeespaces.com/)**|
 | [Madhu Chamarty](https://www.linkedin.com/in/mchamarty/), [Ross Fubini](https://www.linkedin.com/in/fubini/)| **[BeyondHQ](https://www.beyondhq.co/)**|  
 | [Krishna Gade](https://www.linkedin.com/in/krishnagade/), [Amit Paka](https://www.linkedin.com/in/amitpaka/)| **[Fiddler Labs](https://www.fiddler.ai/)**|
+| [Saurabh Bajaj](https://www.linkedin.com/in/bajajs/)| **[Swiftlane](https://www.swiftlane.com/)**|
 | [Dan Pupius](https://www.linkedin.com/in/danpupius/), [Jennifer Dennard](https://www.linkedin.com/in/jennifer-dennard-822b0616/), [Braden Kowitz](https://www.linkedin.com/in/kowitz/)| **[Range](https://www.range.co/)**|
 | [Rahim Fazal](https://www.linkedin.com/in/rahimfazal), [Joel Scott](https://www.linkedin.com/in/joeldscott/)| **[SV Academy](https://www.sv.academy/)**|
 | [Matteo Melani](https://www.linkedin.com/in/matteomelani/), [Andrew Catton](https://www.linkedin.com/in/andrewcatton/), [Luke Andrews](https://www.linkedin.com/in/attaboy/)| **[Ellipsis](https://www.ellipsis.ai/)**| 
