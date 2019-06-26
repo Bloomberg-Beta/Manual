@@ -108,7 +108,6 @@ Founders are our customers. In order of our announced participation:
 | [Sankarshan Murthy](https://www.linkedin.com/in/sankarshan-murthy-6862b0a/), [Prahlad Athreya](https://www.linkedin.com/in/pathreya/)| **[Bumblebee Spaces](https://www.bumblebeespaces.com/)**|
 | [Madhu Chamarty](https://www.linkedin.com/in/mchamarty/), [Ross Fubini](https://www.linkedin.com/in/fubini/)| **[BeyondHQ](https://www.beyondhq.co/)**|  
 | [Krishna Gade](https://www.linkedin.com/in/krishnagade/), [Amit Paka](https://www.linkedin.com/in/amitpaka/)| **[Fiddler Labs](https://www.fiddler.ai/)**|
-| [Saurabh Bajaj](https://www.linkedin.com/in/bajajs/)| **[Swiftlane](https://www.swiftlane.com/)**|
 | [Dan Pupius](https://www.linkedin.com/in/danpupius/), [Jennifer Dennard](https://www.linkedin.com/in/jennifer-dennard-822b0616/), [Braden Kowitz](https://www.linkedin.com/in/kowitz/)| **[Range](https://www.range.co/)**|
 | [Rahim Fazal](https://www.linkedin.com/in/rahimfazal), [Joel Scott](https://www.linkedin.com/in/joeldscott/)| **[SV Academy](https://www.sv.academy/)**|
 | [Matteo Melani](https://www.linkedin.com/in/matteomelani/), [Andrew Catton](https://www.linkedin.com/in/andrewcatton/), [Luke Andrews](https://www.linkedin.com/in/attaboy/)| **[Ellipsis](https://www.ellipsis.ai/)**| 
@@ -127,5 +126,6 @@ Founders are our customers. In order of our announced participation:
 | [Adrien Treuille](https://www.linkedin.com/in/adrien-treuille-52215718/), [Nodira Khoussainova](https://www.linkedin.com/in/nodira-khoussainova-74540267/), [Thiago Teixeira](https://www.linkedin.com/in/thiago-teixeira-1244a116/)| **[Streamlit](https://streamlit.io/)**|
 | [Krishna Yarlagadda](https://www.linkedin.com/in/krishna-yarlagadda-800114/), [Nava Davuluri](https://www.linkedin.com/in/navadavuluri/)| **[Huddl](https://www.huddl.ai/)**| 
 | [Mike Kadin](https://www.linkedin.com/in/michael-kadin-a341571b/), [Jeremy Lermitte](https://www.linkedin.com/in/jeremy-lermitte-9153b72a/)| **[RedCircle](https://www.getredcircle.com/)**|   
+| [Saurabh Bajaj](https://www.linkedin.com/in/bajajs/)| **[Swiftlane](https://www.swiftlane.com/)**|
 
 <sup>*</sup> Acquired :thumbsup:
