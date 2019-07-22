@@ -107,7 +107,7 @@ We believe progress requires an accumulation of many small decisions over years 
 + We sponsored a scholarship at [Opportunity Hub](https://opportunityhub.co) to send a student from an underrepresented background to SXSW.
 + We will update the performance metrics we’ve published here (e.g., on the gender composition of our portfolio CEOs) at least annually.
 
-We believe we need to hold ourselves accountable. As one measure, if a founder ever has an issue with our fund or our team, the founder can make a report to a Bloomberg representative, Matthew Amster -- matthew.amster@bloombergbeta.com. We are accountable to our source of capital, and we follow [Bloomberg's policies](https://data.bloomberglp.com/company/sites/39/2018/04/2017-Appendix.pdf) -- which cover our interactions with customers (i.e., founders).
+We believe we need to hold ourselves accountable. As one measure, if a founder ever has an issue with our fund or our team, the founder can make a report to a Bloomberg representative, Drew Gulley -- drew.gulley@bloombergbeta.com. We are accountable to our source of capital, and we follow [Bloomberg's policies](https://data.bloomberglp.com/company/sites/39/2018/04/2017-Appendix.pdf) -- which cover our interactions with customers (i.e., founders).
 
 We believe a community of companies is stronger the more different viewpoints come to the table, and intend to actively participate in creating a more inclusive and diverse technology industry.
 
