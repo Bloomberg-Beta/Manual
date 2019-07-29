@@ -27,7 +27,7 @@ Founders are our customers. In order of our announced participation:
 | [K.V. Rao](https://www.linkedin.com/pub/k-v-rao/0/48/517) | **[Aviso](http://www.aviso.com/)** |
 | [Nadim Hossain](https://www.linkedin.com/in/nadimhossain), [Nisheeth Ranjan](https://www.linkedin.com/in/nranjan), [Ranjan Bagchi](https://www.linkedin.com/in/rbagchi) | **[BrightFunnel](http://www.brightfunnel.com/)**<sup>*</sup> |
 | [Alex Rampell](https://twitter.com/arampell), [Pasha Bitz](https://twitter.com/pashabitz), [Jonathan Wolf](https://www.linkedin.com/in/jwolf) | **[TXN](http://txn.com/)** |
-| [Eric Tilenius](https://www.linkedin.com/in/tilenius), [Pratik Verma](https://www.linkedin.com/in/pratikrverma) | **[BlueTalon Data Systems](http://bluetalon.com/)** |
+| [Eric Tilenius](https://www.linkedin.com/in/tilenius), [Pratik Verma](https://www.linkedin.com/in/pratikrverma) | **[BlueTalon Data Systems](http://bluetalon.com/)**<sup>*</sup> |
 | [Fred Seibert](https://twitter.com/fredseibert), [Yoel Flohr](https://uk.linkedin.com/in/flohr) | Thirty Labs |
 | [Eric Duffy](https://www.linkedin.com/pub/eric-duffy/29/326/101), [Jamie Davidson](https://www.linkedin.com/pub/jamie-davidson/32/451/85a) | **[Pathgather](http://www.pathgather.com/)**<sup>*</sup> |
 | [David Byrd](https://www.linkedin.com/in/davidmbyrd), [Steve Kaliski](https://www.linkedin.com/pub/steve-kaliski/10/a77/79) | Bowery |
@@ -127,5 +127,6 @@ Founders are our customers. In order of our announced participation:
 | [Krishna Yarlagadda](https://www.linkedin.com/in/krishna-yarlagadda-800114/), [Nava Davuluri](https://www.linkedin.com/in/navadavuluri/)| **[Huddl](https://www.huddl.ai/)**| 
 | [Mike Kadin](https://www.linkedin.com/in/michael-kadin-a341571b/), [Jeremy Lermitte](https://www.linkedin.com/in/jeremy-lermitte-9153b72a/)| **[RedCircle](https://www.getredcircle.com/)**|   
 | [Saurabh Bajaj](https://www.linkedin.com/in/bajajs/)| **[Swiftlane](https://www.swiftlane.com/)**|
+| [Gadi Shamia](https://www.linkedin.com/in/gadis/), [Ben Gleitzman](https://www.linkedin.com/in/gleitz/)| **[Replicant](http://www.replicant.ai/)**|
 
 <sup>*</sup> Acquired :thumbsup:
