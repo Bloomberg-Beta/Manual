@@ -128,5 +128,6 @@ Founders are our customers. In order of our announced participation:
 | [Mike Kadin](https://www.linkedin.com/in/michael-kadin-a341571b/), [Jeremy Lermitte](https://www.linkedin.com/in/jeremy-lermitte-9153b72a/)| **[RedCircle](https://www.getredcircle.com/)**|   
 | [Saurabh Bajaj](https://www.linkedin.com/in/bajajs/)| **[Swiftlane](https://www.swiftlane.com/)**|
 | [Gadi Shamia](https://www.linkedin.com/in/gadis/), [Ben Gleitzman](https://www.linkedin.com/in/gleitz/)| **[Replicant](http://www.replicant.ai/)**|
+| [Vikram Chandra](https://www.linkedin.com/in/vikram-chandra/), [Borislav Iordanov](https://www.linkedin.com/in/borislav-iordanov-17a1152/)| **[Granthika](https://granthika.co/)**|
 
 <sup>*</sup> Acquired :thumbsup:
