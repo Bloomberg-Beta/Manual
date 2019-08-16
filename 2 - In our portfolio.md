@@ -129,5 +129,6 @@ Founders are our customers. In order of our announced participation:
 | [Saurabh Bajaj](https://www.linkedin.com/in/bajajs/)| **[Swiftlane](https://www.swiftlane.com/)**|
 | [Gadi Shamia](https://www.linkedin.com/in/gadis/), [Ben Gleitzman](https://www.linkedin.com/in/gleitz/)| **[Replicant](http://www.replicant.ai/)**|
 | [Vikram Chandra](https://www.linkedin.com/in/vikram-chandra/), [Borislav Iordanov](https://www.linkedin.com/in/borislav-iordanov-17a1152/)| **[Granthika](https://granthika.co/)**|
+| [Danielle Baskin](https://www.linkedin.com/in/danielle-baskin/), [Max Hawkins](https://www.linkedin.com/in/maxhawkins/)| **[Dialup](https://dialup.com/)**|
 
 <sup>*</sup> Acquired :thumbsup:
