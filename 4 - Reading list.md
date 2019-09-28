@@ -1,6 +1,6 @@
 # Bloomberg Beta reading List
 
-The resources on this page cover a range of subjects we find useful to think about in our day-to-day lives as VCs. Like the rest of our manual, this is a living document, so please feel free to submit any suggestions via pull request!
+The resources on this page cover a range of subjects we find useful to think about in our day-to-day lives as VCs. Like the rest of our manual, this is a living document, so please feel free to submit any suggestions via pull request! We included many pieces we've written in our core manual, so the below focuses on the work of others.
 
 ## Must-Reads
 
@@ -42,6 +42,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 ### On hiring and company culture
 
 * [What’s the Most Difficult CEO Skill? Managing Your own Psychology](https://a16z.com/2011/03/31/whats-the-most-difficult-ceo-skill-managing-your-own-psychology/) (Ben Horowitz — article)
+* [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) (Ben Horowitz — book, which includes the above article)
 * [Who Should a Startup Hire First?](https://shift.newco.co/who-should-a-startup-hire-first-c12b279814aa) (Roy Bahat — article)
 * [We Hire the Best, Just Like Everyone Else](https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/) (Jeff Atwood — article)
 * [Do Things That Don't Scale](http://paulgraham.com/ds.html) (Paul Graham — article)
@@ -50,6 +51,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [Difficult Conversations](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447) (Sheila Heen, Bruce Patton, Douglas Stone — book)
 * [How to Hire](http://blog.samaltman.com/how-to-hire) (Sam Altman — article)
 * [Fortune Broadsheet](http://fortune.com/newsletter/broadsheet/) (newsletter)
+* [Unfinished Business](https://www.amazon.com/Unfinished-Business-Women-Work-Family/dp/0812984978) (Anne-Marie Slaughter — book)
 
 ### On artificial intelligence
 * [We’re Waiting for the Peter Drucker of Machine Intelligence](https://machinelearnings.co/were-waiting-for-the-peter-drucker-of-machine-intelligence-9b674191b420) (James Cham — article)
@@ -57,18 +59,32 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [The Evolution of Machine Learning](https://techcrunch.com/2017/08/08/the-evolution-of-machine-learning/) (Catherine Dong — article)
 * [InsideAI](https://inside.com/ai?ref=newsletter) (Rob May — newsletter)
 * [ImportAI](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) (Jack Clark — newsletter)
+* [The Man Who Lied to His Laptop](https://www.amazon.com/Man-Who-Lied-His-Laptop/dp/1617230049) (Clifford Nass with Corina Yen — book)
+* [Robot & Frank](https://www.imdb.com/title/tt1990314/) (Jake Schreier — film)
 
-### On startups and technology
+### On keeping up with the technology industry
 
 * [Fully Charged](https://www.bloomberg.com/technology) (Bloomberg — newsletter)
 * [Stratechery](https://stratechery.com/) (Ben Thompson — blog)
-* [The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780) (Clayton Christensen — book)
 * [The Information](https://www.theinformation.com/newsletter) (newsletter)
-* [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) (Ben Horowitz — book)
 
 ### On the history of technology; technology and the public interest
 * [Troublemakers: Silicon Valley’s Coming of Age](https://www.amazon.com/Troublemakers-Silicon-Valleys-Coming-Age/dp/1451651511/) (Leslie Berlin — book)
 * [Hackers](https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396) (Steven Levy — book)
 * [Founders at Work: Stories of Startups' Early Days](https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788) (Jessica Livingston — book)
-* [Shift Commission on Work, Workers, and Technology — Report of Findings](https://docsend.com/view/4wizcjb) (article)
+* [The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780) (Clayton Christensen — book)
 
+### On the future of work
+* [Shift Commission on Work, Workers, and Technology — Report of Findings](https://docsend.com/view/4wizcjb) (article on this project Bloomberg led with New America, includes a bibliography)
+* [The Age of Dignity](https://www.amazon.com/Age-Dignity-Preparing-Changing-America/dp/1620972018) (Ai-jen Poo — book)
+* [Deschooling Society](https://www.amazon.com/Deschooling-Society-Open-Forum-S/dp/0714508799) (Ivan Illich — book)
+* [The Second Machine Age](https://www.amazon.com/Second-Machine-Age-Prosperity-Technologies/dp/0393350649) (Erik Brynjolfsson and Andrew McAfee — book)
+* [Bullshit Jobs](https://www.amazon.com/Bullshit-Jobs-Theory-David-Graeber/dp/150114331X) (David Graeber — book)
+* [Nice work if you can get out](https://www.economist.com/finance-and-economics/2014/04/22/nice-work-if-you-can-get-out) (Economist — article)
+* [Racing to Justice](https://www.amazon.com/Racing-Justice-Transforming-Conceptions-Inclusive/dp/0253017718) (john powell (capitalization intentional) — book)
+* [The Fading American Dream](https://www.nber.org/papers/w22910) (Raj Chetty et. al. — article)
+* [Concrete Economics](https://www.amazon.com/Concrete-Economics-Hamilton-Approach-Economic/dp/1422189813) (Stephen Cohen and Bradford DeLong — book)
+* [Raising the Floor](https://www.amazon.com/Raising-Floor-Universal-Economy-American/dp/1610396251) (Andy Stern — book)
+
+### On Bloomberg Beta's partners
+* [Books that matter to me](https://www.amazon.com/ideas/amzn1.account.AEQE3R3FDPUUFV572PJTM3TJBJMQ/2VV8GXDPAWZBH?type=explore&ref=idea_cp_vl_ov_d) (Roy Bahat — list)
