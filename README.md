@@ -28,7 +28,7 @@ Minn Kim — [Twitter](https://twitter.com/minney_cat) // [LinkedIn](https://www
 
 Angela Martin — [LinkedIn](https://www.linkedin.com/in/martinangela/)
 
-Lisa Wedhen — [LinkedIn](https://www.linkedin.com › lisa-wehden-aa111385)
+Lisa Wedhen — [LinkedIn](https://www.linkedin.com/in/lisa-wehden-aa111385)
 
 Shivon Zilis — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/pub/shivon-zilis/7/b35/281)
 
