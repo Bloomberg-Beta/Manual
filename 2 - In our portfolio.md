@@ -131,5 +131,6 @@ Founders are our customers. In order of our announced participation:
 | [Vikram Chandra](https://www.linkedin.com/in/vikram-chandra/), [Borislav Iordanov](https://www.linkedin.com/in/borislav-iordanov-17a1152/)| **[Granthika](https://granthika.co/)**|
 | [Danielle Baskin](https://www.linkedin.com/in/danielle-baskin/), [Max Hawkins](https://www.linkedin.com/in/maxhawkins/)| **[Dialup](https://dialup.com/)**|
 | [Katherine Lehr](https://www.linkedin.com/in/katherine-lehr-56338197/), [Tom McGeveran](https://www.linkedin.com/in/tom-mcgeveran-a579092a/), [Josh Benson](https://www.linkedin.com/in/josh-benson-8a633221/)  | **[Old Town Media](http://www.oldtownmedianyc.com/)** |
+| [Max Simkoff](https://www.linkedin.com/in/maxsimkoff/)| **[States Title](https://statestitle.com/)**|
 
 <sup>*</sup> Acquired :thumbsup:
