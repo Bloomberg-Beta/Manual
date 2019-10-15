@@ -132,5 +132,6 @@ Founders are our customers. In order of our announced participation:
 | [Danielle Baskin](https://www.linkedin.com/in/danielle-baskin/), [Max Hawkins](https://www.linkedin.com/in/maxhawkins/)| **[Dialup](https://dialup.com/)**|
 | [Katherine Lehr](https://www.linkedin.com/in/katherine-lehr-56338197/), [Tom McGeveran](https://www.linkedin.com/in/tom-mcgeveran-a579092a/), [Josh Benson](https://www.linkedin.com/in/josh-benson-8a633221/)  | **[Old Town Media](http://www.oldtownmedianyc.com/)** |
 | [Max Simkoff](https://www.linkedin.com/in/maxsimkoff/)| **[States Title](https://statestitle.com/)**|
+| [Ian Smith](https://www.linkedin.com/in/ismithdrone/), [Joseph Moster](https://www.linkedin.com/in/joseph-moster/)| **[Ware](https://www.getware.com)**|
 
 <sup>*</sup> Acquired :thumbsup:
