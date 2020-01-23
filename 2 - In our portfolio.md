@@ -135,5 +135,6 @@ Founders are our customers. In order of our announced participation:
 | [Ian Smith](https://www.linkedin.com/in/ismithdrone/), [Joseph Moster](https://www.linkedin.com/in/joseph-moster/)| **[Ware](https://www.getware.com)**|
 | [Tiffany Dufu](https://www.linkedin.com/in/tiffanydufu/)| **[The Cru](https://www.thecru.com/)**|  
 | [Sherveen Mashayekhi](https://www.linkedin.com/in/sherveenm/), [Alex Rothberg](https://www.linkedin.com/in/alex-g-rothberg/)| **[Free Agency](https://www.freeagency.com/)**|
+| [Tom Coates](https://www.linkedin.com/in/tecoates/), [Rabble](https://www.linkedin.com/in/rabble/), [Christoph Moskalonek](https://www.linkedin.com/in/hermiteer/)| **[Planetary](https://planetary.social/)**|
 
 <sup>*</sup> Acquired :thumbsup:
