@@ -86,7 +86,7 @@ We also do background checks on founders where we search public records. Almost 
 
 ### Inclusion and diversity
 
-We are committed to making the startup world welcoming to people of all backgrounds -- from our own team, to the founding teams we serve and the companies they build. Startups start with seeing the world anew, and people with different backgrounds see the world differently – so if we want to remake things, we need to enlist people with as wide a range of backgrounds as possible.
+We are committed to [making the startup world welcoming](https://www.inclusionintech.com/) to people of all backgrounds -- from our own team, to the founding teams we serve and the companies they build. Startups start with seeing the world anew, and people with different backgrounds see the world differently – so if we want to remake things, we need to enlist people with as wide a range of backgrounds as possible.
 
 We focus our proactive sourcing outreach on seeking out founders from underrepresented communities. We define diversity broadly, including inherent and acquired forms of diversity like gender, race, ethnicity, sexual orientation, age, socioeconomic class, geography, nationality, education, and others.
 
