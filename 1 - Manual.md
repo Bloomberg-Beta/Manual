@@ -364,13 +364,11 @@ We only want founders to hire us as their investor after careful consideration o
 
 ### Following on
 
-Because we have two relatively big funds (each of $75M) for writing modest initial checks, we do plan to devote an unusually large proportion of our funds' resources to following on. We will deploy our capital over the usual length of time for a fund: five years or so for all our initial investments, and then follow-on capital after that. We do not have a specific timetable for expected returns, one of the benefits of having a single LP with a long-term focus.
+Because we have relatively big funds (compared to the size of our initial checks), we do devote an unusually large proportion of our funds' resources to following on. We will deploy our capital over the usual length of time for a fund: three years or so for all our initial investments, and then follow-on capital after that. One of the benefits of having a single LP with a long term focus is that we avoid setting a specific timetable for expected returns.
 
-We won’t follow on in every investment, but if we are excited about putting in more money we might want to follow on for 5x our initial investment -- or more. That said, there will also be situations where a company evolves in a way where -- even though it is still a great company -- it would benefit more from another investor’s capital than from ours, so we might not always follow on in great companies.
+We won’t follow on in every investment, but if we are excited about putting in more money, we might want to follow on for 5x our initial investment -- or more. That said, there will also be situations where a company evolves in a way where -- even though it is still a great company -- it would benefit more from another investor’s capital than from ours, so we might not always follow on in great companies.
 
-We're happy to invest outside of what is typically considered "a round" -- there are some companies where we've invested multiple times in between more formal rounds.
-
-If asked, we’re happy to be explicit about the conditions under which we’d ask to put more capital into a company. Generally, when a team's initial bets prove to be right...
+Unlike our initial investments (where we have an "anyone can say yes" [policy](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#how-we-decide)), our follow-investments are consensus-driven decisions. Therefore, we have a much more structured [process](http://tiny.cc/betafollowons), where we typically ask founders to present their latest plans to the entire team.
 
 ### “Standard terms”
 
