@@ -201,7 +201,9 @@ We also ignore, in most cases, long-term financial projections -- except to the 
 
 That said, we do care about the short-term financial plan, especially on the choices founders directly control. How many people do you intend to hire, where will you spend the money? This helps us figure out how much time you will have before you need more capital, and how far we believe you can get in that amount of time. We prefer to see early-stage companies spending their capital on building product.
 
-Put another way, a five-year financial plan is mostly useless for early stage companies -- a monthly plan for the next twelve months and a quarterly plan for the next two years could be very useful.
+Put another way, a five-year financial plan is mostly useless for early stage companies -- a monthly plan for the next twelve months and a quarterly plan for the next two years could be very useful. 
+
+We would love to see all of it, whether perfect or otherwise so give us anything you've already made -- financial model, deck, background materials. It helps us make sure our conversation is more dialogue than exposition.
 
 ### In-person meetings
 
