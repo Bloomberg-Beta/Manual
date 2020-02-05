@@ -136,5 +136,6 @@ Founders are our customers. In order of our announced participation:
 | [Tiffany Dufu](https://www.linkedin.com/in/tiffanydufu/)| **[The Cru](https://www.thecru.com/)**|  
 | [Sherveen Mashayekhi](https://www.linkedin.com/in/sherveenm/), [Alex Rothberg](https://www.linkedin.com/in/alex-g-rothberg/)| **[Free Agency](https://www.freeagency.com/)**|
 | [Tom Coates](https://www.linkedin.com/in/tecoates/), [Rabble](https://www.linkedin.com/in/rabble/), [Christoph Moskalonek](https://www.linkedin.com/in/hermiteer/)| **[Planetary](https://planetary.social/)**|
+| [Turi Munthe](https://www.linkedin.com/in/turimunthe/), [J. Paul Neeley](https://www.linkedin.com/in/jpaulneeley/)| **[Parlia](https://parlia.com/)**|
 
 <sup>*</sup> Acquired :thumbsup:
