@@ -171,4 +171,5 @@ Founders are our customers. Ordered by fund:
 | [Ian Smith](https://www.linkedin.com/in/ismithdrone/), [Joseph Moster](https://www.linkedin.com/in/joseph-moster/) | **[Ware](https://www.getware.com)** |
 
 <sup>\*</sup> Acquired :thumbsup:
+
 <sup>\*\*</sup> No longer in the portfolio
