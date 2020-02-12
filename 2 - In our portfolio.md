@@ -1,6 +1,6 @@
 # Bloomberg Beta founders and their startups
 
-Founders are our customers. Ordered by fund:
+Founders are our customers. Here are our (publicly announced) investments, ordered by fund:
 
 ## Fund 1
 
