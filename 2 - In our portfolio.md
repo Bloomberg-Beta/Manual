@@ -116,9 +116,10 @@ Founders are our customers. Ordered by fund:
 
 ## Fund 3
 
-| Founders | Company |
-| :------- | :------ |
-
+| Founders                                                                                                           | Company                             |
+| :----------------------------------------------------------------------------------------------------------------- | :---------------------------------- |
+| [Turi Munthe](https://www.linkedin.com/in/turimunthe/), [J. Paul Neeley](https://www.linkedin.com/in/jpaulneeley/) | **[Parlia](https://parlia.com/)**   |
+| [Ian Smith](https://www.linkedin.com/in/ismithdrone/), [Joseph Moster](https://www.linkedin.com/in/joseph-moster/) | **[Ware](https://www.getware.com)** |
 
 ## TBC
 
@@ -173,7 +174,5 @@ Founders are our customers. Ordered by fund:
 | [Sankarshan Murthy](https://www.linkedin.com/in/sankarshan-murthy-6862b0a/), [Prahlad Athreya](https://www.linkedin.com/in/pathreya/)                                                                                                                                  | **[Bumblebee Spaces](https://www.bumblebeespaces.com/)**                |
 | [Brian Stone](http://linkedin.com/in/brianstone), [Karthik Vaidyanathan](https://www.linkedin.com/in/karthik-vaidyanathan/), [Ashwin Goyal](https://www.linkedin.com/in/goyalashwin/)                                                                                  | **[Banksight](https://banksight.com/)**                                 |
 | [Katherine Lehr](https://www.linkedin.com/in/katherine-lehr-56338197/), [Tom McGeveran](https://www.linkedin.com/in/tom-mcgeveran-a579092a/), [Josh Benson](https://www.linkedin.com/in/josh-benson-8a633221/)                                                         | **[Old Town Media](http://www.oldtownmedianyc.com/)**                   |
-| [Ian Smith](https://www.linkedin.com/in/ismithdrone/), [Joseph Moster](https://www.linkedin.com/in/joseph-moster/)                                                                                                                                                     | **[Ware](https://www.getware.com)**                                     |
-| [Turi Munthe](https://www.linkedin.com/in/turimunthe/), [J. Paul Neeley](https://www.linkedin.com/in/jpaulneeley/)                                                                                                                                                     | **[Parlia](https://parlia.com/)**                                       |
 
 <sup>\*</sup> Acquired :thumbsup:
