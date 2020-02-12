@@ -44,7 +44,7 @@ Founders are our customers. Ordered by fund:
 | [Jason Bade](https://www.linkedin.com/in/jasonbade), [Nick Chen](https://www.linkedin.com/in/nicholasychen)                                                                                                                                                                                               | **[Pico](https://hellopico.io/)**                                      |
 | [Eddie Lim](https://www.linkedin.com/in/eddiedotlim), [Eoin Matthews](https://www.linkedin.com/pub/eoin-matthews/0/517/287)                                                                                                                                                                               | **[Point](https://point.com/)**                                        |
 | [Sean Gourley](https://www.linkedin.com/in/sgourley/)                                                                                                                                                                                                                                                     | **[Primer](https://primer.ai/)**                                       |
-| [Teddy Cha](https://www.linkedin.com/in/teddycha/), [Hai Po Sun](https://www.linkedin.com/in/haipo/)                                                                                                                                                                                                      | **[pulseData](https://pulsedata.io/)**                                 |
+| [Teddy Cha](https://www.linkedin.com/in/teddycha/), [Hai Po Sun](https://www.linkedin.com/in/haipo/)                                                                                                                                                                                                      | **[pulseData](https://pulsedata.io/)** <sup>\*\*</sup>                 |
 | [Jason Hirschhorn](https://twitter.com/JasonHirschhorn)                                                                                                                                                                                                                                                   | **[ReDEF](http://www.mediaredefined.com/)**                            |
 | [Amjad Masad](https://www.linkedin.com/in/amjadmasad), [Haya Odeh](https://www.linkedin.com/in/haya-odeh-b0725928/)                                                                                                                                                                                       | **[Repl.it](https://repl.it/)**                                        |
 | [Steve Newman](https://www.linkedin.com/pub/steve-newman/31/a35/1a2)                                                                                                                                                                                                                                      | **[Scalyr](https://www.scalyr.com/)**                                  |
@@ -67,6 +67,7 @@ Founders are our customers. Ordered by fund:
 
 | Founders | Company |
 | :------- | :------ |
+| [Madhu Chamarty](https://www.linkedin.com/in/mchamarty/), [Ross Fubini](https://www.linkedin.com/in/fubini/)| **[BeyondHQ](https://www.beyondhq.co/)**|
 
 
 ## Fund 3
@@ -89,7 +90,6 @@ Founders are our customers. Ordered by fund:
 | [Naval Ravikant](https://twitter.com/naval), [Babak Nivi](https://www.linkedin.com/in/bnivi)                             | **[AngelList](https://angel.co/)**                                   |
 | [Fouad ElNaggar](https://twitter.com/ThufirHawat), [Peter Yared](https://twitter.com/peteryared)                         | **[Sapho](https://www.sapho.com/)**<sup>\*</sup>                     |
 | [Anne Wootton](https://twitter.com/annewootton), [Bailey Smith](https://www.linkedin.com/in/baileyrsmith)                | Pop Up Archive<sup>\*</sup>                                          |
-
 | [K.V. Rao](https://www.linkedin.com/pub/k-v-rao/0/48/517) | **[Aviso](http://www.aviso.com/)** |
 | [Nadim Hossain](https://www.linkedin.com/in/nadimhossain), [Nisheeth Ranjan](https://www.linkedin.com/in/nranjan), [Ranjan Bagchi](https://www.linkedin.com/in/rbagchi) | **[BrightFunnel](http://www.brightfunnel.com/)**<sup>_</sup> |
 | [Alex Rampell](https://twitter.com/arampell), [Pasha Bitz](https://twitter.com/pashabitz), [Jonathan Wolf](https://www.linkedin.com/in/jwolf) | **[TXN](http://txn.com/)** |
@@ -139,7 +139,6 @@ Founders are our customers. Ordered by fund:
 | [Jordana Stein](https://www.linkedin.com/in/jordanastein)| **[enrich](https://www.joinenrich.com/)**|
 | [Joe Freed](https://www.linkedin.com/in/joefreed), [Andy Horng](https://www.linkedin.com/in/andyhorng/), [Samir Meghani](https://www.linkedin.com/in/samirmeghani/)| **[Cultivate](https://www.cultivateai.com/)**|
 | [Sankarshan Murthy](https://www.linkedin.com/in/sankarshan-murthy-6862b0a/), [Prahlad Athreya](https://www.linkedin.com/in/pathreya/)| **[Bumblebee Spaces](https://www.bumblebeespaces.com/)**|
-| [Madhu Chamarty](https://www.linkedin.com/in/mchamarty/), [Ross Fubini](https://www.linkedin.com/in/fubini/)| **[BeyondHQ](https://www.beyondhq.co/)**|
 | [Krishna Gade](https://www.linkedin.com/in/krishnagade/), [Amit Paka](https://www.linkedin.com/in/amitpaka/)| **[Fiddler Labs](https://www.fiddler.ai/)**|
 | [Dan Pupius](https://www.linkedin.com/in/danpupius/), [Jennifer Dennard](https://www.linkedin.com/in/jennifer-dennard-822b0616/), [Braden Kowitz](https://www.linkedin.com/in/kowitz/)| **[Range](https://www.range.co/)**|
 | [Rahim Fazal](https://www.linkedin.com/in/rahimfazal), [Joel Scott](https://www.linkedin.com/in/joeldscott/)| **[SV Academy](https://www.sv.academy/)**|
