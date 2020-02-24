@@ -112,7 +112,7 @@ Founders are our customers. In order of our announced participation:
 | [Rahim Fazal](https://www.linkedin.com/in/rahimfazal), [Joel Scott](https://www.linkedin.com/in/joeldscott/)| **[SV Academy](https://www.sv.academy/)**|
 | [Matteo Melani](https://www.linkedin.com/in/matteomelani/), [Andrew Catton](https://www.linkedin.com/in/andrewcatton/), [Luke Andrews](https://www.linkedin.com/in/attaboy/)| **[Ellipsis](https://www.ellipsis.ai/)**| 
 | [Zack Kanter](https://www.linkedin.com/in/zkanter/)| **[Stedi](https://www.stedi.com/)**| 
-| [Brian Stone](http://linkedin.com/in/brianstone), [Karthik Vaidyanathan](https://www.linkedin.com/in/karthik-vaidyanathan/), [Ashwin Goyal](https://www.linkedin.com/in/goyalashwin/)| **[Banksight](https://banksight.com/)**|
+| [Brian Stone](http://linkedin.com/in/brianstone), [Karthik Vaidyanathan](https://www.linkedin.com/in/karthik-vaidyanathan/), [Ashwin Goyal](https://www.linkedin.com/in/goyalashwin/)| **[BankSight](https://banksight.com/)**<sup>*<sup> |
 | [Leo Meyerovich](https://www.linkedin.com/in/leo-meyerovich-09649219/)| **[Graphistry](https://www.graphistry.com/)**|
 | [Rufus Griscom](https://www.linkedin.com/in/rufus-griscom-16b1/), [Michael J. Kovnat](https://www.linkedin.com/in/michael-j-kovnat-4052a25/), [Panio Gianopoulos](https://www.linkedin.com/in/panio-gianopoulos-639bba4/), [Christopher Chaput](https://www.linkedin.com/in/christopher-chaput-a8529211/)| **[Heleo](https://heleo.com/)**|
 | [Nadja Oertelt](https://www.linkedin.com/in/nadjaoertelt/), [Allan Lasser](https://www.linkedin.com/in/allan-lasser-bbaa9493/)| **[Massive Science](https://massivesci.com/)**|  
