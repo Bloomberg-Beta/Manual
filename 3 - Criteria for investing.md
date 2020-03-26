@@ -62,7 +62,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Trustworthy (e.g., will tell us when things are even a little broken)
 + Can raise more money or get business to profitability
 + Capable of building a diverse team and an inclusive culture
-+ Background check conducted, [any issues discussed](https://www.highly.co/hl/1KNLOr4UCpBuGR)
++ Background check conducted, any issues discussed
 + In Bay Area or New York (and, if not, strong reason to believe we are the best possible investor)
 
 ##### Product and market
