@@ -2,9 +2,7 @@
 
 Founders are our customers. Here are our (publicly announced) investments, ordered by fund. While we know that many readers of this page want to know our best-performing companies, it's important to us to be transparent about all our investments -- they're all our customers. Our most important metric is founder NPS; every founder gets the same vote in deciding our reputation. If you're interested to know which companies the broader community finds most interesting, see our [Wikipedia page](https://en.wikipedia.org/wiki/Bloomberg_Beta).
 
-**A note on fund names:**
-
-Each of our $75M funds is named for the year we start investing from it and -- historically -- takes about 3 years to invest. We are still actively investing (although some of our companies prefer to wait to announce their fundraise).
+**A note on fund names**: Each of our $75M funds is named for the year we start investing from it and -- historically -- takes about 3 years to invest. We are still actively investing (although some of our companies prefer to wait to announce their fundraise).
 
 |                                                                                                                                                                                                                                                                                                           |                                                                                         |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
