@@ -1,8 +1,8 @@
 # Bloomberg Beta founders and their startups
 
-**A quick note on our portfolio.** We are actively backing new companies (as of May 2020, the last few months have been some of our busiest yet!). That said, many of our companies prefer to wait to announce their fundraise, so the lists below are not exhaustive. 
+We are actively backing new companies. That said, many of our companies prefer to wait to announce their fundraise, so the lists below, particularly for recent investments, are missing many unannounced investments.. 
 
-Founders are our customers. Here are our (publicly announced) investments, ordered by fund. While we know that many readers of this page want to know our best-performing companies, it's important to us to be transparent about all our investments -- they're all our customers. Our most important metric is founder NPS; every founder gets the same vote in deciding our reputation. If you're interested to know which companies the broader community finds most interesting, see our [Wikipedia page](https://en.wikipedia.org/wiki/Bloomberg_Beta).
+Below are our (publicly announced) investments, ordered by fund. While we know that many readers of this page want to know our best-performing companies, it's important to us to be transparent about all our investments -- all founders we've backed are our customers. Our most important metric is founder NPS; every founder gets the same vote in deciding our reputation. If you're interested to know which companies the broader community finds most interesting, see our [Wikipedia page](https://en.wikipedia.org/wiki/Bloomberg_Beta).
 
 
 |                                                                                                                                                                                                                                                                                                           |                                                                                         |
