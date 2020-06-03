@@ -37,6 +37,13 @@ San Francisco — [140 New Montgomery St., 22nd fl](http://goo.gl/49X6hu)
 
 New York — [731 Lexington Ave.](http://goo.gl/tt3m7f)
 
+### Come work with us
+[Summer Fellow](https://docs.google.com/forms/d/e/1FAIpQLSf8mquNinBbleqpwms3BOeaOMT5b0Tkq6g6SxNxt_aribGtGA/viewform)
+
+[Analytics & Operations Associate](https://medium.com/@Karin/beta-operations-and-analytics-associate-c5b54c52560e)
+
+*We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.*
+
 ### Questions?
 
 Our founders requested an anonymous way to ask us questions, so we're providing it for you, too. [Right here](http://tiny.cc/AUA).  
