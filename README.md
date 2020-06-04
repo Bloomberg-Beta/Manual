@@ -37,12 +37,14 @@ San Francisco — [140 New Montgomery St., 22nd fl](http://goo.gl/49X6hu)
 
 New York — [731 Lexington Ave.](http://goo.gl/tt3m7f)
 
-### Come work with us
+### Work with us
 [Summer Fellow](https://docs.google.com/forms/d/e/1FAIpQLSf8mquNinBbleqpwms3BOeaOMT5b0Tkq6g6SxNxt_aribGtGA/viewform)
 
 [Analytics & Operations Associate](https://medium.com/@Karin/beta-operations-and-analytics-associate-c5b54c52560e)
 
-*We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.*
+We are an equal opportunity employer and celebrate diversity. We are committed to backing founders and building a team that represents a variety of backgrounds including race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, and disability status. The success of our work depends on being inclusive.
+
+*(Thanks [Textio](https://textio.com/blog/how-to-craft-a-sincere-equal-opportunity-employer-statement/28880187459) for the inspiration on how to craft an equal opportunity statement.)*
 
 ### Questions?
 
