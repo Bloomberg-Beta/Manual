@@ -239,14 +239,17 @@ We aspire to be at the extreme end of the “we communicate openly with you” s
 
 ### “Doing the work” and calling references
 
-If we decide we are going to invest, we often (but not always) go through a short cycle of working on our own view -- probing for holes in our own thinking, asking the advice of our one friend who has been thinking about this industry for 10 years, understanding other approaches that have been tried (or are current competitors), and spending as much time as we can using the product. Many of the same kinds of things we find that founders do in the early days of contemplating creating a new company.
+If we decide we are going to invest, we often (but not always) go through a cycle of working on our own view — probing for holes in our own thinking, asking the advice of our one friend who has been thinking about this industry for 10 years, understanding other approaches that have been tried (or are current competitors), spending as much time as we can using the product, looking at financial models, etc. Many of the same kinds of things we find that founders do in the early days of contemplating creating a new company.
 
 During this period, we try to be open with the founder about whether we will call around to ask about them. We put great faith in the value of these reference calls, and even sometimes [check references before meeting a founder](https://also.roybahat.com/hiring-someone-check-references-before-you-interview-ba05c5b46e37) for the first time. We owe a debt to the friends, colleagues, and partners who are willing to share open, unvarnished views. We try to skip nonsense questions (“what are their strengths and weaknesses”) and instead focus on things that will help us decide whether to back a founder:
 * How does this person compare to other founders you’ve known? Top 10%? 5%? 1%?
 * What makes you believe this person is extraordinary?
+* Do you trust this person?
 * If you were us, and decided to invest in the company, in what areas would you guess this person would need the most help?
 
-We call as many references as we can find.
+We recognize that [references can perpetuate exclusion](https://twitter.com/roybahat/status/1273248472326565888). For example, some people are new to the technology industry and we know few people in common with them. When we can't find references on people, we treat that as an absence of data (as opposed to bad data) — in the same way that a pre-product startup lacking revenue would be "non-"data as opposed to bad data. We recognize that references can also be biased, and we try to correct for that. We are explicitly not looking for people who are "buddy buddy" with everyone we know. Startups are about making something new work, and likeability can be a liability as often as an asset.
+
+For references, we focus on speaking with people who we already know well enough to "score" their view (some people are more critical of everyone). We reach out to as many of those trusted references as we can find (and we sometimes ask founders to tell us who among our mutual relationships knows them best).
 
 ### How we decide
 
