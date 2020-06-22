@@ -106,7 +106,7 @@ We believe progress requires an accumulation of many small and large decisions o
 + We will update the performance metrics we’ve published here (e.g., on the gender composition of our portfolio CEOs) at least annually.
 + We believe there are exceptional individuals who likely have the skills to build a company without the network or personal financial means to get started. We want to back those indiviudals. One way is through our [Beacon program](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#beacon).
 
-We believe we need to hold ourselves accountable. As one measure, if a founder ever has an issue with our fund or our team, that founder can make a report to a Bloomberg representative, Drew Gulley -- drew.gulley@bloombergbeta.com. We are accountable to our source of capital, and we follow [Bloomberg's policies](https://data.bloomberglp.com/company/sites/39/2018/04/2017-Appendix.pdf) -- which cover our interactions with customers (i.e., founders).
+We believe we need to hold ourselves accountable. As one measure, if a founder ever has an issue with our fund or our team, that founder can make a report to a Bloomberg representative, Leslie Paul -- leslie.paul@bloombergbeta.com. We are accountable to our source of capital, and we follow [Bloomberg's policies](https://data.bloomberglp.com/company/sites/39/2018/04/2017-Appendix.pdf) -- which cover our interactions with customers (i.e., founders).
 
 We believe a community of companies is stronger the more different viewpoints come to the table. As a fund and as indiviudals, we intend to work to create a more inclusive and diverse technology industry and do our part in fighting racism. For many of us on our team, this is core to how we see the world.
 
