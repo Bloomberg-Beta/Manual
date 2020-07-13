@@ -38,7 +38,6 @@ San Francisco — [140 New Montgomery St., 22nd fl](http://goo.gl/49X6hu)
 New York — [731 Lexington Ave.](http://goo.gl/tt3m7f)
 
 ### Work with us
-[Bloomberg Beta Fellow](https://docs.google.com/forms/d/e/1FAIpQLSf8mquNinBbleqpwms3BOeaOMT5b0Tkq6g6SxNxt_aribGtGA/viewform)
 
 [Analytics & Operations Associate](https://medium.com/@Karin/beta-operations-and-analytics-associate-c5b54c52560e)
 
