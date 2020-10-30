@@ -85,6 +85,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [The Fading American Dream](https://www.nber.org/papers/w22910) (Raj Chetty et. al. — article)
 * [Concrete Economics](https://www.amazon.com/Concrete-Economics-Hamilton-Approach-Economic/dp/1422189813) (Stephen Cohen and Bradford DeLong — book)
 * [Raising the Floor](https://www.amazon.com/Raising-Floor-Universal-Economy-American/dp/1610396251) (Andy Stern — book)
+* [Robot Collar Jobs](https://pca.st/bu8m5ng3#t=2m37s) (Roy Bahat — podcast)
 
 ### On Bloomberg Beta's partners
 * [Books that matter to me](https://www.amazon.com/ideas/amzn1.account.AEQE3R3FDPUUFV572PJTM3TJBJMQ/2VV8GXDPAWZBH?type=explore&ref=idea_cp_vl_ov_d) (Roy Bahat — list)

@@ -94,7 +94,7 @@ We are proud of the diversity of our team (e.g., our partnership only includes o
 
 That said, we are disappointed in our performance backing enough founders from underrepresented backgrounds. For example, only 10% of the CEOs we have backed are women and only 25% of founding teams we have backed in the last two years include a female founder. We would like to accurately track other forms of diversity, though we avoid asking our founders to submit any mandatory data to us, so this is difficult. (We struggled with whether to set a goal for future portfolio composition: on the one hand, we want the goal to be something we can control and achieve, and on the other hand, any goal less than 50% feels inadequate and the only goal that matters is the end of our pipeline, backed companies.)
 
-We believe progress requires an accumulation of many small and large decisions over years – [trust takes time](http://also.roybahat.com/post/91847335194/the-trust-thing). That said, we commit to act now. Specifically:
+We believe progress requires an accumulation of many small and large decisions over years – [trust takes time](https://also.roybahat.com/the-trust-thing-691791a4c6ca). That said, we commit to act now. Specifically:
 + Our most significant effort to reach new founders is our Future Founders community, where we use data to predict who will start a company. [Our group of Future Founders is much more diverse](https://www.nytimes.com/2015/07/02/upshot/the-next-mark-zuckerberg-is-not-who-you-might-think.html?_r=0) than the current population of venture-backed founders (the group is, for example, 28% female, though of course we want to get it to 50%).
 + As part of our formal criteria for picking investments we want to make, [we only invest in founders we believe are capable of creating a diverse company and an inclusive culture](https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md#founders-and-team-2). If a startup we back fails to create a diverse and inclusive culture, we would feel regret regardless of how well the company performed financially.
 + Since 2017 we've hosted open "office hours" online -- only for founders from underrepresented backgrounds. Any Friday from 1-2pm PT, you can DM [the head of our fund](http://twitter.com/roybahat) on Twitter and we’ll happily arrange to talk with you by phone or chat.
@@ -102,6 +102,7 @@ We believe progress requires an accumulation of many small and large decisions o
 + When we host our own events, we examine our invitation lists for diversity. (See, for example, our [yearlong commission on the effect of technology on the future of work](https://shiftcommission.work/findings-of-shift-the-commission-on-work-workers-and-technology-a071bc169df0).) We are hosting an annual "[Turpentine Talk](https://www.highly.co/hl/56e6f2323533356aeb5a0000)" (our roughly-monthly founder-to-founder tactical learning events for our portfolio) on the subject of building a diverse and inclusive team.
 + When invited to speak at an industry event, we ask whether there is someone from an underrepresented community speaking alongside us (e.g., on a panel).
 + We actively partner with diverse communities to reach founders from different backgrounds and include a range of perspectives. We welcome groups to reach out for a potential partnership. We were inaugural members of [theBoardlist](https://theboardlist.com/our-community), which helps companies find female board members. We participate in [#MovingForward](https://wearemovingforward.github.io), joining other VC’s to commit to foster a diverse, inclusive, and harassment-free workplace. We sponsored a scholarship at [Opportunity Hub](https://opportunityhub.co) to send a student from an underrepresented background to SXSW.
++ We participated in the NVCA and Venture Forward [#VCHumanCapitalPledge](https://nvca.org/nvca-and-venture-forward-vchumancapital-pledge/#:~:text=As%20part%20of%20this%20commitment,details%20by%20the%20Survey%20deadline.) submitting our team's demographics and talent management information.
 + We host our regular [Comeback Cities](https://venturebeat.com/2018/10/19/comeback-cities-tour-takes-politicians-venture-capitalists-to-tech-startups-in-the-south) tours where we take VCs with members of Congress to emerging startup cities around the country. We've recently visited Tulsa and done a tour of HBCUs in Atlanta, Charlotte, as well as Columbia and Orangeburg, South Carolina.
 + We will update the performance metrics we’ve published here (e.g., on the gender composition of our portfolio CEOs) at least annually.
 + We believe there are exceptional individuals who likely have the skills to build a company without the network or personal financial means to get started. We want to back those indiviudals. One way is through our [Beacon program](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#beacon).
@@ -135,11 +136,11 @@ We are more than happy to invest in companies that might take a very long time t
 
 ### Geography
 
-Greatness can start anywhere. We're a small team with a modest-sized fund, though, and believe we can really only help if we’re nearby. Startups depend on trust, and it's hard to build trust without spending time together in person. That means San Francisco and New York since our team is in both of those cities. We have deep roots in both places so our ability to bring in local folks who can help is greater there, and we only want to invest where we believe we can be disproportionately helpful. We would consider an investment elsewhere (for example if an area has a deep specialty, as some regions do with security startups), it's just harder for us.
+We primarily invest in the San Francisco Bay Area and New York. We will consider investments elsewhere in North America; it’s just harder for us. We have deep roots in the Bay Area and New York so our ability to discover founders and attract local experts who can help is greater there (e.g., for funding, hiring, etc.), and we only want to invest when we believe we can be disproportionately helpful.
 
-The same is true for startups that are headquartered in one of our hometowns and have an initial market elsewhere (e.g., a company in San Francisco focused on doing something in India). We believe companies should be as close to their customers as possible, and we want to deeply understand a startup's potential customers -- that's difficult when it's targeting customers in markets that are far from where we have expertise and relationships.
+We believe greatness can start anywhere. We recognize that the tradecraft of startup building is more widely available than ever, alongside the rise of remote and distributed work. Startups depend on trust, and while previously that meant spending time together in person, we’ve learned ways to build trust and deepen relationships virtually and will make investments remotely. To that end, we have invested outside of San Francisco and New York a handful of times (DC, Toronto, Los Angeles, Boston, Seattle, Austin, Atlanta, Columbus, etc.).
 
-We have invested outside of San Francisco and New York a handful of times (DC, Toronto, Seattle, Boston, Austin, etc.), though we need an exceptional reason (and often it's when we already know and trust the team). We've led a [couple](https://www.recode.net/2018/3/30/17177834/midwest-heartland-bus-tour-comeback-cities-rust-belt-safari-vc-venture-capital-founders-washington) of [tours](https://techcrunch.com/2018/11/11/placing-bets-beyond-the-venture-hubs-of-new-york-and-silicon-valley/) of newer startup markets (aka "Comeback Cities" tours), where we visit with VCs and members of Congress to learn what it takes to invest there -- and we're still exploring whether we can deliver on our standard for founder service in other markets.
+One of the ways we’ve widened our own networks is by leading several tours to newer startup markets (aka our "Comeback Cities" tours). We, along with members of Congress and our VC friends visited cities like Charlotte, North Carolina, and Bend, Oregon to learn what it takes to invest there. We continue to explore how we can deliver on our standard for founder service in other markets. 
 
 ### Sources
 
@@ -173,7 +174,7 @@ We do avoid, for example, e-commerce and entertainment because they tend to serv
 
 ### “The Deck”
 
-A demo is 50 times more useful than slides. One is a description of a thing, the other is the thing itself. We look at your demo [the way a new user would](http://also.roybahat.com/post/82904179747/why-most-demos-confuse).
+A demo is 50 times more useful than slides. One is a description of a thing, the other is the thing itself. We look at your demo [the way a new user would](https://also.roybahat.com/why-most-demos-confuse-79051934a77).
 
 We cringe at the idea of founders spending lots of time making fundraising presentations. When we see “v36” in the filename of a presentation, it bothers us. That said, we do value the work founders do writing down their plans for their company, because it gives us a sense of:
 * How the team thinks
@@ -225,7 +226,7 @@ We try to avoid some of the, shall we say, less useful questions others ask:
 * What will you do if [big scary company X] competes with you?
 * Have you patented any of this?
 * How does this become a $1B business?
-* [How’s it going?](http://also.roybahat.com/post/62158854505/a-dumb-question-to-ask-an-entrepreneur)
+* [How’s it going?](https://also.roybahat.com/a-dumb-question-to-ask-an-entrepreneur-db737b3c7d6a)
 
 Founders are sometimes surprised at how quickly our meetings move; we often will take you off your story to zero in on something we believe is a key driver. This is how we’d work with you after our investment, so you can think about whether you enjoy working with us.
 
@@ -310,7 +311,7 @@ We prefer enormous growth in modest markets to modest growth in enormous markets
 
 ### “Control”
 
-We are [not big fans of boards](http://also.roybahat.com/post/102969262108/boreds) in day-zero companies. While we like founders having a close circle of trusted colleagues to ask for advice and we aspire to be in that trusted circle, when we imagine early-stage founders working on slide decks instead of products, it makes us feel a little ill. We'd rather be in your Slack or getting your Github notifications than having you prepare for meetings.
+We are [not big fans of boards](https://also.roybahat.com/boreds-7c4c33bda84a) in day-zero companies. While we like founders having a close circle of trusted colleagues to ask for advice and we aspire to be in that trusted circle, when we imagine early-stage founders working on slide decks instead of products, it makes us feel a little ill. We'd rather be in your Slack or getting your Github notifications than having you prepare for meetings.
 
 We also feel that the cadence of board review (every couple of months, let’s say) is mismatched to the cadence of a day-zero company (which evolves every week or two). Later on, boards can be great. If people don’t talk just to hear themselves talk, which each of us has been guilty of now and then.
 
@@ -330,7 +331,7 @@ We go into much more detail in our public [explanation of our investment documen
 
 ### The numbers
 
-Our standard first check is $500,000, though more and more often we are investing up to $1M. We want to invest enough to give a startup the money it needs to make real progress in the early days, and to attract other investors alongside us if needed. We are happy to lead, and happy to participate in rounds led by others, depending on the situation -- in earliest-stage venture, sometimes the [idea of a lead means different things to different people](http://also.roybahat.com/post/119369807637/in-earliest-stage-venture-what-is-a-lead-anyway).
+Our standard first check is $500,000, though more and more often we are investing up to $1M. We want to invest enough to give a startup the money it needs to make real progress in the early days, and to attract other investors alongside us if needed. We are happy to lead, and happy to participate in rounds led by others, depending on the situation -- in earliest-stage venture, sometimes the [idea of a lead means different things to different people](https://also.roybahat.com/in-earliest-stage-venture-what-is-a-lead-anyway-e60c4e08bb7e).
 
 In the early days of our fund, we wrote smaller checks because (like the early days of companies) we believe in burning capital slowly until you find product-market fit. (In our first year, our biggest check was $250,000.)
 
