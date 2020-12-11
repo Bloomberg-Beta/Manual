@@ -15,7 +15,6 @@ The resources on this page cover a range of subjects we find useful to think abo
 ## Other Recommended Reading
 
 ### On VC and finance
-
 * [Something Ventured](http://www.somethingventuredthemovie.com/) (documentary)
 * [Pro Rata](https://www.axios.com/newsletters/axios-pro-rata) (Axios — newsletter)
 * [StrictlyVC](https://www.strictlyvc.com/) (newsletter)
@@ -28,7 +27,6 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [Andrew Chen](http://andrewchen.co/) (newsletter)
 
 ### On practical aspects of building a company
-
 * [Instead of a Business Plan, write a Thesis Plan](https://also.roybahat.com/instead-of-a-business-plan-write-a-thesis-plan-6de9de59daaf) (Roy Bahat — article)
 * [Default Alive or Default Dead](http://www.paulgraham.com/aord.html) (Paul Graham — article)
 * [Growth is Optional](https://brianbalfour.com/essays/growth-is-optional) (Brian Balfour — article)
@@ -40,7 +38,6 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [Zero To One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) (Peter Thiel — book)
 
 ### On hiring and company culture
-
 * [What’s the Most Difficult CEO Skill? Managing Your own Psychology](https://a16z.com/2011/03/31/whats-the-most-difficult-ceo-skill-managing-your-own-psychology/) (Ben Horowitz — article)
 * [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) (Ben Horowitz — book, which includes the above article)
 * [Who Should a Startup Hire First?](https://shift.newco.co/who-should-a-startup-hire-first-c12b279814aa) (Roy Bahat — article)
@@ -57,13 +54,13 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [We’re Waiting for the Peter Drucker of Machine Intelligence](https://machinelearnings.co/were-waiting-for-the-peter-drucker-of-machine-intelligence-9b674191b420) (James Cham — article)
 * [The Current State of Machine Intelligence](http://www.shivonzilis.com/machineintelligence) (Shivon Zilis — article)
 * [The Evolution of Machine Learning](https://techcrunch.com/2017/08/08/the-evolution-of-machine-learning/) (Catherine Dong — article)
+* [Algorithms of Oppression](https://www.amazon.com/Algorithms-Oppression-Search-Engines-Reinforce/dp/1479837245) (Safiya Umoja Noble — book)
 * [InsideAI](https://inside.com/ai?ref=newsletter) (Rob May — newsletter)
 * [ImportAI](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) (Jack Clark — newsletter)
 * [The Man Who Lied to His Laptop](https://www.amazon.com/Man-Who-Lied-His-Laptop/dp/1617230049) (Clifford Nass with Corina Yen — book)
 * [Robot & Frank](https://www.imdb.com/title/tt1990314/) (Jake Schreier — film)
 
 ### On keeping up with the technology industry
-
 * [Fully Charged](https://www.bloomberg.com/technology) (Bloomberg — newsletter)
 * [Stratechery](https://stratechery.com/) (Ben Thompson — blog)
 * [The Information](https://www.theinformation.com/newsletter) (newsletter)
@@ -71,12 +68,14 @@ The resources on this page cover a range of subjects we find useful to think abo
 ### On the history of technology; technology and the public interest
 * [Troublemakers: Silicon Valley’s Coming of Age](https://www.amazon.com/Troublemakers-Silicon-Valleys-Coming-Age/dp/1451651511/) (Leslie Berlin — book)
 * [Hackers](https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396) (Steven Levy — book)
+* [Technological Elites, the Meritocracy, and Post-Racial Myths in Silicon Valley](https://escholarship.org/uc/item/7z3629nh) (Safiya Umoja Noble and Sarah Roberts — article)
 * [Founders at Work: Stories of Startups' Early Days](https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788) (Jessica Livingston — book)
 * [The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780) (Clayton Christensen — book)
 
 ### On the future of work
 * [Shift Commission on Work, Workers, and Technology — Report of Findings](https://docsend.com/view/4wizcjb) (article on this project Bloomberg led with New America, includes a bibliography)
 * [The Age of Dignity](https://www.amazon.com/Age-Dignity-Preparing-Changing-America/dp/1620972018) (Ai-jen Poo — book)
+* [The future of work in Black America](https://www.mckinsey.com/featured-insights/future-of-work/the-future-of-work-in-black-america#) (Shelley Stewart et. al. — article)
 * [Deschooling Society](https://www.amazon.com/Deschooling-Society-Open-Forum-S/dp/0714508799) (Ivan Illich — book)
 * [The Second Machine Age](https://www.amazon.com/Second-Machine-Age-Prosperity-Technologies/dp/0393350649) (Erik Brynjolfsson and Andrew McAfee — book)
 * [Bullshit Jobs](https://www.amazon.com/Bullshit-Jobs-Theory-David-Graeber/dp/150114331X) (David Graeber — book)

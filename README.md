@@ -30,6 +30,8 @@ Angela Martin — [LinkedIn](https://www.linkedin.com/in/martinangela/)
 
 Lisa Wehden — [LinkedIn](https://www.linkedin.com/in/lisa-wehden-aa111385)
 
+Cody McCauley - [Twitter](https://twitter.com/cody_mccauley) // [LinkedIn](https://www.linkedin.com/in/codymccauley/) // [Blog](https://www.codymccauley.com/)
+
 Shivon Zilis — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/pub/shivon-zilis/7/b35/281)
 
 ### Where we work
@@ -39,7 +41,7 @@ New York — [731 Lexington Ave.](http://goo.gl/tt3m7f)
 
 ### Work with us
 
-[Analytics & Operations Associate](https://medium.com/@Karin/beta-operations-and-analytics-associate-c5b54c52560e)
+**2021 Fellowship**. We're actively seeking candidates for our Fellowship. If you (or someone you know) loves startups and wants to try venture, please apply [here](https://forms.gle/9x1UNPXgj3QY8xXT8).
 
 We are an equal opportunity employer and celebrate diversity. We are committed to backing founders and building a team that represents a variety of backgrounds including race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, and disability status. The success of [our work depends on being inclusive](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#inclusion-diversity-equity-and-justice).
 
