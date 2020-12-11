@@ -30,6 +30,8 @@ Angela Martin — [LinkedIn](https://www.linkedin.com/in/martinangela/)
 
 Lisa Wehden — [LinkedIn](https://www.linkedin.com/in/lisa-wehden-aa111385)
 
+Cody McCauley - [Twitter](https://twitter.com/cody_mccauley) // [LinkedIn](https://www.linkedin.com/in/codymccauley/) // [Blog](https://www.codymccauley.com/)
+
 Shivon Zilis — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/pub/shivon-zilis/7/b35/281)
 
 ### Where we work
