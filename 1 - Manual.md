@@ -16,7 +16,7 @@ Bloomberg Beta Operating Manual
 
 ## Our creed
 
-We believe work must be more productive, fulfilling, and inclusive. 
+We believe work must be more productive, fulfilling, inclusive, and available to as many people as possible. 
 
 Our waking hours must engage the best in us and provide for our needs and wants -- and the world we live in too often fails to offer that.
 
