@@ -8,7 +8,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 ##### Founder(s) and team
 + Ever do something singular? Record of unusual achievement
 + Best-in-the-world domain experience or punch-way-above-your-weight-class first hires
-+ Depth of commitment to the problem ("would do this for a decade, and keep going even if funding never appeared")
++ Depth of commitment to the problem ("would do this for a decade, and keep going even if funding never appeared"), especially in learning the domain
 + Would you work for the team?
 
 ##### Product and market
