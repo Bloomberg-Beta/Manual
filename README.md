@@ -22,17 +22,19 @@ Karin Klein — [Twitter](https://twitter.com/karinklein) // [LinkedIn](https://
 
 Roy Bahat — [Twitter](https://twitter.com/roybahat) // [LinkedIn](https://www.linkedin.com/in/roybahat) // [Blog](http://also.roybahat.com/)
 
-Harley Sugarman — [Twitter](https://twitter.com/harleysugarman) // [LinkedIn](https://www.linkedin.com/in/harleysugarman/)
-
 Minn Kim — [Twitter](https://twitter.com/minney_cat) // [LinkedIn](https://www.linkedin.com/in/minnkim/)
 
 Angela Martin — [LinkedIn](https://www.linkedin.com/in/martinangela/)
 
 Lisa Wehden — [LinkedIn](https://www.linkedin.com/in/lisa-wehden-aa111385)
 
-Cody McCauley - [Twitter](https://twitter.com/cody_mccauley) // [LinkedIn](https://www.linkedin.com/in/codymccauley/) // [Blog](https://www.codymccauley.com/)
+Cody McCauley — [Twitter](https://twitter.com/cody_mccauley) // [LinkedIn](https://www.linkedin.com/in/codymccauley/) // [Blog](https://www.codymccauley.com/)
 
-Shivon Zilis — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/pub/shivon-zilis/7/b35/281)
+Maria Sharp — [Twitter](https://twitter.com/cody_mccauley) // [LinkedIn](https://www.linkedin.com/in/maria-sharp-991966160//)
+
+Alison Dyer
+
+Shivon Zilis (advisor) — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/pub/shivon-zilis/7/b35/281)
 
 ### Where we work
 San Francisco — [140 New Montgomery St., 22nd fl](http://goo.gl/49X6hu)
