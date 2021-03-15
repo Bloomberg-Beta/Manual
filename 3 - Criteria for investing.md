@@ -67,7 +67,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 
 ##### Product and market
 + "Makes business work better," without being in financial services
-+ We have judgment to identify a winner in the relevant market (i.e., a fit with one of our [stated investment areas](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#themes))
++ We have judgment to identify a winner in the relevant market (i.e., a fit with one of our [stated investment areas](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#themes)) -- and enough confidence in our judgment that, when things go sideways (as they inevitably do in startups) we'll remain devoted investors
 + Unlikely to compete directly with our other portfolio companies (and verified, if in doubt, by the founder(s) in question)
 
 ##### Business and economics
