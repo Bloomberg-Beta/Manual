@@ -331,7 +331,7 @@ We go into much more detail in our public [explanation of our investment documen
 
 ### The numbers
 
-Our standard first check is $500,000, though more and more often we are investing up to $1M. We want to invest enough to give a startup the money it needs to make real progress in the early days, and to attract other investors alongside us if needed. We are happy to lead, and happy to participate in rounds led by others, depending on the situation -- in earliest-stage venture, sometimes the [idea of a lead means different things to different people](https://also.roybahat.com/in-earliest-stage-venture-what-is-a-lead-anyway-e60c4e08bb7e).
+Our standard first check is from $300k up to $1M, though we sometimes go up a little higher. We want to invest enough to give a startup the money it needs to make real progress in the early days, and to attract other investors alongside us if needed. We are happy to lead, and happy to participate in rounds led by others, depending on the situation -- in earliest-stage venture, sometimes the [idea of a lead means different things to different people](https://also.roybahat.com/in-earliest-stage-venture-what-is-a-lead-anyway-e60c4e08bb7e).
 
 In the early days of our fund, we wrote smaller checks because (like the early days of companies) we believe in burning capital slowly until you find product-market fit. (In our first year, our biggest check was $250,000.)
 
