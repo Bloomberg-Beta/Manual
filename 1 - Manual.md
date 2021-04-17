@@ -343,7 +343,7 @@ We also believe “the price is the price” -- we won’t ask for unusual disco
 
 We are flexible as to whether our investment is structured as a SAFE, convertible note (debt), or equity -- though we believe the valuation cap is the price, because almost every conversion of a SAFE or note we've seen in a successful company has happened at or above the valuation cap. [We share our form documents in public here](https://github.com/Bloomberg-Beta/Investment-Documents).
 
-No, not every VC wants to own 30% of your company. In fact, we think at seed stages too much ownership by the early investors can ruin the cap table -- making it difficult for the founders to make money, or later investors to own enough of the company when the company needs bigger dollars to scale.
+No, not every VC wants to own 20% of your company. In fact, we think at seed stages too much ownership by the early investors can ruin the cap table -- making it difficult for the founders to make money, or later investors to own enough of the company when the company needs bigger dollars to scale.
 
 We believe in transparency. If a startup that takes our money wants to publicize the terms of our investment, we’d generally support that. (Of course we’d never disclose anything confidential without consent, and we expect the same of our founders.)
 
@@ -403,6 +403,8 @@ In some cases, we only seek to put a small amount of money to work (for example,
 The founders we back are our customers. We aspire to be the most useful investors per minute spent with us, and per dollar on the cap table. We want founders to want to work with us even if we weren't investors offering them money. (Though, for us to be willing to advise, we'd need the same level of conviction that we have when we're willing to invest.)
 
 We want to work with startups the way they work, not the way that big companies or traditional investors work. We prefer to take the formality out of the investor-founder relationship. Instead of requesting board seats and scheduling formulaic calls, we share with founders and encourage them to reach out to us when we can help. We've supported founders with everything from customer introductions to helping hire a critical new team member to sharing product feedback to thinking strategically about press. Consider us “on speed dial.” We try to cut waste out of the process; starting a company is hard enough. If you want regular check-ins, sure.
+
+Often founders want to know how "hands on" we are -- and it's a difficult question because we're willing to be as "hands on" as a founder may want (we've line edited documents, spent full days with teams, etc.) though we avoid meddling in details unless a founder explicitly invites us. In practice, this means that our collaboration often gets intense at certain times and more "hands off" at other times. There are a wide range of ways we work with startups, adapted to the needs of each.
 
 Our team works closely together -- we speak often and love helping each other, and we each know the full portfolio -- so every portfolio company has access to every member of our team. We think this is different to some other venture firms we’ve met -- we try to be a “no dysfunction” partner to you.
 
