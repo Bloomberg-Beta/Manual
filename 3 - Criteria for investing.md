@@ -3,7 +3,7 @@ Bloomberg Beta criteria for investing
 
 What are our criteria for selecting an investment? Investments we want to make go beyond a checklist of “box ticking” on our non-negotiable requirements (e.g., that we trust the founders). We also look for important indicators that can bias us for or against investing, too. For us to want to invest, the most important single quality: a startup needs the potential to be more than merely great, it needs a shot at the extraordinary. The good news is that to do that, we only look for at least one reason to believe, at whatever stage the company is at, that it can be an outlier...
 
-# Reason to believe a startup could be one of the greatest companies ever
+# One reason to believe a startup could be one of the greatest companies ever
 *Need at least one of the below compared to other great startups at the same stage*
 ##### Founder(s) and team
 + Ever do something singular? Record of unusual achievement
