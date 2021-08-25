@@ -22,8 +22,6 @@ Karin Klein — [Twitter](https://twitter.com/karinklein) // [LinkedIn](https://
 
 Roy Bahat — [Twitter](https://twitter.com/roybahat) // [LinkedIn](https://www.linkedin.com/in/roybahat) // [Blog](http://also.roybahat.com/)
 
-Minn Kim — [Twitter](https://twitter.com/minney_cat) // [LinkedIn](https://www.linkedin.com/in/minnkim/)
-
 Angela Martin — [LinkedIn](https://www.linkedin.com/in/martinangela/)
 
 Lisa Wehden — [LinkedIn](https://www.linkedin.com/in/lisa-wehden-aa111385)
@@ -57,7 +55,7 @@ Most roles at Bloomberg Beta last for a few years and then people go into a star
 
 ### Questions?
 
-Our founders requested an anonymous way to ask us questions, so we're providing it for you, too. [Right here](http://tiny.cc/AUA).  
+Our founders requested an anonymous way to ask us questions, so we're providing it for you, too. [Right here](https://docs.google.com/forms/d/1f0onzfI9HbqlqO_YEbgdOPPqhdS-8nYFnGtUcGT792o/viewform?edit_requested=true).  
 
 (If we've already answered the question in our manual, e.g., "how should I get in touch with you?" then we will respectfully ignore the question.)
 
