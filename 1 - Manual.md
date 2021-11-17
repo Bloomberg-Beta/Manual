@@ -24,9 +24,9 @@ We believe technology startups play an essential role in delivering a better fut
 
 ## Our investor, Bloomberg L.P.
 
-Bloomberg L.P. is our sole investor.
+Bloomberg L.P. is our sole investor. Returns that we generate go to fund [Bloomberg Philanthropies](http://bloomberg.org), giving alongside Mike Bloomberg, to ensure better, longer lives for the greatest number of people by focusing on the arts, education, the environment, government innovation, and public health.
 
-We appreciate many things about our investor: Bloomberg is a different kind of company. Bloomberg is a pioneer -- it created one of the original SaaS businesses, the first professional social network, and invented many practices that are now widely adopted by startups. We hope startups will be inspired by Bloomberg’s example, as we are.
+We appreciate many things about our investor: Bloomberg is a different kind of company. Bloomberg is a pioneer -- it created one of the original SaaS businesses, the first professional social network, and invented many practices that are now widely adopted by startups. Bloomberg now takes its profits and invests them in philanthropy. We hope startups will be inspired by Bloomberg’s example, as we are.
 
 Bloomberg knows and respects technology and technology companies, is set up to be independent-minded, and builds toward long-term value. Bloomberg was created three decades ago on a then-controversial idea — that information in financial markets should be more widely available. Bloomberg has reached global scale and influence, with more than 15,000 employees in almost 200 locations — and yet it is still a private company, held by its founders.
 
