@@ -33,6 +33,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Differentiated value proposition for talent (e.g., only place to work on a problem, unique founder who is a reason to join the team)
 + Diverse founding team
 + If business shows early signs of success, can founders go the distance?
++ Talking with founders gives us goosebumps
 
 ##### Product and market
 + Someone else already tried -- good sign!
