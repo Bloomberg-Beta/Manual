@@ -30,6 +30,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 ### On practical aspects of building a company
 * [Instead of a Business Plan, write a Thesis Plan](https://also.roybahat.com/instead-of-a-business-plan-write-a-thesis-plan-6de9de59daaf) (Roy Bahat — article)
 * [Default Alive or Default Dead](http://www.paulgraham.com/aord.html) (Paul Graham — article)
+* [The Lean Startup](http://theleanstartup.com/) (Eric Ries — book)
 * [Growth is Optional](https://brianbalfour.com/essays/growth-is-optional) (Brian Balfour — article)
 * [SaaS Metrics – A Guide to Measuring and Improving what Matters](https://www.forentrepreneurs.com/saas-metrics-2/) (For Entrepreneurs — article)
 * [The Most Important Metrics to Assess the State of a SaaS Startup](https://www.saastr.com/saastr-podcast-113-dan-adika-founder-ceo-walkme-shares-the-most-important-metrics-to-assess-the-state-of-a-saas-startup/) (SaaStr — podcast)
