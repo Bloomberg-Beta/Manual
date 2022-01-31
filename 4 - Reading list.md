@@ -76,6 +76,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 
 ### On the future of work
 * [Why greater worker participation in organized labor is inevitable](https://fortune.com/2021/12/02/unions-greater-worker-participation-organized-labor-inevitable-seiu-tech-industry/) (Fortune — article)
+* [How can we build a win-win society?](https://www.therealignment.fm/187-roy-bahat-how-can-we-build-a-win-win-society/) (Roy Bahat — podcast)
 * [Shift Commission on Work, Workers, and Technology — Report of Findings](https://docsend.com/view/4wizcjb) (write-up on this project Bloomberg led with New America, includes a bibliography)
 * [The Age of Dignity](https://www.amazon.com/Age-Dignity-Preparing-Changing-America/dp/1620972018) (Ai-jen Poo — book)
 * [The future of work in Black America](https://www.mckinsey.com/featured-insights/future-of-work/the-future-of-work-in-black-america#) (Shelley Stewart et. al. — article)
@@ -92,4 +93,3 @@ The resources on this page cover a range of subjects we find useful to think abo
 
 ### On Bloomberg Beta's partners
 * [Books that matter to me](https://www.amazon.com/ideas/amzn1.account.AEQE3R3FDPUUFV572PJTM3TJBJMQ/2VV8GXDPAWZBH?type=explore&ref=idea_cp_vl_ov_d) (Roy Bahat — list)
-* [How can we build a win-win society?](https://www.therealignment.fm/187-roy-bahat-how-can-we-build-a-win-win-society/) (Roy Bahat — podcast)
