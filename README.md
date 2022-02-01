@@ -22,11 +22,15 @@ Karin Klein — [Twitter](https://twitter.com/karinklein) // [LinkedIn](https://
 
 Roy Bahat — [Twitter](https://twitter.com/roybahat) // [LinkedIn](https://www.linkedin.com/in/roybahat) // [Blog](http://also.roybahat.com/)
 
-Angela Martin — [LinkedIn](https://www.linkedin.com/in/martinangela/)
+Angela Martin — [Twitter](https://twitter.com/angkmartin) // [LinkedIn](https://www.linkedin.com/in/martinangela/) 
 
 Cody McCauley — [Twitter](https://twitter.com/cody_mccauley) // [LinkedIn](https://www.linkedin.com/in/codymccauley/) // [Blog](https://www.codymccauley.com/)
 
-Maria Sharp — [Twitter](https://twitter.com/cody_mccauley) // [LinkedIn](https://www.linkedin.com/in/maria-sharp-991966160//)
+Amber Yang — [Twitter](https://twitter.com/theamberyangy) // [LinkedIn](https://www.linkedin.com/in/amber-yang/)
+
+Sydney Tiedt — [Twitter](https://twitter.com/sydneyjtiedt) // [LinkedIn](https://www.linkedin.com/in/sydney-tiedt/) 
+
+Maria Sharp — [Twitter](https://twitter.com/maria_d_sharp) // [LinkedIn](https://www.linkedin.com/in/maria-sharp-991966160//)
 
 Alison Dyer
 
