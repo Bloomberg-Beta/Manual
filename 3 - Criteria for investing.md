@@ -64,7 +64,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Can raise more money or get business to profitability
 + Capable of building a diverse team and an inclusive culture
 + Background check conducted, any issues discussed
-+ In Bay Area or New York (and, if not, strong reason to believe we are the best possible investor)
++ In North America, though [geography still matters](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#geography)
 
 ##### Product and market
 + "Makes business work better," without being in financial services
