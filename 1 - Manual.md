@@ -148,11 +148,13 @@ We are more than happy to invest in companies that might take a very long time t
 
 ### Geography
 
-We primarily invest in the San Francisco Bay Area and New York. We will consider investments elsewhere in North America; it’s just harder for us. We have deep roots in the Bay Area and New York so our ability to discover founders and attract local experts who can help is greater there (e.g., for funding, hiring, etc.), and we only want to invest when we believe we can be disproportionately helpful.
+We primarily invest in the San Francisco Bay Area and New York, though we will consider investments anywhere in North America. We have deep roots in the Bay Area and New York so our ability to discover founders, attract local experts who can help, and build community among founders is greater there. We only want to invest when we believe we can be disproportionately helpful. (We once believed we could only serve founders effectively if we were local to them; we've changed our minds. We now believe we can effectively serve founders anywhere in North America.)
 
-We believe greatness can start anywhere. We recognize that the tradecraft of startup building is more widely available than ever, alongside the rise of remote and distributed work. Startups depend on trust, and while previously that meant spending time together in person, we’ve learned ways to build trust and deepen relationships virtually and will make investments remotely. To that end, we have invested outside of San Francisco and New York a handful of times (DC, Toronto, Los Angeles, Boston, Seattle, Austin, Atlanta, Columbus, etc.).
+The world has changed: greatness can start anywhere. We recognize that the tradecraft of startup building is more widely available than ever, alongside the rise of remote and distributed work. Startups depend on trust, and while previously that meant spending time together in person, we’ve learned ways to build trust and deepen relationships virtually and have made investments without meeting founders in person.
 
-One of the ways we’ve widened our own networks is by leading several tours to newer startup markets (aka our "Comeback Cities" tours). We, along with members of Congress and our VC friends visited cities like Charlotte, North Carolina, and Bend, Oregon to learn what it takes to invest there. We continue to explore how we can deliver on our standard for founder service in other markets. 
+There are places where it's still harder to access follow-on capital, customers, and even talent (especially for startups where a distributed workforce is harder to manage). So the bar for what it takes to succeed may differ, depending on what a startup is doing and where it's based.
+
+We've widened our own networks by spending time in cities that are promising to us. Toronto was one of the first cities where we spent time. One of the ways we’ve widened our own networks is by leading several tours to newer startup markets (aka our "Comeback Cities" tours). We, along with members of Congress and our VC friends visited cities from Atlanta to Youngstown to learn what it takes to invest there. We've made investments in DC, Toronto, Philadelphia, Los Angeles, Boston, Seattle, Austin, Miami, and Columbus, among others.
 
 ### Sources
 
