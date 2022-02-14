@@ -24,9 +24,9 @@ We believe technology startups play an essential role in delivering a better fut
 
 ## Our investor, Bloomberg L.P.
 
-Bloomberg L.P. is our sole investor.
+Bloomberg L.P. is our sole investor. Returns that we generate go to fund [Bloomberg Philanthropies](http://bloomberg.org), giving alongside Mike Bloomberg, to ensure better, longer lives for the greatest number of people by focusing on the arts, education, the environment, government innovation, and public health.
 
-We appreciate many things about our investor: Bloomberg is a different kind of company. Bloomberg is a pioneer -- it created one of the original SaaS businesses, the first professional social network, and invented many practices that are now widely adopted by startups. We hope startups will be inspired by Bloomberg’s example, as we are.
+We appreciate many things about our investor: Bloomberg is a different kind of company. Bloomberg is a pioneer -- it created one of the original SaaS businesses, the first professional social network, and invented many practices that are now widely adopted by startups. Bloomberg now takes its profits and invests them in philanthropy. We hope startups will be inspired by Bloomberg’s example, as we are.
 
 Bloomberg knows and respects technology and technology companies, is set up to be independent-minded, and builds toward long-term value. Bloomberg was created three decades ago on a then-controversial idea — that information in financial markets should be more widely available. Bloomberg has reached global scale and influence, with more than 15,000 employees in almost 200 locations — and yet it is still a private company, held by its founders.
 
@@ -148,11 +148,13 @@ We are more than happy to invest in companies that might take a very long time t
 
 ### Geography
 
-We primarily invest in the San Francisco Bay Area and New York. We will consider investments elsewhere in North America; it’s just harder for us. We have deep roots in the Bay Area and New York so our ability to discover founders and attract local experts who can help is greater there (e.g., for funding, hiring, etc.), and we only want to invest when we believe we can be disproportionately helpful.
+We primarily invest in the San Francisco Bay Area and New York, though we will consider investments anywhere in North America. We have deep roots in the Bay Area and New York so our ability to discover founders, attract local experts who can help, and build community among founders is greater there. We only want to invest when we believe we can be disproportionately helpful. (We once believed we could only serve founders effectively if we were local to them; we've changed our minds. We now believe we can effectively serve founders anywhere in North America.)
 
-We believe greatness can start anywhere. We recognize that the tradecraft of startup building is more widely available than ever, alongside the rise of remote and distributed work. Startups depend on trust, and while previously that meant spending time together in person, we’ve learned ways to build trust and deepen relationships virtually and will make investments remotely. To that end, we have invested outside of San Francisco and New York a handful of times (DC, Toronto, Los Angeles, Boston, Seattle, Austin, Atlanta, Columbus, etc.).
+The world has changed: greatness can start anywhere. We recognize that the tradecraft of startup building is more widely available than ever, alongside the rise of remote and distributed work. Startups depend on trust, and while previously that meant spending time together in person, we’ve learned ways to build trust and deepen relationships virtually and have made investments without meeting founders in person.
 
-One of the ways we’ve widened our own networks is by leading several tours to newer startup markets (aka our "Comeback Cities" tours). We, along with members of Congress and our VC friends visited cities like Charlotte, North Carolina, and Bend, Oregon to learn what it takes to invest there. We continue to explore how we can deliver on our standard for founder service in other markets. 
+There are places where it's still harder to access follow-on capital, customers, and even talent (especially for startups where a distributed workforce is harder to manage). So the bar for what it takes to succeed may differ, depending on what a startup is doing and where it's based.
+
+We've widened our own networks by spending time in cities that are promising to us. Toronto was one of the first cities where we spent time. One of the ways we’ve widened our own networks is by leading several tours to newer startup markets (aka our "Comeback Cities" tours). We, along with members of Congress and our VC friends visited cities from Atlanta to Youngstown to learn what it takes to invest there. We've made investments in DC, Toronto, Philadelphia, Los Angeles, Boston, Seattle, Austin, Miami, and Columbus, among others.
 
 ### Sources
 
@@ -176,7 +178,7 @@ We have doubts about the effectiveness of theme-based investing. The best founde
 
 [Machine intelligence](http://www.shivonzilis.com/machineintelligence) crosses all the areas we care about, and we have treated it as our main interest area for several years now. We believe machine intelligence will transform every industry and every function -- and we focus on its effects on business. We believe [machine intelligence will be like electricity](http://www.wired.com/2014/10/future-of-artificial-intelligence/): cheap, convenient, and on-demand. We want to back the founders ushering this future into the now.
 
-Areas where we’ve invested include: content discovery, cybersecurity, data sets and services, developer tools, full-stack startups who use technology to compete in a new way, hardware, human-computer interaction, learning, media distribution, new organizational models, open source software, productivity tools, professional networks, real estate, technology platforms, workflow tools, workplace communication.
+Areas where we’ve invested include: content discovery, cybersecurity, data sets and services, developer tools, [hot-swap startups](https://also.roybahat.com/looking-for-more-of-a-new-kind-of-startup-516e5033c63c), hardware, human-computer interaction, learning, media distribution, new organizational models, open source software, productivity tools, professional networks, real estate, technology platforms, workflow tools, workplace communication.
 
 We avoid investments in financial services companies that intend to compete with Bloomberg clients.
 
@@ -353,13 +355,13 @@ We care about price. We avoid having a hard requirement about our ownership perc
 
 We also believe “the price is the price” -- we won’t ask for unusual discounts for ourselves with strange terms like participating preferred equity. (Sometimes negotiating over the size of an employee option pool can become a discussion about price, and we're aware of that.)
 
-We are flexible as to whether our investment is structured as a SAFE, convertible note (debt), or equity -- though we believe the valuation cap is the price, because almost every conversion of a SAFE or note we've seen in a successful company has happened at or above the valuation cap. [We share our form documents in public here](https://github.com/Bloomberg-Beta/Investment-Documents).
+The average pre-money valuation of our recent investments was $7M, though the range was wide depending on the company's state, with pre-money valuations ranging from $2-15M. (We update this number from time to time, at a pace that avoids inadvertently disclosing the terms of any one deal. This average includes only investments where we were the first money into a company -- we lack a way to make our small number of later-stage investments comparable.)
 
 No, not every VC wants to own 20% of your company. In fact, we think at seed stages too much ownership by the early investors can ruin the cap table -- making it difficult for the founders to make money, or later investors to own enough of the company when the company needs bigger dollars to scale.
 
-We believe in transparency. If a startup that takes our money wants to publicize the terms of our investment, we’d generally support that. (Of course we’d never disclose anything confidential without consent, and we expect the same of our founders.)
+We are flexible as to whether our investment is structured as a SAFE, convertible note (debt), or equity -- though we believe the valuation cap is the price, because almost every conversion of a SAFE or note we've seen in a successful company has happened at or above the valuation cap. [We share our form documents in public here](https://github.com/Bloomberg-Beta/Investment-Documents).
 
-The average pre-money valuation of our recent investments was $7M, though the range was wide depending on the company's state (with valuations ranging from $2-15M. (We update this number from time to time, at a pace that avoids inadvertently disclosing the terms of any one deal. This average includes only investments where we were the first money into a company -- we lack a way to make our small number of later-stage investments comparable.)
+We believe in transparency. If a startup that takes our money wants to publicize the terms of our investment, we’d generally support that. (Of course we’d never disclose anything confidential without consent, and we expect the same of our founders.)
 
 While we’d like to claim that the amount of work we do on behalf of a company will vary dramatically based on our ownership interest, we’re not sure that is true yet -- the reality is that the amount of work we do for a company depends most of all on how much the company needs and wants our help. If they ask us to work for them, we do what we can to help.
 

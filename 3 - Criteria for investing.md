@@ -33,6 +33,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Differentiated value proposition for talent (e.g., only place to work on a problem, unique founder who is a reason to join the team)
 + Diverse founding team
 + If business shows early signs of success, can founders go the distance?
++ Talking with founders gives us goosebumps
 
 ##### Product and market
 + Someone else already tried -- good sign!
@@ -63,7 +64,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Can raise more money or get business to profitability
 + Capable of building a diverse team and an inclusive culture
 + Background check conducted, any issues discussed
-+ In Bay Area or New York (and, if not, strong reason to believe we are the best possible investor)
++ In North America, though [geography still matters](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#geography)
 
 ##### Product and market
 + "Makes business work better," without being in financial services

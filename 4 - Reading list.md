@@ -19,6 +19,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [Pro Rata](https://www.axios.com/newsletters/axios-pro-rata) (Axios — newsletter)
 * [StrictlyVC](https://www.strictlyvc.com/) (newsletter)
 * [AVC](https://avc.com/) (Fred Wilson — blog)
+* [Myths about how VCs think](https://thisweekinstartups.com/e981-roy-bahat-head-of-bloomberg-beta-shares-the-myths-of-venture-capital-the-great-value-of-founders-turned-investors-why-vcs-reject-startups-searing-insights-on-fundraising-valuations-and-p/) (Roy Bahat — podcast on This Week in Startups)
 
 ### On going to market
 * [Don't Launch](http://www.startuplessonslearned.com/2009/03/dont-launch.html) (Eric Ries — article)
@@ -29,6 +30,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 ### On practical aspects of building a company
 * [Instead of a Business Plan, write a Thesis Plan](https://also.roybahat.com/instead-of-a-business-plan-write-a-thesis-plan-6de9de59daaf) (Roy Bahat — article)
 * [Default Alive or Default Dead](http://www.paulgraham.com/aord.html) (Paul Graham — article)
+* [The Lean Startup](http://theleanstartup.com/) (Eric Ries — book)
 * [Growth is Optional](https://brianbalfour.com/essays/growth-is-optional) (Brian Balfour — article)
 * [SaaS Metrics – A Guide to Measuring and Improving what Matters](https://www.forentrepreneurs.com/saas-metrics-2/) (For Entrepreneurs — article)
 * [The Most Important Metrics to Assess the State of a SaaS Startup](https://www.saastr.com/saastr-podcast-113-dan-adika-founder-ceo-walkme-shares-the-most-important-metrics-to-assess-the-state-of-a-saas-startup/) (SaaStr — podcast)
@@ -73,7 +75,9 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780) (Clayton Christensen — book)
 
 ### On the future of work
-* [Shift Commission on Work, Workers, and Technology — Report of Findings](https://docsend.com/view/4wizcjb) (article on this project Bloomberg led with New America, includes a bibliography)
+* [Why greater worker participation in organized labor is inevitable](https://fortune.com/2021/12/02/unions-greater-worker-participation-organized-labor-inevitable-seiu-tech-industry/) (Fortune — article)
+* [How can we build a win-win society?](https://www.therealignment.fm/187-roy-bahat-how-can-we-build-a-win-win-society/) (Roy Bahat — podcast)
+* [Shift Commission on Work, Workers, and Technology — Report of Findings](https://docsend.com/view/4wizcjb) (write-up on this project Bloomberg led with New America, includes a bibliography)
 * [The Age of Dignity](https://www.amazon.com/Age-Dignity-Preparing-Changing-America/dp/1620972018) (Ai-jen Poo — book)
 * [The future of work in Black America](https://www.mckinsey.com/featured-insights/future-of-work/the-future-of-work-in-black-america#) (Shelley Stewart et. al. — article)
 * [Deschooling Society](https://www.amazon.com/Deschooling-Society-Open-Forum-S/dp/0714508799) (Ivan Illich — book)
@@ -85,6 +89,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [Concrete Economics](https://www.amazon.com/Concrete-Economics-Hamilton-Approach-Economic/dp/1422189813) (Stephen Cohen and Bradford DeLong — book)
 * [Raising the Floor](https://www.amazon.com/Raising-Floor-Universal-Economy-American/dp/1610396251) (Andy Stern — book)
 * [Robot Collar Jobs](https://pca.st/bu8m5ng3#t=2m37s) (Roy Bahat — podcast)
+* [Future of Work in California](https://www.labor.ca.gov/wp-content/uploads/sites/338/2021/02/ca-future-of-work-report.pdf) (Recommendations from the Governor's commission on work in California where Roy Bahat served as a member, about creating widespread participation in prosperity)
 
 ### On Bloomberg Beta's partners
 * [Books that matter to me](https://www.amazon.com/ideas/amzn1.account.AEQE3R3FDPUUFV572PJTM3TJBJMQ/2VV8GXDPAWZBH?type=explore&ref=idea_cp_vl_ov_d) (Roy Bahat — list)
