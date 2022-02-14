@@ -4,6 +4,8 @@ We are actively backing new companies. That said, many of our companies prefer t
 
 Below are our (publicly announced) investments, ordered by fund. While we know that many readers of this page want to know our best-performing companies, it's important to us to be transparent about all our investments -- all founders we've backed are our customers. Our most important metric is founder NPS; every founder gets the same vote in deciding our reputation. If you're interested to know which companies the broader community finds most interesting, see our [Wikipedia page](https://en.wikipedia.org/wiki/Bloomberg_Beta).
 
+> "This is what a quote could look like."
+>   — Angela Martin, Bloomberg Beta
 
 |                                                                                                                                                                                                                                                                                                           |                                                                                         |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
