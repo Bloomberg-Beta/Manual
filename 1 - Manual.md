@@ -383,7 +383,7 @@ Because we have relatively big funds (compared to the size of our initial checks
 
 We won’t follow on in every investment, but if we are excited about putting in more money, we might want to follow on for 5x our initial investment -- or more. That said, there will also be situations where a company evolves in a way where -- even though it is still a great company -- it would benefit more from another investor’s capital than from ours, so we might not always follow on in great companies.
 
-Unlike our initial investments (where we have an "anyone can say yes" [policy](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#how-we-decide)), our follow-investments are consensus-driven decisions. Therefore, we have a much more structured [process](http://tiny.cc/betafollowons), where we typically ask founders to present their latest plans to the entire team.
+Unlike our initial investments (where we have an "anyone can say yes" [policy](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#how-we-decide)), our follow-investments are consensus-driven decisions. Therefore, we have a much more structured [process](https://bit.ly/betafollowons), where we typically ask founders to present their latest plans to the entire team.
 
 ### “Standard terms”
 
