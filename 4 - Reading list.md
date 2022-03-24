@@ -77,18 +77,18 @@ The resources on this page cover a range of subjects we find useful to think abo
 ### On the future of work
 * [Why greater worker participation in organized labor is inevitable](https://fortune.com/2021/12/02/unions-greater-worker-participation-organized-labor-inevitable-seiu-tech-industry/) (Fortune — article)
 * [How can we build a win-win society?](https://www.therealignment.fm/187-roy-bahat-how-can-we-build-a-win-win-society/) (Roy Bahat — podcast)
-* [Shift Commission on Work, Workers, and Technology — Report of Findings](https://docsend.com/view/4wizcjb) (write-up on this project Bloomberg led with New America, includes a bibliography)
+* [The job training myth](https://also.roybahat.com/the-job-training-myth-1302ce5b7f5) (Roy Bahat — article)
 * [The Age of Dignity](https://www.amazon.com/Age-Dignity-Preparing-Changing-America/dp/1620972018) (Ai-jen Poo — book)
 * [The future of work in Black America](https://www.mckinsey.com/featured-insights/future-of-work/the-future-of-work-in-black-america#) (Shelley Stewart et. al. — article)
+* [Racing to Justice](https://www.amazon.com/Racing-Justice-Transforming-Conceptions-Inclusive/dp/0253017718) (john powell (capitalization intentional) — book)
 * [Deschooling Society](https://www.amazon.com/Deschooling-Society-Open-Forum-S/dp/0714508799) (Ivan Illich — book)
 * [The Second Machine Age](https://www.amazon.com/Second-Machine-Age-Prosperity-Technologies/dp/0393350649) (Erik Brynjolfsson and Andrew McAfee — book)
 * [Bullshit Jobs](https://www.amazon.com/Bullshit-Jobs-Theory-David-Graeber/dp/150114331X) (David Graeber — book)
 * [Nice work if you can get out](https://www.economist.com/finance-and-economics/2014/04/22/nice-work-if-you-can-get-out) (Economist — article)
-* [Racing to Justice](https://www.amazon.com/Racing-Justice-Transforming-Conceptions-Inclusive/dp/0253017718) (john powell (capitalization intentional) — book)
 * [The Fading American Dream](https://www.nber.org/papers/w22910) (Raj Chetty et. al. — article)
 * [Concrete Economics](https://www.amazon.com/Concrete-Economics-Hamilton-Approach-Economic/dp/1422189813) (Stephen Cohen and Bradford DeLong — book)
 * [Raising the Floor](https://www.amazon.com/Raising-Floor-Universal-Economy-American/dp/1610396251) (Andy Stern — book)
-* [Robot Collar Jobs](https://pca.st/bu8m5ng3#t=2m37s) (Roy Bahat — podcast)
+* [Shift Commission on Work, Workers, and Technology — Report of Findings](https://docsend.com/view/4wizcjb) (write-up on this project Bloomberg led with New America, includes a bibliography)
 * [Future of Work in California](https://www.labor.ca.gov/wp-content/uploads/sites/338/2021/02/ca-future-of-work-report.pdf) (Recommendations from the Governor's commission on work in California where Roy Bahat served as a member, about creating widespread participation in prosperity)
 
 ### On Bloomberg Beta's partners
