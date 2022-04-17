@@ -86,10 +86,10 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [The Fading American Dream](https://www.nber.org/papers/w22910) (Raj Chetty et. al. — article)
 * [Concrete Economics](https://www.amazon.com/Concrete-Economics-Hamilton-Approach-Economic/dp/1422189813) (Stephen Cohen and Bradford DeLong — book)
 * [Raising the Floor](https://www.amazon.com/Raising-Floor-Universal-Economy-American/dp/1610396251) (Andy Stern — book)
+* [Jump-Starting America: How Breakthrough Science Can Revive Economic Growth and the American Dream](https://bookshop.org/books/jump-starting-america-how-breakthrough-science-can-revive-economic-growth-and-the-american-dream/9781541762480) (Jonathan Gruber and Simon Johnson — book)
 * [Shift Commission on Work, Workers, and Technology — Report of Findings](https://docsend.com/view/4wizcjb) (write-up on this project Bloomberg led with New America, includes a bibliography)
 * [Future of Work in California](https://www.labor.ca.gov/wp-content/uploads/sites/338/2021/02/ca-future-of-work-report.pdf) (Recommendations from the Governor's commission on work in California where Roy Bahat served as a member, about creating widespread participation in prosperity)
 
 ### On Bloomberg Beta's partners
 * [Books that matter to me](https://www.amazon.com/ideas/amzn1.account.AEQE3R3FDPUUFV572PJTM3TJBJMQ/2VV8GXDPAWZBH?type=explore&ref=idea_cp_vl_ov_d) (Roy Bahat — list)
 * [How can we build a win-win society?](https://www.therealignment.fm/187-roy-bahat-how-can-we-build-a-win-win-society/) (Roy Bahat — podcast)
-
