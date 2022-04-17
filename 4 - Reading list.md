@@ -11,6 +11,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [Netflix Culture Deck](https://hbr.org/2014/01/how-netflix-reinvented-hr) (article). Netflix famously released their original culture deck in 2009 and built a high-performance culture by emphasizing honesty and open communication. We believe transparency is the first step to building trust with founders — who we see as our customers.
 * [Venture Deals](https://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1119259754/ref=dp_ob_title_bk) by Brad Feld (book). *The* book on venture capital -- learn about how VCs structure investments.
 * [Money Stuff](https://www.bloomberg.com/view/topics/money-stuff) by Matt Levine (newsletter). One of our favorite columnists at Bloomberg Opinion, Matt’s daily newsletter provides an honest, insightful, and very entertaining take on what’s happening in the worlds of finance and tech.
+* [#thisisnotadvice](https://www.thisisnotadvice.work) edited by Roy Bahat. A compendium of thoughts on how to thrive at work, by a community of experts and students.
 
 ## Other Recommended Reading
 
