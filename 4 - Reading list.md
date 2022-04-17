@@ -55,9 +55,8 @@ The resources on this page cover a range of subjects we find useful to think abo
 ### On artificial intelligence
 * [We’re Waiting for the Peter Drucker of Machine Intelligence](https://machinelearnings.co/were-waiting-for-the-peter-drucker-of-machine-intelligence-9b674191b420) (James Cham — article)
 * [The Current State of Machine Intelligence](http://www.shivonzilis.com/machineintelligence) (Shivon Zilis — article)
-* [The Evolution of Machine Learning](https://techcrunch.com/2017/08/08/the-evolution-of-machine-learning/) (Catherine Dong — article)
+* [The Second Machine Age](https://www.amazon.com/Second-Machine-Age-Prosperity-Technologies/dp/0393350649) (Erik Brynjolfsson and Andrew McAfee — book)
 * [Algorithms of Oppression](https://www.amazon.com/Algorithms-Oppression-Search-Engines-Reinforce/dp/1479837245) (Safiya Umoja Noble — book)
-* [InsideAI](https://inside.com/ai?ref=newsletter) (Rob May — newsletter)
 * [ImportAI](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) (Jack Clark — newsletter)
 * [The Man Who Lied to His Laptop](https://www.amazon.com/Man-Who-Lied-His-Laptop/dp/1617230049) (Clifford Nass with Corina Yen — book)
 * [Robot & Frank](https://www.imdb.com/title/tt1990314/) (Jake Schreier — film)
@@ -76,13 +75,12 @@ The resources on this page cover a range of subjects we find useful to think abo
 
 ### On the future of work
 * [Why greater worker participation in organized labor is inevitable](https://fortune.com/2021/12/02/unions-greater-worker-participation-organized-labor-inevitable-seiu-tech-industry/) (Fortune — article)
-* [How can we build a win-win society?](https://www.therealignment.fm/187-roy-bahat-how-can-we-build-a-win-win-society/) (Roy Bahat — podcast)
+* [Economic security should be a right](https://also.roybahat.com/economic-security-should-be-a-right-d0789e89d1c4) (Roy Bahat — remarks)
 * [The job training myth](https://also.roybahat.com/the-job-training-myth-1302ce5b7f5) (Roy Bahat — article)
 * [The Age of Dignity](https://www.amazon.com/Age-Dignity-Preparing-Changing-America/dp/1620972018) (Ai-jen Poo — book)
 * [The future of work in Black America](https://www.mckinsey.com/featured-insights/future-of-work/the-future-of-work-in-black-america#) (Shelley Stewart et. al. — article)
 * [Racing to Justice](https://www.amazon.com/Racing-Justice-Transforming-Conceptions-Inclusive/dp/0253017718) (john powell (capitalization intentional) — book)
 * [Deschooling Society](https://www.amazon.com/Deschooling-Society-Open-Forum-S/dp/0714508799) (Ivan Illich — book)
-* [The Second Machine Age](https://www.amazon.com/Second-Machine-Age-Prosperity-Technologies/dp/0393350649) (Erik Brynjolfsson and Andrew McAfee — book)
 * [Bullshit Jobs](https://www.amazon.com/Bullshit-Jobs-Theory-David-Graeber/dp/150114331X) (David Graeber — book)
 * [Nice work if you can get out](https://www.economist.com/finance-and-economics/2014/04/22/nice-work-if-you-can-get-out) (Economist — article)
 * [The Fading American Dream](https://www.nber.org/papers/w22910) (Raj Chetty et. al. — article)
@@ -93,3 +91,5 @@ The resources on this page cover a range of subjects we find useful to think abo
 
 ### On Bloomberg Beta's partners
 * [Books that matter to me](https://www.amazon.com/ideas/amzn1.account.AEQE3R3FDPUUFV572PJTM3TJBJMQ/2VV8GXDPAWZBH?type=explore&ref=idea_cp_vl_ov_d) (Roy Bahat — list)
+* [How can we build a win-win society?](https://www.therealignment.fm/187-roy-bahat-how-can-we-build-a-win-win-society/) (Roy Bahat — podcast)
+
