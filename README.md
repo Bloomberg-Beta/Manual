@@ -24,8 +24,6 @@ Roy Bahat — [Twitter](https://twitter.com/roybahat) // [LinkedIn](https://www.
 
 Angela Martin — [Twitter](https://twitter.com/angkmartin) // [LinkedIn](https://www.linkedin.com/in/martinangela/) 
 
-Cody McCauley — [Twitter](https://twitter.com/cody_mccauley) // [LinkedIn](https://www.linkedin.com/in/codymccauley/) // [Blog](https://www.codymccauley.com/)
-
 Amber Yang — [Twitter](https://twitter.com/theamberyangy) // [LinkedIn](https://www.linkedin.com/in/amber-yang/)
 
 Sydney Tiedt — [Twitter](https://twitter.com/sydneyjtiedt) // [LinkedIn](https://www.linkedin.com/in/sydney-tiedt/) 
