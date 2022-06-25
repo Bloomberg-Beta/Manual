@@ -452,7 +452,7 @@ What makes a good written update for investors?
 * Team additions or changes
 * Where you want help from us!
 
-Here is a [sample anonymized update](https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit).
+Here is a [template for a monthly investor update](https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit).
 
 Even better than an update intended for investors is a passive way to keep us updated (i.e., something that requires no incremental work). If you send a weekly internal update, copying us is great; if you use a team collaboration tool (Slack, Discord, Notion, a WhatsApp or Signal chat, etc.) we’d love to be included and take it as a great sign of trust; we even subscribe to private Github repos.
 
