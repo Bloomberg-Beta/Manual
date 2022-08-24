@@ -47,7 +47,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 
 ##### Business and economics
 + Clear sense of why to raise capital (i.e., where to deploy)
-+ [Clear sense of why to raise *venture* capital](https://also.roybahat.com/making-a-financial-model-for-your-early-stage-startup-76630da262a3)(we often discourage founders from taking venture at all)
++ [Clear sense of why to raise *venture* capital](https://also.roybahat.com/making-a-financial-model-for-your-early-stage-startup-76630da262a3) (we often discourage founders from taking venture at all)
 
 ##### Deal terms
 + Founders own enough of the company
