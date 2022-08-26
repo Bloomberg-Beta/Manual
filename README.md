@@ -30,7 +30,7 @@ Sydney Tiedt — [Twitter](https://twitter.com/sydneyjtiedt) // [LinkedIn](https
 
 Maria Sharp — [Twitter](https://twitter.com/maria_d_sharp) // [LinkedIn](https://www.linkedin.com/in/maria-sharp-991966160//)
 
-Lori Berenberg - [Twitter](https://twitter.com/loriberenberg) // [LinkedIn](https://www.linkedin.com/in/loriberenberg/)
+Lori Berenberg — [Twitter](https://twitter.com/loriberenberg) // [LinkedIn](https://www.linkedin.com/in/loriberenberg/)
 
 Alison Dyer
 
