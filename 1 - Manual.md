@@ -213,7 +213,7 @@ That said, we do care about the short-term financial plan, especially on the cho
 
 Put another way, a five-year financial plan is mostly useless for early stage companies -- a monthly plan for the next twelve months and a quarterly plan for the next two years could be very useful. 
 
-We would love to see all of it, whether perfect or otherwise so give us anything you've already made -- financial model, deck, background materials. It helps us make sure our conversation is more dialogue than exposition.
+We would love to see all of it, whether perfect or otherwise so give us anything you've already made -- financial model ([and here's how we think about building models](https://also.roybahat.com/making-a-financial-model-for-your-early-stage-startup-76630da262a3?source=rss-9ed065b7bce9------2)), deck, background materials. It helps us make sure our conversation is more dialogue than exposition.
 
 ### In-person meetings
 
