@@ -20,7 +20,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [Pro Rata](https://www.axios.com/newsletters/axios-pro-rata) (Axios — newsletter)
 * [StrictlyVC](https://www.strictlyvc.com/) (newsletter)
 * [AVC](https://avc.com/) (Fred Wilson — blog)
-* [Myths about how VCs think](https://thisweekinstartups.com/e981-roy-bahat-head-of-bloomberg-beta-shares-the-myths-of-venture-capital-the-great-value-of-founders-turned-investors-why-vcs-reject-startups-searing-insights-on-fundraising-valuations-and-p/) (Roy Bahat — podcast on This Week in Startups)
+* [Myths about how VCs think]([https://thisweekinstartups.com/e981-roy-bahat-head-of-bloomberg-beta-shares-the-myths-of-venture-capital-the-great-value-of-founders-turned-investors-why-vcs-reject-startups-searing-insights-on-fundraising-valuations-and-p/](https://www.youtube.com/watch?v=VfaUG6OPLk0)) (Roy Bahat — podcast on This Week in Startups)
 
 ### On going to market
 * [Don't Launch](http://www.startuplessonslearned.com/2009/03/dont-launch.html) (Eric Ries — article)
