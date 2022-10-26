@@ -518,7 +518,9 @@ If you don’t know how to find us, figure it out. Great founders overcome much 
 
 ### How to reach out
 
-Should you send us a cold email? Probably not. If we were a customer of yours, would you email us cold? Wouldn’t you rather try to find someone in common? If you have to resort to a cold email, which great people sometimes do, at least show us that you took the time to exhaust the available sources of information first. Write an interesting headline. Tell us you read this…sentence…right…here.
+Should you send us a cold email? Probably not. If we were a customer of yours, or a deeply-valued long-term partner, would you email us cold? (That might depend on whether you're planning an enterprise-sold service, product-led growth, or something else. We believe in matching the fundraising process, as much as things allow, to the nature of the startup those founders are building.)
+
+Wouldn’t you rather try to find someone in common? If you have to resort to a cold email, which great people sometimes do, at least show us that you took the time to exhaust the available sources of information first. Write an interesting headline. Tell us you read this… sentence… right… here.
 
 ### Caveats founders should know
 
