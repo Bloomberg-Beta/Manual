@@ -47,7 +47,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [We Hire the Best, Just Like Everyone Else](https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/) (Jeff Atwood — article)
 * [Do Things That Don't Scale](http://paulgraham.com/ds.html) (Paul Graham — article)
 * [Explore vs. Exploit](https://barryoreilly.com/2015/12/14/lean-pmo-explore-vs-exploit/) (Barry O’Reilly — article)
-* [The Guerilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) (Joel Spolsky — article)
+* [The Guerrilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) (Joel Spolsky — article)
 * [Difficult Conversations](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447) (Sheila Heen, Bruce Patton, Douglas Stone — book)
 * [How to Hire](http://blog.samaltman.com/how-to-hire) (Sam Altman — article)
 * [Fortune Broadsheet](http://fortune.com/newsletter/broadsheet/) (newsletter)
