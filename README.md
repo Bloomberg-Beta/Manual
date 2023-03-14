@@ -28,13 +28,13 @@ Amber Yang — [Twitter](https://twitter.com/theamberyang) // [LinkedIn](https:/
 
 Sydney Tiedt — [Twitter](https://twitter.com/sydneyjtiedt) // [LinkedIn](https://www.linkedin.com/in/sydney-tiedt/) 
 
-Maria Sharp — [Twitter](https://twitter.com/maria_d_sharp) // [LinkedIn](https://www.linkedin.com/in/maria-sharp-991966160//)
+Maria Sharp — [Twitter](https://twitter.com/maria_d_sharp) // [LinkedIn](https://www.linkedin.com/in/maria-guadalupe-sharp-991966160/)
 
 Lori Berenberg — [Twitter](https://twitter.com/loriberenberg) // [LinkedIn](https://www.linkedin.com/in/loriberenberg/)
 
 Alison Dyer
 
-Shivon Zilis (advisor) — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/pub/shivon-zilis/7/b35/281)
+Shivon Zilis (advisor) — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/in/shivonzilis/)
 
 ### Where we work
 San Francisco — [140 New Montgomery St., 22nd fl](http://goo.gl/49X6hu)
