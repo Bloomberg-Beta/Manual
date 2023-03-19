@@ -74,6 +74,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Unlikely to compete directly with our other portfolio companies (and verified, if in doubt, by the founder(s) in question)
 
 ##### Business and economics
++ Can prove what they need to prove to raise more money after having spent ~half of the round (because that's when founders usually need to start fundraising), or grow rapidly from profits
 + Plausible to have sustainable unit economics in the future
 
 ##### Deal terms
