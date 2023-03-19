@@ -28,9 +28,9 @@ What are our criteria for selecting an investment? Investments we want to make g
 *Can bias us for or against investing*
 ##### Founder(s) and team
 + [Focused](https://also.roybahat.com/lies-we-tell-ourselves-about-focus-75e59e88072d)
-+ Combination of human / inhuman, presence of cognitive distortions of founders
-+ Spends only when necessary, miserly with capital until the returns are clear
-+ Reaction to intense pressure or strong criticism?
++ Combination of human / inhuman, presence of cognitive distortions of founders; reaction to intense pressure or strong criticism?
++ Miserly with capital until the returns are clear
++ Fundraising savvy (which can make later capital more or less expensive)
 + Differentiated value proposition for talent (e.g., only place to work on a problem, unique founder who is a reason to join the team)
 + Diverse founding team
 + If business shows early signs of success, can founders go the distance?
@@ -62,7 +62,6 @@ What are our criteria for selecting an investment? Investments we want to make g
 *Need all of the below*
 ##### Founder(s) and team
 + Trustworthy (e.g., will tell us when things are even a little broken)
-+ Can raise more money or get business to profitability
 + Capable of building a diverse team and an inclusive culture
 + Background check conducted, any issues discussed
 + Can articulate [what they want to prove next](https://also.roybahat.com/instead-of-a-business-plan-write-a-thesis-plan-6de9de59daaf), and why
