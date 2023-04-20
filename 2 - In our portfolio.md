@@ -46,6 +46,7 @@ Curious [why a founder would want to work with us](https://www.youtube.com/watch
 | [Raman Malik](https://www.linkedin.com/in/ramanrmalik/) | **[Rhetoric](https://www.rhetoric.app/)** |
 | [Michael Driscoll](https://www.linkedin.com/in/medriscoll/)                                                                            | **[Rill Data](https://www.rilldata.com)**
 | [Sebastian McKenzie](https://www.linkedin.com/in/sebastian-mckenzie-96925b106/), [Jamie Kyle](https://www.linkedin.com/in/jamiebuilds/)                                                                             | **[Rome Tools](https://www.rome.tools)**   |
+| [Ashank Behara](https://www.linkedin.com/in/ashankbehara/), [Matthew Walowski](https://www.linkedin.com/in/matthew-walowski/)| **[ShapeCI](https://shape.ci/)** |
 | [Anthony Garvan](https://www.linkedin.com/in/anthonygarvan) | **[SheetRocks](https://sheet.rocks/)** |
 | [Sid Kandan](https://www.linkedin.com/in/sidkandan/), [Sandra Gomberg](https://www.linkedin.com/in/sandra-gomberg-bb811154/)                                                                            | **[Stel](https://www.stel.life/)**
 | [Imran Patel](https://www.linkedin.com/in/imranspatel/), [Nageswara Rao Mannem](https://www.linkedin.com/in/naagas/)                                                                            | **[Syft Data](https://www.syftdata.com/)**
