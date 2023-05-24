@@ -197,7 +197,7 @@ We cringe at the idea of founders spending lots of time making fundraising prese
 * How well the team communicates
 * Whether, if we don’t know the team, we should spend the time to meet in person
 
-If you use a presentation to sell your product to customers, we're as interested in that pitch as in your fundraising pitch.
+If you use a presentation to sell your product to customers, we're as interested in that pitch as in your fundraising pitch ([and here are our most frequent comments on pitch decks]([https://also.roybahat.com/our-most-frequent-comments-on-pitch-decks-27281bb8f9f6]).
 
 There is no standard format we like, but we probably spend 2-5 minutes reading a deck when we are deciding whether to meet a company. How many slides? Depends, but if you need 20 detailed pages to tell your story, that's likely more than we can absorb.
 
