@@ -22,6 +22,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [AVC](https://avc.com/) (Fred Wilson — blog)
 * [Myths about how VCs think](https://www.youtube.com/watch?v=VfaUG6OPLk0) (Roy Bahat — podcast on This Week in Startups)
 * [Cash Management Post-SVB](https://www.heavybit.com/press/key-banking-cash-management-steps-march-2023) (Heavybit — blog post)
+* [The Power Law](https://www.amazon.com/Power-Law-Venture-Capital-Making/dp/052555999X) (Sebastian Mallaby — book)
 
 ### On going to market
 * [Don't Launch](http://www.startuplessonslearned.com/2009/03/dont-launch.html) (Eric Ries — article)
