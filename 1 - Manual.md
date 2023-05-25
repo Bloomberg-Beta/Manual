@@ -186,7 +186,7 @@ We avoid investments in financial services companies that intend to compete with
 
 Sometimes founders mistakenly assume that we avoid “consumer” companies entirely. There are many individual-facing businesses that we’d fund -- they just need to help a person at work. (Typically “enterprise” businesses sell to a company, and these individual-facing services sell to the end user directly.) Ask us if you are unsure if you fit in our scope!
 
-We do avoid, for example, e-commerce and entertainment because they tend to serve people outside their work capacity. There are also other areas that intersect with the future of work where we know too little to be confident, e.g., retail, travel, local, heavy industry, and medical services. We also believe we play a role in how the future of work evolves, so we'll (politely) pass on investing in what may be highly successful companies but don't fit into a vision of a world we want to live in.
+We do avoid, for example, e-commerce and entertainment because they tend to serve people outside their work capacity. There are also other areas that intersect with the future of work where we know too little to be confident, e.g., retail, travel, and some aspects of local, heavy industry, and medical services. We also believe we play a role in how the future of work evolves, so we'll (politely) pass on investing in what may be highly successful companies but don't fit into a vision of a world we want to live in.
 
 ### “The Deck”
 
