@@ -56,7 +56,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [Unfinished Business](https://www.amazon.com/Unfinished-Business-Women-Work-Family/dp/0812984978) (Anne-Marie Slaughter — book)
 
 ### On artificial intelligence
-* [We’re Waiting for the Peter Drucker of Machine Intelligence](https://machinelearnings.co/were-waiting-for-the-peter-drucker-of-machine-intelligence-9b674191b420) (James Cham — article)
+* [We’re Waiting for the Peter Drucker of Machine Intelligence](https://medium.com/@jamescham/were-waiting-for-the-peter-drucker-of-machine-intelligence-9b674191b420) (James Cham — article)
 * [The Current State of Machine Intelligence](http://www.shivonzilis.com/machineintelligence) (Shivon Zilis — article)
 * [The Second Machine Age](https://www.amazon.com/Second-Machine-Age-Prosperity-Technologies/dp/0393350649) (Erik Brynjolfsson and Andrew McAfee — book)
 * [Algorithms of Oppression](https://www.amazon.com/Algorithms-Oppression-Search-Engines-Reinforce/dp/1479837245) (Safiya Umoja Noble — book)
