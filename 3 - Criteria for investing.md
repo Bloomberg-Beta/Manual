@@ -65,11 +65,11 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Capable of building a diverse team and an inclusive culture
 + Background check conducted, any issues discussed
 + Can articulate [what they want to prove next](https://also.roybahat.com/instead-of-a-business-plan-write-a-thesis-plan-6de9de59daaf), and why
-+ In North America, though [geography still matters](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#geography)
++ In North America, though [geography still matters](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md#geography)
 
 ##### Product and market
 + "Makes business work better," without being in financial services
-+ We have judgment to identify a winner in the relevant market (i.e., a fit with one of our [stated investment areas](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#themes)) -- and enough confidence in our judgment that, when things go sideways (as they inevitably do in startups) we'll remain devoted investors
++ We have judgment to identify a winner in the relevant market (i.e., a fit with one of our [stated investment areas](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md#themes)) -- and enough confidence in our judgment that, when things go sideways (as they inevitably do in startups) we'll remain devoted investors
 + Unlikely to compete directly with our other portfolio companies (and verified, if in doubt, by the founder(s) in question)
 
 ##### Business and economics
@@ -78,4 +78,4 @@ What are our criteria for selecting an investment? Investments we want to make g
 
 ##### Deal terms
 + Standard investor protections (i.e., liquidity preference at 1x, blocking right over investments that would get repaid before we do)
-+ Risk-return work for our fund size (e.g., [typical check size](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#the-numbers), [stage](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#seed))
++ Risk-return work for our fund size (e.g., [typical check size](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md#the-numbers), [stage](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md#seed))

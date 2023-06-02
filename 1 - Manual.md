@@ -65,7 +65,7 @@ Market forces, management styles, and technology are enabling smaller companies 
 #### The importance of the individual
 The era of the [superhero](http://masterclass.com) is only beginning. There are now so many tools to support an individual creating, making money, and getting attention for their work. Soon we will see a [one-person billion-dollar company](https://www.businessinsider.com/is-a-one-man-billion-dollar-startup-on-the-horizon-2015-5), as many of the most talented individuals choose to work for themselves — as founders, in the creator economy, as freelancers, or in some other way. Those individuals will be the ones to create new industries and topple old ones. They will need relatively little capital (financial or otherwise). They are the ones we want to [find early](https://www.nytimes.com/2015/07/02/upshot/the-next-mark-zuckerberg-is-not-who-you-might-think.html?_r=0), support with trust as well as dollars, and cheer as they hit escape velocities. 
 
-Our challenge as a society, and [Bloomberg Beta’s challenge as supporters of these individuals](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#inclusion-diversity-equity-and-justice), is to make sustained efforts to include individuals of every background in this success, and to make sure the rewards for innovation are shared broadly among the many people who contribute to what often looks like it was just one “individual” success.
+Our challenge as a society, and [Bloomberg Beta’s challenge as supporters of these individuals](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md#inclusion-diversity-equity-and-justice), is to make sustained efforts to include individuals of every background in this success, and to make sure the rewards for innovation are shared broadly among the many people who contribute to what often looks like it was just one “individual” success.
 
 #### Following software developers' lead
 We believe more work in the future will look like that of software developers today (automating away tasks and harnessing the [flexible](https://arimo.com) [power](http://graphistry.com/) of computers to get [work](https://alation.com/) done), and of securities traders (acting on [quantitative](https://orbitalinsight.com/) [data](http://txn.com/) all day long). We believe much individual work will be done in collaboration with software that makes its own choices. As a result, many people will suffer the [maker vs. manager](http://www.paulgraham.com/makersschedule.html) dilemma that today afflicts mostly software engineers. These individuals will [bring](https://howdy.ai/) [their](https://www.buddybuild.com/) [own](https://influxdata.com/) [tools](https://www.scalyr.com/) (more than just their devices) to work, insisting on the [software](https://www.replit.com/) and [practices](https://launchdarkly.com/) that make them most productive.
@@ -79,7 +79,7 @@ In particular, [the emergence of later-in-life new careers will be a social and 
 
 ## What we look for in a startup
 
-We recognize that seeing early signs of an outlier is hard, and nobody’s cracked how to do it reliably. What we want is a reason to tell ourselves that a startup has a chance to be extraordinary. There are a few areas where we search for signs: certain qualities of a founding team, an early product, areas where we think we can be helpful, and the right moment in a company’s life.  Here is a [complete list](https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md) of the questions we ask ourselves when evaluating startups. 
+We recognize that seeing early signs of an outlier is hard, and nobody’s cracked how to do it reliably. What we want is a reason to tell ourselves that a startup has a chance to be extraordinary. There are a few areas where we search for signs: certain qualities of a founding team, an early product, areas where we think we can be helpful, and the right moment in a company’s life.  Here is a [complete list](https://github.com/Bloomberg-Beta/Manual/blob/main/3%20-%20Criteria%20for%20investing.md) of the questions we ask ourselves when evaluating startups.
 
 ### Founders
 
@@ -97,7 +97,7 @@ We also do background checks on founders where we search public records. Almost 
 
 ### Inclusion, diversity, equity, and justice
 
-We are committed to [making the startup world welcoming](https://www.inclusionintech.com/) to people of all backgrounds -- from our own team, to the founding teams we serve and the companies they build. Startups start with seeing the world anew, and people with different backgrounds see the world differently — so if we want to remake things, we need to enlist people with as wide a range of backgrounds as possible. We're only willing to back founders [capable of building a diverse team and an inclusive culture](https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md#founders-and-team-2).
+We are committed to [making the startup world welcoming](https://www.inclusionintech.com/) to people of all backgrounds -- from our own team, to the founding teams we serve and the companies they build. Startups start with seeing the world anew, and people with different backgrounds see the world differently — so if we want to remake things, we need to enlist people with as wide a range of backgrounds as possible. We're only willing to back founders [capable of building a diverse team and an inclusive culture](https://github.com/Bloomberg-Beta/Manual/blob/main/3%20-%20Criteria%20for%20investing.md#founders-and-team-2).
 
 We focus our sourcing outreach on seeking founders from underrepresented communities. We define diversity broadly, including inherent and acquired forms of diversity like gender, race, ethnicity, sexual orientation, age, socioeconomic class, geography, nationality, education, and others.
 
@@ -278,7 +278,7 @@ We believe in each others’ talents, trust each other enough not to mind when s
 
 Because any one of us is empowered to “yes” a deal, we all share and share alike on helping each others’ deals succeed. “Before the investment, it’s your deal; after the investment, it’s our deal.”
 
-We have posted in public [our criteria for deciding whether to invest](https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md). When we talk about companies, we use those criteria. 
+We have posted in public [our criteria for deciding whether to invest](https://github.com/Bloomberg-Beta/Manual/blob/main/3%20-%20Criteria%20for%20investing.md). When we talk about companies, we use those criteria.
 
 We’ve had investments where the founder only ever met one person on our team before we invested (though, afterward we all want to meet our companies so we can help them). In practice, each of us often asks the founders if they’d like to meet one of our other colleagues because the founders will get a better feel for us, and because we like and respect our colleagues.
 
@@ -351,7 +351,7 @@ Our standard first check is from $300k up to $1M, though we sometimes go up a li
 
 In the early days of our fund, we wrote smaller checks because (like the early days of companies) we believe in burning capital slowly until you find product-market fit. (In our first year, our biggest check was $250,000.)
 
-We have no minimum check size, and have written checks as small as $25,000, especially in what we call a ["flag" investment](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#flag).
+We have no minimum check size, and have written checks as small as $25,000, especially in what we call a ["flag" investment](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md#flag).
 
 We care about price. We avoid having a hard requirement about our ownership percentage. That said, we want to get return on our time in addition to our capital, so we generally want to be able to own a meaningful amount of a company over time. A good rule of thumb for us is that meaningful ownership means roughly 10%. We are comfortable taking the highest possible levels of risk and we believe that founders, and their investors, should be rewarded for that. (We also believe companies are successful when their teams also get generous equity grants that motivate the early team members to create something valuable.)
 
@@ -385,7 +385,7 @@ Because we have relatively big funds (compared to the size of our initial checks
 
 We won’t follow on in every investment, but if we are excited about putting in more money, we might want to follow on for 5x our initial investment -- or more (hence the opportunity fund). That said, there will also be situations where a company evolves in a way where -- even though it is still a great company -- it would benefit more from another investor’s capital than from ours, so we might not always follow on in great companies.
 
-Unlike our initial investments (where we have an "anyone can say yes" [policy](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#how-we-decide)), our follow-investments are consensus-driven decisions. Therefore, we have a much more structured [process](https://bit.ly/betafollowons), where we typically ask founders to present their latest plans to the entire team.
+Unlike our initial investments (where we have an "anyone can say yes" [policy](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md#how-we-decide)), our follow-investments are consensus-driven decisions. Therefore, we have a much more structured [process](https://bit.ly/betafollowons), where we typically ask founders to present their latest plans to the entire team.
 
 ### “Standard terms”
 
