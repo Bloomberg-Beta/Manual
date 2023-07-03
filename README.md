@@ -43,8 +43,6 @@ New York — [731 Lexington Ave.](http://goo.gl/tt3m7f)
 
 ### Work with us
 
-**Platform Associate** — [Apply here](https://bit.ly/BetaPlatformAssociate)
-
 **2023 Fellowship** — Applications are closed currently for our Summer 2023 Fellowship. 
 
 We are an equal opportunity employer and celebrate diversity. We are committed to backing founders and building a team that represents a variety of backgrounds including race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, and disability status. The success of [our work depends on being inclusive](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md#inclusion-diversity-equity-and-justice).
