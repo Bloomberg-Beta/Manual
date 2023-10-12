@@ -174,7 +174,7 @@ We keep track of companies we’ve been in touch with -- just like we’d hope t
 
 ### “Themes”
 
-Our focus is investing in startups that improve work -- and knowledge work in particular.
+Our focus is investing in startups that improve work -- and knowledge work in particular, though we also explore investing in work across all occupations.
 
 We have doubts about the effectiveness of theme-based investing. The best founders can surprise an investor with an unexpected take on a category. That said, there are areas our team has grown to care about and learn about. We only want to invest in companies where we believe we have enough understanding to be enormously valuable to our founders, and to have good enough judgment to support founders through thick and thin. 
 
