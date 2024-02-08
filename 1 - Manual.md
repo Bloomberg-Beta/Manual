@@ -224,19 +224,18 @@ Once we’re meeting in person, you can often leave the laptop closed. We’re t
 If your product is public, you should assume when you walk into the room that we’ve spent the time to play with it.
 
 Some things we tend to say, ask, or think in meetings:
-* We don’t put great faith in the value of advice (including, often, our own) -- the world of users and customers has more to teach a company than any smart, well-intentioned person.
-* What makes you an outlier? (Do you know what makes your company a potential outlier?)
-* Why is this problem important to you, and how will things be better if you succeed?
-* What was the last important skill you learned? (We believe great founders are, paradoxically, both self-confident and exceptionally good learners -- so constantly in need of improvement.) What was the last thing you were wrong about?
-* What do you want out of your investors other than money? (We’re trying to figure out if we can be uniquely helpful.)
-* If a dozen other companies are creating a company right now with this exact idea, how could you still succeed?
-* Who will you pick as your [first customers](https://also.roybahat.com/picking-your-first-customers-the-gradient-of-influence-47858b90adfd)? (This tends to be, in our view, one of the most important early choices founders make.) Who was the last potential customer you spoke with? (Founders who are scared of talking to customers scare us.)
+* What have you proven, and what do you need to [prove next](https://also.roybahat.com/instead-of-a-business-plan-write-a-thesis-plan-6de9de59daaf)?
 * How close do you feel you are to product-market fit? (Here, it's less that we want you to *have* product-market fit, and more that we want to understand how you think about your own progress wherever you are.)
+* Who will you pick as your [first customers](https://also.roybahat.com/picking-your-first-customers-the-gradient-of-influence-47858b90adfd)? (This tends to be, in our view, one of the most important early choices founders make.) Who was the last potential customer you spoke with? (Founders who are scared of talking to customers scare us.) How many times do you think you'll need to talk to a customer to close them? (Some founders understand that [the more time you spend with a customer, the more money you need them to pay you](https://www.linkedin.com/posts/roybahat_startup-sales-if-deal-is-worth-6-figures-activity-7161470199282450432-6hdE).)
+* What was the last important skill you learned? (We believe great founders are, paradoxically, both self-confident and exceptionally good learners -- so constantly in need of improvement.) What was the last thing you were wrong about?
+* What do you want out of your investors other than money? (We’re trying to figure out if we can be uniquely helpful, and we want you to interview us.)
+* If a dozen other companies are creating a company right now with this exact idea, how could you still succeed?
 * Are there any plans you really would like to pursue, but have stopped talking about with investors because you've been told by VCs they are bad ideas? (We often like those plans.)
 * If you're successful, what potential harms might your service cause, and what will you do about that? What's been the most difficult ethical dilemma you've had at work? (Credit to our friends at [Designer Fund](http://designerfund.com) for putting in our heads some of these specific questions about the ethical side of startups.)
 * For what values would you sacrifice making more money? In practice, have you sacrificed financially to live by a principle?
 * How will you build a diverse and inclusive team over the next year? Given your personalities, what culture issues do you think are most likely to arise at your company?
 * Why are you raising money at all? (We find there are plenty of startups who don’t actually need to raise money and, in general, that’s better for them -- even if it means we don’t get to participate.)
+* We [don’t put great faith in the value of advice](http://thisisnotadvice.work) (including, often, our own) -- the world of users and customers has more to teach a company than any smart, well-intentioned person.
 
 We try to avoid some of the, shall we say, less useful questions others ask:
 * What will you do if [big scary company X] competes with you?
