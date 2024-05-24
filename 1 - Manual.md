@@ -441,7 +441,7 @@ One thing many founders don’t realize is how little direct control their inves
 
 ### How we like to communicate with you
 
-It varies. In some cases most of our communication is by email and chat, others where we do a regularly-scheduled call, others where we meet in person from time to time -- it just depends on what the founder wants. At minimum, we generally like to know the number one thing we can help a company with at a given time so we can focus on that.
+It varies. In some cases most of our communication is by email and chat, others where we do a regularly-scheduled call, others where we meet in person from time to time -- it just depends on what the founder wants. And for transparency, you can look at our internal (personal) [Manual of Me](https://docs.google.com/document/d/1QC002ozxF_TkuHJRzPUIfe5bOVHZITlYhuX_lT_C0kU/edit#heading=h.anpmkct3i66j), where each member of our team explains how we like to operate with each other. At minimum in our communications with you, we generally like to know the number one thing we can help a company with at a given time so we can focus on that.
 
 We appreciate getting regular investment updates (e.g., a monthly email) from companies we back, since it creates a background of good understanding that helps us help you. In practice, about two-thirds of companies we back are in this habit.
 
