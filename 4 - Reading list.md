@@ -49,6 +49,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [What’s the Most Difficult CEO Skill? Managing Your own Psychology](https://a16z.com/2011/03/31/whats-the-most-difficult-ceo-skill-managing-your-own-psychology/) (Ben Horowitz — article)
 * [The Hard Thing About Hard Things](https://bookshop.org/p/books/the-hard-thing-about-hard-things-building-a-business-when-there-are-no-easy-answers-ben-horowitz/6432758?ean=9780062273208) (Ben Horowitz — book, which includes the above article)
 * [Who Should a Startup Hire First?](https://shift.newco.co/who-should-a-startup-hire-first-c12b279814aa) (Roy Bahat — article)
+* [The Geek Way](https://bookshop.org/p/books/the-geek-way-the-radical-mindset-transforming-the-future-of-business-andrew-mcafee/17736562?ean=9780316436700) (Andrew McAfee — book)
 * [We Hire the Best, Just Like Everyone Else](https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/) (Jeff Atwood — article)
 * [Do Things That Don't Scale](http://paulgraham.com/ds.html) (Paul Graham — article)
 * [Explore vs. Exploit](https://barryoreilly.com/2015/12/14/lean-pmo-explore-vs-exploit/) (Barry O’Reilly — article)
@@ -82,6 +83,8 @@ The resources on this page cover a range of subjects we find useful to think abo
 ### On the future of work
 * [Why greater worker participation in organized labor is inevitable](https://fortune.com/2021/12/02/unions-greater-worker-participation-organized-labor-inevitable-seiu-tech-industry/) (Fortune — article)
 * [Economic security should be a right](https://also.roybahat.com/economic-security-should-be-a-right-d0789e89d1c4) (Roy Bahat — remarks)
+* [Ghost Work](https://bookshop.org/p/books/ghost-work-how-to-stop-silicon-valley-from-building-a-new-global-underclass-mary-l-gray/16009336?ean=9781328566249) (Mary Gray — book)
+* [The Once and Future Worker](https://bookshop.org/p/books/the-once-and-future-worker-a-vision-for-the-renewal-of-work-in-america-oren-cass/10798311?ean=9781641771047) (Oren Cass — book)
 * [The job training myth](https://also.roybahat.com/the-job-training-myth-1302ce5b7f5) (Roy Bahat — article)
 * [The Age of Dignity](https://bookshop.org/p/books/the-age-of-dignity-preparing-for-the-elder-boom-in-a-changing-america-ai-jen-poo/7400570?ean=9781620970386) (Ai-jen Poo — book)
 * [The future of work in Black America](https://www.mckinsey.com/featured-insights/future-of-work/the-future-of-work-in-black-america#) (Shelley Stewart et. al. — article)
