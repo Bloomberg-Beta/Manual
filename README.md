@@ -55,8 +55,6 @@ Most roles at Bloomberg Beta last for a few years and then people go into a star
 
 Our founders requested an anonymous way to ask us questions, so we're providing it for you, too. [Right here](https://docs.google.com/forms/d/1f0onzfI9HbqlqO_YEbgdOPPqhdS-8nYFnGtUcGT792o/viewform?edit_requested=true).  
 
-Or you can try out [this chatbot](https://app.askdewey.co/thisisnotadvice) some friends made (on all things Bloomberg Beta) to get our team's thoughts about something you need help with or are working on.
-
 (If we've already answered the question in our manual, e.g., "how should I get in touch with you?" then we will respectfully ignore the question.)
 
 ## License
