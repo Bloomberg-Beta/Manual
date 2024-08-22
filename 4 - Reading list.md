@@ -6,8 +6,8 @@ The resources on this page cover a range of subjects we find useful to think abo
 
 * [Co-intelligence: Living and Working with AI](https://bookshop.org/p/books/co-intelligence-living-and-working-with-ai-ethan-mollick/20812081?ean=9780593716717) by Ethan Mollick (book). Shows how executives and others can use AI in practice.
 * [Malleable Software in the Age of AI](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html)  by Geoffrey Litt (blog). As companies compete to integrate AI into their products, everyone asks what's next. Geoffrey's article presents a vision for changes in software development.
-* [Brotopia: Breaking Up the Boys' Club of Silicon Valley](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534) by Emily Chang (book). We’re committed to making the startup world more diverse and inclusive. Emily’s powerful exposé of the hidden (and not-so-hidden) sexism in Silicon Valley examines how we got here and the ways we can move forward to build companies that reflect an open and inclusive world.
-* [Prediction Machines](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670) by Ajay Agrawal, Joshua Gans, and Avi Goldfarb (book). From our friends at the University of Toronto, a simple framework from economics that (we think) is one of the smartest takes on business strategy in the age of AI.
+* [Brotopia: Breaking Up the Boys' Club of Silicon Valley](https://bookshop.org/p/books/brotopia-breaking-up-the-boys-club-of-silicon-valley-emily-chang/12083505?ean=9780525540175) by Emily Chang (book). We’re committed to making the startup world more diverse and inclusive. Emily’s powerful exposé of the hidden (and not-so-hidden) sexism in Silicon Valley examines how we got here and the ways we can move forward to build companies that reflect an open and inclusive world.
+* [Prediction Machines](https://bookshop.org/p/books/prediction-machines-updated-and-expanded-the-simple-economics-of-artificial-intelligence-ajay-agrawal/18058215?ean=9781647824679) by Ajay Agrawal, Joshua Gans, and Avi Goldfarb (book). From our friends at the University of Toronto, a simple framework from economics that (we think) is one of the smartest takes on business strategy in the age of AI.
 * [AI Superpowers: China, Silicon Valley, and the New World Order](https://bookshop.org/p/books/ai-superpowers-china-silicon-valley-and-the-new-world-order-kai-fu-lee/6960836) by Kai-Fu Lee (book). Experts predict AI will impact 60% of jobs in advanced economies. This article offers a perspective on AI's impending world-changing effects.
 * [Cognitive Distortions of Founders](https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b) by Michael Dearing (article). When evaluating early-stage startups, we seek reasons to believe a founding team is extraordinary. We’re inspired by this brief look into how some cognitive biases make for founders with superpowers.
 * [Netflix Culture Deck](https://hbr.org/2014/01/how-netflix-reinvented-hr) (article). Netflix famously released their original culture deck in 2009 and built a high-performance culture by emphasizing honesty and open communication. We believe transparency is the first step to building trust with founders — who we see as our customers.
@@ -36,11 +36,10 @@ The resources on this page cover a range of subjects we find useful to think abo
 ### On practical aspects of building a company
 * [Instead of a Business Plan, write a Thesis Plan](https://also.roybahat.com/instead-of-a-business-plan-write-a-thesis-plan-6de9de59daaf) (Roy Bahat — article)
 * [Default Alive or Default Dead](http://www.paulgraham.com/aord.html) (Paul Graham — article)
-* [The Lean Startup](http://theleanstartup.com/) (Eric Ries — book)
+* [The Lean Startup](https://bookshop.org/p/books/the-lean-startup-how-today-s-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses-eric-ries/9422262?ean=9780307887894) (Eric Ries — book)
 * [Growth is Optional](https://brianbalfour.com/essays/growth-is-optional) (Brian Balfour — article)
 * [SaaS Metrics – A Guide to Measuring and Improving what Matters](https://www.forentrepreneurs.com/saas-metrics-2/) (For Entrepreneurs — article)
 * [The Most Important Metrics to Assess the State of a SaaS Startup](https://www.saastr.com/saastr-podcast-113-dan-adika-founder-ceo-walkme-shares-the-most-important-metrics-to-assess-the-state-of-a-saas-startup/) (SaaStr — podcast)
-* [8 SaaS Metrics That VCs Want To Know](http://www.insightsquared.com/2015/12/vc-influencers-top-saas-metrics/) (Insightsquared — article)
 * [SaaS Financial Plan 2.0](https://christophjanz.blogspot.com/2016/03/saas-financial-plan-20.html) (The Angel VC — article with template)
 * [Stripe Atlas Guides](https://stripe.com/atlas/guides) (website)
 * [Zero To One](https://bookshop.org/p/books/zero-to-one-notes-on-startups-or-how-to-build-the-future-peter-thiel/9402001?ean=9780804139298) (Peter Thiel — book)
@@ -48,7 +47,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 ### On hiring and company culture
 * [What’s the Most Difficult CEO Skill? Managing Your own Psychology](https://a16z.com/2011/03/31/whats-the-most-difficult-ceo-skill-managing-your-own-psychology/) (Ben Horowitz — article)
 * [The Hard Thing About Hard Things](https://bookshop.org/p/books/the-hard-thing-about-hard-things-building-a-business-when-there-are-no-easy-answers-ben-horowitz/6432758?ean=9780062273208) (Ben Horowitz — book, which includes the above article)
-* [Who Should a Startup Hire First?](https://shift.newco.co/who-should-a-startup-hire-first-c12b279814aa) (Roy Bahat — article)
+* [Who Should a Startup Hire First?](https://medium.com/newco/who-should-a-startup-hire-first-c12b279814aa) (Roy Bahat — article)
 * [The Geek Way](https://bookshop.org/p/books/the-geek-way-the-radical-mindset-transforming-the-future-of-business-andrew-mcafee/17736562?ean=9780316436700) (Andrew McAfee — book)
 * [We Hire the Best, Just Like Everyone Else](https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/) (Jeff Atwood — article)
 * [Do Things That Don't Scale](http://paulgraham.com/ds.html) (Paul Graham — article)
@@ -61,10 +60,10 @@ The resources on this page cover a range of subjects we find useful to think abo
 
 ### On artificial intelligence
 * [We’re Waiting for the Peter Drucker of Machine Intelligence](https://medium.com/@jamescham/were-waiting-for-the-peter-drucker-of-machine-intelligence-9b674191b420) (James Cham — article)
-* [The Current State of Machine Intelligence](http://www.shivonzilis.com/machineintelligence) (Shivon Zilis — article)
+* [The Current State of Machine Intelligence](https://medium.com/@shivon/the-current-state-of-machine-intelligence-f76c20db2fe1) (Shivon Zilis — article)
 * [The Second Machine Age](https://bookshop.org/p/books/the-second-machine-age-work-progress-and-prosperity-in-a-time-of-brilliant-technologies-erik-brynjolfsson/8451722?ean=9780393350647) (Erik Brynjolfsson and Andrew McAfee — book)
 * [Algorithms of Oppression](https://bookshop.org/p/books/algorithms-of-oppression-how-search-engines-reinforce-racism-safiya-umoja-noble/966821?ean=9781479837243) (Safiya Umoja Noble — book)
-* [ImportAI](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) (Jack Clark — newsletter)
+* [ImportAI](https://jack-clark.net/) (Jack Clark — newsletter)
 * [The Man Who Lied to His Laptop](https://bookshop.org/p/books/the-man-who-lied-to-his-laptop-what-we-can-learn-about-ourselves-from-our-machines-clifford-nass/16644013?ean=9781617230042) (Clifford Nass with Corina Yen — book)
 * [Robot & Frank](https://www.imdb.com/title/tt1990314/) (Jake Schreier — film)
 
@@ -74,7 +73,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [The Information](https://www.theinformation.com/newsletter) (newsletter)
 
 ### On the history of technology; technology and the public interest
-* [Troublemakers: Silicon Valley’s Coming of Age](https://bookshop.org/p/books/troublemakers-silicon-valley-s-coming-of-age-leslie-berlin/7060904?ean=9781451651515/) (Leslie Berlin — book)
+* [Troublemakers: Silicon Valley’s Coming of Age](https://bookshop.org/p/books/troublemakers-silicon-valley-s-coming-of-age-leslie-berlin/7060904?ean=9781451651515) (Leslie Berlin — book)
 * [Hackers](https://bookshop.org/p/books/hackers-steven-levy/7862626?ean=9781449388393) (Steven Levy — book)
 * [Technological Elites, the Meritocracy, and Post-Racial Myths in Silicon Valley](https://escholarship.org/uc/item/7z3629nh) (Safiya Umoja Noble and Sarah Roberts — article)
 * [Founders at Work: Stories of Startups' Early Days](https://bookshop.org/p/books/founders-at-work-stories-of-startups-early-days-jessica-livingston/7456731?ean=9781430210788) (Jessica Livingston — book)
@@ -100,5 +99,5 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [Future of Work in California](https://www.labor.ca.gov/wp-content/uploads/sites/338/2021/02/ca-future-of-work-report.pdf) (Recommendations from the Governor's commission on work in California where Roy Bahat served as a member, about creating widespread participation in prosperity)
 
 ### On Bloomberg Beta's partners
-* [Books that matter to me](https://www.amazon.com/ideas/amzn1.account.AEQE3R3FDPUUFV572PJTM3TJBJMQ/2VV8GXDPAWZBH?type=explore&ref=idea_cp_vl_ov_d) (Roy Bahat — list)
-* [How can we build a win-win society?](https://www.therealignment.fm/187-roy-bahat-how-can-we-build-a-win-win-society/) (Roy Bahat — podcast)
+* [Not quite a newsletter](https://roybahat.us3.list-manage.com/subscribe?u=3363c1a2867cfc4e7e8619f51&id=efdffdf9e5) (Roy Bahat — things Roy writes, says, and kicks around in his head once every few weeks)
+* [How can we build a win-win society?](https://www.youtube.com/watch?v=u8lS1aDjvkc) (Roy Bahat — podcast)
