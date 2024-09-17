@@ -84,6 +84,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [Economic security should be a right](https://also.roybahat.com/economic-security-should-be-a-right-d0789e89d1c4) (Roy Bahat — remarks)
 * [Ghost Work](https://bookshop.org/p/books/ghost-work-how-to-stop-silicon-valley-from-building-a-new-global-underclass-mary-l-gray/16009336?ean=9781328566249) (Mary Gray — book)
 * [The Once and Future Worker](https://bookshop.org/p/books/the-once-and-future-worker-a-vision-for-the-renewal-of-work-in-america-oren-cass/10798311?ean=9781641771047) (Oren Cass — book)
+* [Hijacked](https://bookshop.org/p/books/hijacked-how-neoliberalism-turned-the-work-ethic-against-workers-and-how-workers-can-take-it-back-elizabeth-anderson/19594757?ean=9781009275439) (Elizabeth Anderson — book)
 * [The job training myth](https://also.roybahat.com/the-job-training-myth-1302ce5b7f5) (Roy Bahat — article)
 * [The Age of Dignity](https://bookshop.org/p/books/the-age-of-dignity-preparing-for-the-elder-boom-in-a-changing-america-ai-jen-poo/7400570?ean=9781620970386) (Ai-jen Poo — book)
 * [The future of work in Black America](https://www.mckinsey.com/featured-insights/future-of-work/the-future-of-work-in-black-america#) (Shelley Stewart et. al. — article)
