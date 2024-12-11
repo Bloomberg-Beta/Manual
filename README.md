@@ -26,8 +26,6 @@ Angela Martin — [Twitter](https://twitter.com/angkmartin) // [LinkedIn](https:
 
 Amber Yang — [Twitter](https://twitter.com/theamberyang) // [LinkedIn](https://www.linkedin.com/in/amber-yang/)
 
-Maria Sharp — [Twitter](https://twitter.com/maria_d_sharp) // [LinkedIn](https://www.linkedin.com/in/maria-guadalupe-sharp-991966160/)
-
 Lori Berenberg — [Twitter](https://twitter.com/loriberenberg) // [LinkedIn](https://www.linkedin.com/in/loriberenberg/)
 
 Julianne Fables — [Twitter](https://twitter.com/jafables) // [LinkedIn](https://www.linkedin.com/in/juliannefables/)
