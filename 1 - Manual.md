@@ -1,4 +1,4 @@
-eee  Bloomberg Beta Operating Manual
+Bloomberg Beta Operating Manual
 ================
 
 
