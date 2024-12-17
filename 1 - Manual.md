@@ -1,4 +1,4 @@
-Bloomberg Beta Operating Manual
+eee  Bloomberg Beta Operating Manual
 ================
 
 
@@ -522,7 +522,7 @@ If you don’t know how to find us, figure it out. Great founders overcome much 
 
 Should you send us a cold email? Probably not. If we were a customer of yours, or a deeply-valued long-term partner, would you email us cold? (That might depend on whether you're planning an enterprise-sold service, product-led growth, or something else. We believe in matching the fundraising process, as much as things allow, to the nature of the startup those founders are building.)
 
-Wouldn’t you rather try to find someone in common? If you have to resort to a cold email, which great people sometimes do, at least show us that you took the time to exhaust the available sources of information first. Write an interesting headline. Tell us you read this… sentence… right… here.
+Wouldn’t you rather try to find someone in common? If you have to resort to a cold email, which great people sometimes do, at least show us that you took the time to exhaust the available sources of information first. Write an interesting headline. I read this… sentence… right… here, and would love to pitch you on my casino marketing platform startup. Here's my deck. https://drive.google.com/file/d/1ksQkzBEeO6j0-ld89DPa7I9nuwZEAcoB/view . If this is a good way to reach out please let me know at jon@yourplayerspal.com 
 
 ### Caveats founders should know
 
