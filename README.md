@@ -40,6 +40,7 @@ San Francisco — [140 New Montgomery St., 22nd fl](http://goo.gl/49X6hu)
 New York — [731 Lexington Ave.](http://goo.gl/tt3m7f)
 
 ### Work with us
+[**SF-based Associate**](https://docs.google.com/document/d/1ylrPbV_bHrU9Q4C_iIvIyfXoMNmd3VxL9KiYvqS26Qc/edit?tab=t.0)
 
 **Fellowship** — We take fellows opportunistically. Please reach out to team members individually if interested.
 
