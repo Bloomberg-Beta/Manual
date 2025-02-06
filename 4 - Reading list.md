@@ -49,6 +49,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [What’s the Most Difficult CEO Skill? Managing Your own Psychology](https://a16z.com/2011/03/31/whats-the-most-difficult-ceo-skill-managing-your-own-psychology/) (Ben Horowitz — article)
 * [The Hard Thing About Hard Things](https://bookshop.org/p/books/the-hard-thing-about-hard-things-building-a-business-when-there-are-no-easy-answers-ben-horowitz/6432758?ean=9780062273208) (Ben Horowitz — book, which includes the above article)
 * [Who Should a Startup Hire First?](https://medium.com/newco/who-should-a-startup-hire-first-c12b279814aa) (Roy Bahat — article)
+* [Creativity, Inc.](https://bookshop.org/p/books/creativity-inc-the-expanded-edition-overcoming-the-unseen-forces-that-stand-in-the-way-of-true-inspiration-amy-wallace/19439198) (Ed Catmull and Amy Wallace — book)
 * [The Geek Way](https://bookshop.org/p/books/the-geek-way-the-radical-mindset-transforming-the-future-of-business-andrew-mcafee/17736562?ean=9780316436700) (Andrew McAfee — book)
 * [We Hire the Best, Just Like Everyone Else](https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/) (Jeff Atwood — article)
 * [Do Things That Don't Scale](http://paulgraham.com/ds.html) (Paul Graham — article)
