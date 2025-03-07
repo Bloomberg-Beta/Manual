@@ -63,7 +63,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 ### On artificial intelligence
 * [We’re Waiting for the Peter Drucker of Machine Intelligence](https://medium.com/@jamescham/were-waiting-for-the-peter-drucker-of-machine-intelligence-9b674191b420) (James Cham — article)
 * [Open challenges for AI engineering](https://simonwillison.net/2024/Jun/27/ai-worlds-fair/) (Simon Willison — article)
-* [Here comes the Muybridge camera moment but for text](https://interconnected.org/home/2024/05/31/camera) (Matt Webb — article)
+* [Here comes the Muybridge camera moment but for text. Photoshop too](https://interconnected.org/home/2024/05/31/camera) (Matt Webb — article)
 * [The Current State of Machine Intelligence](https://medium.com/@shivon/the-current-state-of-machine-intelligence-f76c20db2fe1) (Shivon Zilis — article)
 * [The Second Machine Age](https://bookshop.org/p/books/the-second-machine-age-work-progress-and-prosperity-in-a-time-of-brilliant-technologies-erik-brynjolfsson/8451722?ean=9780393350647) (Erik Brynjolfsson and Andrew McAfee — book)
 * [Algorithms of Oppression](https://bookshop.org/p/books/algorithms-of-oppression-how-search-engines-reinforce-racism-safiya-umoja-noble/966821?ean=9781479837243) (Safiya Umoja Noble — book)
