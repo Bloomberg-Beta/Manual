@@ -24,11 +24,13 @@ Roy Bahat — [Twitter](https://twitter.com/roybahat) // [LinkedIn](https://www.
 
 Angela Martin — [Twitter](https://twitter.com/angkmartin) // [LinkedIn](https://www.linkedin.com/in/martinangela/) 
 
-Amber Yang — [Twitter](https://twitter.com/theamberyang) // [LinkedIn](https://www.linkedin.com/in/amber-yang/)
-
 Lori Berenberg — [Twitter](https://twitter.com/loriberenberg) // [LinkedIn](https://www.linkedin.com/in/loriberenberg/)
 
 Julianne Fables — [Twitter](https://twitter.com/jafables) // [LinkedIn](https://www.linkedin.com/in/juliannefables/)
+
+Moraa Onyonka — [LinkedIn](https://www.linkedin.com/in/moraaonyonka/)
+
+Beth Kroman — [LinkedIn](https://www.linkedin.com/in/beth-kroman/)
 
 Alison Dyer
 
@@ -46,7 +48,7 @@ New York — [731 Lexington Ave.](http://goo.gl/tt3m7f)
 
 We are an equal opportunity employer and celebrate diversity. We are committed to backing founders and building a team that represents a variety of backgrounds including race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, and disability status. The success of [our work depends on being inclusive](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md#inclusion-diversity-equity-and-justice).
 
-Most roles at Bloomberg Beta last for a few years and then people go into a startup -- or start one. Our alumni have worked everywhere from [Opendoor](https://www.linkedin.com/in/danstrickland/), [Facebook](https://www.linkedin.com/in/catherinedong/), and [On Deck](https://www.linkedin.com/in/minnkim/), to working for [Elon Musk](https://www.linkedin.com/in/shivonzilis/), other [VC's](https://www.linkedin.com/in/morganpolotan/), and international [media conglomerates](https://www.linkedin.com/in/valentinazarya/), as well as executives at [early](https://www.linkedin.com/in/harold-e-penson/) [companies](https://www.linkedin.com/in/friederike-reuter/), and starting companies in areas like [cybersecurity](https://www.linkedin.com/in/harleysugarman/) and [womens' empowerment](https://www.linkedin.com/in/shainaconners/). 
+Most roles at Bloomberg Beta last for a few years and then people go into a startup -- or start one. Our alumni have worked everywhere from [Opendoor](https://www.linkedin.com/in/danstrickland/), [Facebook](https://www.linkedin.com/in/catherinedong/), and [On Deck](https://www.linkedin.com/in/minnkim/), to working for [Elon Musk](https://www.linkedin.com/in/shivonzilis/), other [VC's](https://www.linkedin.com/in/morganpolotan/), and international [media conglomerates](https://www.linkedin.com/in/valentinazarya/), as well as executives at [early](https://www.linkedin.com/in/harold-e-penson/) [companies](https://www.linkedin.com/in/friederike-reuter/), and starting companies in areas like [cybersecurity](https://www.linkedin.com/in/harleysugarman/), [disability tech](https://www.linkedin.com/in/sydney-tiedt/), and [women's empowerment](https://www.linkedin.com/in/shainaconners/). 
 
 *(Thanks [Textio](https://textio.com/blog/how-to-craft-a-sincere-equal-opportunity-employer-statement/28880187459) for the inspiration on how to craft an equal opportunity statement.)*
 
@@ -57,4 +59,4 @@ Our founders requested an anonymous way to ask us questions, so we're providing 
 (If we've already answered the question in our manual, e.g., "how should I get in touch with you?" then we will respectfully ignore the question.)
 
 ## License
-This manual is open sourced under a [Creative Commons license](http://creativecommons.org/licenses/by/3.0/deed.en_US).
+This manual is open sourced under a [Creative Commons license](https://creativecommons.org/licenses/by/4.0/deed.en).
