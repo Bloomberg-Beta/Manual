@@ -36,6 +36,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 
 ### On practical aspects of building a company
 * [Instead of a Business Plan, write a Thesis Plan](https://also.roybahat.com/instead-of-a-business-plan-write-a-thesis-plan-6de9de59daaf) (Roy Bahat — article)
+* [The Heart of Innovation](https://bookshop.org/p/books/the-heart-of-innovation-a-field-guide-for-navigating-to-authentic-demand-matt-chanoff/19734789?ean=9781523005703&next=t) (Matt Chanoff, Merrick Furst, and Daniel Sabbah -- book)
 * [Default Alive or Default Dead](http://www.paulgraham.com/aord.html) (Paul Graham — article)
 * [The Lean Startup](https://bookshop.org/p/books/the-lean-startup-how-today-s-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses-eric-ries/9422262?ean=9780307887894) (Eric Ries — book)
 * [Growth is Optional](https://brianbalfour.com/essays/growth-is-optional) (Brian Balfour — article)
