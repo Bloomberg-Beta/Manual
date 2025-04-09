@@ -24,19 +24,19 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [Myths about how VCs think](https://www.youtube.com/watch?v=VfaUG6OPLk0) (Roy Bahat — podcast on This Week in Startups)
 * [Cash Management Post-SVB](https://www.heavybit.com/press/key-banking-cash-management-steps-march-2023) (Heavybit — blog post)
 * [The Power Law](https://bookshop.org/p/books/the-power-law-venture-capital-and-the-making-of-the-new-future-sebastian-mallaby/16963670?ean=9780525559993) (Sebastian Mallaby — book)
-* [Venture Deals](https://bookshop.org/p/books/venture-deals-be-smarter-than-your-lawyer-and-venture-capitalist-brad-feld/7390385?ean=9781119594826) by Brad Feld (book). *The* book on venture capital -- learn about how VCs structure investments.
+* [Venture Deals](https://bookshop.org/p/books/venture-deals-be-smarter-than-your-lawyer-and-venture-capitalist-brad-feld/7390385?ean=9781119594826) (Brad Feld — book)
 
 
 ### On going to market
 * [Don't Launch](http://www.startuplessonslearned.com/2009/03/dont-launch.html) (Eric Ries — article)
 * [Picking your first customers: the gradient of influence](https://also.roybahat.com/picking-your-first-customers-the-gradient-of-influence-47858b90adfd) (Roy Bahat — article)
 * [The Burn Multiple](https://sacks.substack.com/p/the-burn-multiple-51a7e43cb200) (David Sacks — article) 
-* [The Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7) (Ameet Ranadive  — article). The classic principle on how to communicate in any business setting.
+* [The Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7) (Ameet Ranadive  — article)
 * [Andrew Chen](http://andrewchen.co/) (newsletter)
 
 ### On practical aspects of building a company
 * [Instead of a Business Plan, write a Thesis Plan](https://also.roybahat.com/instead-of-a-business-plan-write-a-thesis-plan-6de9de59daaf) (Roy Bahat — article)
-* [The Heart of Innovation](https://bookshop.org/p/books/the-heart-of-innovation-a-field-guide-for-navigating-to-authentic-demand-matt-chanoff/19734789?ean=9781523005703&next=t) (Matt Chanoff, Merrick Furst, and Daniel Sabbah -- book)
+* [The Heart of Innovation](https://bookshop.org/p/books/the-heart-of-innovation-a-field-guide-for-navigating-to-authentic-demand-matt-chanoff/19734789?ean=9781523005703&next=t) (Matt Chanoff, Merrick Furst, and Daniel Sabbah — book)
 * [Default Alive or Default Dead](http://www.paulgraham.com/aord.html) (Paul Graham — article)
 * [The Lean Startup](https://bookshop.org/p/books/the-lean-startup-how-today-s-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses-eric-ries/9422262?ean=9780307887894) (Eric Ries — book)
 * [Growth is Optional](https://brianbalfour.com/essays/growth-is-optional) (Brian Balfour — article)
@@ -101,7 +101,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [Concrete Economics](https://bookshop.org/p/books/concrete-economics-the-hamilton-approach-to-economic-growth-and-policy-stephen-s-cohen/10608749?ean=9781422189818) (Stephen Cohen and Bradford DeLong — book)
 * [Raising the Floor](https://bookshop.org/p/books/raising-the-floor-how-a-universal-basic-income-can-renew-our-economy-and-rebuild-the-american-dream-andy-stern/7341317?ean=9781610396257) (Andy Stern — book)
 * [Jump-Starting America: How Breakthrough Science Can Revive Economic Growth and the American Dream](https://bookshop.org/p/books/jump-starting-america-how-breakthrough-science-can-revive-economic-growth-and-the-american-dream-simon-johnson/18831522?ean=9781541762480) (Jonathan Gruber and Simon Johnson — book)
-* [Shift Commission on Work, Workers, and Technology — Report of Findings](https://docsend.com/view/4wizcjb) (write-up on this project Bloomberg led with New America, includes a bibliography)
+* [Shift Commission on Work, Workers, and Technology — Report of Findings](https://docsend.com/view/4wizcjb) (write-up on a project Bloomberg led with New America, includes a bibliography)
 * [Future of Work in California](https://www.labor.ca.gov/wp-content/uploads/sites/338/2021/02/ca-future-of-work-report.pdf) (Recommendations from the Governor's commission on work in California where Roy Bahat served as a member, about creating widespread participation in prosperity)
 
 ### On Bloomberg Beta's partners
