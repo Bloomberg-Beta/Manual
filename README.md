@@ -34,7 +34,7 @@ Beth Kroman — [LinkedIn](https://www.linkedin.com/in/beth-kroman/)
 
 Amy Tam — [LinkedIn](https://www.linkedin.com/in/amytam01/)
 
-Alison Dyer
+Cate Taylor — [LinkedIn](https://www.linkedin.com/in/catetaylor4/)
 
 Shivon Zilis (advisor) — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/in/shivonzilis/)
 
@@ -48,7 +48,7 @@ New York — [731 Lexington Ave.](http://goo.gl/tt3m7f)
 
 **Fellowship** — We take fellows opportunistically. Please reach out to team members individually if interested.
 
-We are an equal opportunity employer and celebrate diversity. We are committed to backing founders and building a team that represents a variety of backgrounds including race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, and disability status. The success of [our work depends on being inclusive](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md#inclusion-diversity-equity-and-justice).
+We are an equal opportunity employer and celebrate inclusivity. We are committed to backing founders and building a team that represents a variety of backgrounds including but not limited to race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, and disability status. The success of [our work depends on being inclusive](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md#inclusion-diversity-equity-and-justice).
 
 Most roles at Bloomberg Beta last for a few years and then people go into a startup -- or start one. Our alumni have worked everywhere from [Opendoor](https://www.linkedin.com/in/danstrickland/), [Facebook](https://www.linkedin.com/in/catherinedong/), and [On Deck](https://www.linkedin.com/in/minnkim/), to working for [Elon Musk](https://www.linkedin.com/in/shivonzilis/), other [VC's](https://www.linkedin.com/in/morganpolotan/), and international [media conglomerates](https://www.linkedin.com/in/valentinazarya/), as well as executives at [early](https://www.linkedin.com/in/harold-e-penson/) [companies](https://www.linkedin.com/in/friederike-reuter/), and starting companies in areas like [cybersecurity](https://www.linkedin.com/in/harleysugarman/), [disability tech](https://www.linkedin.com/in/sydney-tiedt/), and [women's empowerment](https://www.linkedin.com/in/shainaconners/). 
 
