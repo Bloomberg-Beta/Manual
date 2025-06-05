@@ -32,7 +32,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Miserly with capital until the returns are clear
 + Fundraising savvy (which can make later capital more or less expensive)
 + Differentiated value proposition for talent (e.g., only place to work on a problem, unique founder who is a reason to join the team)
-+ Diverse founding team
++ An inclusive culture
 + If business shows early signs of success, can founders go the distance?
 + Talking with founders gives us goosebumps
 
