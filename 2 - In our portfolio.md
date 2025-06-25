@@ -47,7 +47,7 @@ Curious [why a founder would want to work with us](https://www.youtube.com/watch
 | [Evan Gilman](https://linkedin.com/in/evan2645), [Eli Nesterov](https://www.linkedin.com/in/elinesterov/)                                                                             | **[Spirl](https://spirl.com/)**                                                         
 |[Anthony Goldbloom](https://www.linkedin.com/in/anthonygoldbloom/), [Ben Hamner](https://www.linkedin.com/in/ben-hamner-98759712/)                                                                             | **[Sumble](https://sumble.com/)**                                                         |
 | [Matt Lackey](https://www.linkedin.com/in/matt-lackey-37177374/), [Keenan Cresslan](https://www.linkedin.com/in/keenancresslan/), [Avi Zenilman](https://www.linkedin.com/in/avi-zenilman-267925a/), Justin Burchard | **[Tavern Research](https://tavernresearch.com/)** |
-| [Josh Ogundu](https://www.linkedin.com/in/joshua-ogundu-b92b835b) | **[TradeWay](https://tradesaretheway.com/)** |
+| [Josh Ogundu](https://www.linkedin.com/in/joshua-ogundu-b92b835b) | **[Tradeway](https://tradesaretheway.com/)** |
 | [Anna Berger](https://www.linkedin.com/in/annajberger/), [Cara Kessler](https://www.linkedin.com/in/carakessler/)                                                                             | **[Trayd](https://www.buildtrayd.com/)**                                                         
 [Michelle Volberg](https://www.linkedin.com/in/michellerosaline/) | **[Twill](https://www.withtwill.com/)** |
 | [Antonio Goncalves](https://www.linkedin.com/in/antoniogonc/), [Jake Vollkommer](https://www.linkedin.com/in/jakevollkommer/)              | **[Vallor](https://www.vallor.ai/)**
