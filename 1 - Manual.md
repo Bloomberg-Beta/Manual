@@ -347,7 +347,7 @@ We care about price. We avoid having a hard requirement about our ownership perc
 
 We also believe “the price is the price” -- we won’t ask for unusual discounts for ourselves with strange terms like participating preferred equity. (Sometimes negotiating over the size of an employee option pool can become a discussion about price, and we're aware of that.)
 
-The average pre-money valuation of our recent investments was $25M, though the range was wide depending on the company's state, with pre-money valuations ranging from $2-15M. (We update this number from time to time, at a pace that avoids inadvertently disclosing the terms of any one deal. This average includes only investments our first money into a company -- we lack a way to make our small number of later-stage investments comparable.)
+The average pre-money valuation of our recent investments was $25M, though the range was wide depending on the company's state, with pre-money valuations ranging from $10-50M. (We update this number from time to time, at a pace that avoids inadvertently disclosing the terms of any one deal. This average includes only our first money into a company -- we lack a way to make our small number of later-stage investments comparable.)
 
 No, not every VC wants to own 20% of your company. In fact, we think at seed stages too much ownership by the early investors can ruin the cap table -- making it difficult for the founders to make money, or later investors to own enough of the company when the company needs bigger dollars to scale.
 
