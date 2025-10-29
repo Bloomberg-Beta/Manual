@@ -4,7 +4,7 @@ We are actively backing new companies. That said, many of our companies prefer t
 
 Below are our (publicly announced) investments, ordered by fund. While we know that many readers of this page want to know our best-performing companies, it's important to us to be transparent about all our investments -- all founders we've backed are our customers. Our most important metric is founder NPS; every founder gets the same vote in deciding our reputation. If you're interested to know which companies the broader community finds most interesting, see our [Wikipedia page](https://en.wikipedia.org/wiki/Bloomberg_Beta).
 
-Curious [why a founder would want to work with us](https://www.youtube.com/watch?v=HWgd-2d_Cpw), hear directly from them [here](https://workingwithbloombergbeta.capsule.video/) or keep reading for a few excerpts:
+Curious [why a founder would want to work with us](https://bit.ly/meet-betafund), hear directly from them [here](https://workingwithbloombergbeta.capsule.video/) or keep reading for a few excerpts:
 
 + **Kieran Snyder, Textio**: “Within a few minutes of meeting us -- at a time when we didn't yet have a product -- Roy made observations about our eventual go-to-market that were so insightful that we knew we had to work with him.” 
 + **Scott Heiferman, Meetup**: "Karin's been investing in the New York tech community since before it was cool, before it was big. Karin is a reason why New York is on the map in today's tech economy, she's in it for the long haul. She's always there for entrepreneurs."
