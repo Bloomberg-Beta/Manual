@@ -19,7 +19,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Timing -- that One Moment is clearly now
 
 ##### Business and economics
-+ Surprisingly profitable unit economics
++ We have surprisingly profitable unit economics
 
 ##### Deal terms
 + None. (Good deal terms are never a reason to invest in and of themselves.)
