@@ -28,8 +28,6 @@ Lori Berenberg — [Twitter](https://twitter.com/loriberenberg) // [LinkedIn](ht
 
 Julianne Fables — [Twitter](https://twitter.com/jafables) // [LinkedIn](https://www.linkedin.com/in/juliannefables/)
 
-Moraa Onyonka — [LinkedIn](https://www.linkedin.com/in/moraaonyonka/)
-
 Beth Kroman — [LinkedIn](https://www.linkedin.com/in/beth-kroman/)
 
 Amy Tam — [LinkedIn](https://www.linkedin.com/in/amytam01/)
