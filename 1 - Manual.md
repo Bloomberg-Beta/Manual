@@ -207,40 +207,38 @@ Put another way, a five-year financial plan is mostly useless for early stage co
 
 We would love to see all of it, whether perfect or otherwise so give us anything you've already made -- financial model ([and here's how we think about building models](https://also.roybahat.com/making-a-financial-model-for-your-early-stage-startup-76630da262a3?source=rss-9ed065b7bce9------2)), deck, background materials. It helps us make sure our conversation is more dialogue than exposition.
 
-### In-person meetings
+### Meeting with us
 
-Once we’re meeting in person, you can often leave the laptop closed. We’re trying to get a sense of you as a founder, ask you hard questions and see how you respond.
+Before we set up time to meet, we often request something in writing (a deck, or a memo) and ask a few questions over email, to get a better sense for whether we might be a fit, and to save you time in case we’re a mismatch. Once we’re meeting, we prefer to have a conversation instead of sitting back in a presentation. 
 
-If your product is public, you should assume when you walk into the room that we’ve spent the time to play with it.
+We believe you’re also interviewing us, and we want you to see if you think we’d work well together. We often start by asking “what else do you want to know about us?” We assume founders have done some homework and prepared for the meeting by looking us up. On our end, during our meetings we’re trying to get a sense of you as a founder, ask you questions (often hard questions!), and see how you respond.
 
-Some things we tend to say, ask, or think in meetings:
+If you have a public product (or you send us your demo), you can assume by the time we meet that we’ve spent the time to play with it.
+
+Things we tend to say, ask, or think in meetings (or before!):
 * What have you proven, and what do you need to [prove next](https://also.roybahat.com/instead-of-a-business-plan-write-a-thesis-plan-6de9de59daaf)?
-* How close do you feel you are to product-market fit? (Here, it's less that we want you to *have* product-market fit, and more that we want to understand how you think about your own progress wherever you are.)
-* Who will you pick as your [first customers](https://also.roybahat.com/picking-your-first-customers-the-gradient-of-influence-47858b90adfd)? (This tends to be, in our view, one of the most important early choices founders make.) Who was the last potential customer you spoke with? (Founders who are scared of talking to customers scare us.) How many times do you think you'll need to talk to a customer to close them? (Some founders understand that [the more time you spend with a customer, the more money you need them to pay you](https://www.linkedin.com/posts/roybahat_startup-sales-if-deal-is-worth-6-figures-activity-7161470199282450432-6hdE).)
+* How quickly do you plan to spend money? And what do you hope to prove after having spent [half the money](https://also.roybahat.com/making-a-financial-model-for-your-early-stage-startup-76630da262a3)?
+* Who will you pick as your [first customers](https://also.roybahat.com/picking-your-first-customers-the-gradient-of-influence-47858b90adfd)? (This tends to be, in our view, one of the most important early choices founders make, and we expect [focus](https://also.roybahat.com/lies-we-tell-ourselves-about-focus-75e59e88072d).) How many times do you think you'll need to talk to a customer to close them? (Some founders understand that [the more time you spend with a customer, the more money you need them to pay you](https://www.linkedin.com/posts/roybahat_startup-sales-if-deal-is-worth-6-figures-activity-7161470199282450432-6hdE).)
 * Why are you raising money at all? (We find there are plenty of startups who don’t actually need to raise money and, in general, that’s better for them -- even if it means we don’t get to participate.)
-* What do you want out of your investors other than money? (We’re trying to figure out if we can be uniquely helpful, and we want you to interview us.)
-* Have you thought about your own psychology and how you will fare, personally, starting a company? For example, have you thought about what makes you ambitious, what makes you afraid, what embarrasses you (or might make you feel shame)?
-* How will you build an inclusive team over the next year? Given your personalities, what culture issues do you think are most likely to arise at your company?
-* What was the last important skill you learned? (We believe great founders are, paradoxically, both self-confident and exceptionally good learners -- so constantly in need of improvement.) What was the last thing you were wrong about?
-* If a dozen other companies are creating a company right now with this exact idea, how could you still succeed? (Not inherently a bad thing -- some of the greatest companies ever came out of crowded markets.)
-* Are there any plans you really would like to pursue, but have stopped talking about with investors because you've been told by VCs they are bad ideas? (We often like those plans.)
-* If you're successful, what potential harms might your service cause, and what will you do about that? What's been the most difficult ethical dilemma you've had at work? (Credit to our friends at [Designer Fund](http://designerfund.com) for putting in our heads some of these specific questions about the ethical side of startups.)
-* For what values would you sacrifice making more money? In practice, have you sacrificed financially to live by a principle?
-* We [don’t put great faith in the value of advice](http://thisisnotadvice.work) (including, often, our own) -- the world of users and customers has more to teach a company than any smart, well-intentioned person.
+* What do you want out of your investors other than money? (We’re trying to figure out if we can be uniquely helpful, and we want you to interrogate us.)
+* If you were the investor here, what would you be most worried about?
+* How will you build an inclusive team? Given your personalities, what culture issues do you think are most likely to arise at your startup?
+* If a dozen other companies are creating a company right now with this exact idea, how could you still succeed? (Some of the greatest companies ever came out of crowded markets.)
+* If you're successful, what potential harms might your service cause, and what will you do about that? What's been the most difficult ethical dilemma you've had at work? (Credit to our friends at [Designer Fund](http://designerfund.com/) for putting in our heads some of these specific questions about the ethical side of startups.)
 
-We try to avoid some of the, shall we say, less useful questions others ask:
+We try to avoid some of the, shall we say, less useful questions other VCs ask:
 * What will you do if [big scary company X] competes with you?
 * Have you patented any of this?
 * How does this become a $1B business?
-* [How’s it going?](https://also.roybahat.com/a-dumb-question-to-ask-an-entrepreneur-db737b3c7d6a)
+* [How’s it going](https://also.roybahat.com/a-dumb-question-to-ask-an-entrepreneur-db737b3c7d6a)?
 
-Founders are sometimes surprised at how quickly our meetings move; we often will take you off your story to zero in on something we believe is a key driver. This is how we’d work with you after our investment, so you can think about whether you enjoy working with us.
+Founders are sometimes surprised at how quickly our meetings move; we will often redirect from your agenda to talk about what we find most important. (We also try to make sure you have space to tell us all the things you believe are important for us to understand.) We try to make our meetings as similar as possible to how we’d work with you after our investment, so you can decide whether you’d enjoy working with us.
 
-At any point, we’d be happy to narrate for you our level of interest -- though you might not always like what you hear. (And remember, an 80% chance of wanting to work together still means there is a 20% chance we will not want to work together.)
+At any point, we’d be happy to narrate for you our level of interest – though you might not always like what you hear. (And remember, an 80% chance of wanting to work together still implies a 20% chance we will not want to work together.)
 
-Immediately after we meet, a frequent thing we need to do is just think on it -- if we find ourselves getting less excited a day or two later, that’s probably a bad sign. If we find ourselves returning to the conversation in our heads, wondering what you meant when you said such-and-such, and imagining how great the product will be, that’s a great sign.
+Immediately after we meet, we frequently just need to think on it – if we find ourselves getting less excited a day or two later, that’s probably a bad sign. If we find ourselves returning to the conversation in our heads, wondering what you meant when you said such-and-such, and imagining the future directions for the product, that’s a great sign.
 
-A lot of founders wonder why investors are slow to get back to them. This is an unacceptable pattern, and yet one we’ve been guilty of from time to time. Sometimes, the reason is we’re doing work on your company (e.g., calling references, who might take a few days to get back themselves). Sometimes it’s that we’re unsure and we’re giving ourselves a few days to see if we get more excited or less as we think on it. Sometimes we just mess up and forget to reply. It’s a fail when that happens. We try to at least narrate as we go with “I know you haven’t heard from us in a few days, this is what’s happening…”
+A lot of founders wonder why investors are slow to get back to them. We’ve been guilty of this – unacceptable – pattern ourselves from time to time. Sometimes, we’re slow because we’re doing work on your startup (e.g., calling references or potential customers, who might take a few days to get back to us). Sometimes we’re unsure and we’re giving ourselves a few days to see if we get more excited. Sometimes we just mess up and forget to reply – a fail.
 
 We aspire to be at the extreme end of the “we communicate openly with you” scale.
 
