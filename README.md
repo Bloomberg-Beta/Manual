@@ -52,11 +52,5 @@ Most roles at Bloomberg Beta last for a few years and then people go into a star
 
 *(Thanks [Textio](https://textio.com/blog/how-to-craft-a-sincere-equal-opportunity-employer-statement/28880187459) for the inspiration on how to craft an equal opportunity statement.)*
 
-### Questions?
-
-Our founders requested an anonymous way to ask us questions, so we're providing it for you, too. [Right here](https://docs.google.com/forms/d/1f0onzfI9HbqlqO_YEbgdOPPqhdS-8nYFnGtUcGT792o/viewform?edit_requested=true).  
-
-(If we've already answered the question in our manual, e.g., "how should I get in touch with you?" then we will respectfully ignore the question.)
-
 ## License
 This manual is open sourced under a [Creative Commons license](https://creativecommons.org/licenses/by/4.0/deed.en).
