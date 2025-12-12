@@ -24,6 +24,7 @@ Curious [why a founder would want to work with us](https://bit.ly/meet-betafund)
 |[Michael Smayda](https://www.linkedin.com/in/michaelsmayda/)                                                                             | **[Fortastra](https://www.fortastra.com/)**
 |[Gregory Makodzeba](https://www.linkedin.com/in/gregory-makodzeba/), [Dima Yanovsky](https://www.linkedin.com/in/yanovsk/)                                                                             | **[Prox](https://www.prox.inc/)**
 |[Gyanendra Mishra](https://www.linkedin.com/in/mishragyanendra/), [Vasin Wongrassamee](https://www.linkedin.com/in/vasinwr/)                                                                             | **[TabTabTab](https://tabtabtab.ai/)**
+|[Tynan Daly](https://www.linkedin.com/in/tynandaly/)                                                                            | **[Vers](https://vers.sh/)**
 |                                                                                         |
 |**BLOOMBERG BETA 2022 L.P. (covers new investments from 2022-2025)**                                                                                          |
 | **Founders**                                                                                                                                                                                                                                                                                              | **Company**         
