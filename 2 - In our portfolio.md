@@ -20,6 +20,7 @@ Curious [why a founder would want to work with us](https://bit.ly/meet-betafund)
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
 | **Current Fund**
 | **Founders**                                                                                                                                                                                                                                                                                              | **Company**     
+|[Saurav Kumar](https://www.linkedin.com/in/sauravml/), [Veer Juneja](https://www.linkedin.com/in/veerjuneja/)                                                                             | **[Fleetline](https://www.fleetline.ai/)**
 |[Michael Smayda](https://www.linkedin.com/in/michaelsmayda/)                                                                             | **[Fortastra](https://www.fortastra.com/)**
 |[Gregory Makodzeba](https://www.linkedin.com/in/gregory-makodzeba/), [Dima Yanovsky](https://www.linkedin.com/in/yanovsk/)                                                                             | **[Prox](https://www.prox.inc/)**
 |                                                                                         |
