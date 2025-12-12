@@ -16,17 +16,17 @@ We've moved our entire web presence to GitHub to become even more transparent. H
 
 ### Who we are
 
-James Cham — [Twitter](https://twitter.com/jamescham) // [LinkedIn](https://www.linkedin.com/in/jcham)
+James Cham — [X](https://twitter.com/jamescham) // [Bluesky](https://bsky.app/profile/jamescham.bsky.social) // [LinkedIn](https://www.linkedin.com/in/jcham)
 
-Karin Klein — [Twitter](https://twitter.com/karinklein) // [LinkedIn](https://www.linkedin.com/in/karinklein) // [Blog](https://medium.com/@Karin)
+Karin Klein — [X](https://twitter.com/karinklein) // [Bluesky](https://bsky.app/profile/karinxyz.bsky.social) // [LinkedIn](https://www.linkedin.com/in/karinklein) // [Blog](https://medium.com/@Karin)
 
-Roy Bahat — [Twitter](https://twitter.com/roybahat) // [LinkedIn](https://www.linkedin.com/in/roybahat) // [Blog](http://also.roybahat.com/)
+Roy Bahat — [X](https://twitter.com/roybahat) // [Bluesky](https://web-cdn.bsky.app/profile/roybahat.com) // [LinkedIn](https://www.linkedin.com/in/roybahat) // [Blog](http://also.roybahat.com/)
 
-Angela Martin — [Twitter](https://twitter.com/angkmartin) // [LinkedIn](https://www.linkedin.com/in/martinangela/) 
+Angela Martin — [X](https://twitter.com/angkmartin) // [Bluesky](https://bsky.app/profile/angela-martin.bsky.social) // [LinkedIn](https://www.linkedin.com/in/martinangela/) 
 
-Lori Berenberg — [Twitter](https://twitter.com/loriberenberg) // [LinkedIn](https://www.linkedin.com/in/loriberenberg/)
+Lori Berenberg — [X](https://twitter.com/loriberenberg) // [Bluesky](https://web-cdn.bsky.app/profile/loriberenberg.bsky.social) // [LinkedIn](https://www.linkedin.com/in/loriberenberg/)
 
-Julianne Fables — [Twitter](https://twitter.com/jafables) // [LinkedIn](https://www.linkedin.com/in/juliannefables/)
+Julianne Fables — [X](https://twitter.com/jafables) // [LinkedIn](https://www.linkedin.com/in/juliannefables/)
 
 Beth Kroman — [LinkedIn](https://www.linkedin.com/in/beth-kroman/)
 
@@ -34,7 +34,7 @@ Amy Tam — [LinkedIn](https://www.linkedin.com/in/amytam01/)
 
 Cate Taylor — [LinkedIn](https://www.linkedin.com/in/catetaylor4/)
 
-Shivon Zilis (advisor) — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/in/shivonzilis/)
+Shivon Zilis (advisor) — [X](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/in/shivonzilis/)
 
 ### Where we work
 San Francisco — [140 New Montgomery St., 22nd fl](http://goo.gl/49X6hu)
