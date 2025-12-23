@@ -305,7 +305,7 @@ We intend to always give a clear “no” with straightforward reasoning. That r
 
 ## The deal terms
 
-We want founders to know what to expect when they work with us before they get to the first meeting, and understanding how we think about deal contracts is an important part of that process. Our legal process is thorough, and we diligently review all documents. To help with that, we have published the templates we use for our [investment documents](https://github.com/Bloomberg-Beta/Investment-Documents). We recommend reading the accompanying [blog post](https://medium.com/@hjs/were-open-sourcing-our-investment-documents-f96b6e8c40e5) that explains these documents.
+We want founders to know what to expect when they work with us before they get to the first meeting, and understanding how we think about deal contracts is an important part of that process. Our legal process is thorough, and we diligently review all documents. To help with that, we have published the templates we use for our [investment documents](https://github.com/Bloomberg-Beta/Investment-Documents). We recommend reading the accompanying [blog post](https://github.com/Bloomberg-Beta/Investment-Documents) that explains these documents.
 
 ### How much risk do we take
 
