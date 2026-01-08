@@ -272,8 +272,6 @@ We’ve had investments where the founder only ever met one person on our team b
 
 We've noticed something about our "anyone says yes" approach: over time, each of us has gravitated toward different styles of companies. Some of us prefer companies before they've even incorporated, others once they've committed some code (sometimes the code happens before incorporation, that's OK, too). If you get to any one of us, we'll each have a feel for who on our team is most likely to say yes to you -- and that's the person we'll try to steer you toward.
 
-In practice, here are your odds: we have invested in 1.5% of the companies we have spent time reviewing.
-
 ### Our deal memo
 
 Before we invest, we write a brief “note to self” outlining our views. We do this so we can be as disciplined about our commitments as founders are about their commitments. We also share this note with a small advisory group at Bloomberg L.P.
