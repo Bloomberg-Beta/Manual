@@ -23,6 +23,7 @@ Curious [why a founder would want to work with us](https://bit.ly/meet-betafund)
 |[Saurav Kumar](https://www.linkedin.com/in/sauravml/), [Veer Juneja](https://www.linkedin.com/in/veerjuneja/)                                                                             | **[Fleetline](https://www.fleetline.ai/)**
 |[Michael Smayda](https://www.linkedin.com/in/michaelsmayda/)                                                                             | **[Fortastra](https://www.fortastra.com/)**
 |[Gregory Makodzeba](https://www.linkedin.com/in/gregory-makodzeba/), [Dima Yanovsky](https://www.linkedin.com/in/yanovsk/)                                                                             | **[Prox](https://www.prox.inc/)**
+|[Steven Greene](https://www.linkedin.com/in/stevengreene1/), [Phil Markunas](https://www.linkedin.com/in/phil-markunas/)                                                                             | **[Standard Practice](https://www.standardpractice.ai/)**
 |[Gyanendra Mishra](https://www.linkedin.com/in/mishragyanendra/), [Vasin Wongrassamee](https://www.linkedin.com/in/vasinwr/)                                                                             | **[TabTabTab](https://tabtabtab.ai/)**
 |[Tynan Daly](https://www.linkedin.com/in/tynandaly/)                                                                            | **[Vers](https://vers.sh/)**
 |                                                                                         |
