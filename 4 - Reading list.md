@@ -105,5 +105,6 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [Future of Work in California](https://www.labor.ca.gov/wp-content/uploads/sites/338/2021/02/ca-future-of-work-report.pdf) (Recommendations from the Governor's commission on work in California where Roy Bahat served as a member, about creating widespread participation in prosperity)
 
 ### On Bloomberg Beta's partners
+* [This Is Not Advice Podcast](https://open.spotify.com/show/4hFa9BRH3NyGMNEiAsqUt7?si=844254989bb54127) (Roy Bahat – Roy’s podcast about how successful people actually do their jobs)
 * [Not quite a newsletter](https://roybahat.us3.list-manage.com/subscribe?u=3363c1a2867cfc4e7e8619f51&id=efdffdf9e5) (Roy Bahat — things Roy writes, says, and kicks around in his head once every few weeks)
-* [How can we build a win-win society?](https://www.youtube.com/watch?v=u8lS1aDjvkc) (Roy Bahat — podcast)
+* [How can we build a win-win society?](https://www.youtube.com/watch?v=u8lS1aDjvkc) (Roy Bahat — podcast guest on The Realignment)
