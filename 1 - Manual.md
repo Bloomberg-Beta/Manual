@@ -416,7 +416,7 @@ While we’re happy to help companies across the full range of early-stage compa
 
 To us, going to market includes finding product-market fit, segmenting your market, sequencing your approaches to potential users or customers, pricing, understanding when to review and when to ignore the competition, using the various organic marketing tools, paid marketing, press, partnerships, planning to raise more capital, and just the overall understanding of the importance of communicating who you are and why you are. We have many views here that startups find surprising.
 
-We bridge multiple professional worlds -- technical, financial, corporate, philanthropic, political, social, and otherwise. We try to bring founders across those bridges early and often, with introductions to leaders in any of those fields and group discussions to share ideas and lessons learned that are applicable to startups.
+We bridge multiple professional worlds -- technical, financial, corporate, philanthropic, political, social, and otherwise. We try to bring founders across those bridges early and often, with introductions to leaders in any of those fields and group discussions. On Roy’s [This Is Not Advice podcast](https://open.spotify.com/show/4hFa9BRH3NyGMNEiAsqUt7?si=6856c35a1d8f44e3), leaders we know from these worlds describe how they succeed in their own occupations so that startup founders can learn from them.
 
 We have presence in both San Francisco and New York. We've found that SF-based founders appreciate introductions to customers in New York -- we can open that door. We make a concerted effort to help the transition from “west to east” and “east to west.”
 
