@@ -20,7 +20,7 @@ James Cham — [X](https://twitter.com/jamescham) // [Bluesky](https://bsky.app/
 
 Karin Klein — [X](https://twitter.com/karinklein) // [Bluesky](https://bsky.app/profile/karinxyz.bsky.social) // [LinkedIn](https://www.linkedin.com/in/karinklein) // [Blog](https://medium.com/@Karin)
 
-Roy Bahat — [X](https://twitter.com/roybahat) // [Bluesky](https://web-cdn.bsky.app/profile/roybahat.com) // [LinkedIn](https://www.linkedin.com/in/roybahat) // [Blog](http://also.roybahat.com/)
+Roy Bahat — [X](https://twitter.com/roybahat) // [Bluesky](https://web-cdn.bsky.app/profile/roybahat.com) // [LinkedIn](https://www.linkedin.com/in/roybahat) // [Blog](http://also.roybahat.com/) // [Podcast](https://thisisnotadvice.work/)
 
 Angela Martin — [X](https://twitter.com/angkmartin) // [Bluesky](https://bsky.app/profile/angela-martin.bsky.social) // [LinkedIn](https://www.linkedin.com/in/martinangela/) 
 
