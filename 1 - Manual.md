@@ -335,23 +335,21 @@ We go into much more detail in our public [explanation of our investment documen
 
 Our standard first check is from $300k up to $1M, though we sometimes go up a little higher. We want to invest enough to give a startup the money it needs to make real progress in the early days, and to attract other investors alongside us if needed. We are happy to lead, and happy to participate in rounds led by others, depending on the situation -- in earliest-stage venture, sometimes the [idea of a lead means different things to different people](https://also.roybahat.com/in-earliest-stage-venture-what-is-a-lead-anyway-e60c4e08bb7e).
 
-In the early days of our fund, we wrote smaller checks because (like the early days of companies) we believe in burning capital slowly until you find product-market fit. (In our first year, our biggest check was $250,000.)
+In the early days of our fund, we wrote smaller checks because (like the early days of companies) we believe in burning capital slowly until you find product-market fit. (In our first year, our biggest check was $250,000.) Now, our typical first check is $500k–$1M.
 
 We have no minimum check size, and have written checks as small as $25,000, especially in what we call a ["flag" investment](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md#flag).
 
-We care about price. We avoid having a hard requirement about our ownership percentage. That said, we want to get a return on our time in addition to our capital, so we generally want to be able to own a meaningful amount of a company over time. A good rule of thumb for us is that meaningful ownership means roughly 10%. We are comfortable taking the highest possible levels of risk and we believe that founders, and their investors, should be rewarded for that. (We also believe companies are successful when their teams also get generous equity grants that motivate the early team members to create something valuable.)
+We care about price. We avoid having a hard requirement about our ownership percentage. That said, we want to get a return on our time in addition to our capital, so we generally want to be able to own a meaningful amount of a company over time. We are comfortable taking the highest possible levels of risk and we believe that founders, and their investors, should be rewarded for that. (We also believe companies are successful when their teams also get generous equity grants that motivate the early team members to create something valuable.)
 
 We also believe “the price is the price” -- we won’t ask for unusual discounts for ourselves with strange terms like participating preferred equity. (Sometimes negotiating over the size of an employee option pool can become a discussion about price, and we're aware of that.)
 
-The average pre-money valuation of our recent investments was $25M, though the range was wide depending on the company's state, with pre-money valuations ranging from $10-50M. (We update this number from time to time, at a pace that avoids inadvertently disclosing the terms of any one deal. This average includes only our first money into a company -- we lack a way to make our small number of later-stage investments comparable.)
+The post-money valuations of our recent seed investments range from $10-50M.
 
 No, not every VC wants to own 20% of your company. In fact, we think at seed stages too much ownership by the early investors can ruin the cap table -- making it difficult for the founders to make money, or later investors to own enough of the company when the company needs bigger dollars to scale.
 
 We are flexible as to whether our investment is structured as a SAFE, convertible note (debt), or equity -- though we believe the valuation cap is the price, because almost every conversion of a SAFE or note we've seen in a successful company has happened at or above the valuation cap. [We share our form documents in public here](https://github.com/Bloomberg-Beta/Investment-Documents).
 
 We believe in transparency. If a startup that takes our money wants to publicize the terms of our investment, we’d generally support that. (Of course we’d never disclose anything confidential without consent, and we expect the same of our founders.)
-
-While we’d like to claim that the amount of work we do on behalf of a company will vary dramatically based on our ownership interest, we’re not sure that is true yet -- the reality is that the amount of work we do for a company depends most of all on how much the company needs and wants our help. If they ask us to work for them, we do what we can to help.
 
 ### Other investors
 
@@ -518,9 +516,15 @@ Things that won't work:
 
 #### On competitive conflicts between startups
 
-We will turn down investing in a startup that is a known competitor today to one of our portfolio companies. If you pitch us, and we think one of our founders might find it competitive, or you might find one of our investments (especially an un-announced one) competitive, we'll tell you that we think there is a risk and (in as much as we can share) why. Then, if you want to continue talking, we'll agree with you on what we can share with the other founder (and then, vice versa) to assess the risk of a competitive issue as openly as possible. 
+We believe founders, not investors, determine whether their startup has a competitive conflict with another startup (either one we’ve already backed, or one we’re considering).
 
-We recognize that competition issues can be complicated. Our intent is to respect the interests of our portfolio companies, and the confidentiality of every startup with which we communicate.
+We will turn down investing in a startup that is a known competitor today to one of our portfolio companies. If you pitch us, and we think one of our founders might find it competitive, or you might find one of our investments (especially an un-announced one) competitive, we'll tell you that we think there is a risk and (in as much as we can share) why. Then, if you want to continue talking, we'll agree with you on what we can share with the other founder (and then, vice versa) to assess the risk of a competitive issue as openly as possible.
+
+In some cases, a startup in our portfolio will pivot to solve the same problem as another startup we’ve already backed. In that case, we maintain the exact same confidentiality we promise all startups we back, and take extra care to avoid conflicts of interest.
+
+The exception: when we invest a modest amount (<$250k) in a startup, we expect the founder will give us more leeway if we want to invest in a competitive startup down the line.
+
+We recognize that competition issues can be complicated. Our intent is to respect the interests of our portfolio companies, and the confidentiality of every startup with which we communicate, regardless of check size.
 
 ### Why you should take our money
 
