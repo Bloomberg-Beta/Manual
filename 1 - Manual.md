@@ -482,7 +482,7 @@ That said, we are set up as a separate legal entity to protect the confidentiali
 
 While Bloomberg will only work with your startup if it makes sense for Bloomberg (no, you can’t have a discount on a Bloomberg terminal), we understand how to facilitate the right conversation quickly.
 
-We have an Advisory Committee at Bloomberg L.P. that hears from us about common themes we see, gives us input and feedback, and approves unusually big checks -- just like the LP Advisory Committee for any venture fund.
+We have an Advisory Committee at Bloomberg L.P. that hears from us about common themes we see, gives us input and feedback, and approves unusually big checks -- just like the LP Advisory Committee for any venture fund. Outside of our Advisory Committee and the Bloomberg Beta team, our investment remains confidential to the rest of Bloomberg until our investment is public or you want to share it.
 
 ### After the exit...
 
