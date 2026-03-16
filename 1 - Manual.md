@@ -34,7 +34,7 @@ Why did Bloomberg L.P. create Bloomberg Beta? Bloomberg wants a window into the 
 
 Bloomberg L.P. invested in Bloomberg Beta to open that window to startups, and set up a structure that is rare for a corporate-sponsored firm — a true fund that invests for financial return, not an “operating division.” Bloomberg knows that great founders want investors whose interests are fully aligned with their own.
 
-So Bloomberg Beta is set up to choose its own investments, and back companies solely on their merits and financial potential, regardless of whether they have (or intend to have) a business relationship with Bloomberg. We do focus exclusively on areas that are of relevance to Bloomberg -- we wouldn’t invest in a video game, or a consumer e-commerce site for example. One way to think of our focus: we look at the future of work.
+So Bloomberg Beta is set up to choose its own investments, and back companies solely on their merits and financial potential, regardless of whether they have (or intend to have) a business relationship with Bloomberg. We do focus exclusively on areas that are of relevance to Bloomberg -- we usually wouldn’t invest in a video game, or a consumer e-commerce site for example. One way to think of our focus: we look at the future of work.
 
 We believe we can take the Bloomberg ethos and apply it to how we work with founders: putting our customers (founders!) first, developing deep expertise in our domain (the future of work), and convening different spheres (from every walk of life) to bring new experiences to our customers.
 
