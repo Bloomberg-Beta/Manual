@@ -18,7 +18,7 @@ Bloomberg Beta Operating Manual
 
 We believe work must be more productive, fulfilling, inclusive, and available to as many people as possible. 
 
-Our waking hours must engage the best in us and provide for our needs and wants -- and the world we live in too often fails to offer that.
+Our waking hours must engage the best in us and provide for our needs and wants — and the world we live in too often fails to offer that.
 
 We believe technology startups play an essential role in delivering a better future. We can speed the arrival of that future by investing in the best startups that share these intentions.
 
