@@ -20,11 +20,11 @@ James Cham — [X](https://twitter.com/jamescham) // [Bluesky](https://bsky.app/
 
 Karin Klein — [X](https://twitter.com/karinklein) // [Bluesky](https://bsky.app/profile/karinxyz.bsky.social) // [LinkedIn](https://www.linkedin.com/in/karinklein) // [Blog](https://medium.com/@Karin)
 
-Roy Bahat — [X](https://twitter.com/roybahat) // [Bluesky](https://web-cdn.bsky.app/profile/roybahat.com) // [LinkedIn](https://www.linkedin.com/in/roybahat) // [Blog](http://also.roybahat.com/) // [Podcast](https://thisisnotadvice.work/)
+Roy Bahat — [X](https://twitter.com/roybahat) // [Bluesky](https://bsky.app/profile/roybahat.com) // [LinkedIn](https://www.linkedin.com/in/roybahat) // [Blog](http://also.roybahat.com/) // [Podcast](https://thisisnotadvice.work/)
 
 Angela Martin — [X](https://twitter.com/angkmartin) // [Bluesky](https://bsky.app/profile/angela-martin.bsky.social) // [LinkedIn](https://www.linkedin.com/in/martinangela/) 
 
-Lori Berenberg — [X](https://twitter.com/loriberenberg) // [Bluesky](https://web-cdn.bsky.app/profile/loriberenberg.bsky.social) // [LinkedIn](https://www.linkedin.com/in/loriberenberg/)
+Lori Berenberg — [X](https://twitter.com/loriberenberg) // [Bluesky](https://bsky.app/profile/loriberenberg.bsky.social) // [LinkedIn](https://www.linkedin.com/in/loriberenberg/)
 
 Julianne Fables — [X](https://twitter.com/jafables) // [LinkedIn](https://www.linkedin.com/in/juliannefables/)
 
@@ -44,9 +44,9 @@ New York — [731 Lexington Ave.](http://goo.gl/tt3m7f)
 
 **Fellowship** — We take fellows opportunistically. Please reach out to team members individually if interested.
 
-We are an equal opportunity employer and celebrate inclusivity. We are committed to backing founders and building a team that represents a variety of backgrounds including but not limited to race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, and disability status. The success of [our work depends on being inclusive](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md#inclusion-diversity-equity-and-justice).
+We are an equal opportunity employer and celebrate inclusivity. We are committed to backing founders and building a team that represents a variety of backgrounds including but not limited to race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, and disability status. The success of [our work depends on being inclusive](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md#inclusion).
 
-Most roles at Bloomberg Beta last for a few years and then people go into a startup -- or start one. Our alumni have worked everywhere from [Opendoor](https://www.linkedin.com/in/danstrickland/), [Facebook](https://www.linkedin.com/in/catherinedong/), and [On Deck](https://www.linkedin.com/in/minnkim/), to working for [Elon Musk](https://www.linkedin.com/in/shivonzilis/), other [VC's](https://www.linkedin.com/in/morganpolotan/), and international [media conglomerates](https://www.linkedin.com/in/valentinazarya/), as well as executives at [early](https://www.linkedin.com/in/harold-e-penson/) [companies](https://www.linkedin.com/in/friederike-reuter/), and starting companies in areas like [cybersecurity](https://www.linkedin.com/in/harleysugarman/), [disability tech](https://www.linkedin.com/in/sydney-tiedt/), and [women's empowerment](https://www.linkedin.com/in/shainaconners/). 
+Most roles at Bloomberg Beta last for a few years and then people go into a startup -- or start one. Our alumni have worked everywhere from [Opendoor](https://www.linkedin.com/in/danstrickland/), [Facebook](https://www.linkedin.com/in/catherinedong/), and [On Deck](https://www.linkedin.com/in/minnkim/), to working for [Elon Musk](https://www.linkedin.com/in/shivonzilis/), other [VCs](https://www.linkedin.com/in/morganpolotan/), and international [media conglomerates](https://www.linkedin.com/in/valentinazarya/), as well as executives at [early](https://www.linkedin.com/in/harold-e-penson/) [companies](https://www.linkedin.com/in/friederike-reuter/), and starting companies in areas like [cybersecurity](https://www.linkedin.com/in/harleysugarman/), [disability tech](https://www.linkedin.com/in/sydney-tiedt/), and [women's empowerment](https://www.linkedin.com/in/shainaconners/). 
 
 *(Thanks [Textio](https://textio.com/blog/how-to-craft-a-sincere-equal-opportunity-employer-statement/28880187459) for the inspiration on how to craft an equal opportunity statement.)*
 
