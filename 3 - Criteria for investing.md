@@ -79,5 +79,5 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Plausible to have sustainable unit economics in the future
 
 ##### Deal terms
-+ Standard investor protections (i.e., liquidity preference at 1x, blocking right over investments that would get repaid before we do)
++ Standard investor protections (i.e., liquidation preference at 1x, blocking right over investments that would get repaid before we do)
 + Risk-return work for our fund size (e.g., [typical check size](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md#the-numbers), [stage](https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md#seed))
